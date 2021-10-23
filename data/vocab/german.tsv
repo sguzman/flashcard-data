@@ -54,7 +54,7 @@ Angestellte(r) (f/m)	employee	deck#2	due@2021-10-03 02:25:52
 Angriff (m)	attack		
 Angst haben	to be afraid		
 Anhänger (m)	pendant (jewellery)		
-ankommen	to arrive		
+ankommen	to arrive		due@2021-10-16 22:11:01
 Ankunft (f)	arrival		
 Anrufbeantworter (m)	answerphone, voicemail	deck#2	due@2021-10-03 02:23:37
 anrufen	to call (on the phone)		
@@ -81,7 +81,7 @@ Arbeitspraktikum (n)	work experience
 Arm (m)	arm		
 Armbanduhr (f)	wristwatch		
 Arzt/Ärztin (m/f)	doctor		
-Arzt/Ärztin (m/f)	doctor		
+Arzt/Ärztin (m/f)	doctor	deck#2	due@2021-10-17 21:55:32
 Asthma (n)	asthma		
 atmen	to breathe		
 auch	also, too	deck#2	due@2021-10-09 22:40:10
@@ -121,8 +121,8 @@ außerdem	besides, also
 Aussicht (f)	view		
 Aussprache (f)	pronunciation		
 aussteigen	to get off, to alight		
-Austausch (m)	exchange		
-Ausverkauf (m)	clearance sale		due@2021-10-08 22:40:38
+Austausch (m)	exchange		due@2021-10-16 21:50:48
+Ausverkauf (m)	clearance sale		
 Auswahl (f)	selection, choice		
 Ausweis (m)	identity card		
 Auszubildende(r) (f/m)	trainee		
@@ -206,8 +206,9 @@ bewerben für (sich)	to apply for
 Bewerbung (f)	application		
 bewölkt	cloudy		
 bezahlen	to pay		
-bezahlen	to pay	deck#2	due@2021-10-09 22:37:32
+bezahlen	to pay		
 Bibliothek (f)	library		
+Bibliothek (f)	library	deck#2	due@2021-10-17 21:50:58
 Bibliothek (f)	library		
 Bibliothek (f)	library	deck#2	due@2021-10-09 22:35:13
 Bier (n)	beer		
@@ -223,7 +224,7 @@ Biologie (f)	biology
 Birne (f)	pear		
 bis später	see you later		
 bitte	please		
-bitte	please	deck#2	due@2021-10-09 22:38:06
+bitte	please	deck#2	due@2021-10-17 21:51:49
 Blatt (n)	sheet (of paper)		
 blau	blue		
 blau	blue		
@@ -261,13 +262,13 @@ Briefmarke (f)	postage stamp
 Briefträger(in) (m/f)	postman/postwoman		
 Briefträger/in (m/f)	postman/postwoman		
 Brille (f)	glasses, spectacles		
-Brille (f)	glasses, spectacles		
+Brille (f)	glasses, spectacles		due@2021-10-16 22:09:47
 bringe	delivers		
 Broschüre (f)	brochure		
 Brot (n)	bread		
 Brötchen (n)	bread roll		due@2021-10-08 22:35:11
 Brücke (f)	bridge		
-Bruder (m)	brother		
+Bruder (m)	brother	deck#2	due@2021-10-17 22:10:25
 Brunnen (m)	fountain, well		
 Brust (f)	chest		
 Buch (n)	book		
@@ -311,7 +312,7 @@ damit	(by) that
 danke	thanks		due@2021-10-02 03:42:48
 danke schön	thanks very much		
 danken	to thank		
-darüber	above/over that		
+darüber	above/over that		due@2021-10-16 21:50:45
 das Baby	baby		
 das Bett frisch beziehen	to change the bed		
 das Bett machen	to make the bed		
@@ -361,7 +362,7 @@ Demonstration (f)	demonstration
 den	to, that		
 denkt	thinking		due@2021-10-02 03:40:20
 denn	because, then		
-der Apfel	apple		
+der Apfel	apple	deck#2	due@2021-10-17 21:55:34
 Der Aufzug	lift		
 der Bach	creek		
 der Balkon	balcony	deck#2	due@2021-10-09 22:33:07
@@ -468,7 +469,7 @@ durchfahren	to travel straight through
 Durchfall (m)	diarrhoea		
 Dürre (f)	drought		
 Durst haben	to be thirsty		
-Dusche (f)	shower		
+Dusche (f)	shower		due@2021-10-16 21:52:15
 duschen	to shower		
 duschen (sich)	to shower		
 duzen	to call someone 'du', to address with the familiar 'du'		
@@ -549,7 +550,7 @@ erholen (sich)	to recover
 erkältet sein	to have a cold		
 erklären	to explain		
 erlauben	to allow		
-ernst	serious		
+ernst	serious		due@2021-10-16 21:52:17
 Erste Hilfe leisten	to give first aid		
 erwachsen	adult	deck#2	due@2021-10-09 22:40:46
 Erwachsene (m/f)	adult		
@@ -559,7 +560,7 @@ erzählen	to tell (a story)
 Erziehung (f)	education		
 es	it		
 es gibt	there is		
-es tut mir leid	I am sorry		
+es tut mir leid	I am sorry	deck#2	due@2021-10-17 22:13:10
 es tut mir leid	I'm sorry		
 Espresso (m)	espresso		
 essen	to eat		
@@ -610,9 +611,9 @@ finden	to find
 Finger (m)	finger	deck#2	due@2021-10-09 22:40:03
 Firma (f)	firm, company	deck#2	due@2021-10-03 03:40:11
 Fisch (m)	fish		
-Fischhändler/in (m/f)	fishmonger		due@2021-10-08 22:40:41
-fit	fit		
-Flasche (f)	bottle		due@2021-10-08 22:34:59
+Fischhändler/in (m/f)	fishmonger		
+fit	fit	deck#2	due@2021-10-17 22:10:05
+Flasche (f)	bottle		
 Flaschenöffner (m)	bottle opener		
 Flaschenöffner (m)	bottle opener		
 Fleisch (n)	meat		
@@ -620,7 +621,7 @@ fliegen	to fly
 Flöte (f)	flute		
 Flughafen (m)	airport		due@2021-10-08 22:34:48
 Flugzeug (n)	plane		
-Flur (m)	hall, hallway		
+Flur (m)	hall, hallway		due@2021-10-16 22:10:02
 Fluss (m)	river		
 folgen	to follow	deck#2	due@2021-10-03 02:23:51
 Formular (n)	form		
@@ -638,12 +639,12 @@ Freizeit (f)	free time, spare time
 Freizeitpark (m)	theme park		
 fressen	to eat, to scoff		
 Freund/in (m/f)	friend		
-Freundin	girlfriend		
+Freundin	girlfriend	deck#2	due@2021-10-17 22:12:05
 freundlich	friendly, kind, nice		
 Freundschaft (f)	friendship		
-frisch	fresh		due@2021-10-02 03:40:06
+frisch	fresh	deck#2	due@2021-10-17 22:11:15
 frisch	fresh, cool		
-Friseur/Friseuse (m/f)	hairdresser		
+Friseur/Friseuse (m/f)	hairdresser		due@2021-10-16 22:12:30
 Friseur/Friseuse (m/f)	hairdresser		
 frohe/fröhliche Weihnachten	Merry Christmas		
 früh	early		
@@ -670,7 +671,7 @@ Gameshow (f)	game show
 Gardine (f)	net curtain		
 Garten (m)	garden		
 Gartenarbeit (f)	gardening		
-Gas (n)	gas		
+Gas (n)	gas	deck#2	due@2021-10-17 21:55:20
 Gasthaus (n)	inn		
 Gebäck (n)	biscuits, pastries		
 Gebäude (n)	building		
@@ -707,7 +708,7 @@ geräuchert	smoked
 gern (haben)	to like		
 gern geschehen	you're welcome	deck#2	due@2021-10-03 02:23:48
 gerne	like		
-Geschäft (n)	shop, business	deck#2	due@2021-10-03 02:21:37
+Geschäft (n)	shop, business		due@2021-10-16 22:12:07
 Geschäftsmann/frau (m/f)	businessman/woman		
 Geschenk (n)	present		
 Geschenk (n)	present, gift		
@@ -715,8 +716,8 @@ Geschenke austauschen	to exchange gifts
 Geschichte (f)	history		
 geschieden	divorced		
 Geschirrspüler (m)	dishwasher		
-Geschirrspülmaschine (f)	dishwasher		
-Geschmack (m)	flavour		due@2021-10-08 22:37:53
+Geschirrspülmaschine (f)	dishwasher		due@2021-10-16 22:09:42
+Geschmack (m)	flavour		
 geschwätzig	chatty, talkative		
 Geschwindigkeit (f)	speed		
 Gesellschaft (f)	company		
@@ -801,7 +802,7 @@ Heft (n)	exercise book
 Heimfahrt (f)	journey home		
 heiraten	to marry		
 heiß	hot		
-heißen	to mean/call		
+heißen	to mean/call	deck#2	due@2021-10-17 22:13:08
 helfen	to help		
 helfen	to help		
 Hemd (n)	shirt		
@@ -842,7 +843,7 @@ husten	to cough
 Hut (m)	hat		
 ich	I	deck#2	due@2021-10-09 22:40:33
 im Ausland	abroad		
-im Ausland	abroad		
+im Ausland	abroad		due@2021-10-16 22:11:13
 im Bett bleiben	to stay in bed		
 im ersten Stock	on the first floor		
 im voraus	in advance		
@@ -851,7 +852,7 @@ Imbiss (m)	snack
 Imbissstube (f)	snack bar		
 immer	always		
 in der Nähe von	close to		
-in der Nähe von	near		
+in der Nähe von	near		due@2021-10-16 21:55:17
 In ordnung!	OK!		
 in, drinnen	inside		
 industriell	industrial		
@@ -907,7 +908,7 @@ Kaninchen (n)	rabbit
 kaputt	broken		
 Karneval (m)	carnival		
 Karotte (f)	carrot		
-Karriere (f)	career		
+Karriere (f)	career		due@2021-10-16 21:50:56
 Karte (f)	ticket		
 Karte (f)	ticket		
 Kartoffel (f)	potato		
@@ -921,7 +922,7 @@ Kathedrale (f)	cathedral		due@2021-10-02 02:21:57
 Katze (f)	cat		
 Katze (f)	cat		
 kaufen	to buy		
-Kauffrau (f)	businesswoman		
+Kauffrau (f)	businesswoman		due@2021-10-16 21:50:53
 Kaufhaus (n)	department store		
 Kaufmann (m)	businessman	deck#2	due@2021-10-03 02:22:25
 Kegelbahn (f)	bowling alley		
@@ -931,7 +932,7 @@ Kellner/in (m/f)	waiter/waitress
 kennen	to know (a person)		
 kennen lernen	to get to know, to meet		
 kennen lernen	to meet (become acquainted with)		
-kennen lernen	to meet, make the acquaintance of		
+kennen lernen	to meet, make the acquaintance of		due@2021-10-16 22:09:53
 Kerze (f)	candle		
 Kilometer (m)	kilometre		
 Kind (n)	child		
@@ -1071,10 +1072,10 @@ Lesen (n)	reading
 letzten	last		
 Licht (n)	light		
 Licht (n)	light		
-Licht (n)	light		
+Licht (n)	light	deck#2	due@2021-10-17 22:11:20
 lieben	to love	deck#2	due@2021-10-03 03:40:54
-lieben	to love		due@2021-10-08 22:37:23
-lieben	to love		
+lieben	to love		due@2021-10-16 21:52:07
+lieben	to love	deck#2	due@2021-10-17 21:52:26
 lieber	prefer, sweet		
 lieber (haben)	to prefer		
 Lieblingsfach (n)	favourite subject		
@@ -1115,7 +1116,7 @@ Maus (f)	mouse
 Maus (f)	mouse		
 Mechaniker/in (m/f)	mechanic		
 Medaille (f)	medal		
-Medikament (n)	medicine		
+Medikament (n)	medicine	deck#2	due@2021-10-17 22:11:07
 Meeresfrüchte (pl)	seafood		
 Meerschweinchen (n)	guinea pig		
 Mehl (n)	flour		
@@ -1134,7 +1135,7 @@ Mikrowellenherd (m)	microwave oven
 Milch (f)	milk		
 Mineralwasser (n)	mineral water		
 mir geht's gut	I'm doing well		
-mir ist kalt	I am cold		
+mir ist kalt	I am cold		due@2021-10-16 22:09:40
 mir ist warm	I am warm/hot		
 mit Untertiteln	subtitled		
 Mittagessen (n)	lunch		
@@ -1169,7 +1170,7 @@ Mund (m)	mouth
 mündlich	oral		
 Münze (f)	coin		
 Muscheln (pl)	mussels		
-Museum (n)	museum		
+Museum (n)	museum	deck#2	due@2021-10-17 22:13:05
 Museum (n)	museum		
 Musik (f)	music		
 Musik (f)	music		
@@ -1177,7 +1178,7 @@ Musiksaal (m)	music room
 musizieren	to play a musical instrument		
 Mutter (f)	mother		
 Muttertag/Vatertag (m)	Mother's Day, Father's Day		
-Mutti (f)	mum		
+Mutti (f)	mum	deck#2	due@2021-10-17 22:13:16
 nach Hause gehen	to go home		
 nach oben gehen	to go upstairs		
 nach unten gehen	to go downstairs		
@@ -1269,7 +1270,7 @@ Pfannkuchen (m)	pancake	deck#2	due@2021-10-03 02:24:13
 Pfeffer (m)	pepper		
 Pferd (n)	horse		
 Pfirsich (m)	peach		
-Pflanze (f)	plant		
+Pflanze (f)	plant		due@2021-10-16 21:52:04
 Pflaster (n)	plaster		
 Pflaume (f)	plum		
 Pflichtfach (n)	compulsory subject		
@@ -1303,7 +1304,7 @@ Preis (m)	price
 Preis (m)	price		
 Preis (m)	price		
 Preis (m)	prize		
-Preisliste (f)	list of prices		
+Preisliste (f)	list of prices	deck#2	due@2021-10-17 22:13:01
 preiswert	good value, inexpensive, cheap		
 Premierminister/in (m/f)	prime minister		
 Programm (n)	programme, channel		
@@ -1333,7 +1334,7 @@ Raucher/in (m/f)	smoker
 Reality-TV (n)	reality television		
 Realschule (f)	equivalent to secondary school	deck#2	due@2021-10-03 02:23:40
 Rechner (m)	calculator		
-Rechnung (f)	bill		
+Rechnung (f)	bill		due@2021-10-16 22:09:43
 rechts	(on the) right		
 Recycling (n)	recycling		
 Regal (n)	shelf, shelving	deck#2	due@2021-10-03 03:40:51
@@ -1396,11 +1397,11 @@ Sänger/in (m/f)	singer
 Satellitenfernsehen (n)	satellite TV		
 sauber	clean		
 sauber	clean		
-sauber machen	to clean		
+sauber machen	to clean		due@2021-10-16 21:50:51
 sauer	sour		
 Sauerbraten (m)	marinated beef pot roast		
 Sauerkraut (n)	pickled cabbage		
-Sauerregen (m)	acid rain		
+Sauerregen (m)	acid rain		due@2021-10-16 22:11:09
 Schach (n)	chess	deck#2	due@2021-10-03 02:25:51
 Schaf (n)	sheep		
 Schalter (m)	ticket counter, ticket office		
@@ -1571,7 +1572,7 @@ Speisesaal (m)	dining room
 Spezialeffekte (pl)	special effects		
 Spezialität des Hauses (f)	speciality of the house		
 Spiegelei (n)	fried egg		
-Spiel (n)	game		
+Spiel (n)	game	deck#2	due@2021-10-17 22:13:03
 Spiel (n)	game, match		
 spielen	to play		
 Spieler/in (m/f)	player		due@2021-10-08 22:41:20
@@ -1582,7 +1583,7 @@ Spitzer (m)	sharpener		due@2021-10-08 22:37:33
 Sport (m)	sport		
 Sport treiben	to do/play sport		
 Sportler/in (m/f)	sportsman/sportswoman		
-sportlich	sporty		
+sportlich	sporty	deck#2	due@2021-10-17 22:09:58
 sportlich	sporty		
 Sportzentrum (n)	sports centre		
 Sportzentrum (n)	sports centre		
@@ -1599,7 +1600,7 @@ Staatsangehörigkeit	nationality, citizenship
 Staatsangehörigkeit (f)	nationality		
 Stadion (n)	stadium		
 Stadion (n)	stadium		
-Stadt (f)	town		
+Stadt (f)	town	deck#2	due@2021-10-17 21:55:38
 Stadtmitte (f)	town centre		
 Stadtplan (m)	street map		
 Stadtteil (m)	part of town, district		
@@ -1676,7 +1677,7 @@ Taschengeld (n)	pocket money
 Taschenlampe (f)	torch		
 Taschenrechner (m)	pocket calculator		
 Taschentuch (n)	handkerchief		
-Tasse (f)	cup		
+Tasse (f)	cup	deck#2	due@2021-10-17 21:52:00
 Tasse (f)	cup		
 Tastatur (f)	keyboard		
 tatsächlich	actually		due@2021-10-08 22:37:47
@@ -1716,7 +1717,7 @@ Tod (m)	death
 Toilette (f)	toilet		
 toll	mad, crazy		
 Tomate	tomato		
-Tomate (f)	tomato		due@2021-10-02 02:24:18
+Tomate (f)	tomato	deck#2	due@2021-10-17 22:12:36
 Topf (m)	saucepan, pot		
 Tornado (m)	tornado		
 Torte (f)	gateau, flan		
@@ -1750,7 +1751,7 @@ Tür (f)	door
 Türke	Turk	deck#2	due@2021-10-09 22:35:03
 Turm (m)	tower	deck#2	due@2021-10-03 03:41:00
 Turnen (n)	gymnastics	deck#2	due@2021-10-03 02:21:41
-Turnen (n)	PE		
+Turnen (n)	PE		due@2021-10-16 22:11:04
 Turnhalle (f)	gym		
 U-Bahn (f)	underground, tube		
 U-Bahn (f)	underground, tube		
@@ -1842,7 +1843,7 @@ völlig	entirely
 Vollpension (f)	full board		
 volltanken	to fill up (with fuel)		
 vom Aussterben bedroht	endangered (species, plants etc)		
-von	from, of		
+von	from, of	deck#2	due@2021-10-17 21:52:13
 voraus	ahead		
 Vorbereitungen (pl)	preparations		due@2021-10-08 22:41:16
 Vorfahrt (f)	right of way, priority		due@2021-10-08 22:40:52
@@ -1875,7 +1876,7 @@ warum	why
 Waschbecken (n)	washbasin		
 wäschen	to wash		
 waschen (sich)	to wash		
-Waschmaschine (f)	washing machine		
+Waschmaschine (f)	washing machine	deck#2	due@2021-10-17 22:12:50
 Wasser (n)	water		
 Wasserhahn (m)	tap		
 Wasserpark (m)	water park		
@@ -1894,8 +1895,8 @@ weg	away
 weh tun (sich)	to hurt (oneself)		due@2021-10-08 22:37:51
 weich	soft		
 weiche Drogen	soft drugs		
-Weihnachten (n)	Christmas		due@2021-10-08 22:37:39
-Weihnachtsbaum (m)	Christmas tree		
+Weihnachten (n)	Christmas		
+Weihnachtsbaum (m)	Christmas tree		due@2021-10-16 22:12:24
 Weihnachtsmann (m)	Father Christmas		
 weil	because		
 Wein (m)	wine		
@@ -1903,7 +1904,7 @@ weinen	to cry
 weiße	white		
 Weißes Haus (n)	White House		
 Weißwein (m)	white wine		
-weit	far		
+weit	far	deck#2	due@2021-10-17 21:51:57
 weiterfahren	to continue, drive on		
 welche	which		
 Welle (f)	wave		
@@ -1924,7 +1925,7 @@ wie	how, like
 wie geht's?	how are you?		
 wie komme ich...?	How do I get (to ...)?		
 wie viel(e)	how much, how many		
-wie viel(e)	how much, how many		
+wie viel(e)	how much, how many	deck#2	due@2021-10-17 21:52:21
 wieder, erneut	again		
 wiederholen	to repeat		
 willkommen	welcome		
@@ -1964,8 +1965,8 @@ Zehe (f)	toe
 zeichnen	to draw		
 zeichnen	to draw	deck#2	due@2021-10-03 02:24:05
 zeigen	to show		
-Zeitraum (m)	period (of time)		
-Zeitung (f)	newspaper	deck#2	due@2021-10-09 22:38:32
+Zeitraum (m)	period (of time)		due@2021-10-16 21:51:47
+Zeitung (f)	newspaper		
 Zeitungskiosk (m)	newspaper kiosk/stand		
 Zelt (n)	tent	deck#2	due@2021-10-03 02:24:12
 Zeremonie (f)	ceremony		
@@ -1980,7 +1981,7 @@ Zoo (m)	zoo
 Zoowärter/in (m/f)	zoo keeper		
 zu	to, too		
 zu den Akten legen	to file away		
-zu Ende gehen	to come to an end	deck#2	due@2021-10-03 02:21:49
+zu Ende gehen	to come to an end		due@2021-10-16 22:09:49
 zu Fuß	on foot		
 zu Hause	at home		
 Zucker (m)	sugar		
