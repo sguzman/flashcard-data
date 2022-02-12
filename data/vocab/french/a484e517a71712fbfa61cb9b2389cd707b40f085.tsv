@@ -1,1 +1,6 @@
-Dans l'avion il faut attacher sa ceinture de sécurité	in the plane is is necessary to attach the seatbelt
+Dans l'avion il faut attacher sa ceinture de sécurité	in the plane is is necessary to attach the seatbelt		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

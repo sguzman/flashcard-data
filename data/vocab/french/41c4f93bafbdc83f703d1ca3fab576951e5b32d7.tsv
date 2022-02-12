@@ -1,1 +1,6 @@
-il faut que je mette ma ceinture de sécurité	it is necessary that i fasten my seatbelt
+il faut que je mette ma ceinture de sécurité	it is necessary that i fasten my seatbelt		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-si tu étais au lycée à paris, tu parlerais français en classe	if you were at school in paris, you would speak french in class
+si tu étais au lycée à paris, tu parlerais français en classe	if you were at school in paris, you would speak french in class		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

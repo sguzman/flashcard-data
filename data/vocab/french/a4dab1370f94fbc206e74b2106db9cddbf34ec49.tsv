@@ -1,1 +1,6 @@
-combien est-ce que je vous dois?	how much do i owe you
+combien est-ce que je vous dois?	how much do i owe you		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

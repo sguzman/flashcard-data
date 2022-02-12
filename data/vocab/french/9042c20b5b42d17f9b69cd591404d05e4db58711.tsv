@@ -1,1 +1,6 @@
-tu invites sylvie? oui, invite-la. non, ne l'invite pas	i invite sylvie? yes, invite her. no, don't invite her
+tu invites sylvie? oui, invite-la. non, ne l'invite pas	i invite sylvie? yes, invite her. no, don't invite her		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2
