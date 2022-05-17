@@ -1,17 +1,6 @@
-<<<<<<< Updated upstream
-Sonnencreme (f)	sun cream		
-#--decks immediate,daily,weekly,monthly,quarterly,yearly
-#--intervals 0,1440,10080,43200,129600,518400
-#--columns column#1,column#2
-#--showcolumns column#1
-#--showcolumns column#2
-||||||| constructed merge base
-Sonnencreme (f)	sun cream
-=======
 Sonnencreme (f)	sun cream	deck#2	due@2022-05-18 16:28:32
 #--decks immediate,daily,weekly,monthly,quarterly,yearly
 #--intervals 0,1440,10080,43200,129600,518400
 #--columns column#1,column#2
 #--showcolumns column#1
 #--showcolumns column#2
->>>>>>> Stashed changes

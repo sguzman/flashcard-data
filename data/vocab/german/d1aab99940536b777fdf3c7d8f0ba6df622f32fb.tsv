@@ -1,17 +1,6 @@
-<<<<<<< Updated upstream
-See (m)	lake		
-#--decks immediate,daily,weekly,monthly,quarterly,yearly
-#--intervals 0,1440,10080,43200,129600,518400
-#--columns column#1,column#2
-#--showcolumns column#1
-#--showcolumns column#2
-||||||| constructed merge base
-See (m)	lake
-=======
 See (m)	lake		due@2022-05-17 16:27:49
 #--decks immediate,daily,weekly,monthly,quarterly,yearly
 #--intervals 0,1440,10080,43200,129600,518400
 #--columns column#1,column#2
 #--showcolumns column#1
 #--showcolumns column#2
->>>>>>> Stashed changes
