@@ -1,1 +1,6 @@
-Goody-goody	colloq. —n. (pl. -ies) smug or obtrusively virtuous person. —adj. Obtrusively or smugly virtuous.
+Goody-goody	colloq. —n. (pl. -ies) smug or obtrusively virtuous person. —adj. Obtrusively or smugly virtuous.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

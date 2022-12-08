@@ -1,1 +1,6 @@
-Bonded	adj. 1 stored in or for storing in bond (bonded whisky, warehouse). 2 (of a debt) secured by bonds.
+Bonded	adj. 1 stored in or for storing in bond (bonded whisky, warehouse). 2 (of a debt) secured by bonds.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

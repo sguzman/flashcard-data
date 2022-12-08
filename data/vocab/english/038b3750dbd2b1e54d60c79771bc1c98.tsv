@@ -1,1 +1,6 @@
-Adsorb	v. (usu. Of a solid) hold (molecules of a gas or liquid etc.) To its surface, forming a thin film.  adsorbent adj. & n. Adsorption n. [from *ad-, *absorb]
+Adsorb	v. (usu. Of a solid) hold (molecules of a gas or liquid etc.) To its surface, forming a thin film.  adsorbent adj. & n. Adsorption n. [from *ad-, *absorb]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

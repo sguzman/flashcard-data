@@ -1,1 +1,6 @@
-Agrarian	—adj. 1 of the land or its cultivation. 2 of landed property. —n. Advocate of the redistribution of land. [latin ager field]
+Agrarian	—adj. 1 of the land or its cultivation. 2 of landed property. —n. Advocate of the redistribution of land. [latin ager field]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

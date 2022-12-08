@@ -1,1 +1,6 @@
-Rouse	v. (-sing) 1 (cause to) wake. 2 (often foll. By up, often refl.) Stir up, make or become active or excited (was roused to protest). 3 anger (terrible when roused). 4 evoke (feelings). [origin unknown]
+Rouse	v. (-sing) 1 (cause to) wake. 2 (often foll. By up, often refl.) Stir up, make or become active or excited (was roused to protest). 3 anger (terrible when roused). 4 evoke (feelings). [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

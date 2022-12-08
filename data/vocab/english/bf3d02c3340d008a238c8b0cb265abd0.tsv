@@ -1,1 +1,6 @@
-Modus vivendi	n. (pl. Modi vivendi) 1 way of living or coping. 2 arrangement between people who agree to differ. [latin, = way of living]
+Modus vivendi	n. (pl. Modi vivendi) 1 way of living or coping. 2 arrangement between people who agree to differ. [latin, = way of living]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

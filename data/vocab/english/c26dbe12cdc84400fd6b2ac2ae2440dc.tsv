@@ -1,1 +1,6 @@
-Telegraph	—n. (often attrib.) Device or system for transmitting messages or signals to a distance, esp. By making and breaking an electrical connection (telegraph wire). —v. 1 (often followed by to) send a message by telegraph to. 2 send or communicate by telegraph (telegraphed my concern). 3 give advance indication of (telegraphed his punch).  telegraphist n.
+Telegraph	—n. (often attrib.) Device or system for transmitting messages or signals to a distance, esp. By making and breaking an electrical connection (telegraph wire). —v. 1 (often followed by to) send a message by telegraph to. 2 send or communicate by telegraph (telegraphed my concern). 3 give advance indication of (telegraphed his punch).  telegraphist n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

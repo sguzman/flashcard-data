@@ -1,1 +1,6 @@
-Relic	n. 1 object that is interesting because of its age or association. 2 part of a dead holy person's body or belongings kept as an object of reverence. 3 surviving custom or belief etc. From a past age. 4 memento or souvenir. 5 (in pl.) What has survived. 6 (in pl.) Dead body or remains of a person. [latin reliquiae remains: related to *relinquish]
+Relic	n. 1 object that is interesting because of its age or association. 2 part of a dead holy person's body or belongings kept as an object of reverence. 3 surviving custom or belief etc. From a past age. 4 memento or souvenir. 5 (in pl.) What has survived. 6 (in pl.) Dead body or remains of a person. [latin reliquiae remains: related to *relinquish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

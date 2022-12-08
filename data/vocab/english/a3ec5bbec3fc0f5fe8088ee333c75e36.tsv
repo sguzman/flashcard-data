@@ -1,1 +1,6 @@
-Piston-ring	n. Ring on a piston sealing the gap between piston and cylinder wall.
+Piston-ring	n. Ring on a piston sealing the gap between piston and cylinder wall.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

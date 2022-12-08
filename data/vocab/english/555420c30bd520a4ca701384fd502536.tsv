@@ -1,1 +1,6 @@
-Dimmer	n. 1 (in full dimmer switch) device for varying the brightness of an electric light. 2 us a (in pl.) Small parking lights on a vehicle. B headlight on low beam.
+Dimmer	n. 1 (in full dimmer switch) device for varying the brightness of an electric light. 2 us a (in pl.) Small parking lights on a vehicle. B headlight on low beam.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

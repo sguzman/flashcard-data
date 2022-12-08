@@ -1,1 +1,6 @@
-Macramé	n. 1 art of knotting cord or string in patterns to make decorative articles. 2 work so made. [arabic, = bedspread]
+Macramé	n. 1 art of knotting cord or string in patterns to make decorative articles. 2 work so made. [arabic, = bedspread]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

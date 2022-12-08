@@ -1,1 +1,6 @@
-Natural law	n. 1 unchanging moral principles common to all human beings. 2 correct statement of an invariable sequence between specified conditions and a specified phenomenon.
+Natural law	n. 1 unchanging moral principles common to all human beings. 2 correct statement of an invariable sequence between specified conditions and a specified phenomenon.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

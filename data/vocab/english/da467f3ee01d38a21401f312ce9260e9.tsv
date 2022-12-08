@@ -1,1 +1,6 @@
-Operate	v. (-ting) 1 work, control. 2 be in action; function. 3 a perform a surgical operation. B conduct a military etc. Action. C be active in business etc. 4 bring about. [latin operor work: related to *opus]
+Operate	v. (-ting) 1 work, control. 2 be in action; function. 3 a perform a surgical operation. B conduct a military etc. Action. C be active in business etc. 4 bring about. [latin operor work: related to *opus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

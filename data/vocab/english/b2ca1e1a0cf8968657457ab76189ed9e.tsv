@@ -1,1 +1,6 @@
-Interface	—n. 1 surface forming a boundary between two regions. 2 means or place of interaction between two systems etc.; interaction (the interface between psychology and education). 3 esp. Computing apparatus for connecting two pieces of equipment so that they can be operated jointly. —v. (-cing) (often foll. By with) 1 connect with (another piece of equipment etc.) By an interface. 2 interact.
+Interface	—n. 1 surface forming a boundary between two regions. 2 means or place of interaction between two systems etc.; interaction (the interface between psychology and education). 3 esp. Computing apparatus for connecting two pieces of equipment so that they can be operated jointly. —v. (-cing) (often foll. By with) 1 connect with (another piece of equipment etc.) By an interface. 2 interact.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

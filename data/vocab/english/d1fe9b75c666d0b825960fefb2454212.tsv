@@ -1,1 +1,6 @@
-Platelet	n. Small colourless disc of protoplasm found in blood and involved in clotting.
+Platelet	n. Small colourless disc of protoplasm found in blood and involved in clotting.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

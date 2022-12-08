@@ -1,1 +1,6 @@
-Trolley	n. (pl. -s) 1  table, stand, or basket on wheels or castors for serving food, transporting luggage etc., gathering purchases in a supermarket, etc. 2  low truck running on rails. 3 (in full trolley-wheel) wheel attached to a pole etc. Used for collecting current from an overhead electric wire to drive a vehicle. [dial., perhaps from *troll2]
+Trolley	n. (pl. -s) 1  table, stand, or basket on wheels or castors for serving food, transporting luggage etc., gathering purchases in a supermarket, etc. 2  low truck running on rails. 3 (in full trolley-wheel) wheel attached to a pole etc. Used for collecting current from an overhead electric wire to drive a vehicle. [dial., perhaps from *troll2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

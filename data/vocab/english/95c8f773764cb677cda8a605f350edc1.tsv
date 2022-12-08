@@ -1,1 +1,6 @@
-Effort	n. 1 use of physical or mental energy. 2 determined attempt. 3 force exerted. 4 colloq. Something accomplished. [latin fortis strong]
+Effort	n. 1 use of physical or mental energy. 2 determined attempt. 3 force exerted. 4 colloq. Something accomplished. [latin fortis strong]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

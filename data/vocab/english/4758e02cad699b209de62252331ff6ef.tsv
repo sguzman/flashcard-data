@@ -1,1 +1,6 @@
-Thunderbolt	n. 1 flash of lightning with a simultaneous crash of thunder. 2 unexpected occurrence or announcement. 3 supposed bolt or shaft as a destructive agent, esp. As an attribute of a god.
+Thunderbolt	n. 1 flash of lightning with a simultaneous crash of thunder. 2 unexpected occurrence or announcement. 3 supposed bolt or shaft as a destructive agent, esp. As an attribute of a god.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

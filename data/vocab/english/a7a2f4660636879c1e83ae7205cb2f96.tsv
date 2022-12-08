@@ -1,1 +1,6 @@
-Exist	v. 1 have a place in objective reality. 2 (of circumstances etc.) Occur; be found. 3 live with no pleasure. 4 continue in being. 5 live. [latin existo]
+Exist	v. 1 have a place in objective reality. 2 (of circumstances etc.) Occur; be found. 3 live with no pleasure. 4 continue in being. 5 live. [latin existo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Interlock	—v. 1 engage with each other by overlapping. 2 lock or clasp within each other. —n. 1 machine-knitted fabric with fine stitches. 2 mechanism for preventing a set of operations from being performed in any but the prescribed sequence.
+Interlock	—v. 1 engage with each other by overlapping. 2 lock or clasp within each other. —n. 1 machine-knitted fabric with fine stitches. 2 mechanism for preventing a set of operations from being performed in any but the prescribed sequence.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

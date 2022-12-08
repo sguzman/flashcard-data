@@ -1,1 +1,6 @@
-Utmost	—attrib. Adj. Furthest, extreme, greatest. —n. Utmost point or degree etc.  do one's utmost do all that one can. [old english, = outmost]
+Utmost	—attrib. Adj. Furthest, extreme, greatest. —n. Utmost point or degree etc.  do one's utmost do all that one can. [old english, = outmost]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

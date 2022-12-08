@@ -1,1 +1,6 @@
-Chalk	—n. 1 white soft limestone. 2 a similar substance, sometimes coloured, for writing or drawing. B piece of this. —v. 1 rub, mark, draw, or write with chalk. 2 (foll. By up) a write or record with chalk. B register or gain (success etc.).  by a long chalk by far.  chalky adj. (-ier, -iest). Chalkiness n. [latin *calx]
+Chalk	—n. 1 white soft limestone. 2 a similar substance, sometimes coloured, for writing or drawing. B piece of this. —v. 1 rub, mark, draw, or write with chalk. 2 (foll. By up) a write or record with chalk. B register or gain (success etc.).  by a long chalk by far.  chalky adj. (-ier, -iest). Chalkiness n. [latin *calx]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

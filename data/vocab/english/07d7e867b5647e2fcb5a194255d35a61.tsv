@@ -1,1 +1,6 @@
-Enable	v. (-ling) 1 (foll. By to + infin.) Give (a person etc.) The means or authority. 2 make possible. 3 esp. Computing make (a device) operational; switch on.
+Enable	v. (-ling) 1 (foll. By to + infin.) Give (a person etc.) The means or authority. 2 make possible. 3 esp. Computing make (a device) operational; switch on.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

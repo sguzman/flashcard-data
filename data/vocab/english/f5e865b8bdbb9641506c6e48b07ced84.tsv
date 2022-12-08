@@ -1,1 +1,6 @@
-Pulpit	n. 1 raised enclosed platform in a church etc. From which the preacher delivers a sermon. 2 (prec. By the) preachers collectively; preaching. [latin pulpitum platform]
+Pulpit	n. 1 raised enclosed platform in a church etc. From which the preacher delivers a sermon. 2 (prec. By the) preachers collectively; preaching. [latin pulpitum platform]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

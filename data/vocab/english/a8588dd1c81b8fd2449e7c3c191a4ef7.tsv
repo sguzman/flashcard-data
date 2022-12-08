@@ -1,1 +1,6 @@
-Strand2	n. 1 each of the twisted threads or wires making a rope or cable etc. 2 single thread or strip of fibre. 3 lock of hair. 4 element; component. [origin unknown]
+Strand2	n. 1 each of the twisted threads or wires making a rope or cable etc. 2 single thread or strip of fibre. 3 lock of hair. 4 element; component. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

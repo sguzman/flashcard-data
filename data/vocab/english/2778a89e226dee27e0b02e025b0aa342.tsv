@@ -1,1 +1,6 @@
-Surpass	v. 1 be greater or better than, outdo. 2 (as surpassing adj.) Pre-eminent. [french: related to *sur-1]
+Surpass	v. 1 be greater or better than, outdo. 2 (as surpassing adj.) Pre-eminent. [french: related to *sur-1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

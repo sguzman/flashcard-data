@@ -1,1 +1,6 @@
-Punch3	n. (punch) grotesque humpbacked puppet in punch and judy shows.  as pleased as punch extremely pleased. [abbreviation of punchinello, name of the chief character in an italian puppet-show]
+Punch3	n. (punch) grotesque humpbacked puppet in punch and judy shows.  as pleased as punch extremely pleased. [abbreviation of punchinello, name of the chief character in an italian puppet-show]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

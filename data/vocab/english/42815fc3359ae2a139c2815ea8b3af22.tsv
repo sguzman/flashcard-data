@@ -1,1 +1,6 @@
-Predecessor	n. 1 former holder of an office or position with respect to a later holder. 2 ancestor. 3 thing to which another has succeeded. [latin decessor: related to *decease]
+Predecessor	n. 1 former holder of an office or position with respect to a later holder. 2 ancestor. 3 thing to which another has succeeded. [latin decessor: related to *decease]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Episode	n. 1 event or group of events as part of a sequence. 2 each of the parts of a serial story or broadcast. 3 incident or set of incidents in a narrative. [greek eisodos entry]
+Episode	n. 1 event or group of events as part of a sequence. 2 each of the parts of a serial story or broadcast. 3 incident or set of incidents in a narrative. [greek eisodos entry]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

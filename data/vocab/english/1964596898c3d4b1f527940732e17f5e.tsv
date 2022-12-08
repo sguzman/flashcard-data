@@ -1,1 +1,6 @@
-Whiff	n. 1 puff or breath of air, smoke, etc. 2 smell. 3 (foll. By of) trace of scandal etc. 4 small cigar. [imitative]
+Whiff	n. 1 puff or breath of air, smoke, etc. 2 smell. 3 (foll. By of) trace of scandal etc. 4 small cigar. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

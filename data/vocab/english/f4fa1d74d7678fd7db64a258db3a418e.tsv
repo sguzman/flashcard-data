@@ -1,1 +1,6 @@
-Communication	n. 1 a communicating or being communicated. B information etc. Communicated. C letter, message, etc. 2 connection or means of access. 3 social dealings. 4 (in pl.) Science and practice of transmitting information.
+Communication	n. 1 a communicating or being communicated. B information etc. Communicated. C letter, message, etc. 2 connection or means of access. 3 social dealings. 4 (in pl.) Science and practice of transmitting information.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Generally	adv. 1 usually; in most respects or cases (generally get up early; was generally well-behaved). 2 in a general sense; without regard to particulars or exceptions (generally speaking). 3 for the most part (not generally known).
+Generally	adv. 1 usually; in most respects or cases (generally get up early; was generally well-behaved). 2 in a general sense; without regard to particulars or exceptions (generally speaking). 3 for the most part (not generally known).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

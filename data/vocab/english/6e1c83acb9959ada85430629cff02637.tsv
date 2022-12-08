@@ -1,1 +1,6 @@
-Door	n. 1 a esp. Hinged barrier for closing and opening the entrance to a building, room, cupboard, etc. B this as representing a house etc. (lives two doors away). 2 a entrance or exit; doorway. B means of access.  close (or open) the door to exclude (or create) an opportunity for. [old english]
+Door	n. 1 a esp. Hinged barrier for closing and opening the entrance to a building, room, cupboard, etc. B this as representing a house etc. (lives two doors away). 2 a entrance or exit; doorway. B means of access.  close (or open) the door to exclude (or create) an opportunity for. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

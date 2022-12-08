@@ -1,1 +1,6 @@
-Rocker	n. 1 curved bar etc. On which something can rock. 2 rocking-chair. 3 devotee of rock music, esp. A leather-clad motor cyclist. 4 a device for rocking. B pivoted switch operating between ‘on’ and ‘off’ positions.  off one's rocker slang crazy.
+Rocker	n. 1 curved bar etc. On which something can rock. 2 rocking-chair. 3 devotee of rock music, esp. A leather-clad motor cyclist. 4 a device for rocking. B pivoted switch operating between ‘on’ and ‘off’ positions.  off one's rocker slang crazy.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

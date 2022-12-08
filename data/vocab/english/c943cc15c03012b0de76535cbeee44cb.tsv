@@ -1,1 +1,6 @@
-Politic	—adj. 1 (of an action) judicious, expedient. 2 (of a person) prudent, sagacious. 3 political (now only in body politic). —v. (-ck-) engage in politics. [greek: related to *polity]
+Politic	—adj. 1 (of an action) judicious, expedient. 2 (of a person) prudent, sagacious. 3 political (now only in body politic). —v. (-ck-) engage in politics. [greek: related to *polity]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

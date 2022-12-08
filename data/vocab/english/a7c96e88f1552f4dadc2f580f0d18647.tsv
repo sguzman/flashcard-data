@@ -1,1 +1,6 @@
-Yarn	—n. 1 spun thread, esp. For knitting, weaving, etc. 2 colloq. Story, traveller's tale, anecdote. —v. Colloq. Tell yarns. [old english]
+Yarn	—n. 1 spun thread, esp. For knitting, weaving, etc. 2 colloq. Story, traveller's tale, anecdote. —v. Colloq. Tell yarns. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

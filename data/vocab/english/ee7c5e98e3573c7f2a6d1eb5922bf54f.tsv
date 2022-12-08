@@ -1,1 +1,6 @@
-Underground	—adv. 1 beneath the ground. 2 in or into secrecy or hiding. —adj. 1 situated underground. 2 secret, subversive. 3 unconventional (underground literature). —n. 1 underground railway. 2 secret subversive group or activity.
+Underground	—adv. 1 beneath the ground. 2 in or into secrecy or hiding. —adj. 1 situated underground. 2 secret, subversive. 3 unconventional (underground literature). —n. 1 underground railway. 2 secret subversive group or activity.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

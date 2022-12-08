@@ -1,1 +1,6 @@
-Unknowable	—adj. That cannot be known. —n. 1 unknowable thing. 2 (the unknowable) the postulated absolute or ultimate reality.
+Unknowable	—adj. That cannot be known. —n. 1 unknowable thing. 2 (the unknowable) the postulated absolute or ultimate reality.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

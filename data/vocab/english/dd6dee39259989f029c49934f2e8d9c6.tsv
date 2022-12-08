@@ -1,1 +1,6 @@
-Furnace	n. 1 enclosed structure for intense heating by fire, esp. Of metals or water. 2 very hot place. [latin fornax from fornus oven]
+Furnace	n. 1 enclosed structure for intense heating by fire, esp. Of metals or water. 2 very hot place. [latin fornax from fornus oven]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

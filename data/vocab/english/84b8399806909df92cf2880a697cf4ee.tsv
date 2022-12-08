@@ -1,1 +1,6 @@
-Levee	n. Us 1 embankment against river floods. 2 natural embankment built up by a river. 3 landing-place. [french levée past part. Of lever raise: related to *levy]
+Levee	n. Us 1 embankment against river floods. 2 natural embankment built up by a river. 3 landing-place. [french levée past part. Of lever raise: related to *levy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

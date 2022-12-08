@@ -1,1 +1,6 @@
-Retune	v. (-ning) 1 tune (a musical instrument) again or differently. 2 tune (a radio etc.) To a different frequency.
+Retune	v. (-ning) 1 tune (a musical instrument) again or differently. 2 tune (a radio etc.) To a different frequency.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

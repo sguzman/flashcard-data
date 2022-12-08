@@ -1,1 +1,6 @@
-Dog in the manger	n. Person who stops others using a thing for which he or she has no use.
+Dog in the manger	n. Person who stops others using a thing for which he or she has no use.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

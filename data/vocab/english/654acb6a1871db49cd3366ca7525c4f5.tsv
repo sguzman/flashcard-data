@@ -1,1 +1,6 @@
-Coat	—n. 1 outer garment with sleeves, usu. Extending below the hips; overcoat or jacket. 2 animal's fur or hair. 3 covering of paint etc. Laid on a surface at one time. —v. 1 (usu. Foll. By with, in) cover with a coat or layer. 2 (of paint etc.) Form a covering to. [french from germanic]
+Coat	—n. 1 outer garment with sleeves, usu. Extending below the hips; overcoat or jacket. 2 animal's fur or hair. 3 covering of paint etc. Laid on a surface at one time. —v. 1 (usu. Foll. By with, in) cover with a coat or layer. 2 (of paint etc.) Form a covering to. [french from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

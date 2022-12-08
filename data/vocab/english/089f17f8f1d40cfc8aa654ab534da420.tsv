@@ -1,1 +1,6 @@
-Transfix	v. 1 paralyse with horror or astonishment. 2 pierce with a sharp implement or weapon. [latin: related to *fix]
+Transfix	v. 1 paralyse with horror or astonishment. 2 pierce with a sharp implement or weapon. [latin: related to *fix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

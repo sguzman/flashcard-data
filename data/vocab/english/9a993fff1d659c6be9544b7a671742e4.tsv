@@ -1,1 +1,6 @@
-Perigee	n. Point of a planet's or comet's orbit where it is nearest the earth. [greek perigeion]
+Perigee	n. Point of a planet's or comet's orbit where it is nearest the earth. [greek perigeion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

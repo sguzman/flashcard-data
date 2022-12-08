@@ -1,1 +1,6 @@
-Jail	(also gaol) —n. 1 place for the detention of prisoners. 2 confinement in a jail. —v. Put in jail. [french jaiole, ultimately from latin cavea cage]
+Jail	(also gaol) —n. 1 place for the detention of prisoners. 2 confinement in a jail. —v. Put in jail. [french jaiole, ultimately from latin cavea cage]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

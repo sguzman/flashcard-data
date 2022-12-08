@@ -1,1 +1,6 @@
-Officer	n. 1 person holding a position of authority or trust, esp. One with a commission in the army, navy, air force, etc. 2 policeman or policewoman. 3 holder of a post in a society (e.g. The president or secretary).
+Officer	n. 1 person holding a position of authority or trust, esp. One with a commission in the army, navy, air force, etc. 2 policeman or policewoman. 3 holder of a post in a society (e.g. The president or secretary).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

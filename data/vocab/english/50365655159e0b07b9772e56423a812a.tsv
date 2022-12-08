@@ -1,1 +1,6 @@
-Gruff	adj. 1 a (of a voice) low and harsh. B (of a person) having a gruff voice. 2 surly.  gruffly adv. Gruffness n. [low german or dutch grof coarse]
+Gruff	adj. 1 a (of a voice) low and harsh. B (of a person) having a gruff voice. 2 surly.  gruffly adv. Gruffness n. [low german or dutch grof coarse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Advertise	v. (-sing) 1 promote (goods or services) publicly to increase sales. 2 make generally known. 3 (often foll. By for) seek by a notice in a newspaper etc. To buy, employ, sell, etc. [french avertir: related to *adverse]
+Advertise	v. (-sing) 1 promote (goods or services) publicly to increase sales. 2 make generally known. 3 (often foll. By for) seek by a notice in a newspaper etc. To buy, employ, sell, etc. [french avertir: related to *adverse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

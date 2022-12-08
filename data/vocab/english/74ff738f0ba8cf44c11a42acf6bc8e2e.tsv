@@ -1,1 +1,6 @@
-Worksheet	n. 1 paper for recording work done or in progress. 2 paper listing questions or activities for students etc. To work through.
+Worksheet	n. 1 paper for recording work done or in progress. 2 paper listing questions or activities for students etc. To work through.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

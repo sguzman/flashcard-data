@@ -1,1 +1,6 @@
-Destine	v. (-ning) (often foll. By to, for, or to + infin.) Appoint; preordain; intend (destined him for the navy).  be destined to be fated or preordained to. [french from latin]
+Destine	v. (-ning) (often foll. By to, for, or to + infin.) Appoint; preordain; intend (destined him for the navy).  be destined to be fated or preordained to. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

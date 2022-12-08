@@ -1,1 +1,6 @@
-Engagement	n. 1 engaging or being engaged. 2 appointment with another person. 3 betrothal. 4 battle.
+Engagement	n. 1 engaging or being engaged. 2 appointment with another person. 3 betrothal. 4 battle.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Mongoloid	—adj. 1 characteristic of the mongolians, esp. In having a broad flat yellowish face. 2 (mongoloid) often offens. Having the characteristic symptoms of down's syndrome. —n. Mongoloid or mongoloid person.
+Mongoloid	—adj. 1 characteristic of the mongolians, esp. In having a broad flat yellowish face. 2 (mongoloid) often offens. Having the characteristic symptoms of down's syndrome. —n. Mongoloid or mongoloid person.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

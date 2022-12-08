@@ -1,1 +1,6 @@
-Limited	adj. 1 confined within limits. 2 not great in scope or talents. 3 restricted to a few examples (limited edition). 4 (after a company name) being a limited company.
+Limited	adj. 1 confined within limits. 2 not great in scope or talents. 3 restricted to a few examples (limited edition). 4 (after a company name) being a limited company.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

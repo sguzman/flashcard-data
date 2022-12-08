@@ -1,1 +1,6 @@
-Louse	—n. 1 (pl. Lice) parasitic insect. 2 (pl. Louses) slang contemptible person. —v. (-sing) delouse.  louse up slang make a mess of. [old english]
+Louse	—n. 1 (pl. Lice) parasitic insect. 2 (pl. Louses) slang contemptible person. —v. (-sing) delouse.  louse up slang make a mess of. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

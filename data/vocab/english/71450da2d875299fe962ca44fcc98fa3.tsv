@@ -1,1 +1,6 @@
-Interference	n. 1 act of interfering. 2 fading or disturbance of received radio signals. 3 physics combination of two or more wave motions to form a resultant wave in which the displacement is reinforced or cancelled.
+Interference	n. 1 act of interfering. 2 fading or disturbance of received radio signals. 3 physics combination of two or more wave motions to form a resultant wave in which the displacement is reinforced or cancelled.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

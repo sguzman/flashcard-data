@@ -1,1 +1,6 @@
-Outward	—adj. 1 situated on or directed towards the outside. 2 going out. 3 bodily, external, apparent. —adv. (also outwards) in an outward direction; towards the outside.  outwardly adv.  [old english: related to *out-, *-ward]
+Outward	—adj. 1 situated on or directed towards the outside. 2 going out. 3 bodily, external, apparent. —adv. (also outwards) in an outward direction; towards the outside.  outwardly adv.  [old english: related to *out-, *-ward]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

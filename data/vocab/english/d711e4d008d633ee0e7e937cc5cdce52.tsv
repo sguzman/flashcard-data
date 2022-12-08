@@ -1,1 +1,6 @@
-Filthy	—adj. (-ier, -iest) 1 extremely or disgustingly dirty. 2 obscene. 3 colloq. (of weather) very unpleasant. —adv. 1 filthily (filthy dirty). 2 colloq. Extremely (filthy rich).  filthily adv. Filthiness n.
+Filthy	—adj. (-ier, -iest) 1 extremely or disgustingly dirty. 2 obscene. 3 colloq. (of weather) very unpleasant. —adv. 1 filthily (filthy dirty). 2 colloq. Extremely (filthy rich).  filthily adv. Filthiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

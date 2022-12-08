@@ -1,1 +1,6 @@
-Cabin	n. 1 small shelter or house, esp. Of wood. 2 room or compartment in an aircraft or ship for passengers or crew. 3 driver's cab. [french from latin]
+Cabin	n. 1 small shelter or house, esp. Of wood. 2 room or compartment in an aircraft or ship for passengers or crew. 3 driver's cab. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

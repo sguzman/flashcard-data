@@ -1,1 +1,6 @@
-Roar	—n. 1 a loud deep hoarse sound, as made by a lion. B similar sound. 2 loud laugh. —v. 1 (often foll. By out) utter loudly or make a roar, roaring laugh, etc. 2 travel in a vehicle at high speed, esp. With the engine roaring. [old english]
+Roar	—n. 1 a loud deep hoarse sound, as made by a lion. B similar sound. 2 loud laugh. —v. 1 (often foll. By out) utter loudly or make a roar, roaring laugh, etc. 2 travel in a vehicle at high speed, esp. With the engine roaring. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

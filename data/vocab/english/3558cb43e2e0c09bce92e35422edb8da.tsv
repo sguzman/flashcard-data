@@ -1,1 +1,6 @@
-Hoop	—n. 1 circular band of metal, wood, etc., esp. As part of a framework. 2 ring bowled along by a child, or for circus performers to jump through. 3 arch through which balls are hit in croquet. —v. Bind or encircle with hoop(s).  be put (or go) through the hoop (or hoops) undergo rigorous testing. [old english]
+Hoop	—n. 1 circular band of metal, wood, etc., esp. As part of a framework. 2 ring bowled along by a child, or for circus performers to jump through. 3 arch through which balls are hit in croquet. —v. Bind or encircle with hoop(s).  be put (or go) through the hoop (or hoops) undergo rigorous testing. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

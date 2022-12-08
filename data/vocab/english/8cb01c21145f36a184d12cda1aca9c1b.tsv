@@ -1,1 +1,6 @@
-Jury	n. (pl. -ies) 1 body of usu. Twelve people giving a verdict in a court of justice. 2 body of people awarding prizes in a competition.
+Jury	n. (pl. -ies) 1 body of usu. Twelve people giving a verdict in a court of justice. 2 body of people awarding prizes in a competition.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

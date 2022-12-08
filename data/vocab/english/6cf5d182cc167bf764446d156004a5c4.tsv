@@ -1,1 +1,6 @@
-Screed	n. 1 long usu. Tiresome piece of writing or speech. 2 layer of cement etc. Applied to level a surface. [probably from *shred]
+Screed	n. 1 long usu. Tiresome piece of writing or speech. 2 layer of cement etc. Applied to level a surface. [probably from *shred]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tun	n. 1 large beer or wine cask. 2 brewer's fermenting-vat. [old english]
+Tun	n. 1 large beer or wine cask. 2 brewer's fermenting-vat. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

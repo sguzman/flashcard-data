@@ -1,1 +1,6 @@
-Perk1	v.  perk up 1 recover confidence, courage, life, or zest. 2 restore confidence, courage, or liveliness in. 3 smarten up. 4 raise (one's head etc.) Briskly. [origin unknown]
+Perk1	v.  perk up 1 recover confidence, courage, life, or zest. 2 restore confidence, courage, or liveliness in. 3 smarten up. 4 raise (one's head etc.) Briskly. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

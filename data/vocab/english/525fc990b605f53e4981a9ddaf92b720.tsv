@@ -1,1 +1,6 @@
-Euphemism	n. 1 mild or vague expression substituted for a harsher or more direct one (e.g. Pass over for die). 2 use of such expressions.  euphemistic adj. Euphemistically adv. [greek pheme speaking]
+Euphemism	n. 1 mild or vague expression substituted for a harsher or more direct one (e.g. Pass over for die). 2 use of such expressions.  euphemistic adj. Euphemistically adv. [greek pheme speaking]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

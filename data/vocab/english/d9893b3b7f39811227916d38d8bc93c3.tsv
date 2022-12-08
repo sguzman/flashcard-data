@@ -1,1 +1,6 @@
-Plausible	adj. 1 (of a statement etc.) Reasonable or probable. 2 (of a person) persuasive but deceptive.  plausibility n. Plausibly adv. [latin: related to *plaudit]
+Plausible	adj. 1 (of a statement etc.) Reasonable or probable. 2 (of a person) persuasive but deceptive.  plausibility n. Plausibly adv. [latin: related to *plaudit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

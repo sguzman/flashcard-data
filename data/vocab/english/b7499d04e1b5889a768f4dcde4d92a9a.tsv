@@ -1,1 +1,6 @@
-Forehand	n. 1 (in tennis etc.) Stroke played with the palm of the hand facing forward. 2 (attrib.) (also forehanded) of or made with a forehand.
+Forehand	n. 1 (in tennis etc.) Stroke played with the palm of the hand facing forward. 2 (attrib.) (also forehanded) of or made with a forehand.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

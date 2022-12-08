@@ -1,1 +1,6 @@
-Khaki	—adj. Dull brownish-yellow. —n. (pl. -s) 1 khaki fabric or uniform. 2 dull brownish-yellow colour. [urdu, = dusty]
+Khaki	—adj. Dull brownish-yellow. —n. (pl. -s) 1 khaki fabric or uniform. 2 dull brownish-yellow colour. [urdu, = dusty]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

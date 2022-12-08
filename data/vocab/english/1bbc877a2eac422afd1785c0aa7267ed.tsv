@@ -1,1 +1,6 @@
-Devotion	n. 1 (usu. Foll. By to) great love or loyalty. 2 a religious worship. B (in pl.) Prayers.  devotional adj. [latin: related to *devote]
+Devotion	n. 1 (usu. Foll. By to) great love or loyalty. 2 a religious worship. B (in pl.) Prayers.  devotional adj. [latin: related to *devote]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Preach	v. 1  (also absol.) Deliver (a sermon); proclaim or expound (the gospel etc.). 2 give moral advice in an obtrusive way. 3 advocate or inculcate (a quality or practice etc.).  preacher n. [latin praedico proclaim]
+Preach	v. 1  (also absol.) Deliver (a sermon); proclaim or expound (the gospel etc.). 2 give moral advice in an obtrusive way. 3 advocate or inculcate (a quality or practice etc.).  preacher n. [latin praedico proclaim]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

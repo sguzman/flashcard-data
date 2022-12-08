@@ -1,1 +1,6 @@
-Courier	n. 1 person employed to guide and assist tourists. 2 special messenger. [latin curro curs- run]
+Courier	n. 1 person employed to guide and assist tourists. 2 special messenger. [latin curro curs- run]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

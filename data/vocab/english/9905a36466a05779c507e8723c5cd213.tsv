@@ -1,1 +1,6 @@
-Regulo	n. (usu. Foll. By a numeral) each of the numbers of a scale denoting temperature in a gas oven (cook at regulo 6). [regulo, propr. Term for a thermostatic gas oven control]
+Regulo	n. (usu. Foll. By a numeral) each of the numbers of a scale denoting temperature in a gas oven (cook at regulo 6). [regulo, propr. Term for a thermostatic gas oven control]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

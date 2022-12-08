@@ -1,1 +1,6 @@
-Alcohol	n. 1 (in full ethyl alcohol) colourless volatile inflammable liquid, esp. As the intoxicant in wine, beer, spirits, etc., and as a solvent, fuel, etc. 2 liquor containing this. 3 chem. Any of many organic compounds containing one or more hydroxyl groups attached to carbon atoms. [arabic: related to *kohl]
+Alcohol	n. 1 (in full ethyl alcohol) colourless volatile inflammable liquid, esp. As the intoxicant in wine, beer, spirits, etc., and as a solvent, fuel, etc. 2 liquor containing this. 3 chem. Any of many organic compounds containing one or more hydroxyl groups attached to carbon atoms. [arabic: related to *kohl]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

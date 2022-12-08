@@ -1,1 +1,6 @@
-Long2	v. (foll. By for or to + infin.) Have a strong wish or desire for. [old english, = seem *long1 to]
+Long2	v. (foll. By for or to + infin.) Have a strong wish or desire for. [old english, = seem *long1 to]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

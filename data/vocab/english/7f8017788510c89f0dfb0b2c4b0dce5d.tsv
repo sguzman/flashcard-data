@@ -1,1 +1,6 @@
-Mad	adj. (madder, maddest) 1 insane; frenzied. 2 wildly foolish. 3 (often foll. By about, on) colloq. Wildly excited or infatuated. 4 colloq. Angry. 5 (of an animal) rabid. 6 wildly light-hearted.  like mad colloq. With great energy or enthusiasm.  madness n.  [old english]
+Mad	adj. (madder, maddest) 1 insane; frenzied. 2 wildly foolish. 3 (often foll. By about, on) colloq. Wildly excited or infatuated. 4 colloq. Angry. 5 (of an animal) rabid. 6 wildly light-hearted.  like mad colloq. With great energy or enthusiasm.  madness n.  [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

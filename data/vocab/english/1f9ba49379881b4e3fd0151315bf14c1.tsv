@@ -1,1 +1,6 @@
-Determine	v. (-ning) 1 find out or establish precisely. 2 decide or settle; resolve. 3 be the decisive factor in regard to (demand determines supply).  be determined be resolved. [latin terminus boundary]
+Determine	v. (-ning) 1 find out or establish precisely. 2 decide or settle; resolve. 3 be the decisive factor in regard to (demand determines supply).  be determined be resolved. [latin terminus boundary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

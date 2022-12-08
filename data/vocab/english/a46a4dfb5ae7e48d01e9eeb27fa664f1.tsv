@@ -1,1 +1,6 @@
-Quilt	—n. Coverlet, esp. Of quilted material. —v. Line a coverlet or garment with padding enclosed between layers of cloth by lines of stitching.  quilter n. Quilting n.  [latin culcita cushion]
+Quilt	—n. Coverlet, esp. Of quilted material. —v. Line a coverlet or garment with padding enclosed between layers of cloth by lines of stitching.  quilter n. Quilting n.  [latin culcita cushion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

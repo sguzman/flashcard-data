@@ -1,1 +1,6 @@
-Unfaithful	adj. 1 not faithful, esp. Adulterous. 2 treacherous; disloyal.  unfaithfully adv. Unfaithfulness n.
+Unfaithful	adj. 1 not faithful, esp. Adulterous. 2 treacherous; disloyal.  unfaithfully adv. Unfaithfulness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Housemaster	n. (fem. Housemistress) teacher in charge of a house, esp. At a boarding-school.
+Housemaster	n. (fem. Housemistress) teacher in charge of a house, esp. At a boarding-school.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

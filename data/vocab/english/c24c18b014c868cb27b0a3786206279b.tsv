@@ -1,1 +1,6 @@
-Radiate	—v. (-ting) 1  a emit rays of light, heat, etc. B (of light or heat) be emitted in rays. 2  emit (light, heat, etc.) From a centre. 3 transmit or demonstrate (joy etc.). 4 diverge or spread from a centre. —adj. Having divergent rays or parts radially arranged.
+Radiate	—v. (-ting) 1  a emit rays of light, heat, etc. B (of light or heat) be emitted in rays. 2  emit (light, heat, etc.) From a centre. 3 transmit or demonstrate (joy etc.). 4 diverge or spread from a centre. —adj. Having divergent rays or parts radially arranged.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

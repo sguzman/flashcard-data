@@ -1,1 +1,6 @@
-Necessary	—adj. 1 requiring to be done; requisite, essential. 2 determined, existing, or happening by natural laws etc., not by free will; inevitable. —n. (pl. -ies) (usu. In pl.) Any of the basic requirements of life.  the necessary colloq. 1 money. 2 an action etc. Needed for a purpose.  necessarily adv. [latin necesse needful]
+Necessary	—adj. 1 requiring to be done; requisite, essential. 2 determined, existing, or happening by natural laws etc., not by free will; inevitable. —n. (pl. -ies) (usu. In pl.) Any of the basic requirements of life.  the necessary colloq. 1 money. 2 an action etc. Needed for a purpose.  necessarily adv. [latin necesse needful]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

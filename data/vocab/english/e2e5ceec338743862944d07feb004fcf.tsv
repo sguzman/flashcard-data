@@ -1,1 +1,6 @@
-Ply1	n. (pl. -ies) 1 thickness or layer of cloth or wood etc. 2 strand of yarn or rope etc. [french pli: related to *plait]
+Ply1	n. (pl. -ies) 1 thickness or layer of cloth or wood etc. 2 strand of yarn or rope etc. [french pli: related to *plait]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cocoon	—n. 1 silky case spun by insect larvae for protection as pupae. 2 protective covering. —v. Wrap or coat in a cocoon. [provençal coca shell]
+Cocoon	—n. 1 silky case spun by insect larvae for protection as pupae. 2 protective covering. —v. Wrap or coat in a cocoon. [provençal coca shell]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

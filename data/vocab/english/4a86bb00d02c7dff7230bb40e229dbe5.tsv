@@ -1,1 +1,6 @@
-Soprano	n. (pl. -s) 1 a highest singing-voice. B female or boy singer with this voice. 2 instrument of a high or the highest pitch in its family. [italian sopra above]
+Soprano	n. (pl. -s) 1 a highest singing-voice. B female or boy singer with this voice. 2 instrument of a high or the highest pitch in its family. [italian sopra above]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Welsh	v. (also welch) 1 (of a loser of a bet, esp. A bookmaker) decamp without paying. 2 evade an obligation. 3 (foll. By on) a fail to carry out a promise to (a person). B fail to honour (an obligation). [origin unknown]
+Welsh	v. (also welch) 1 (of a loser of a bet, esp. A bookmaker) decamp without paying. 2 evade an obligation. 3 (foll. By on) a fail to carry out a promise to (a person). B fail to honour (an obligation). [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

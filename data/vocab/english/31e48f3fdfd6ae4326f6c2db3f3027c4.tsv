@@ -1,1 +1,6 @@
-Cameo	n. (pl. -s) 1 small piece of hard stone carved in relief with a background of a different colour. 2 a short descriptive literary sketch or acted scene. B small character part in a play or film, usu. Brief and played by a distinguished actor. [french and medieval latin]
+Cameo	n. (pl. -s) 1 small piece of hard stone carved in relief with a background of a different colour. 2 a short descriptive literary sketch or acted scene. B small character part in a play or film, usu. Brief and played by a distinguished actor. [french and medieval latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

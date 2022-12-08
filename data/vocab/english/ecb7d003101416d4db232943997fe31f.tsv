@@ -1,1 +1,6 @@
-Acceptance	n. 1 willingness to accept. 2 affirmative answer to an invitation etc. 3 approval, belief (found wide acceptance).
+Acceptance	n. 1 willingness to accept. 2 affirmative answer to an invitation etc. 3 approval, belief (found wide acceptance).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

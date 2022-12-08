@@ -1,1 +1,6 @@
-Leveler	n. (brit. Leveller) 1 person who advocates the abolition of social distinctions. 2 person or thing that levels.
+Leveler	n. (brit. Leveller) 1 person who advocates the abolition of social distinctions. 2 person or thing that levels.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

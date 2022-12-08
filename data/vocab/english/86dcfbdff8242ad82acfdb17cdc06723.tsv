@@ -1,1 +1,6 @@
-Hood1	—n. 1 a covering for the head and neck, esp. As part of a garment. B separate hoodlike garment. 2 folding top of a car etc. 3 us bonnet of a car etc. 4 protective cover. —v. Cover with or as with a hood. [old english]
+Hood1	—n. 1 a covering for the head and neck, esp. As part of a garment. B separate hoodlike garment. 2 folding top of a car etc. 3 us bonnet of a car etc. 4 protective cover. —v. Cover with or as with a hood. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

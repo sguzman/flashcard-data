@@ -1,1 +1,6 @@
-Shrapnel	n. 1 fragments of an exploded bomb etc. 2 shell containing pieces of metal etc., timed to burst short of impact. [shrapnel, name of the inventor of the shell]
+Shrapnel	n. 1 fragments of an exploded bomb etc. 2 shell containing pieces of metal etc., timed to burst short of impact. [shrapnel, name of the inventor of the shell]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

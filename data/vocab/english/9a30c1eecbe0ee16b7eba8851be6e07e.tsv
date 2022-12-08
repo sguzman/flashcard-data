@@ -1,1 +1,6 @@
-Marshal	—n. 1 (marshal) high-ranking officer of state or in the armed forces (earl marshal; field marshal). 2 officer arranging ceremonies, controlling racecourses, crowds, etc. —v. (-ll-) 1 arrange (soldiers, one's thoughts, etc.) In due order.
+Marshal	—n. 1 (marshal) high-ranking officer of state or in the armed forces (earl marshal; field marshal). 2 officer arranging ceremonies, controlling racecourses, crowds, etc. —v. (-ll-) 1 arrange (soldiers, one's thoughts, etc.) In due order.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

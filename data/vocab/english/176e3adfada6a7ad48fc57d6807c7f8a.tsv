@@ -1,1 +1,6 @@
-Smack2	(foll. By of) —v. 1 have a flavour of; taste of. 2 suggest (smacks of nepotism). —n. 1 flavour. 2 barely discernible quality. [old english]
+Smack2	(foll. By of) —v. 1 have a flavour of; taste of. 2 suggest (smacks of nepotism). —n. 1 flavour. 2 barely discernible quality. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

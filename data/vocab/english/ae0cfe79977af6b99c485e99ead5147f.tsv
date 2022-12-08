@@ -1,1 +1,6 @@
-Medallion	n. 1 large medal. 2 thing so shaped, e.g. A decorative panel etc. [italian: related to *medal]
+Medallion	n. 1 large medal. 2 thing so shaped, e.g. A decorative panel etc. [italian: related to *medal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

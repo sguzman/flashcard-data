@@ -1,1 +1,6 @@
-Perceive	v. (-ving) 1 apprehend, esp. Through the sight; observe. 2 (usu. Foll. By that, how, etc.) Apprehend with the mind; understand; see or regard.  perceivable adj.  [latin percipio -cept- seize, understand]
+Perceive	v. (-ving) 1 apprehend, esp. Through the sight; observe. 2 (usu. Foll. By that, how, etc.) Apprehend with the mind; understand; see or regard.  perceivable adj.  [latin percipio -cept- seize, understand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Self-destruction	n. 1 destroying of itself or oneself or one's chances, happiness, etc. 2 act of self-destructing.  self-destructive adj.
+Self-destruction	n. 1 destroying of itself or oneself or one's chances, happiness, etc. 2 act of self-destructing.  self-destructive adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

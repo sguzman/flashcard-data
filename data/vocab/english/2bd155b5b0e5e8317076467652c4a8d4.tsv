@@ -1,1 +1,6 @@
-Promiscuous	adj. 1 having frequent, esp. Casual, sexual relationships. 2 mixed and indiscriminate. 3 colloq. Carelessly irregular; casual.  promiscuity n. Promiscuously adv. [latin misceo mix]
+Promiscuous	adj. 1 having frequent, esp. Casual, sexual relationships. 2 mixed and indiscriminate. 3 colloq. Carelessly irregular; casual.  promiscuity n. Promiscuously adv. [latin misceo mix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

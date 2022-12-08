@@ -1,1 +1,6 @@
-Cereal	—n. 1 a grain used for food. B wheat, maize, rye, etc. Producing this. 2 breakfast food made from a cereal. —adj. Of edible grain. [latin ceres goddess of agriculture]
+Cereal	—n. 1 a grain used for food. B wheat, maize, rye, etc. Producing this. 2 breakfast food made from a cereal. —adj. Of edible grain. [latin ceres goddess of agriculture]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

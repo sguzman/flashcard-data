@@ -1,1 +1,6 @@
-Persecute	v. (-ting) 1 subject (a person etc.) To hostility or ill-treatment, esp. On grounds of political or religious belief. 2 harass, worry.  persecution n. Persecutor n. [latin persequor -secut- pursue]
+Persecute	v. (-ting) 1 subject (a person etc.) To hostility or ill-treatment, esp. On grounds of political or religious belief. 2 harass, worry.  persecution n. Persecutor n. [latin persequor -secut- pursue]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

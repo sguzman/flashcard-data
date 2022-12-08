@@ -1,1 +1,6 @@
-Dissociate	v. (-ting) 1 disconnect or separate. 2 become disconnected.  dissociate oneself from declare oneself unconnected with.  dissociation n. Dissociative adj. [latin: related to *dis-, *associate]
+Dissociate	v. (-ting) 1 disconnect or separate. 2 become disconnected.  dissociate oneself from declare oneself unconnected with.  dissociation n. Dissociative adj. [latin: related to *dis-, *associate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

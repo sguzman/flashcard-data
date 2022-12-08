@@ -1,1 +1,6 @@
-Grape	n. Berry (usu. Green, purple, or black) growing in clusters on a vine, used as fruit and in making wine. [french, probably from grappe hook]
+Grape	n. Berry (usu. Green, purple, or black) growing in clusters on a vine, used as fruit and in making wine. [french, probably from grappe hook]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

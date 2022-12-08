@@ -1,1 +1,6 @@
-Choler	n. 1 hist. One of the four humours, bile. 2 poet. Or archaic anger, irascibility. [greek khole bile]
+Choler	n. 1 hist. One of the four humours, bile. 2 poet. Or archaic anger, irascibility. [greek khole bile]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

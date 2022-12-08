@@ -1,1 +1,6 @@
-Procession	n. 1 people or vehicles etc. Advancing in orderly succession, esp. At a ceremony, demonstration, or festivity. 2 movement of such a group (go in procession). [latin: related to *proceed]
+Procession	n. 1 people or vehicles etc. Advancing in orderly succession, esp. At a ceremony, demonstration, or festivity. 2 movement of such a group (go in procession). [latin: related to *proceed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Dolly	n. (pl. -ies) 1 child's name for a doll. 2 movable platform for a cine-camera etc. 3 easy catch in cricket.
+Dolly	n. (pl. -ies) 1 child's name for a doll. 2 movable platform for a cine-camera etc. 3 easy catch in cricket.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

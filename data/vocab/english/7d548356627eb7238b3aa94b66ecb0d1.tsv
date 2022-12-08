@@ -1,1 +1,6 @@
-Chart	—n. 1 geographical map or plan, esp. For navigation. 2 sheet of information in the form of a table, graph, or diagram. 3 (usu. In pl.) Colloq. Listing of the currently best-selling pop records. —v. Make a chart of, map. [latin charta: related to *card1]
+Chart	—n. 1 geographical map or plan, esp. For navigation. 2 sheet of information in the form of a table, graph, or diagram. 3 (usu. In pl.) Colloq. Listing of the currently best-selling pop records. —v. Make a chart of, map. [latin charta: related to *card1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

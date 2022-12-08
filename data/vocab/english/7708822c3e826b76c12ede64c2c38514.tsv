@@ -1,1 +1,6 @@
-Paddle1	—n. 1  short broad-bladed oar used without a rowlock. 2 paddle-shaped instrument. 3  fin, flipper. 4 board on a paddle-wheel or mill-wheel. 5 action or spell of paddling. —v. (-ling) 1 move on water or propel a boat by paddles. 2 row gently. [origin unknown]
+Paddle1	—n. 1  short broad-bladed oar used without a rowlock. 2 paddle-shaped instrument. 3  fin, flipper. 4 board on a paddle-wheel or mill-wheel. 5 action or spell of paddling. —v. (-ling) 1 move on water or propel a boat by paddles. 2 row gently. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Possibility	n. (pl. -ies) 1 state or fact of being possible. 2 thing that may exist or happen. 3 (usu. In pl.) Capability of being used; potential (have possibilities). [latin posse be able]
+Possibility	n. (pl. -ies) 1 state or fact of being possible. 2 thing that may exist or happen. 3 (usu. In pl.) Capability of being used; potential (have possibilities). [latin posse be able]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

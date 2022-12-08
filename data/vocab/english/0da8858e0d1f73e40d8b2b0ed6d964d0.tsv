@@ -1,1 +1,6 @@
-Restive	adj. 1 fidgety; restless. 2 (of a horse) jibbing; refractory. 3 (of a person) resisting control.  restively adv. Restiveness n. [french: related to *rest2]
+Restive	adj. 1 fidgety; restless. 2 (of a horse) jibbing; refractory. 3 (of a person) resisting control.  restively adv. Restiveness n. [french: related to *rest2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

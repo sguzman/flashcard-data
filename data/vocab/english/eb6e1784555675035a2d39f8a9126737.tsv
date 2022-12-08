@@ -1,1 +1,6 @@
-High-level	adj. 1 (of negotiations etc.) Conducted by high-ranking people. 2 computing (of a programming language) not machine-dependent and usu. At a level of abstraction close to natural language.
+High-level	adj. 1 (of negotiations etc.) Conducted by high-ranking people. 2 computing (of a programming language) not machine-dependent and usu. At a level of abstraction close to natural language.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

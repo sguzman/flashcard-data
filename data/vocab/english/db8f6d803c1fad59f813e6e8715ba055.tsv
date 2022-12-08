@@ -1,1 +1,6 @@
-Know	v. (past knew; past part. Known) 1 (often foll. By that, how, what, etc.) A have in the mind; have learnt; be able to recall (knows a lot about cars). B (also absol.) Be aware of (a fact) (i think he knows). C have a good command of (knew german; knows his tables).
+Know	v. (past knew; past part. Known) 1 (often foll. By that, how, what, etc.) A have in the mind; have learnt; be able to recall (knows a lot about cars). B (also absol.) Be aware of (a fact) (i think he knows). C have a good command of (knew german; knows his tables).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

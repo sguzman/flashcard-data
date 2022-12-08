@@ -1,1 +1,6 @@
-Acrostic	n. Poem etc. In which certain letters (usu. The first and last in each line) form a word or words. [greek akron end, stikhos row]
+Acrostic	n. Poem etc. In which certain letters (usu. The first and last in each line) form a word or words. [greek akron end, stikhos row]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

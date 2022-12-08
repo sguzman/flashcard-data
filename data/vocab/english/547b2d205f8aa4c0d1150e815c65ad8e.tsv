@@ -1,1 +1,6 @@
-Partner	—n. 1 person who shares or takes part with another or others, esp. In a business. 2 companion in dancing. 3 player (esp. One of two) on the same side in a game. 4 either member of a married or unmarried couple. —v. Be the partner of. [alteration of parcener joint heir]
+Partner	—n. 1 person who shares or takes part with another or others, esp. In a business. 2 companion in dancing. 3 player (esp. One of two) on the same side in a game. 4 either member of a married or unmarried couple. —v. Be the partner of. [alteration of parcener joint heir]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

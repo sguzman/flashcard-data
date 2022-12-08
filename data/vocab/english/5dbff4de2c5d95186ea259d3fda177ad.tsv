@@ -1,1 +1,6 @@
-Tomorrow	—adv. 1 on the day after today. 2 at some future time. —n. 1 the day after today. 2 the near future. [from *to, *morrow]
+Tomorrow	—adv. 1 on the day after today. 2 at some future time. —n. 1 the day after today. 2 the near future. [from *to, *morrow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

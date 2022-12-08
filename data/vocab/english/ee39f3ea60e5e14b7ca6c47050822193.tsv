@@ -1,1 +1,6 @@
-Compile	v. (-ling) 1 a collect and arrange (material) into a list, book, etc. B produce (a book etc.) Thus. 2 computing translate (a programming language) into machine code.  compilation n. [latin compilo plunder]
+Compile	v. (-ling) 1 a collect and arrange (material) into a list, book, etc. B produce (a book etc.) Thus. 2 computing translate (a programming language) into machine code.  compilation n. [latin compilo plunder]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

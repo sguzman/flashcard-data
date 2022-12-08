@@ -1,1 +1,6 @@
-Pasture	—n. 1 grassland suitable for grazing. 2 herbage for animals. —v. (-ring) 1 put (animals) to pasture. 2 (of animals) graze. [latin: related to *pastor]
+Pasture	—n. 1 grassland suitable for grazing. 2 herbage for animals. —v. (-ring) 1 put (animals) to pasture. 2 (of animals) graze. [latin: related to *pastor]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

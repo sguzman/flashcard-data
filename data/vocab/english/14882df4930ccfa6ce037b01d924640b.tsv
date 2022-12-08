@@ -1,1 +1,6 @@
-Secretariat	n. 1 administrative office or department. 2 its members or premises. [medieval latin: related to *secretary]
+Secretariat	n. 1 administrative office or department. 2 its members or premises. [medieval latin: related to *secretary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

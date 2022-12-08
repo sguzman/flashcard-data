@@ -1,1 +1,6 @@
-Herald	—n. 1 official messenger bringing news. 2 forerunner, harbinger. 3 a hist. Officer responsible for state ceremonial and etiquette. B official concerned with pedigrees and coats of arms. —v. Proclaim the approach of; usher in.  heraldic adj. [french from germanic]
+Herald	—n. 1 official messenger bringing news. 2 forerunner, harbinger. 3 a hist. Officer responsible for state ceremonial and etiquette. B official concerned with pedigrees and coats of arms. —v. Proclaim the approach of; usher in.  heraldic adj. [french from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

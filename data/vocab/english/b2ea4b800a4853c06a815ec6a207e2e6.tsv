@@ -1,1 +1,6 @@
-Shim	—n. Thin wedge in machinery etc. To make parts fit. —v. (-mm-) fit or fill up with a shim. [origin unknown]
+Shim	—n. Thin wedge in machinery etc. To make parts fit. —v. (-mm-) fit or fill up with a shim. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

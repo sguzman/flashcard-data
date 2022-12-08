@@ -1,1 +1,6 @@
-Respond	v. 1 answer, reply. 2 act or behave in a corresponding manner. 3 (usu. Foll. By to) show sensitiveness to by behaviour or change (does not respond to kindness). 4 (of a congregation) make set answers to a priest etc. [latin respondeo -spons-]
+Respond	v. 1 answer, reply. 2 act or behave in a corresponding manner. 3 (usu. Foll. By to) show sensitiveness to by behaviour or change (does not respond to kindness). 4 (of a congregation) make set answers to a priest etc. [latin respondeo -spons-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

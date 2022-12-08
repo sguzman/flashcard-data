@@ -1,1 +1,6 @@
-Sirloin	n. Upper and choicer part of a loin of beef. [french: related to *sur-1, *loin]
+Sirloin	n. Upper and choicer part of a loin of beef. [french: related to *sur-1, *loin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

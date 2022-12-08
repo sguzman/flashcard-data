@@ -1,1 +1,6 @@
-Strait-jacket	—n. 1 strong garment with long sleeves for confining a violent prisoner etc. 2 restrictive measures. —v. (-t-) 1 restrain with a strait-jacket. 2 severely restrict.
+Strait-jacket	—n. 1 strong garment with long sleeves for confining a violent prisoner etc. 2 restrictive measures. —v. (-t-) 1 restrain with a strait-jacket. 2 severely restrict.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

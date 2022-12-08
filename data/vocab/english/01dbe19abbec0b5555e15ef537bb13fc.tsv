@@ -1,1 +1,6 @@
-Melodeon	n. (also melodion) 1 small organ similar to the harmonium. 2 small german accordion. [from *melody, *harmonium]
+Melodeon	n. (also melodion) 1 small organ similar to the harmonium. 2 small german accordion. [from *melody, *harmonium]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

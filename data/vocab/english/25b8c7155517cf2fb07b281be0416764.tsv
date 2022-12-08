@@ -1,1 +1,6 @@
-Alliance	n. 1 union or agreement to cooperate, esp. Of states by treaty or families by marriage. 2 (alliance) political coalition party. 3 relationship; friendship. [french: related to *ally]
+Alliance	n. 1 union or agreement to cooperate, esp. Of states by treaty or families by marriage. 2 (alliance) political coalition party. 3 relationship; friendship. [french: related to *ally]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

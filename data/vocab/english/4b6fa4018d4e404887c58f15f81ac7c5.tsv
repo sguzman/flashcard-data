@@ -1,1 +1,6 @@
-Money	n. 1 coins and banknotes as a medium of exchange. 2 (pl. -eys or -ies) (in pl.) Sums of money. 3 a wealth. B wealth as power (money talks). C rich person or family (married into money).  for my money in my opinion; for my preference. In the money colloq. Having or winning a lot of money. Money for jam (or old rope) colloq. Profit for little or no trouble. [latin moneta]
+Money	n. 1 coins and banknotes as a medium of exchange. 2 (pl. -eys or -ies) (in pl.) Sums of money. 3 a wealth. B wealth as power (money talks). C rich person or family (married into money).  for my money in my opinion; for my preference. In the money colloq. Having or winning a lot of money. Money for jam (or old rope) colloq. Profit for little or no trouble. [latin moneta]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

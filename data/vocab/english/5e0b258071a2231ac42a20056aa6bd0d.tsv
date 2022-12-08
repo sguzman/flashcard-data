@@ -1,1 +1,6 @@
-Resit	—v. (-tt-; past and past part. Resat) sit (an examination) again after failing. —n. 1 resitting of an examination. 2 examination specifically for this.
+Resit	—v. (-tt-; past and past part. Resat) sit (an examination) again after failing. —n. 1 resitting of an examination. 2 examination specifically for this.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

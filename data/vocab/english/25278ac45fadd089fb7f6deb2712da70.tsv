@@ -1,1 +1,6 @@
-Hippie	n. (also hippy) (pl. -ies) colloq. (esp. In the 1960s) person rejecting convention, typically with long hair, jeans, beads, etc., and taking hallucinogenic drugs. [from *hip4]
+Hippie	n. (also hippy) (pl. -ies) colloq. (esp. In the 1960s) person rejecting convention, typically with long hair, jeans, beads, etc., and taking hallucinogenic drugs. [from *hip4]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hack2	—n. 1 a = *hackney. B horse let out for hire. 2 person hired to do dull routine work, esp. Writing. —attrib. Adj. 1 used as a hack. 2 typical of a hack; commonplace (hack work). —v. Ride on horseback on a road at an ordinary pace. [abbreviation of *hackney]
+Hack2	—n. 1 a = *hackney. B horse let out for hire. 2 person hired to do dull routine work, esp. Writing. —attrib. Adj. 1 used as a hack. 2 typical of a hack; commonplace (hack work). —v. Ride on horseback on a road at an ordinary pace. [abbreviation of *hackney]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

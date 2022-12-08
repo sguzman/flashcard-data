@@ -1,1 +1,6 @@
-Healthy	adj. (-ier, -iest) 1 having, showing, or promoting good health. 2 indicative of (esp. Moral or financial) health (a healthy sign). 3 substantial (won by a healthy 40 seconds).  healthily adv. Healthiness n.
+Healthy	adj. (-ier, -iest) 1 having, showing, or promoting good health. 2 indicative of (esp. Moral or financial) health (a healthy sign). 3 substantial (won by a healthy 40 seconds).  healthily adv. Healthiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

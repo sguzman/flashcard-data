@@ -1,1 +1,6 @@
-Detach	v. 1 (often foll. By from) unfasten or disengage and remove. 2 send (troops etc.) On a separate mission. 3 (as detached adj.) A impartial; unemotional. B (esp. Of a house) standing separate.  detachable adj. [french: related to *attach]
+Detach	v. 1 (often foll. By from) unfasten or disengage and remove. 2 send (troops etc.) On a separate mission. 3 (as detached adj.) A impartial; unemotional. B (esp. Of a house) standing separate.  detachable adj. [french: related to *attach]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cycle	—n. 1 a recurrent round or period (of events, phenomena, etc.). B time needed for this. 2 a physics etc. Recurrent series of operations or states. B electr. = *hertz. 3 series of related songs, poems, etc. 4 bicycle, tricycle, etc. —v. (-ling) 1 ride a bicycle etc. 2 move in cycles. [greek kuklos circle]
+Cycle	—n. 1 a recurrent round or period (of events, phenomena, etc.). B time needed for this. 2 a physics etc. Recurrent series of operations or states. B electr. = *hertz. 3 series of related songs, poems, etc. 4 bicycle, tricycle, etc. —v. (-ling) 1 ride a bicycle etc. 2 move in cycles. [greek kuklos circle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

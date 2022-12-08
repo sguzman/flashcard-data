@@ -1,1 +1,6 @@
-Chinchilla	n. 1 a small s. American rodent. B its soft grey fur. 2 breed of cat or rabbit. [spanish chinche bug]
+Chinchilla	n. 1 a small s. American rodent. B its soft grey fur. 2 breed of cat or rabbit. [spanish chinche bug]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

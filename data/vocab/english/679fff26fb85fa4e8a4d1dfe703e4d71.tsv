@@ -1,1 +1,6 @@
-Chant	—n. 1 spoken singsong phrase. 2 a simple tune used for singing unmetrical words, e.g. Psalms. B song, esp. Monotonous or repetitive. —v. 1 talk or repeat monotonously. 2 sing or intone (a psalm etc.). [latin canto from cano sing]
+Chant	—n. 1 spoken singsong phrase. 2 a simple tune used for singing unmetrical words, e.g. Psalms. B song, esp. Monotonous or repetitive. —v. 1 talk or repeat monotonously. 2 sing or intone (a psalm etc.). [latin canto from cano sing]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

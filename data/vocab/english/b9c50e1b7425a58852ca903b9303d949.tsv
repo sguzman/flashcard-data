@@ -1,1 +1,6 @@
-Thane	n. Hist. 1 man who held land from an english king or other superior by military service. 2 man who held land from a scottish king and ranked with an earl's son; chief of a clan. [old english]
+Thane	n. Hist. 1 man who held land from an english king or other superior by military service. 2 man who held land from a scottish king and ranked with an earl's son; chief of a clan. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

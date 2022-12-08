@@ -1,1 +1,6 @@
-Working	—attrib. Adj. 1 a engaged in work (working mother; working man). B while so engaged (all his working life; in working hours). 2 functioning or able to function (working model). —n. 1 activity of work. 2 functioning. 3 mine or quarry. 4 (usu. In pl.) Machinery, mechanism.
+Working	—attrib. Adj. 1 a engaged in work (working mother; working man). B while so engaged (all his working life; in working hours). 2 functioning or able to function (working model). —n. 1 activity of work. 2 functioning. 3 mine or quarry. 4 (usu. In pl.) Machinery, mechanism.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

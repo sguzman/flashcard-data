@@ -1,1 +1,6 @@
-Audiotape	n. (also audio tape) 1 a magnetic tape for recording sound. B a length of this. 2 a sound recording on tape.
+Audiotape	n. (also audio tape) 1 a magnetic tape for recording sound. B a length of this. 2 a sound recording on tape.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Henry	n. (pl. -s or -ies) electr. Si unit of inductance. [henry, name of a physicist]
+Henry	n. (pl. -s or -ies) electr. Si unit of inductance. [henry, name of a physicist]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

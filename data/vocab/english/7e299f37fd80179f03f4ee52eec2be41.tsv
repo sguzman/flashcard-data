@@ -1,1 +1,6 @@
-Premium	n. 1 amount to be paid for a contract of insurance. 2 sum added to interest, wages, price, etc. 3 reward or prize. 4 (attrib.) (of a commodity) of the best quality and therefore more expensive.  at a premium 1 highly valued; above the usual or nominal price. 2 scarce and in demand. [latin praemium reward]
+Premium	n. 1 amount to be paid for a contract of insurance. 2 sum added to interest, wages, price, etc. 3 reward or prize. 4 (attrib.) (of a commodity) of the best quality and therefore more expensive.  at a premium 1 highly valued; above the usual or nominal price. 2 scarce and in demand. [latin praemium reward]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

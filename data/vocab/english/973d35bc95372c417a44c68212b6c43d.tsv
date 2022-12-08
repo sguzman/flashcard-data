@@ -1,1 +1,6 @@
-Sleeper	n. 1 person or animal that sleeps. 2 horizontal beam supporting a railway track. 3 a sleeping-car. B berth in this. 4 ring or stud worn in a pierced ear to keep the hole open.
+Sleeper	n. 1 person or animal that sleeps. 2 horizontal beam supporting a railway track. 3 a sleeping-car. B berth in this. 4 ring or stud worn in a pierced ear to keep the hole open.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

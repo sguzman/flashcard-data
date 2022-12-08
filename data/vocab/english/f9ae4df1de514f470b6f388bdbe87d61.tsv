@@ -1,1 +1,6 @@
-Yoga	n. 1 hindu system of meditation and asceticism designed to effect reunion with the universal spirit. 2 system of physical exercises and breathing control used in yoga. [sanskrit, = union]
+Yoga	n. 1 hindu system of meditation and asceticism designed to effect reunion with the universal spirit. 2 system of physical exercises and breathing control used in yoga. [sanskrit, = union]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

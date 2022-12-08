@@ -1,1 +1,6 @@
-Tabernacle	n. 1 hist. Tent used as a sanctuary by the israelites during the exodus. 2 niche or receptacle, esp. For the eucharistic elements. 3 nonconformist meeting-house. [latin: related to *tavern]
+Tabernacle	n. 1 hist. Tent used as a sanctuary by the israelites during the exodus. 2 niche or receptacle, esp. For the eucharistic elements. 3 nonconformist meeting-house. [latin: related to *tavern]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

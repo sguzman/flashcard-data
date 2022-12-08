@@ -1,1 +1,6 @@
-Battledore	n. Hist. 1 (in full battledore and shuttlecock) game played with a shuttlecock and rackets. 2 racket used in this. [perhaps from provençal batedor beater]
+Battledore	n. Hist. 1 (in full battledore and shuttlecock) game played with a shuttlecock and rackets. 2 racket used in this. [perhaps from provençal batedor beater]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

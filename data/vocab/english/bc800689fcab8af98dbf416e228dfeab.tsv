@@ -1,1 +1,6 @@
-Hydroplane	n. 1 light fast motor boat that skims over water. 2 finlike attachment enabling a submarine to rise and descend.
+Hydroplane	n. 1 light fast motor boat that skims over water. 2 finlike attachment enabling a submarine to rise and descend.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

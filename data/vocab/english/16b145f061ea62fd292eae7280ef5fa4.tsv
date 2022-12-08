@@ -1,1 +1,6 @@
-Manly	adj. (-ier, -iest) 1 having qualities associated with a man (e.g. Strength and courage). 2 befitting a man.  manliness n.
+Manly	adj. (-ier, -iest) 1 having qualities associated with a man (e.g. Strength and courage). 2 befitting a man.  manliness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

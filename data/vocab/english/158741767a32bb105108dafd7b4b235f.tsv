@@ -1,1 +1,6 @@
-Apprentice	—n. 1 person learning a trade by working in it for an agreed period at low wages. 2 novice. —v. (-cing) (usu. Foll. By to) engage as an apprentice (apprenticed to a builder).  apprenticeship n. [french apprendre learn]
+Apprentice	—n. 1 person learning a trade by working in it for an agreed period at low wages. 2 novice. —v. (-cing) (usu. Foll. By to) engage as an apprentice (apprenticed to a builder).  apprenticeship n. [french apprendre learn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cordon sanitaire	n. 1 guarded line between infected and uninfected districts. 2 measure designed to prevent the spread of undesirable influences.
+Cordon sanitaire	n. 1 guarded line between infected and uninfected districts. 2 measure designed to prevent the spread of undesirable influences.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

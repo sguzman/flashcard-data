@@ -1,1 +1,6 @@
-Vocabulary	n. (pl. -ies) 1 words used by a particular language, book, branch of science, or author. 2 list of these, in alphabetical order with definitions or translations. 3 individual's stock of words (limited vocabulary). 4 set of artistic or stylistic forms or techniques. [medieval latin: related to *vocable]
+Vocabulary	n. (pl. -ies) 1 words used by a particular language, book, branch of science, or author. 2 list of these, in alphabetical order with definitions or translations. 3 individual's stock of words (limited vocabulary). 4 set of artistic or stylistic forms or techniques. [medieval latin: related to *vocable]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

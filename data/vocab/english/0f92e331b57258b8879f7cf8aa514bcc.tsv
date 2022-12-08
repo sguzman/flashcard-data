@@ -1,1 +1,6 @@
-Stroboscope	n. 1 physics instrument for determining speeds of rotation etc. By shining a bright light at intervals so that a rotating object appears stationary. 2 lamp made to flash intermittently, esp. For this purpose.  stroboscopic adj. [greek strobos whirling]
+Stroboscope	n. 1 physics instrument for determining speeds of rotation etc. By shining a bright light at intervals so that a rotating object appears stationary. 2 lamp made to flash intermittently, esp. For this purpose.  stroboscopic adj. [greek strobos whirling]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

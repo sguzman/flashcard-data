@@ -1,1 +1,6 @@
-Complaint	n. 1 complaining. 2 grievance, cause of dissatisfaction. 3 ailment. 4 formal accusation.
+Complaint	n. 1 complaining. 2 grievance, cause of dissatisfaction. 3 ailment. 4 formal accusation.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

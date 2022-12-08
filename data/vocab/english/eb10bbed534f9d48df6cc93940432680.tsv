@@ -1,1 +1,6 @@
-Un-3	prefix chem. Denoting ‘one’, combined with other numerical roots nil (= 0), un (= 1), bi (= 2), etc., to form the names of elements based on the atomic number, and terminated with -ium, e.g. Unnilquadium = 104, ununbium = 112.  [latin unus one]
+Un-3	prefix chem. Denoting ‘one’, combined with other numerical roots nil (= 0), un (= 1), bi (= 2), etc., to form the names of elements based on the atomic number, and terminated with -ium, e.g. Unnilquadium = 104, ununbium = 112.  [latin unus one]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

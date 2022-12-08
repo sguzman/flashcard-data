@@ -1,1 +1,6 @@
-Lateral	—adj. 1 of, at, towards, or from the side or sides. 2 descended from the sibling of a person in direct line. —n. Lateral shoot or branch.  laterally adv. [latin latus later- side]
+Lateral	—adj. 1 of, at, towards, or from the side or sides. 2 descended from the sibling of a person in direct line. —n. Lateral shoot or branch.  laterally adv. [latin latus later- side]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

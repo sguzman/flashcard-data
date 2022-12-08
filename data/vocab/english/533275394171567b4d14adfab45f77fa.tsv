@@ -1,1 +1,6 @@
-Density	n. (pl. -ies) 1 denseness of thing(s) or a substance. 2 physics degree of consistency measured by the quantity of mass per unit volume. 3 opacity of a photographic image.
+Density	n. (pl. -ies) 1 denseness of thing(s) or a substance. 2 physics degree of consistency measured by the quantity of mass per unit volume. 3 opacity of a photographic image.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

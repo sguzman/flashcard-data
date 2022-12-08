@@ -1,1 +1,6 @@
-Rastafarian	(also rasta) —n. Member of a jamaican sect, often having dreadlocks and regarding haile selassie of ethiopia as god. —adj. Of this sect. [ras tafari, title of former emperor haile selassie]
+Rastafarian	(also rasta) —n. Member of a jamaican sect, often having dreadlocks and regarding haile selassie of ethiopia as god. —adj. Of this sect. [ras tafari, title of former emperor haile selassie]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Stretcher	n. 1 two poles with canvas etc. Between, for carrying a person in a lying position. 2 brick etc. Laid along the face of a wall.
+Stretcher	n. 1 two poles with canvas etc. Between, for carrying a person in a lying position. 2 brick etc. Laid along the face of a wall.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

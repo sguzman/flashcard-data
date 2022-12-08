@@ -1,1 +1,6 @@
-Graft2	colloq. —n. 1 practices, esp. Bribery, used to secure illicit gains in politics or business. 2 such gains. —v. Seek or make such gains. [origin unknown]
+Graft2	colloq. —n. 1 practices, esp. Bribery, used to secure illicit gains in politics or business. 2 such gains. —v. Seek or make such gains. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

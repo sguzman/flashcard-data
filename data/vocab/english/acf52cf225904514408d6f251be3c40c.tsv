@@ -1,1 +1,6 @@
-Spread eagle	—n. Figure of an eagle with legs and wings extended as an emblem. —v. (spread-eagle) 1 (usu. As spread-eagled adj.) Place (a person) with arms and legs spread out. 2 defeat utterly.
+Spread eagle	—n. Figure of an eagle with legs and wings extended as an emblem. —v. (spread-eagle) 1 (usu. As spread-eagled adj.) Place (a person) with arms and legs spread out. 2 defeat utterly.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

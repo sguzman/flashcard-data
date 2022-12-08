@@ -1,1 +1,6 @@
-Inertia	n. 1 physics property of matter by which it continues in its existing state of rest or motion unless an external force is applied. 2 a inertness, lethargy. B tendency to remain unchanged (inertia of the system).  inertial adj. [latin: related to *inert]
+Inertia	n. 1 physics property of matter by which it continues in its existing state of rest or motion unless an external force is applied. 2 a inertness, lethargy. B tendency to remain unchanged (inertia of the system).  inertial adj. [latin: related to *inert]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Advent	n. 1 season before christmas. 2 coming of christ. 3 (advent) important arrival. [latin adventus from venio come]
+Advent	n. 1 season before christmas. 2 coming of christ. 3 (advent) important arrival. [latin adventus from venio come]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Turk	n. 1 a native or national of turkey. B person of turkish descent. 2 member of a central asian people from whom the ottomans derived, speaking a turkic language. 3 offens. Ferocious or wild person.
+Turk	n. 1 a native or national of turkey. B person of turkish descent. 2 member of a central asian people from whom the ottomans derived, speaking a turkic language. 3 offens. Ferocious or wild person.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

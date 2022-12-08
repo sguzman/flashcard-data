@@ -1,1 +1,6 @@
-Pawn1	n. 1 chess piece of the smallest size and value. 2 person used by others for their own purposes. [french poun from latin pedo -onis foot-soldier]
+Pawn1	n. 1 chess piece of the smallest size and value. 2 person used by others for their own purposes. [french poun from latin pedo -onis foot-soldier]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

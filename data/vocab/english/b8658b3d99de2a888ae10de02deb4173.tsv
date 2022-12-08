@@ -1,1 +1,6 @@
-Fuss	—n. 1 excited commotion, bustle. 2 excessive concern about a trivial thing. 3 sustained protest or dispute. —v. 1 behave with nervous concern. 2 agitate, worry.  make a fuss complain vigorously.
+Fuss	—n. 1 excited commotion, bustle. 2 excessive concern about a trivial thing. 3 sustained protest or dispute. —v. 1 behave with nervous concern. 2 agitate, worry.  make a fuss complain vigorously.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Stooge	colloq. —n. 1 butt or foil, esp. For a comedian. 2 assistant or subordinate, esp. For routine or unpleasant work. —v. (-ging) 1 (foll. By for) act as a stooge for. 2 (foll. By about, around, etc.) Move about aimlessly. [origin unknown]
+Stooge	colloq. —n. 1 butt or foil, esp. For a comedian. 2 assistant or subordinate, esp. For routine or unpleasant work. —v. (-ging) 1 (foll. By for) act as a stooge for. 2 (foll. By about, around, etc.) Move about aimlessly. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

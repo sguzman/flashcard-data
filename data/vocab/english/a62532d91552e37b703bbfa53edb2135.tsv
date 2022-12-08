@@ -1,1 +1,6 @@
-Rustic	—adj. 1 of or like country people or country life. 2 unsophisticated. 3 of rude or rough workmanship. 4 made of untrimmed branches or rough timber (rustic bench). 5 archit. With a roughened or rough-hewn surface. —n. Country person, peasant.  rusticity n. [latin rus the country]
+Rustic	—adj. 1 of or like country people or country life. 2 unsophisticated. 3 of rude or rough workmanship. 4 made of untrimmed branches or rough timber (rustic bench). 5 archit. With a roughened or rough-hewn surface. —n. Country person, peasant.  rusticity n. [latin rus the country]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

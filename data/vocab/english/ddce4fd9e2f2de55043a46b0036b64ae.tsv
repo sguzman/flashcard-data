@@ -1,1 +1,6 @@
-Usage	the use of due to to mean ‘because of’ as in the example given is regarded as unacceptable by some people and could be avoided by substituting his lateness was due to an accident. Alternatively, owing to could be used.
+Usage	the use of due to to mean ‘because of’ as in the example given is regarded as unacceptable by some people and could be avoided by substituting his lateness was due to an accident. Alternatively, owing to could be used.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

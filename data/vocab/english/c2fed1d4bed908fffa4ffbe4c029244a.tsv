@@ -1,1 +1,6 @@
-Brink	n. 1 extreme edge of land before a precipice, river, etc. 2 furthest point before danger, discovery, etc.  on the brink of about to experience or suffer; in imminent danger of. [old norse]
+Brink	n. 1 extreme edge of land before a precipice, river, etc. 2 furthest point before danger, discovery, etc.  on the brink of about to experience or suffer; in imminent danger of. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

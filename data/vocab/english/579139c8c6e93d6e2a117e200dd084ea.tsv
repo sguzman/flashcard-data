@@ -1,1 +1,6 @@
-Grease	—n. 1 oily or fatty matter, esp. As a lubricant. 2 melted fat of a dead animal. —v. (-sing) smear or lubricate with grease.  grease the palm of colloq. Bribe. [latin crassus (adj.) Fat]
+Grease	—n. 1 oily or fatty matter, esp. As a lubricant. 2 melted fat of a dead animal. —v. (-sing) smear or lubricate with grease.  grease the palm of colloq. Bribe. [latin crassus (adj.) Fat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

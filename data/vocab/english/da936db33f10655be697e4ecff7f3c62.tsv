@@ -1,1 +1,6 @@
-Discourse	—n. 1 conversation. 2 lengthy treatment of a subject. 3 lecture, speech. —v. (-sing) 1 converse. 2 speak or write at length on a subject. [latin curro curs- run]
+Discourse	—n. 1 conversation. 2 lengthy treatment of a subject. 3 lecture, speech. —v. (-sing) 1 converse. 2 speak or write at length on a subject. [latin curro curs- run]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

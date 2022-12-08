@@ -1,1 +1,6 @@
-Scrivener	n. Hist. 1 copyist or drafter of documents. 2 notary. [french escrivein]
+Scrivener	n. Hist. 1 copyist or drafter of documents. 2 notary. [french escrivein]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Renew	v. 1 revive; make new again; restore to the original state. 2 reinforce; resupply; replace. 3 repeat or re-establish, resume after an interruption (renewed our acquaintance). 4 (also absol.) Grant or be granted continuation of (a licence, subscription, lease, etc.). 5 recover (strength etc.).  renewable adj. Renewal n.
+Renew	v. 1 revive; make new again; restore to the original state. 2 reinforce; resupply; replace. 3 repeat or re-establish, resume after an interruption (renewed our acquaintance). 4 (also absol.) Grant or be granted continuation of (a licence, subscription, lease, etc.). 5 recover (strength etc.).  renewable adj. Renewal n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

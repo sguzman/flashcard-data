@@ -1,1 +1,6 @@
-Defile1	v. (-ling) 1 make dirty; pollute. 2 desecrate, profane.  defilement n. [earlier defoul, from french defouler trample down]
+Defile1	v. (-ling) 1 make dirty; pollute. 2 desecrate, profane.  defilement n. [earlier defoul, from french defouler trample down]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

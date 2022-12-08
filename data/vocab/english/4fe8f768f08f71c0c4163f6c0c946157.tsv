@@ -1,1 +1,6 @@
-Bombardier	n. 1 non-commissioned officer in the artillery. 2 us crew member in an aircraft who aims and releases bombs.
+Bombardier	n. 1 non-commissioned officer in the artillery. 2 us crew member in an aircraft who aims and releases bombs.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

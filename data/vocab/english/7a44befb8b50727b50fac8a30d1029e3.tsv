@@ -1,1 +1,6 @@
-Minuet	—n. 1 slow stately dance for two in triple time. 2 music for this, often as a movement in a suite etc. —v. (-t-) dance a minuet. [french diminutive]
+Minuet	—n. 1 slow stately dance for two in triple time. 2 music for this, often as a movement in a suite etc. —v. (-t-) dance a minuet. [french diminutive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

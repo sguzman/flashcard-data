@@ -1,1 +1,6 @@
-Little	—adj. (littler, littlest; less or lesser, least) 1 small in size, amount, degree, etc.; often used affectionately or condescendingly (friendly little chap; silly little fool). 2 a short in stature. B of short distance or duration. 3 (prec. By a) a certain though small amount of (give me a little butter). 4 trivial (questions every little thing).
+Little	—adj. (littler, littlest; less or lesser, least) 1 small in size, amount, degree, etc.; often used affectionately or condescendingly (friendly little chap; silly little fool). 2 a short in stature. B of short distance or duration. 3 (prec. By a) a certain though small amount of (give me a little butter). 4 trivial (questions every little thing).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

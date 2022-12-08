@@ -1,1 +1,6 @@
-Resonant	adj. 1 (of sound) echoing, resounding; continuing to sound; reinforced or prolonged by reflection or vibration. 2 (of a body, room, etc.) Tending to reinforce or prolong sounds, esp. By vibration. 3 (often foll. By with) (of a place) resounding.  resonance n. [latin: related to *resound]
+Resonant	adj. 1 (of sound) echoing, resounding; continuing to sound; reinforced or prolonged by reflection or vibration. 2 (of a body, room, etc.) Tending to reinforce or prolong sounds, esp. By vibration. 3 (often foll. By with) (of a place) resounding.  resonance n. [latin: related to *resound]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

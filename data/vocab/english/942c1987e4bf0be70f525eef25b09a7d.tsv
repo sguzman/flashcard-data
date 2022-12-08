@@ -1,1 +1,6 @@
-Obligation	n. 1 constraining power of a law, duty, contract, etc. 2 duty, task. 3 binding agreement. 4 indebtedness for a service or benefit (be under an obligation). [latin: related to *oblige]
+Obligation	n. 1 constraining power of a law, duty, contract, etc. 2 duty, task. 3 binding agreement. 4 indebtedness for a service or benefit (be under an obligation). [latin: related to *oblige]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

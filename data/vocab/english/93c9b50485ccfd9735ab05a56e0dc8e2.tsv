@@ -1,1 +1,6 @@
-Buoy	—n. 1 anchored float as a navigation mark etc. 2 lifebuoy. —v. 1 (usu. Foll. By up) a keep afloat. B encourage, uplift. 2 (often foll. By out) mark with a buoy. [dutch, perhaps from latin boia collar]
+Buoy	—n. 1 anchored float as a navigation mark etc. 2 lifebuoy. —v. 1 (usu. Foll. By up) a keep afloat. B encourage, uplift. 2 (often foll. By out) mark with a buoy. [dutch, perhaps from latin boia collar]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

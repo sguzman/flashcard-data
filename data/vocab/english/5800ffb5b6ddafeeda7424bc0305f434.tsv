@@ -1,1 +1,6 @@
-Parting	n. 1 leave-taking or departure (often attrib.: parting words). 2 dividing line of combed hair. 3 division; separating.
+Parting	n. 1 leave-taking or departure (often attrib.: parting words). 2 dividing line of combed hair. 3 division; separating.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

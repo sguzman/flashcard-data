@@ -1,1 +1,6 @@
-Wedgwood	n. Propr. 1 a kind of fine stoneware usu. With a white cameo design. 2 its characteristic blue colour. [wedgwood, name of a potter]
+Wedgwood	n. Propr. 1 a kind of fine stoneware usu. With a white cameo design. 2 its characteristic blue colour. [wedgwood, name of a potter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

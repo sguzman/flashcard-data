@@ -1,1 +1,6 @@
-Addition	n. 1 adding. 2 person or thing added.  in addition (often foll. By to) also, as well (as). [latin: related to *add]
+Addition	n. 1 adding. 2 person or thing added.  in addition (often foll. By to) also, as well (as). [latin: related to *add]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

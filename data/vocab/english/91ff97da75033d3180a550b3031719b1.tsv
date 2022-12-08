@@ -1,1 +1,6 @@
-Dew	n. 1 condensed water vapour forming on cool surfaces at night. 2 similar glistening moisture.  dewy adj. (-ier, -iest). [old english]
+Dew	n. 1 condensed water vapour forming on cool surfaces at night. 2 similar glistening moisture.  dewy adj. (-ier, -iest). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

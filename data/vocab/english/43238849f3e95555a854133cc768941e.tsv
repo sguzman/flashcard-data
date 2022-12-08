@@ -1,1 +1,6 @@
-Jammy	adj. (-ier, -iest) 1 covered with jam. 2 colloq. A lucky. B profitable.
+Jammy	adj. (-ier, -iest) 1 covered with jam. 2 colloq. A lucky. B profitable.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Abundance	n. 1 plenty; more than enough; a lot. 2 wealth. [latin: related to *abound]
+Abundance	n. 1 plenty; more than enough; a lot. 2 wealth. [latin: related to *abound]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

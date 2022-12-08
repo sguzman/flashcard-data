@@ -1,1 +1,6 @@
-Thus	adv. Formal 1 a in this way. B as indicated. 2 a accordingly. B as a result or inference. 3 to this extent; so (thus far; thus much). [old english]
+Thus	adv. Formal 1 a in this way. B as indicated. 2 a accordingly. B as a result or inference. 3 to this extent; so (thus far; thus much). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

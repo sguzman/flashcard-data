@@ -1,1 +1,6 @@
-Upright	—adj. 1 erect, vertical. 2 (of a piano) with vertical strings. 3 honourable or honest. —n. 1 upright post or rod, esp. As a structural support. 2 upright piano. [old english]
+Upright	—adj. 1 erect, vertical. 2 (of a piano) with vertical strings. 3 honourable or honest. —n. 1 upright post or rod, esp. As a structural support. 2 upright piano. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

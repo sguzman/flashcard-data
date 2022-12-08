@@ -1,1 +1,6 @@
-Hospital	n. 1 institution providing medical and surgical treatment and nursing care for ill and injured people. 2 hist. Hospice. [latin: related to *host2]
+Hospital	n. 1 institution providing medical and surgical treatment and nursing care for ill and injured people. 2 hist. Hospice. [latin: related to *host2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Fairly	adv. 1 in a fair manner. 2 moderately (fairly good). 3 quite, rather (fairly narrow).
+Fairly	adv. 1 in a fair manner. 2 moderately (fairly good). 3 quite, rather (fairly narrow).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

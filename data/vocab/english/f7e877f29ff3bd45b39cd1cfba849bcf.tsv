@@ -1,1 +1,6 @@
-Station of the cross	n. Rc ch. Each of a series of images representing the events in christ's passion before which prayers are said.
+Station of the cross	n. Rc ch. Each of a series of images representing the events in christ's passion before which prayers are said.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

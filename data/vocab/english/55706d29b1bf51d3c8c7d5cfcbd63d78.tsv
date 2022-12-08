@@ -1,1 +1,6 @@
--logy	comb. Form forming nouns denoting: 1 a subject of study (biology). 2 speech or discourse or a characteristic of this (trilogy; tautology; phraseology). [greek -logia from logos word]
+-logy	comb. Form forming nouns denoting: 1 a subject of study (biology). 2 speech or discourse or a characteristic of this (trilogy; tautology; phraseology). [greek -logia from logos word]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

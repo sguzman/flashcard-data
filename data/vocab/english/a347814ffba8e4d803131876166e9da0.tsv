@@ -1,1 +1,6 @@
-Slovak	—n. 1 native of slovakia in czechoslovakia. 2 language of slovakia, one of the two official languages of czechoslovakia. —adj. Of the slovaks or their language. [native name]
+Slovak	—n. 1 native of slovakia in czechoslovakia. 2 language of slovakia, one of the two official languages of czechoslovakia. —adj. Of the slovaks or their language. [native name]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

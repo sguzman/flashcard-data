@@ -1,1 +1,6 @@
-Lilac	—n. 1 shrub with fragrant pinkish-violet or white blossoms. 2 pale pinkish-violet colour. —adj. Of this colour. [persian]
+Lilac	—n. 1 shrub with fragrant pinkish-violet or white blossoms. 2 pale pinkish-violet colour. —adj. Of this colour. [persian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

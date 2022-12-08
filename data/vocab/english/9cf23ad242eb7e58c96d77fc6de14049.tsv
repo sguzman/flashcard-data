@@ -1,1 +1,6 @@
-Percentile	n. Statistics 1 each of 99 points at which a range of data is divided to make 100 groups of equal size. 2 each of these groups.
+Percentile	n. Statistics 1 each of 99 points at which a range of data is divided to make 100 groups of equal size. 2 each of these groups.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

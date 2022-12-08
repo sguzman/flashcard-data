@@ -1,1 +1,6 @@
-Met2	adj. Colloq. 1 meteorological. 2 metropolitan. 3 (the met) a (in full the met office) meteorological office. B metropolitan police in london. [abbreviation]
+Met2	adj. Colloq. 1 meteorological. 2 metropolitan. 3 (the met) a (in full the met office) meteorological office. B metropolitan police in london. [abbreviation]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

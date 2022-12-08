@@ -1,1 +1,6 @@
-Opus	n. (pl. Opuses or opera) 1 musical composition numbered as one of a composer's works (beethoven, opus 15). 2 any artistic work (cf. *magnum opus). [latin, = work]
+Opus	n. (pl. Opuses or opera) 1 musical composition numbered as one of a composer's works (beethoven, opus 15). 2 any artistic work (cf. *magnum opus). [latin, = work]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

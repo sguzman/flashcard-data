@@ -1,1 +1,6 @@
-Conductor	n. 1 person who directs an orchestra etc. 2 (fem. Conductress) person who collects fares in a bus etc. 3 thing that conducts heat or electricity. [latin: related to *conduct]
+Conductor	n. 1 person who directs an orchestra etc. 2 (fem. Conductress) person who collects fares in a bus etc. 3 thing that conducts heat or electricity. [latin: related to *conduct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

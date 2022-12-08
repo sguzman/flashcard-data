@@ -1,1 +1,6 @@
-Equable	adj. 1 not varying. 2 moderate (equable climate). 3 (of a person) not easily disturbed.  equably adv. [related to *equal]
+Equable	adj. 1 not varying. 2 moderate (equable climate). 3 (of a person) not easily disturbed.  equably adv. [related to *equal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

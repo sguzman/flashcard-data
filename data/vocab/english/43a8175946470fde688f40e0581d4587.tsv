@@ -1,1 +1,6 @@
-Contest	—n. 1 contending; strife. 2 a competition. —v. 1 dispute (a decision etc.). 2 contend or compete for; compete in (an election). [latin testis witness]
+Contest	—n. 1 contending; strife. 2 a competition. —v. 1 dispute (a decision etc.). 2 contend or compete for; compete in (an election). [latin testis witness]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Nonconformist	n. 1 person who does not conform to the doctrine or discipline of an established church, esp. (nonconformist) member of a (usu. Protestant) sect dissenting from the anglican church. 2 person who does not conform to a prevailing principle.
+Nonconformist	n. 1 person who does not conform to the doctrine or discipline of an established church, esp. (nonconformist) member of a (usu. Protestant) sect dissenting from the anglican church. 2 person who does not conform to a prevailing principle.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

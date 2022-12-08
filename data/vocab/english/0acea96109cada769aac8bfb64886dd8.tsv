@@ -1,1 +1,6 @@
-Soy	n. 1 (in full soy sauce) sauce from pickled soya beans. 2 (in full soy bean) = *soya 1. [japanese]
+Soy	n. 1 (in full soy sauce) sauce from pickled soya beans. 2 (in full soy bean) = *soya 1. [japanese]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

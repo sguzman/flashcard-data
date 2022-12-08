@@ -1,1 +1,6 @@
-Dividend	n. 1 share of profits paid to shareholders or to winners in a football pool etc. 2 number to be divided. 3 benefit from an action. [anglo-french: related to *divide]
+Dividend	n. 1 share of profits paid to shareholders or to winners in a football pool etc. 2 number to be divided. 3 benefit from an action. [anglo-french: related to *divide]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

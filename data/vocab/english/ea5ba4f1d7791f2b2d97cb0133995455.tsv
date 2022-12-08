@@ -1,1 +1,6 @@
-En-1	prefix (also em- before b, p) forming verbs, = *in-2: 1 from nouns, meaning ‘put into or on’ (engulf; entrust; embed). 2 from nouns or adjectives, meaning ‘bring into the condition of’ (enslave); often with the suffix -en (enlighten). 3 from verbs: a in the sense ‘in, into, on’ (enfold). B as an intensifier (entangle). [french en-, latin in-]
+En-1	prefix (also em- before b, p) forming verbs, = *in-2: 1 from nouns, meaning ‘put into or on’ (engulf; entrust; embed). 2 from nouns or adjectives, meaning ‘bring into the condition of’ (enslave); often with the suffix -en (enlighten). 3 from verbs: a in the sense ‘in, into, on’ (enfold). B as an intensifier (entangle). [french en-, latin in-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Raid	—n. 1 rapid surprise attack, esp.: a in warfare. B in order to commit a crime, steal, or do harm. 2 surprise attack by police etc. To arrest suspected persons or seize illicit goods. —v. Make a raid on.  raider n. [scots form of *road]
+Raid	—n. 1 rapid surprise attack, esp.: a in warfare. B in order to commit a crime, steal, or do harm. 2 surprise attack by police etc. To arrest suspected persons or seize illicit goods. —v. Make a raid on.  raider n. [scots form of *road]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

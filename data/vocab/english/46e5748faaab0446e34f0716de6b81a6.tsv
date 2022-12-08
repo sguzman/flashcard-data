@@ -1,1 +1,6 @@
-Yo-yo	n. (pl. Yo-yos) 1 toy consisting of a pair of discs with a deep groove between them in which string is attached and wound, and which can be made to fall and rise. 2 thing that repeatedly falls and rises. [origin unknown]
+Yo-yo	n. (pl. Yo-yos) 1 toy consisting of a pair of discs with a deep groove between them in which string is attached and wound, and which can be made to fall and rise. 2 thing that repeatedly falls and rises. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

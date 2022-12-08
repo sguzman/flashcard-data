@@ -1,1 +1,6 @@
-Mission	n. 1 a task or goal assigned to a person or group. B journey undertaken as part of this. C person's vocation. 2 military or scientific operation or expedition. 3 body of persons sent to conduct negotiations or propagate a religious faith. 4 missionary post. [latin: related to *missile]
+Mission	n. 1 a task or goal assigned to a person or group. B journey undertaken as part of this. C person's vocation. 2 military or scientific operation or expedition. 3 body of persons sent to conduct negotiations or propagate a religious faith. 4 missionary post. [latin: related to *missile]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

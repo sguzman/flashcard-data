@@ -1,1 +1,6 @@
-Pentagon	n. 1 plane figure with five sides and angles. 2 (the pentagon) a pentagonal washington headquarters of the us forces. B leaders of the us forces.  pentagonal adj. [greek pentagonon: related to *penta-]
+Pentagon	n. 1 plane figure with five sides and angles. 2 (the pentagon) a pentagonal washington headquarters of the us forces. B leaders of the us forces.  pentagonal adj. [greek pentagonon: related to *penta-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

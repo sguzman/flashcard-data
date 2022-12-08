@@ -1,1 +1,6 @@
-Flaw1	—n. 1 imperfection; blemish. 2 crack, chip, etc. 3 invalidating defect. —v. Crack; damage; spoil.  flawless adj. Flawlessly adv. [old norse]
+Flaw1	—n. 1 imperfection; blemish. 2 crack, chip, etc. 3 invalidating defect. —v. Crack; damage; spoil.  flawless adj. Flawlessly adv. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

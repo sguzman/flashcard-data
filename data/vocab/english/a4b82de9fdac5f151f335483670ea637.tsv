@@ -1,1 +1,6 @@
-Instrument	n. 1 tool or implement, esp. For delicate or scientific work. 2 (in full musical instrument) device for producing musical sounds. 3 a thing used in performing an action. B person made use of. 4 measuring-device, esp. In an aeroplane. 5 formal, esp. Legal, document. [latin instrumentum: related to *instruct]
+Instrument	n. 1 tool or implement, esp. For delicate or scientific work. 2 (in full musical instrument) device for producing musical sounds. 3 a thing used in performing an action. B person made use of. 4 measuring-device, esp. In an aeroplane. 5 formal, esp. Legal, document. [latin instrumentum: related to *instruct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

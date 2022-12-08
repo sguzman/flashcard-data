@@ -1,1 +1,6 @@
-Confidential	adj. 1 spoken or written in confidence. 2 entrusted with secrets (confidential secretary). 3 confiding.  confidentiality n. Confidentially adv.
+Confidential	adj. 1 spoken or written in confidence. 2 entrusted with secrets (confidential secretary). 3 confiding.  confidentiality n. Confidentially adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

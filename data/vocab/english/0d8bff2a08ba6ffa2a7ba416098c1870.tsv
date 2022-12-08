@@ -1,1 +1,6 @@
-Kneel	v. (past and past part. Knelt or esp. Us kneeled) fall or rest on the knees or a knee. [old english: related to *knee]
+Kneel	v. (past and past part. Knelt or esp. Us kneeled) fall or rest on the knees or a knee. [old english: related to *knee]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

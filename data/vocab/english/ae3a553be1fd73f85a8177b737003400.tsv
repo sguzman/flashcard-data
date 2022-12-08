@@ -1,1 +1,6 @@
-Wretch	n. 1 unfortunate or pitiable person. 2 (often as a playful term of depreciation) reprehensible person. [old english, = outcast]
+Wretch	n. 1 unfortunate or pitiable person. 2 (often as a playful term of depreciation) reprehensible person. [old english, = outcast]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lobotomy	n. (pl. -ies) incision into the frontal lobe of the brain, formerly used in some cases of mental disorder. [from *lobe]
+Lobotomy	n. (pl. -ies) incision into the frontal lobe of the brain, formerly used in some cases of mental disorder. [from *lobe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

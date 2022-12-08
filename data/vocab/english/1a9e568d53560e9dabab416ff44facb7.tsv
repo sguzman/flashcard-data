@@ -1,1 +1,6 @@
-Derby	n. (pl. -ies) 1 a annual flat horse-race at epsom. B similar race elsewhere. 2 important sporting contest. 3 (derby) us bowler hat. [earl of derby]
+Derby	n. (pl. -ies) 1 a annual flat horse-race at epsom. B similar race elsewhere. 2 important sporting contest. 3 (derby) us bowler hat. [earl of derby]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

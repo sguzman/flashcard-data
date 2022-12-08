@@ -1,1 +1,6 @@
-Treble clef	n. Clef placing the g above middle c on the second lowest line of the staff.
+Treble clef	n. Clef placing the g above middle c on the second lowest line of the staff.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

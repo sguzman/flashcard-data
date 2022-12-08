@@ -1,1 +1,6 @@
-Oddity	n. (pl. -ies) 1 strange person, thing, or occurrence. 2 peculiar trait. 3 strangeness.
+Oddity	n. (pl. -ies) 1 strange person, thing, or occurrence. 2 peculiar trait. 3 strangeness.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

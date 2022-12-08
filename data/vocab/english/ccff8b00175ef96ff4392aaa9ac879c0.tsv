@@ -1,1 +1,6 @@
-Version	n. 1 account of a matter from a particular point of view. 2 book etc. In a particular edition or translation (authorized version). 3 form or variant. [latin verto vers- turn]
+Version	n. 1 account of a matter from a particular point of view. 2 book etc. In a particular edition or translation (authorized version). 3 form or variant. [latin verto vers- turn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

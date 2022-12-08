@@ -1,1 +1,6 @@
-Morganatic	adj. 1 (of a marriage) between a person of high rank and one of lower rank, the spouse and children having no claim to the possessions or title of the person of higher rank. 2 (of a spouse) married in this way. [latin morganaticus from germanic, = ‘morning gift’, from a husband to his wife on the morning after consummation of a marriage]
+Morganatic	adj. 1 (of a marriage) between a person of high rank and one of lower rank, the spouse and children having no claim to the possessions or title of the person of higher rank. 2 (of a spouse) married in this way. [latin morganaticus from germanic, = ‘morning gift’, from a husband to his wife on the morning after consummation of a marriage]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

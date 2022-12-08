@@ -1,1 +1,6 @@
-Scour1	—v. 1 a cleanse by rubbing. B (usu. Foll. By away, off, etc.) Clear (rust, stains, etc.) By rubbing etc. 2 clear out (a pipe, channel, etc.) By flushing through. —n. Scouring or being scoured.  scourer n. [french escurer]
+Scour1	—v. 1 a cleanse by rubbing. B (usu. Foll. By away, off, etc.) Clear (rust, stains, etc.) By rubbing etc. 2 clear out (a pipe, channel, etc.) By flushing through. —n. Scouring or being scoured.  scourer n. [french escurer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

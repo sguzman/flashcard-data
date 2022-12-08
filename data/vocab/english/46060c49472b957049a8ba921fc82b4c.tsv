@@ -1,1 +1,6 @@
-Liveable	adj. (also livable) 1 colloq. (usu. Liveable-in) (of a house etc.) Fit to live in. 2 (of a life) worth living. 3 colloq. (usu. Liveable-with) (of a person) easy to live with.
+Liveable	adj. (also livable) 1 colloq. (usu. Liveable-in) (of a house etc.) Fit to live in. 2 (of a life) worth living. 3 colloq. (usu. Liveable-with) (of a person) easy to live with.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

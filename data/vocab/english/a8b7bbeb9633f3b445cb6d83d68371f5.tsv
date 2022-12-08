@@ -1,1 +1,6 @@
-Bank2	—n. 1 establishment for depositing, withdrawing, and borrowing money. 2 kitty in some gambling games. 3 storage place (blood bank). —v. 1 deposit (money etc.) In a bank. 2 (often foll. By at, with) keep money (at a bank).  bank on colloq. Rely on (i'm banking on you). [french banque or italian banca: related to *bank1]
+Bank2	—n. 1 establishment for depositing, withdrawing, and borrowing money. 2 kitty in some gambling games. 3 storage place (blood bank). —v. 1 deposit (money etc.) In a bank. 2 (often foll. By at, with) keep money (at a bank).  bank on colloq. Rely on (i'm banking on you). [french banque or italian banca: related to *bank1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

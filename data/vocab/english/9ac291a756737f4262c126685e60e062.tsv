@@ -1,1 +1,6 @@
-Indemnity	n. (pl. -ies) 1 a compensation for damage. B sum exacted by a victor in war. 2 security against loss. 3 exemption from penalties.
+Indemnity	n. (pl. -ies) 1 a compensation for damage. B sum exacted by a victor in war. 2 security against loss. 3 exemption from penalties.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

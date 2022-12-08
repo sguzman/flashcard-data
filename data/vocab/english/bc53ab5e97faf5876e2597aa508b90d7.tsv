@@ -1,1 +1,6 @@
-Prostrate	—adj. 1 a lying face downwards, esp. In submission. B lying horizontally. 2 overcome, esp. By grief, exhaustion, etc. 3 growing along the ground. —v. (-ting) 1 lay or throw (esp. A person) flat. 2 refl. Throw (oneself) down in submission etc. 3 overcome; make weak.  prostration n. [latin prosterno -strat- throw in front]
+Prostrate	—adj. 1 a lying face downwards, esp. In submission. B lying horizontally. 2 overcome, esp. By grief, exhaustion, etc. 3 growing along the ground. —v. (-ting) 1 lay or throw (esp. A person) flat. 2 refl. Throw (oneself) down in submission etc. 3 overcome; make weak.  prostration n. [latin prosterno -strat- throw in front]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

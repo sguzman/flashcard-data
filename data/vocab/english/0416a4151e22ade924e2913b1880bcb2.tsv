@@ -1,1 +1,6 @@
-Price tag	n. 1 label on an item showing its price. 2 cost of an undertaking.
+Price tag	n. 1 label on an item showing its price. 2 cost of an undertaking.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

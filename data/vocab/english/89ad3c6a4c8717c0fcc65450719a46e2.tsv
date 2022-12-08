@@ -1,1 +1,6 @@
-Disfavour	(us disfavor) —n. 1 disapproval or dislike. 2 being disliked. —v. Regard or treat with disfavour.
+Disfavour	(us disfavor) —n. 1 disapproval or dislike. 2 being disliked. —v. Regard or treat with disfavour.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

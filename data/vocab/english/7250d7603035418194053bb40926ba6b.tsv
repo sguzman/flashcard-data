@@ -1,1 +1,6 @@
-Yiddish	—n. Language used by jews in or from europe, orig. A german dialect with words from hebrew etc. —adj. Of this language. [german jüdisch jewish]
+Yiddish	—n. Language used by jews in or from europe, orig. A german dialect with words from hebrew etc. —adj. Of this language. [german jüdisch jewish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

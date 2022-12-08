@@ -1,1 +1,6 @@
-Tub	—n. 1 open flat-bottomed usu. Round vessel. 2 tub-shaped (usu. Plastic) carton. 3 colloq. Bath. 4 colloq. Clumsy slow boat. —v. (-bb-) plant, bathe, or wash in a tub. [probably low german or dutch]
+Tub	—n. 1 open flat-bottomed usu. Round vessel. 2 tub-shaped (usu. Plastic) carton. 3 colloq. Bath. 4 colloq. Clumsy slow boat. —v. (-bb-) plant, bathe, or wash in a tub. [probably low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

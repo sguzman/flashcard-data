@@ -1,1 +1,6 @@
-Ante	—n. 1 stake put up by a player in poker etc. Before receiving cards. 2 amount payable in advance. —v. (-tes, -ted) 1 put up as an ante. 2 us a bet, stake. B (foll. By up) pay.
+Ante	—n. 1 stake put up by a player in poker etc. Before receiving cards. 2 amount payable in advance. —v. (-tes, -ted) 1 put up as an ante. 2 us a bet, stake. B (foll. By up) pay.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

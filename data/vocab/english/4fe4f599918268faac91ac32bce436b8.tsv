@@ -1,1 +1,6 @@
-Pigeon-hole	—n. Each of a set of compartments on a wall etc. For papers, letters, etc. —v. 1 assign to a preconceived category. 2 deposit in a pigeon-hole. 3 put aside for future consideration.
+Pigeon-hole	—n. Each of a set of compartments on a wall etc. For papers, letters, etc. —v. 1 assign to a preconceived category. 2 deposit in a pigeon-hole. 3 put aside for future consideration.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

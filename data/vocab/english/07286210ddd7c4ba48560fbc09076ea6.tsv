@@ -1,1 +1,6 @@
-Tamil	—n. 1 member of a people of south india and sri lanka. 2 language of this people. —adj. Of this people or language. [native name]
+Tamil	—n. 1 member of a people of south india and sri lanka. 2 language of this people. —adj. Of this people or language. [native name]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

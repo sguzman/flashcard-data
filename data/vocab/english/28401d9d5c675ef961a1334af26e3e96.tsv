@@ -1,1 +1,6 @@
-Gambit	n. 1 chess opening in which a player sacrifices a piece or pawn to secure an advantage. 2 opening move in a discussion etc. 3 trick or device. [italian gambetto tripping up]
+Gambit	n. 1 chess opening in which a player sacrifices a piece or pawn to secure an advantage. 2 opening move in a discussion etc. 3 trick or device. [italian gambetto tripping up]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

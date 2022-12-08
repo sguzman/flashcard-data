@@ -1,1 +1,6 @@
-Converse2	—adj. Opposite, contrary, reversed. —n. Something, esp. A statement or proposition, that is opposite or reversed.  conversely adv. [latin: related to *convert]
+Converse2	—adj. Opposite, contrary, reversed. —n. Something, esp. A statement or proposition, that is opposite or reversed.  conversely adv. [latin: related to *convert]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

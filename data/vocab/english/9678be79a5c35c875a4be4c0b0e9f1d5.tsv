@@ -1,1 +1,6 @@
-Souse	—v. (-sing) 1 immerse in pickle or other liquid. 2 (as soused adj.) Colloq. Drunk. 3 (usu. Foll. By in) soak (a thing) in liquid. —n. 1 a pickle made with salt. B us food in pickle. 2 plunge or drench in water. [french sous]
+Souse	—v. (-sing) 1 immerse in pickle or other liquid. 2 (as soused adj.) Colloq. Drunk. 3 (usu. Foll. By in) soak (a thing) in liquid. —n. 1 a pickle made with salt. B us food in pickle. 2 plunge or drench in water. [french sous]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

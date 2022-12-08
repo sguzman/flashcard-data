@@ -1,1 +1,6 @@
-Sweepstake	n. 1 form of gambling in which all stakes are pooled and paid to the winners. 2 race with betting of this kind. 3 prize(s) won in a sweepstake.
+Sweepstake	n. 1 form of gambling in which all stakes are pooled and paid to the winners. 2 race with betting of this kind. 3 prize(s) won in a sweepstake.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

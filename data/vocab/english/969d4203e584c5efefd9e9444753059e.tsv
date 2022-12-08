@@ -1,1 +1,6 @@
-Talent	n. 1 special aptitude or faculty (talent for music). 2 high mental ability. 3 a person or persons of talent. B colloq. Attractive members of the opposite sex (plenty of local talent). 4 ancient esp. Greek weight and unit of currency.  talented adj. [greek talanton]
+Talent	n. 1 special aptitude or faculty (talent for music). 2 high mental ability. 3 a person or persons of talent. B colloq. Attractive members of the opposite sex (plenty of local talent). 4 ancient esp. Greek weight and unit of currency.  talented adj. [greek talanton]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

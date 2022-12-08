@@ -1,1 +1,6 @@
-Publication	n. 1 a preparation and issuing of a book, newspaper, etc. To the public. B book etc. So issued. 2 making something publicly known. [latin: related to *public]
+Publication	n. 1 a preparation and issuing of a book, newspaper, etc. To the public. B book etc. So issued. 2 making something publicly known. [latin: related to *public]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Impulse	n. 1 sudden urge (felt an impulse to laugh). 2 tendency to follow such urges (man of impulse). 3 impelling; a push. 4 impetus. 5 physics a large temporary force producing a change of momentum (e.g. A hammer-blow). B change of momentum so produced. 6 wave of excitation in a nerve. [latin: related to *pulse1]
+Impulse	n. 1 sudden urge (felt an impulse to laugh). 2 tendency to follow such urges (man of impulse). 3 impelling; a push. 4 impetus. 5 physics a large temporary force producing a change of momentum (e.g. A hammer-blow). B change of momentum so produced. 6 wave of excitation in a nerve. [latin: related to *pulse1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

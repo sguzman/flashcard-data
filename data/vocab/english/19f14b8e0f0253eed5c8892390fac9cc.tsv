@@ -1,1 +1,6 @@
-Alarm	—n. 1 warning of danger etc. 2 a warning sound or device. B = *alarm clock. 3 apprehension (filled with alarm). —v. 1 frighten or disturb. 2 warn.  alarming adj. Alarmingly adv. [italian all'arme! To arms]
+Alarm	—n. 1 warning of danger etc. 2 a warning sound or device. B = *alarm clock. 3 apprehension (filled with alarm). —v. 1 frighten or disturb. 2 warn.  alarming adj. Alarmingly adv. [italian all'arme! To arms]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

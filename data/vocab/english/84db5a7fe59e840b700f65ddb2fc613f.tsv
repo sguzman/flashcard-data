@@ -1,1 +1,6 @@
-Magnitude	n. 1 largeness. 2 size. 3 importance. 4 a degree of brightness of a star. B class of stars arranged according to this (of the third magnitude).  of the first magnitude very important. [latin magnus great]
+Magnitude	n. 1 largeness. 2 size. 3 importance. 4 a degree of brightness of a star. B class of stars arranged according to this (of the third magnitude).  of the first magnitude very important. [latin magnus great]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

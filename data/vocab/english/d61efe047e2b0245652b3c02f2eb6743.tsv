@@ -1,1 +1,6 @@
-Forty	adj. & n. (pl. -ies) 1 four times ten. 2 symbol for this (40, xl, xl). 3 (in pl.) Numbers from 40 to 49, esp. The years of a century or of a person's life.  fortieth adj. & n. [old english: related to *four]
+Forty	adj. & n. (pl. -ies) 1 four times ten. 2 symbol for this (40, xl, xl). 3 (in pl.) Numbers from 40 to 49, esp. The years of a century or of a person's life.  fortieth adj. & n. [old english: related to *four]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

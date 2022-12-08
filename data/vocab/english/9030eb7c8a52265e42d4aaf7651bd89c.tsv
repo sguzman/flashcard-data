@@ -1,1 +1,6 @@
-Hacker	n. 1 person or thing that hacks or cuts roughly. 2 colloq. A person whose hobby is computing or computer programming. B person who uses a computer to gain unauthorized access to a computer network.
+Hacker	n. 1 person or thing that hacks or cuts roughly. 2 colloq. A person whose hobby is computing or computer programming. B person who uses a computer to gain unauthorized access to a computer network.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

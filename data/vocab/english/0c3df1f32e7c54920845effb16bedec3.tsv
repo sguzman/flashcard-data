@@ -1,1 +1,6 @@
-Ventricle	n. 1 cavity in the body. 2 hollow part of an organ, esp. The brain or heart.  ventricular adj. [latin ventriculus diminutive of venter belly]
+Ventricle	n. 1 cavity in the body. 2 hollow part of an organ, esp. The brain or heart.  ventricular adj. [latin ventriculus diminutive of venter belly]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

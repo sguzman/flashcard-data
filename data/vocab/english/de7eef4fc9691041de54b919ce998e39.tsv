@@ -1,1 +1,6 @@
-Éminence grise	n. (pl. Éminences grises pronunc. Same) person who exercises power or influence without holding office. [french, = grey cardinal (orig. Of richelieu's secretary)]
+Éminence grise	n. (pl. Éminences grises pronunc. Same) person who exercises power or influence without holding office. [french, = grey cardinal (orig. Of richelieu's secretary)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

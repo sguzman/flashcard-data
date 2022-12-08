@@ -1,1 +1,6 @@
-Downhill	—adv. In a descending direction. —adj. Sloping down, declining. —n. 1 downhill race in skiing. 2 downward slope.  go downhill colloq. Deteriorate.
+Downhill	—adv. In a descending direction. —adj. Sloping down, declining. —n. 1 downhill race in skiing. 2 downward slope.  go downhill colloq. Deteriorate.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

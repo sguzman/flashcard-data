@@ -1,1 +1,6 @@
-Parrot	—n. 1 mainly tropical bird with a short hooked bill, often vivid plumage, and the ability to mimic the human voice. 2 person who mechanically repeats another's words or actions. —v. (-t-) repeat mechanically. [french, diminutive of pierre peter]
+Parrot	—n. 1 mainly tropical bird with a short hooked bill, often vivid plumage, and the ability to mimic the human voice. 2 person who mechanically repeats another's words or actions. —v. (-t-) repeat mechanically. [french, diminutive of pierre peter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tenement	n. 1 room or flat within a house or block of flats. 2 (also tenement-house or -block) house or block so divided. [latin teneo hold]
+Tenement	n. 1 room or flat within a house or block of flats. 2 (also tenement-house or -block) house or block so divided. [latin teneo hold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

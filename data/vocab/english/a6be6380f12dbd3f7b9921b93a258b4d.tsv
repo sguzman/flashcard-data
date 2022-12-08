@@ -1,1 +1,6 @@
-Ashamed	adj. (usu. Predic.) 1 embarrassed by shame (ashamed of myself). 2 (foll. By to + infin.) Hesitant, reluctant out of shame (am ashamed to say). [old english a- intensive prefix]
+Ashamed	adj. (usu. Predic.) 1 embarrassed by shame (ashamed of myself). 2 (foll. By to + infin.) Hesitant, reluctant out of shame (am ashamed to say). [old english a- intensive prefix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

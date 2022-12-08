@@ -1,1 +1,6 @@
-Several	—adj. & pron. More than two but not many; a few. —adj. Formal separate or respective (went their several ways).  severally adv. [latin separ distinct]
+Several	—adj. & pron. More than two but not many; a few. —adj. Formal separate or respective (went their several ways).  severally adv. [latin separ distinct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

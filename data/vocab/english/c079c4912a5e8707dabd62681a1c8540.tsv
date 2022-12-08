@@ -1,1 +1,6 @@
-Hard-boiled	adj. 1 (of an egg) boiled until the white and yolk are solid. 2 colloq. (of a person) tough, shrewd.
+Hard-boiled	adj. 1 (of an egg) boiled until the white and yolk are solid. 2 colloq. (of a person) tough, shrewd.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

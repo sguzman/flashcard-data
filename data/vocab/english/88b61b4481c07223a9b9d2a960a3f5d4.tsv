@@ -1,1 +1,6 @@
-Weal1	—n. Ridge raised on the flesh by a stroke of a rod or whip. —v. Mark with a weal. [var. Of *wale]
+Weal1	—n. Ridge raised on the flesh by a stroke of a rod or whip. —v. Mark with a weal. [var. Of *wale]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

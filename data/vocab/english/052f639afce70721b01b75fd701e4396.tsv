@@ -1,1 +1,6 @@
-Warehouse	 —n. 1 building in which goods are stored. 2 wholesale or large retail store. —v. (-sing) store temporarily in a repository.
+Warehouse	—n. 1 building in which goods are stored. 2 wholesale or large retail store. —v. (-sing) store temporarily in a repository.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

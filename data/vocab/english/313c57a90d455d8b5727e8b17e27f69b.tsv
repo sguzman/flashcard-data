@@ -1,1 +1,6 @@
-Wasteland	n. 1 unproductive or useless area of land. 2 place or time considered spiritually or intellectually barren.
+Wasteland	n. 1 unproductive or useless area of land. 2 place or time considered spiritually or intellectually barren.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

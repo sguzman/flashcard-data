@@ -1,1 +1,6 @@
-Bust2	—v. (past and past part. Busted or bust) colloq. 1 break, burst. 2 a raid, search. B arrest. —adj. (also busted) 1 broken, burst. 2 bankrupt.  bust up 1 collapse. 2 (esp. Of a married couple) separate. [var. Of *burst]
+Bust2	—v. (past and past part. Busted or bust) colloq. 1 break, burst. 2 a raid, search. B arrest. —adj. (also busted) 1 broken, burst. 2 bankrupt.  bust up 1 collapse. 2 (esp. Of a married couple) separate. [var. Of *burst]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

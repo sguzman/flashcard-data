@@ -1,1 +1,6 @@
-Co-opt	v. Appoint to membership of a body by invitation of the existing members.  co-option n. Co-optive adj. [latin coopto from opto choose]
+Co-opt	v. Appoint to membership of a body by invitation of the existing members.  co-option n. Co-optive adj. [latin coopto from opto choose]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

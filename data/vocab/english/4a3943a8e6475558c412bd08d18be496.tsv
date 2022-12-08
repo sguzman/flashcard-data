@@ -1,1 +1,6 @@
-Housing	n. 1 a dwelling-houses collectively. B provision of these. 2 shelter, lodging. 3 rigid casing for machinery etc. 4 hole or niche cut in one piece of wood for another to fit into.
+Housing	n. 1 a dwelling-houses collectively. B provision of these. 2 shelter, lodging. 3 rigid casing for machinery etc. 4 hole or niche cut in one piece of wood for another to fit into.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

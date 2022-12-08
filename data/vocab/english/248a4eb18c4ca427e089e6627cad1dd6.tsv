@@ -1,1 +1,6 @@
-Mademoiselle	n. (pl. Mesdemoiselles) 1 miss or madam (used of or to an unmarried french-speaking woman). 2 (mademoiselle) a young frenchwoman. B french governess. [french ma my, demoiselle *damsel]
+Mademoiselle	n. (pl. Mesdemoiselles) 1 miss or madam (used of or to an unmarried french-speaking woman). 2 (mademoiselle) a young frenchwoman. B french governess. [french ma my, demoiselle *damsel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

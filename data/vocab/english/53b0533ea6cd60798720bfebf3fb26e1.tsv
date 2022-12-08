@@ -1,1 +1,6 @@
-Mighty	—adj. (-ier, -iest) 1 powerful, strong. 2 massive, bulky. 3 colloq. Great, considerable. —adv. Colloq. Very (mighty difficult).  mightily adv. Mightiness n. [old english: related to *might2]
+Mighty	—adj. (-ier, -iest) 1 powerful, strong. 2 massive, bulky. 3 colloq. Great, considerable. —adv. Colloq. Very (mighty difficult).  mightily adv. Mightiness n. [old english: related to *might2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Ancillary	—adj. 1 (esp. Of health workers) providing essential support. 2 (often foll. By to) subordinate, subservient. —n. (pl. -ies) 1 ancillary worker. 2 auxiliary or accessory. [latin ancilla handmaid]
+Ancillary	—adj. 1 (esp. Of health workers) providing essential support. 2 (often foll. By to) subordinate, subservient. —n. (pl. -ies) 1 ancillary worker. 2 auxiliary or accessory. [latin ancilla handmaid]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

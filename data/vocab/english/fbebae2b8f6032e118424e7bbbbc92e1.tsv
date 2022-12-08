@@ -1,1 +1,6 @@
-Moderator	n. 1 arbitrator, mediator. 2 presiding officer. 3 presbyterian minister presiding over an ecclesiastical body. 4 physics substance used in a nuclear reactor to retard neutrons.
+Moderator	n. 1 arbitrator, mediator. 2 presiding officer. 3 presbyterian minister presiding over an ecclesiastical body. 4 physics substance used in a nuclear reactor to retard neutrons.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

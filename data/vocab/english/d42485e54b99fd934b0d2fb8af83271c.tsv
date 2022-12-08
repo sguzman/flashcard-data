@@ -1,1 +1,6 @@
-Cantaloup	n. (also cantaloupe) small round ribbed melon. [cantaluppi near rome, where it was first grown in europe]
+Cantaloup	n. (also cantaloupe) small round ribbed melon. [cantaluppi near rome, where it was first grown in europe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

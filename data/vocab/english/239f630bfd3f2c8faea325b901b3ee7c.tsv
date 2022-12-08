@@ -1,1 +1,6 @@
-Brick	—n. 1 a small usu. Rectangular block of fired or sun-dried clay used in building. B material of this. 2 child's toy block. 3 brick-shaped thing. 4 slang generous or loyal person. —v. (foll. By in, up) close or block with brickwork. —adj. 1 built of brick (brick wall). 2 (also brick-red) dull red. [low german or dutch]
+Brick	—n. 1 a small usu. Rectangular block of fired or sun-dried clay used in building. B material of this. 2 child's toy block. 3 brick-shaped thing. 4 slang generous or loyal person. —v. (foll. By in, up) close or block with brickwork. —adj. 1 built of brick (brick wall). 2 (also brick-red) dull red. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

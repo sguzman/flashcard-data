@@ -1,1 +1,6 @@
-Recorder	n. 1 apparatus for recording, esp. A video or tape recorder. 2 (also recorder) barrister or solicitor of at least ten years' standing, serving as a part-time judge. 3 wooden or plastic wind instrument with holes covered by the fingers. 4 keeper of records.
+Recorder	n. 1 apparatus for recording, esp. A video or tape recorder. 2 (also recorder) barrister or solicitor of at least ten years' standing, serving as a part-time judge. 3 wooden or plastic wind instrument with holes covered by the fingers. 4 keeper of records.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hydrate	—n. Compound in which water is chemically combined with another compound or an element. —v. (-ting) 1 combine chemically with water. 2 cause to absorb water.  hydration n. [french: related to *hydro-]
+Hydrate	—n. Compound in which water is chemically combined with another compound or an element. —v. (-ting) 1 combine chemically with water. 2 cause to absorb water.  hydration n. [french: related to *hydro-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

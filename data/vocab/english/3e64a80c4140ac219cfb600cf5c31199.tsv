@@ -1,1 +1,6 @@
-Broadcast	—v. (past and past part. Broadcast) 1 transmit by radio or television. 2 take part in such a transmission. 3 scatter (seed etc.). 4 disseminate (information) widely. —n. Radio or television programme or transmission.  broadcaster n. Broadcasting n.
+Broadcast	—v. (past and past part. Broadcast) 1 transmit by radio or television. 2 take part in such a transmission. 3 scatter (seed etc.). 4 disseminate (information) widely. —n. Radio or television programme or transmission.  broadcaster n. Broadcasting n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

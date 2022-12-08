@@ -1,1 +1,6 @@
-Cilium	n. (pl. Cilia) 1 minute hairlike structure on the surface of many animal cells. 2 eyelash.  ciliary adj. Ciliate adj. [latin, = eyelash]
+Cilium	n. (pl. Cilia) 1 minute hairlike structure on the surface of many animal cells. 2 eyelash.  ciliary adj. Ciliate adj. [latin, = eyelash]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

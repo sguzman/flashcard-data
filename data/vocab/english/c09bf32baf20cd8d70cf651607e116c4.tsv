@@ -1,1 +1,6 @@
-Perch1	—n. 1 bar, branch, etc. Used by a bird to rest on. 2 high place for a person or thing to rest on. 3  hist. Measure of length, esp. For land, of 51/2 yards. —v. (usu. Foll. By on) settle or rest on or as on a perch etc. [latin pertica pole]
+Perch1	—n. 1 bar, branch, etc. Used by a bird to rest on. 2 high place for a person or thing to rest on. 3  hist. Measure of length, esp. For land, of 51/2 yards. —v. (usu. Foll. By on) settle or rest on or as on a perch etc. [latin pertica pole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

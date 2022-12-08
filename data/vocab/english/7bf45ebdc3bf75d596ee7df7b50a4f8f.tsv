@@ -1,1 +1,6 @@
-Usage	the form onto is still not fully accepted in the way that into is, although it is in wide use. It is however useful in distinguishing sense as between we drove on to the beach (i.e. In that direction) and we drove onto the beach (i.e. In contact with it).
+Usage	the form onto is still not fully accepted in the way that into is, although it is in wide use. It is however useful in distinguishing sense as between we drove on to the beach (i.e. In that direction) and we drove onto the beach (i.e. In contact with it).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

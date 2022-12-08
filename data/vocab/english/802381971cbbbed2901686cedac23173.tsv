@@ -1,1 +1,6 @@
-Empire	n. 1 large group of states or countries under a single authority. 2 supreme dominion. 3 large commercial organization etc. Owned or directed by one person. 4 (the empire) hist. The british empire. [latin imperium dominion]
+Empire	n. 1 large group of states or countries under a single authority. 2 supreme dominion. 3 large commercial organization etc. Owned or directed by one person. 4 (the empire) hist. The british empire. [latin imperium dominion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

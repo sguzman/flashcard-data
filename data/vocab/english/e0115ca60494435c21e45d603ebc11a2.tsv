@@ -1,1 +1,6 @@
-Transgress	v. (also absol.) Go beyond the bounds or limits set by (a commandment, law, etc.); sin.  transgression n. Transgressor n. [latin transgredior -gress-]
+Transgress	v. (also absol.) Go beyond the bounds or limits set by (a commandment, law, etc.); sin.  transgression n. Transgressor n. [latin transgredior -gress-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

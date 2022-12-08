@@ -1,1 +1,6 @@
-Religious	—adj. 1 devoted to religion; pious, devout. 2 of or concerned with religion. 3 of or belonging to a monastic order. 4 scrupulous, conscientious. —n. (pl. Same) person bound by monastic vows.  religiously adv. [latin religiosus: related to *religion]
+Religious	—adj. 1 devoted to religion; pious, devout. 2 of or concerned with religion. 3 of or belonging to a monastic order. 4 scrupulous, conscientious. —n. (pl. Same) person bound by monastic vows.  religiously adv. [latin religiosus: related to *religion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

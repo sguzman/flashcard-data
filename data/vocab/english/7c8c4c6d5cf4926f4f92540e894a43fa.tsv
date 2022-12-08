@@ -1,1 +1,6 @@
-Usage	use of disinterested in sense 2 is common in informal use, but is widely regarded as incorrect. The use of the noun disinterest to mean ‘lack of interest’ is also objected to but it is rarely used in any other sense and the alternative uninterest is rare.
+Usage	use of disinterested in sense 2 is common in informal use, but is widely regarded as incorrect. The use of the noun disinterest to mean ‘lack of interest’ is also objected to but it is rarely used in any other sense and the alternative uninterest is rare.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

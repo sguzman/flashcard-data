@@ -1,1 +1,6 @@
-Sylvan	adj. (also silvan) 1 a of the woods. B having woods. 2 rural. [latin silva a wood]
+Sylvan	adj. (also silvan) 1 a of the woods. B having woods. 2 rural. [latin silva a wood]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

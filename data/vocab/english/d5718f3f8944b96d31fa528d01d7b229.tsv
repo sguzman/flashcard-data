@@ -1,1 +1,6 @@
-Description	n. 1 a describing or being described. B representation, esp. In words. 2 sort, kind (no food of any description). [latin: related to *describe]
+Description	n. 1 a describing or being described. B representation, esp. In words. 2 sort, kind (no food of any description). [latin: related to *describe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

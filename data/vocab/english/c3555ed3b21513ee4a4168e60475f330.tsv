@@ -1,1 +1,6 @@
-Sesame	n. 1 e. Indian plant with oil-yielding seeds. 2 its seeds.  open sesame magic phrase for opening a locked door or gaining access. [greek]
+Sesame	n. 1 e. Indian plant with oil-yielding seeds. 2 its seeds.  open sesame magic phrase for opening a locked door or gaining access. [greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

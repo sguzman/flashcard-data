@@ -1,1 +1,6 @@
- saffron	—n. 1 deep yellow food colouring and flavouring made from dried crocus stigmas. 2 colour of this. —adj. Deep yellow. [french from arabic]
+saffron	—n. 1 deep yellow food colouring and flavouring made from dried crocus stigmas. 2 colour of this. —adj. Deep yellow. [french from arabic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

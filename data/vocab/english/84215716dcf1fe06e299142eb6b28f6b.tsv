@@ -1,1 +1,6 @@
-Pinchbeck	—n. Goldlike alloy of copper and zinc used in cheap jewellery etc. —adj. Counterfeit, sham. [pinchbeck, name of a watchmaker]
+Pinchbeck	—n. Goldlike alloy of copper and zinc used in cheap jewellery etc. —adj. Counterfeit, sham. [pinchbeck, name of a watchmaker]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Bittern	n. Wading bird of the heron family. [french butor from latin butio]
+Bittern	n. Wading bird of the heron family. [french butor from latin butio]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Indenture	—n. 1 (usu. In pl.) Sealed agreement or contract. 2 formal list, certificate, etc. —v. (-ring) hist. Bind by indentures, esp. As an apprentice. [anglo-french: related to *indent]
+Indenture	—n. 1 (usu. In pl.) Sealed agreement or contract. 2 formal list, certificate, etc. —v. (-ring) hist. Bind by indentures, esp. As an apprentice. [anglo-french: related to *indent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

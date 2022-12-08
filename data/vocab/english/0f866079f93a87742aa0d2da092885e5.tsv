@@ -1,1 +1,6 @@
-Drama	n. 1 play for stage or broadcasting. 2 art of writing, acting, or presenting plays. 3 dramatic event or quality (the drama of the situation). [latin from greek drao do]
+Drama	n. 1 play for stage or broadcasting. 2 art of writing, acting, or presenting plays. 3 dramatic event or quality (the drama of the situation). [latin from greek drao do]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

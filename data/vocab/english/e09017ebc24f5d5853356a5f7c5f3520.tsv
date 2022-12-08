@@ -1,1 +1,6 @@
-Involution	n. 1 involving. 2 intricacy. 3 curling inwards. 4 part that curls inwards.
+Involution	n. 1 involving. 2 intricacy. 3 curling inwards. 4 part that curls inwards.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

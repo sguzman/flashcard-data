@@ -1,1 +1,6 @@
-Stonewall	v. 1 obstruct (a discussion or investigation) with evasive answers etc. 2 cricket bat with excessive caution.
+Stonewall	v. 1 obstruct (a discussion or investigation) with evasive answers etc. 2 cricket bat with excessive caution.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

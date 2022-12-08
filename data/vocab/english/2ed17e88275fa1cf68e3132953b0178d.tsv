@@ -1,1 +1,6 @@
-Bill of exchange	n. Written order to pay a sum of money on a given date to the drawer or to a named payee.
+Bill of exchange	n. Written order to pay a sum of money on a given date to the drawer or to a named payee.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

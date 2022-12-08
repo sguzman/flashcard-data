@@ -1,1 +1,6 @@
-Almighty	adj. 1 having complete power. 2 (the almighty) god. 3 slang very great (almighty crash). [old english: related to *all, *mighty]
+Almighty	adj. 1 having complete power. 2 (the almighty) god. 3 slang very great (almighty crash). [old english: related to *all, *mighty]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

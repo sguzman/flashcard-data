@@ -1,1 +1,6 @@
-Peremptory	adj. 1 (of a statement or command) admitting no denial or refusal. 2 (of a person, manner, etc.) Imperious; dictatorial.  peremptorily adv. Peremptoriness n. [latin peremptorius deadly, decisive]
+Peremptory	adj. 1 (of a statement or command) admitting no denial or refusal. 2 (of a person, manner, etc.) Imperious; dictatorial.  peremptorily adv. Peremptoriness n. [latin peremptorius deadly, decisive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

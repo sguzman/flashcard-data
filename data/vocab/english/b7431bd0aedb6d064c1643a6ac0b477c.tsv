@@ -1,1 +1,6 @@
-Require	v. (-ring) 1 need; depend on for success or fulfilment (the work requires patience). 2 lay down as an imperative (required by law). 3 command; instruct (a person etc.). 4 order; insist on (an action or measure).  requirement n. [latin requiro -quisit- seek]
+Require	v. (-ring) 1 need; depend on for success or fulfilment (the work requires patience). 2 lay down as an imperative (required by law). 3 command; instruct (a person etc.). 4 order; insist on (an action or measure).  requirement n. [latin requiro -quisit- seek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

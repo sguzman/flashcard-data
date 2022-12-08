@@ -1,1 +1,6 @@
-Occlude	v. (-ding) 1 stop up or close. 2 chem. Absorb and retain (gases). 3 (as occluded adj.) Meteorol. (of a frontal system) formed when a cold front overtakes a warm front, raising warm air from ground level.  occlusion n. [latin occludo occlus- close up]
+Occlude	v. (-ding) 1 stop up or close. 2 chem. Absorb and retain (gases). 3 (as occluded adj.) Meteorol. (of a frontal system) formed when a cold front overtakes a warm front, raising warm air from ground level.  occlusion n. [latin occludo occlus- close up]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

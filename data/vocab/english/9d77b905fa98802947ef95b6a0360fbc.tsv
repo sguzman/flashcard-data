@@ -1,1 +1,6 @@
-Imagine	v. (-ning) 1 a form a mental image or concept of. B picture to oneself. 2 think of as probable (can't imagine he'd be so stupid). 3 guess (can't imagine what he is doing). 4 suppose (i imagine you'll need help).  imaginable adj. [latin imaginor] 
+Imagine	v. (-ning) 1 a form a mental image or concept of. B picture to oneself. 2 think of as probable (can't imagine he'd be so stupid). 3 guess (can't imagine what he is doing). 4 suppose (i imagine you'll need help).  imaginable adj. [latin imaginor]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

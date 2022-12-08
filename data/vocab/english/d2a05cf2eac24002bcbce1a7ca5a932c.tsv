@@ -1,1 +1,6 @@
-Superannuate	v. (-ting) 1 pension (a person) off. 2 dismiss or discard as too old. 3 (as superannuated adj.) Too old for work or use. [latin annus year]
+Superannuate	v. (-ting) 1 pension (a person) off. 2 dismiss or discard as too old. 3 (as superannuated adj.) Too old for work or use. [latin annus year]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

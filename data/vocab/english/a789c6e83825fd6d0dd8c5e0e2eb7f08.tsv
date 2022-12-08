@@ -1,1 +1,6 @@
-Personality	n. (pl. -ies) 1 a person's distinctive character or qualities (has a strong personality). B socially attractive qualities (was clever but had no personality). 2 famous person (tv personality). 3 (in pl.) Personal remarks.
+Personality	n. (pl. -ies) 1 a person's distinctive character or qualities (has a strong personality). B socially attractive qualities (was clever but had no personality). 2 famous person (tv personality). 3 (in pl.) Personal remarks.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

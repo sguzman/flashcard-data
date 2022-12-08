@@ -1,1 +1,6 @@
-Etch	v. 1 a reproduce (a picture etc.) By engraving it on a metal plate with acid (esp. To print copies). B engrave (a plate) in this way. 2 practise this craft. 3 (foll. By on, upon) impress deeply (esp. On the mind).  etcher n. [dutch etsen]
+Etch	v. 1 a reproduce (a picture etc.) By engraving it on a metal plate with acid (esp. To print copies). B engrave (a plate) in this way. 2 practise this craft. 3 (foll. By on, upon) impress deeply (esp. On the mind).  etcher n. [dutch etsen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

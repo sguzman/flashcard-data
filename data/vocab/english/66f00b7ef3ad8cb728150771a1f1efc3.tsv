@@ -1,1 +1,6 @@
-Absorb	v. 1 incorporate as part of itself or oneself. 2 take in, suck up (liquid, heat, knowledge, etc.). 3 reduce the effect or intensity of; deal easily with (an impact, sound, difficulty, etc.). 4 consume (resources etc.). 5 (often as absorbing adj.) Engross the attention of. [latin sorbeo suck in]
+Absorb	v. 1 incorporate as part of itself or oneself. 2 take in, suck up (liquid, heat, knowledge, etc.). 3 reduce the effect or intensity of; deal easily with (an impact, sound, difficulty, etc.). 4 consume (resources etc.). 5 (often as absorbing adj.) Engross the attention of. [latin sorbeo suck in]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

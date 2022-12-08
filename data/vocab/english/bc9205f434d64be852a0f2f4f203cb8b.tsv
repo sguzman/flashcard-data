@@ -1,1 +1,6 @@
-Legalize	v. (also -ise) (-zing or -sing) 1 make lawful. 2 bring into harmony with the law.  legalization n.
+Legalize	v. (also -ise) (-zing or -sing) 1 make lawful. 2 bring into harmony with the law.  legalization n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

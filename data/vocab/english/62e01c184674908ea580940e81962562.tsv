@@ -1,1 +1,6 @@
-Preside	v. (-ding) 1 (often foll. By at, over) be chairperson or president of a meeting etc. 2 exercise control or authority. [latin sedeo sit]
+Preside	v. (-ding) 1 (often foll. By at, over) be chairperson or president of a meeting etc. 2 exercise control or authority. [latin sedeo sit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

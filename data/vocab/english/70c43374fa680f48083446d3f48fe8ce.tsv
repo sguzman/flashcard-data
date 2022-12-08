@@ -1,1 +1,6 @@
-Photogravure	n. 1 image produced from a photographic negative transferred to a metal plate and etched in. 2 this process. [french gravure engraving]
+Photogravure	n. 1 image produced from a photographic negative transferred to a metal plate and etched in. 2 this process. [french gravure engraving]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

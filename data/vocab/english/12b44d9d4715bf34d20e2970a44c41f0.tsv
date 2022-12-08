@@ -1,1 +1,6 @@
-Estrange	v. (-ging) 1 (usu. In passive; often foll. By from) alienate; make hostile or indifferent. 2 (as estranged adj.) (of a husband or wife) no longer living with his or her spouse.  estrangement n. [latin: related to *strange]
+Estrange	v. (-ging) 1 (usu. In passive; often foll. By from) alienate; make hostile or indifferent. 2 (as estranged adj.) (of a husband or wife) no longer living with his or her spouse.  estrangement n. [latin: related to *strange]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

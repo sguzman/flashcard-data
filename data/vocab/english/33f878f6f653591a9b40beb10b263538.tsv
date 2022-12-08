@@ -1,1 +1,6 @@
-Surge	—n. 1 sudden rush. 2 heavy forward or upward motion. 3 sudden increase in price, activity, etc. 4 sudden increase in voltage of an electric current. 5 swell of the sea. —v. (-ging) 1 move suddenly and powerfully forwards. 2 (of an electric current etc.) Increase suddenly. 3 (of the sea etc.) Swell. [latin surgo rise]
+Surge	—n. 1 sudden rush. 2 heavy forward or upward motion. 3 sudden increase in price, activity, etc. 4 sudden increase in voltage of an electric current. 5 swell of the sea. —v. (-ging) 1 move suddenly and powerfully forwards. 2 (of an electric current etc.) Increase suddenly. 3 (of the sea etc.) Swell. [latin surgo rise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

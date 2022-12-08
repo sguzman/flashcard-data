@@ -1,1 +1,6 @@
-Green	—adj. 1 of the colour between blue and yellow in the spectrum; coloured like grass. 2 covered with leaves or grass. 3 (of fruit etc. Or wood) unripe or unseasoned. 4 not dried, smoked, or tanned. 5 inexperienced, gullible. 6 a (of the complexion) pale, sickly-hued. B jealous, envious. 7 young, flourishing. 8 not withered or worn out (a green old age).
+Green	—adj. 1 of the colour between blue and yellow in the spectrum; coloured like grass. 2 covered with leaves or grass. 3 (of fruit etc. Or wood) unripe or unseasoned. 4 not dried, smoked, or tanned. 5 inexperienced, gullible. 6 a (of the complexion) pale, sickly-hued. B jealous, envious. 7 young, flourishing. 8 not withered or worn out (a green old age).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

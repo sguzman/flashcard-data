@@ -1,1 +1,6 @@
-Wafer	n. 1 very thin light crisp sweet biscuit. 2 disc of unleavened bread used in the eucharist. 3 disc of red paper stuck on a legal document instead of a seal. [anglo-french wafre from germanic]
+Wafer	n. 1 very thin light crisp sweet biscuit. 2 disc of unleavened bread used in the eucharist. 3 disc of red paper stuck on a legal document instead of a seal. [anglo-french wafre from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

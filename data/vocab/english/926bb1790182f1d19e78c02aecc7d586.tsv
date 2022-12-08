@@ -1,1 +1,6 @@
-Mutilate	v. (-ting) 1 a deprive (a person or animal) of a limb or organ. B destroy the use of (a limb or organ). 2 excise or damage part of (a book etc.).  mutilation n. [latin mutilus maimed]
+Mutilate	v. (-ting) 1 a deprive (a person or animal) of a limb or organ. B destroy the use of (a limb or organ). 2 excise or damage part of (a book etc.).  mutilation n. [latin mutilus maimed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Biogenesis	n. 1 hypothesis that a living organism arises only from a similar living organism. 2 synthesis of substances by living organisms.
+Biogenesis	n. 1 hypothesis that a living organism arises only from a similar living organism. 2 synthesis of substances by living organisms.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

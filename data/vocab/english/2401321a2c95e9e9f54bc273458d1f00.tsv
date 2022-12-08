@@ -1,1 +1,6 @@
-Botch	(also bodge) —v. 1 bungle; do badly. 2 patch clumsily. —n. Bungled or spoilt work. [origin unknown]
+Botch	(also bodge) —v. 1 bungle; do badly. 2 patch clumsily. —n. Bungled or spoilt work. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Impose	v. (-sing) 1 (often foll. By on, upon) lay (a tax, duty, charge, or obligation) on. 2 enforce compliance with. 3 also refl. (foll. By on, upon, or absol.) Take advantage of (will not impose on you any longer). 4 (often foll. By on, upon) inflict (a thing) on. [latin impono]
+Impose	v. (-sing) 1 (often foll. By on, upon) lay (a tax, duty, charge, or obligation) on. 2 enforce compliance with. 3 also refl. (foll. By on, upon, or absol.) Take advantage of (will not impose on you any longer). 4 (often foll. By on, upon) inflict (a thing) on. [latin impono]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

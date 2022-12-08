@@ -1,1 +1,6 @@
-Excavate	v. (-ting) 1 a make (a hole or channel) by digging. B dig out material from (the ground). 2 reveal or extract by digging. 3 (also absol.) Archaeol. Dig systematically to explore (a site).  excavation n. Excavator n. [latin excavo: related to *cave]
+Excavate	v. (-ting) 1 a make (a hole or channel) by digging. B dig out material from (the ground). 2 reveal or extract by digging. 3 (also absol.) Archaeol. Dig systematically to explore (a site).  excavation n. Excavator n. [latin excavo: related to *cave]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

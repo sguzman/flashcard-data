@@ -1,1 +1,6 @@
-Presage	—n. 1 omen, portent. 2 presentiment, foreboding. —v. (-ging) 1 portend, foreshadow. 2 give warning of (an event etc.) By natural means. 3 (of a person) predict or have a presentiment of. [latin praesagium]
+Presage	—n. 1 omen, portent. 2 presentiment, foreboding. —v. (-ging) 1 portend, foreshadow. 2 give warning of (an event etc.) By natural means. 3 (of a person) predict or have a presentiment of. [latin praesagium]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

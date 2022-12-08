@@ -1,1 +1,6 @@
-Zero option	n. Disarmament proposal for the total removal of certain types of weapons on both sides.
+Zero option	n. Disarmament proposal for the total removal of certain types of weapons on both sides.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Conspire	v. (-ring) 1 combine secretly for an unlawful or harmful act. 2 (of events) seem to be working together. [latin spiro breathe]
+Conspire	v. (-ring) 1 combine secretly for an unlawful or harmful act. 2 (of events) seem to be working together. [latin spiro breathe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hijack	—v. 1 seize control of (a vehicle etc.), esp. To force it to a different destination. 2 seize (goods) in transit. 3 take control of (talks etc.) By force or subterfuge. —n. A hijacking.  hijacker n. [origin unknown]
+Hijack	—v. 1 seize control of (a vehicle etc.), esp. To force it to a different destination. 2 seize (goods) in transit. 3 take control of (talks etc.) By force or subterfuge. —n. A hijacking.  hijacker n. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

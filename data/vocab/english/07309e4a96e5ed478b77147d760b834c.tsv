@@ -1,1 +1,6 @@
-Optimism	n. 1 inclination to hopefulness and confidence. 2 philos. Belief that this world is as good as it could be or that good must ultimately prevail over evil.  optimist n. Optimistic adj. Optimistically adv. [latin optimus best]
+Optimism	n. 1 inclination to hopefulness and confidence. 2 philos. Belief that this world is as good as it could be or that good must ultimately prevail over evil.  optimist n. Optimistic adj. Optimistically adv. [latin optimus best]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

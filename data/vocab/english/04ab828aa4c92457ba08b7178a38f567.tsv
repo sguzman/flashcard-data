@@ -1,1 +1,6 @@
-Wet-nurse	—n. Woman employed to suckle another's child. —v. 1 act as a wet-nurse to. 2 colloq. Treat as if helpless.
+Wet-nurse	—n. Woman employed to suckle another's child. —v. 1 act as a wet-nurse to. 2 colloq. Treat as if helpless.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

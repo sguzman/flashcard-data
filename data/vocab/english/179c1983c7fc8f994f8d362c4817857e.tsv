@@ -1,1 +1,6 @@
-Philosophers' stone	n. (also philosopher's stone) supreme object of alchemy, a substance supposed to change other metals into gold or silver.
+Philosophers' stone	n. (also philosopher's stone) supreme object of alchemy, a substance supposed to change other metals into gold or silver.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

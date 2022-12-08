@@ -1,1 +1,6 @@
-Golf	—n. Game in which a small hard ball is driven with clubs into a series of 18 or 9 holes with the fewest possible strokes. —v. Play golf.  golfer n. [origin unknown]
+Golf	—n. Game in which a small hard ball is driven with clubs into a series of 18 or 9 holes with the fewest possible strokes. —v. Play golf.  golfer n. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Publish	v. 1 (also absol.) Prepare and issue (a book, newspaper, etc.) For public sale. 2 make generally known. 3 announce formally. [latin: related to *public]
+Publish	v. 1 (also absol.) Prepare and issue (a book, newspaper, etc.) For public sale. 2 make generally known. 3 announce formally. [latin: related to *public]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

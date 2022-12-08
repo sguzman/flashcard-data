@@ -1,1 +1,6 @@
-Decoction	n. 1 boiling down to extract an essence. 2 the resulting liquid. [latin coquo boil]
+Decoction	n. 1 boiling down to extract an essence. 2 the resulting liquid. [latin coquo boil]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

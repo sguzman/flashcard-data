@@ -1,1 +1,6 @@
-Flow chart	n. (also flow diagram or flow sheet) diagram of the movement or action in a complex activity.
+Flow chart	n. (also flow diagram or flow sheet) diagram of the movement or action in a complex activity.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

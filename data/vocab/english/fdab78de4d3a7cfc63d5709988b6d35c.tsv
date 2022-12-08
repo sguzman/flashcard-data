@@ -1,1 +1,6 @@
-Automatic	—adj. 1 working by itself, without direct human intervention. 2 a done spontaneously (automatic reaction). B following inevitably (automatic penalty). 3 (of a firearm) able to be loaded and fired continuously. 4 (of a vehicle or its transmission) using gears that change automatically. —n. 1 automatic machine, firearm, or tool. 2 vehicle with automatic transmission.  automatically adv. [related to *automaton]
+Automatic	—adj. 1 working by itself, without direct human intervention. 2 a done spontaneously (automatic reaction). B following inevitably (automatic penalty). 3 (of a firearm) able to be loaded and fired continuously. 4 (of a vehicle or its transmission) using gears that change automatically. —n. 1 automatic machine, firearm, or tool. 2 vehicle with automatic transmission.  automatically adv. [related to *automaton]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

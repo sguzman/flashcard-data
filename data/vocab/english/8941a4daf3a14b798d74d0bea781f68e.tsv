@@ -1,1 +1,6 @@
-Keyboard	—n. 1 set of keys on a typewriter, computer, piano, etc. 2 electronic musical instrument with keys arranged as on a piano. —v. Enter (data) by means of a keyboard.  keyboarder n. (in sense 1 of n.). Keyboardist n. (in sense 2 of n.).
+Keyboard	—n. 1 set of keys on a typewriter, computer, piano, etc. 2 electronic musical instrument with keys arranged as on a piano. —v. Enter (data) by means of a keyboard.  keyboarder n. (in sense 1 of n.). Keyboardist n. (in sense 2 of n.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

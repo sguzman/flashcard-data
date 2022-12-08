@@ -1,1 +1,6 @@
-Crust	—n. 1 a hard outer part of bread. B hard dry scrap of bread. C slang livelihood. 2 pastry covering of a pie. 3 hard casing over a soft thing. 4 outer portion of the earth. 5 deposit, esp. From wine on a bottle. —v. Cover or become covered with or form into a crust. [latin crusta rind, shell]
+Crust	—n. 1 a hard outer part of bread. B hard dry scrap of bread. C slang livelihood. 2 pastry covering of a pie. 3 hard casing over a soft thing. 4 outer portion of the earth. 5 deposit, esp. From wine on a bottle. —v. Cover or become covered with or form into a crust. [latin crusta rind, shell]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

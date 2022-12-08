@@ -1,1 +1,6 @@
-Torr	n. (pl. Same) unit of pressure equal to 133.32 pascals (1/760 of one atmosphere). [torricelli, name of a physicist]
+Torr	n. (pl. Same) unit of pressure equal to 133.32 pascals (1/760 of one atmosphere). [torricelli, name of a physicist]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

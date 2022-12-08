@@ -1,1 +1,6 @@
-Scald	—v. 1 burn (the skin etc.) With hot liquid or steam. 2 heat (esp. Milk) to near boiling point. 3 (usu. Foll. By out) clean with boiling water. —n. Burn etc. Caused by scalding. [latin excaldo from calidus hot]
+Scald	—v. 1 burn (the skin etc.) With hot liquid or steam. 2 heat (esp. Milk) to near boiling point. 3 (usu. Foll. By out) clean with boiling water. —n. Burn etc. Caused by scalding. [latin excaldo from calidus hot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lade	v. (-ding; past part. Laden) 1 a load (a ship). B ship (goods). 2 (as laden adj.) (usu. Foll. By with) loaded, burdened. [old english]
+Lade	v. (-ding; past part. Laden) 1 a load (a ship). B ship (goods). 2 (as laden adj.) (usu. Foll. By with) loaded, burdened. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

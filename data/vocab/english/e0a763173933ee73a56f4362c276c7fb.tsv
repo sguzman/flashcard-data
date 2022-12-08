@@ -1,1 +1,6 @@
-Wheeze	—v. (-zing) 1 breathe with an audible whistling sound. 2 utter with this sound. —n. 1 sound of wheezing. 2 colloq. Clever scheme.  wheezy adj. (-ier, -iest). Wheezily adv. Wheeziness n. [probably from old norse, = hiss]
+Wheeze	—v. (-zing) 1 breathe with an audible whistling sound. 2 utter with this sound. —n. 1 sound of wheezing. 2 colloq. Clever scheme.  wheezy adj. (-ier, -iest). Wheezily adv. Wheeziness n. [probably from old norse, = hiss]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

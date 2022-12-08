@@ -1,1 +1,6 @@
-Wobbly	adj. (-ier, -iest) 1 tending to wobble. 2 wavy (wobbly line). 3 weak after illness. 4 wavering, insecure (the economy was wobbly).  throw a wobbly slang have a tantrum or fit of nerves.
+Wobbly	adj. (-ier, -iest) 1 tending to wobble. 2 wavy (wobbly line). 3 weak after illness. 4 wavering, insecure (the economy was wobbly).  throw a wobbly slang have a tantrum or fit of nerves.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

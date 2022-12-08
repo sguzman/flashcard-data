@@ -1,1 +1,6 @@
-Significance	n. 1 importance. 2 meaning. 3 being significant. 4 extent to which a result deviates from a hypothesis such that the difference is due to more than errors in sampling. [latin: related to *signify]
+Significance	n. 1 importance. 2 meaning. 3 being significant. 4 extent to which a result deviates from a hypothesis such that the difference is due to more than errors in sampling. [latin: related to *signify]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Ductile	adj. 1 (of metal) capable of being drawn into wire; pliable. 2 easily moulded. 3 docile.  ductility n. [latin: related to *duct]
+Ductile	adj. 1 (of metal) capable of being drawn into wire; pliable. 2 easily moulded. 3 docile.  ductility n. [latin: related to *duct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

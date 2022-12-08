@@ -1,1 +1,6 @@
-Pulley	n. (pl. -s) 1 grooved wheel or wheels for a cord etc. To pass over, set in a block and used for changing the direction of a force. 2 wheel or drum fixed on a shaft and turned by a belt, used esp. To increase speed or power. [french polie: related to *pole2]
+Pulley	n. (pl. -s) 1 grooved wheel or wheels for a cord etc. To pass over, set in a block and used for changing the direction of a force. 2 wheel or drum fixed on a shaft and turned by a belt, used esp. To increase speed or power. [french polie: related to *pole2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

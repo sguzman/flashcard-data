@@ -1,1 +1,6 @@
-Gradate	v. (-ting) 1 (cause to) pass gradually from one shade to another. 2 arrange in steps or grades of size etc.
+Gradate	v. (-ting) 1 (cause to) pass gradually from one shade to another. 2 arrange in steps or grades of size etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

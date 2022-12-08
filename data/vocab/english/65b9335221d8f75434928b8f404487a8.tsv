@@ -1,1 +1,6 @@
-Millennium	n. (pl. -s or millennia) 1 period of 1,000 years, esp. That of christ's prophesied reign on earth (rev. 20:1–5). 2 (esp. Future) period of happiness and prosperity.  millennial adj. [latin mille thousand]
+Millennium	n. (pl. -s or millennia) 1 period of 1,000 years, esp. That of christ's prophesied reign on earth (rev. 20:1–5). 2 (esp. Future) period of happiness and prosperity.  millennial adj. [latin mille thousand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

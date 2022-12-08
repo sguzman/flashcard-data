@@ -1,1 +1,6 @@
-Overtime	—n. 1 time worked in addition to regular hours. 2 payment for this. —adv. In addition to regular hours.
+Overtime	—n. 1 time worked in addition to regular hours. 2 payment for this. —adv. In addition to regular hours.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

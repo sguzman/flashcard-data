@@ -1,1 +1,6 @@
-Solecism	n. 1 mistake of grammar or idiom. 2 offence against etiquette.  solecistic adj. [greek soloikos speaking incorrectly]
+Solecism	n. 1 mistake of grammar or idiom. 2 offence against etiquette.  solecistic adj. [greek soloikos speaking incorrectly]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

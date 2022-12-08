@@ -1,1 +1,6 @@
-Depend	v. 1 (often foll. By on, upon) be controlled or determined by (it depends on luck). 2 (foll. By on, upon) a need (depends on his car). B rely on (i'm depending on good weather). [latin pendeo hang]
+Depend	v. 1 (often foll. By on, upon) be controlled or determined by (it depends on luck). 2 (foll. By on, upon) a need (depends on his car). B rely on (i'm depending on good weather). [latin pendeo hang]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

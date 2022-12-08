@@ -1,1 +1,6 @@
-Fillip	—n. 1 stimulus, incentive. 2 flick with a finger or thumb. —v. (-p-) 1 stimulate. 2 flick. [imitative]
+Fillip	—n. 1 stimulus, incentive. 2 flick with a finger or thumb. —v. (-p-) 1 stimulate. 2 flick. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

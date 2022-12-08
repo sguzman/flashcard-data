@@ -1,1 +1,6 @@
-Iconography	n. 1 the illustration of a subject by drawings or figures. 2 the study of portraits, esp. Of an individual, or of artistic images or symbols. [greek: related to *icon]
+Iconography	n. 1 the illustration of a subject by drawings or figures. 2 the study of portraits, esp. Of an individual, or of artistic images or symbols. [greek: related to *icon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

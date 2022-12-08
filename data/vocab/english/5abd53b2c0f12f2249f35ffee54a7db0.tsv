@@ -1,1 +1,6 @@
-Rooftop	n. 1 outer surface of a roof. 2 (in pl.) Tops of houses etc.  shout it from the rooftops make a thing embarrassingly public.
+Rooftop	n. 1 outer surface of a roof. 2 (in pl.) Tops of houses etc.  shout it from the rooftops make a thing embarrassingly public.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

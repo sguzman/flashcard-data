@@ -1,1 +1,6 @@
-Cyclone	n. 1 winds rotating inwards to an area of low barometric pressure; depression. 2 violent hurricane of limited diameter.  cyclonic adj. [greek kukloma wheel]
+Cyclone	n. 1 winds rotating inwards to an area of low barometric pressure; depression. 2 violent hurricane of limited diameter.  cyclonic adj. [greek kukloma wheel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

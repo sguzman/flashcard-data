@@ -1,1 +1,6 @@
-Revise	v. (-sing) 1 examine or re-examine and improve or amend (esp. Written or printed matter). 2 consider and alter (an opinion etc.). 3 (also absol.) Go over (work learnt or done) again, esp. For an examination.  revisory adj. [latin reviso from video vis- see]
+Revise	v. (-sing) 1 examine or re-examine and improve or amend (esp. Written or printed matter). 2 consider and alter (an opinion etc.). 3 (also absol.) Go over (work learnt or done) again, esp. For an examination.  revisory adj. [latin reviso from video vis- see]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

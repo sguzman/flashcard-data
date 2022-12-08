@@ -1,1 +1,6 @@
-Massage	—n. Rubbing and kneading of the muscles and joints with the hands, to relieve stiffness, cure strains, stimulate, etc. —v. (-ging) 1 apply massage to. 2 manipulate (statistics etc.) To give an acceptable result. 3 flatter (a person's ego etc.). [french]
+Massage	—n. Rubbing and kneading of the muscles and joints with the hands, to relieve stiffness, cure strains, stimulate, etc. —v. (-ging) 1 apply massage to. 2 manipulate (statistics etc.) To give an acceptable result. 3 flatter (a person's ego etc.). [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

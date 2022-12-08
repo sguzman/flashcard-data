@@ -1,1 +1,6 @@
-Broadside	n. 1 vigorous verbal attack. 2 simultaneous firing of all guns from one side of a ship. 3 side of a ship above the water between the bow and quarter.  broadside on sideways on.
+Broadside	n. 1 vigorous verbal attack. 2 simultaneous firing of all guns from one side of a ship. 3 side of a ship above the water between the bow and quarter.  broadside on sideways on.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

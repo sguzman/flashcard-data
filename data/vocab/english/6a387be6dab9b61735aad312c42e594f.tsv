@@ -1,1 +1,6 @@
-Monitor	—n. 1 person or device for checking or warning. 2 school pupil with disciplinary or other special duties. 3 a television receiver used in a studio to select or verify the picture being broadcast. B = *visual display unit. 4 person who listens to and reports on foreign broadcasts etc. 5 detector of radioactive contamination. —v. 1 act as a monitor of. 2 maintain regular surveillance over. 3 regulate the strength of (a recorded or transmitted signal). [latin moneo warn]
+Monitor	—n. 1 person or device for checking or warning. 2 school pupil with disciplinary or other special duties. 3 a television receiver used in a studio to select or verify the picture being broadcast. B = *visual display unit. 4 person who listens to and reports on foreign broadcasts etc. 5 detector of radioactive contamination. —v. 1 act as a monitor of. 2 maintain regular surveillance over. 3 regulate the strength of (a recorded or transmitted signal). [latin moneo warn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

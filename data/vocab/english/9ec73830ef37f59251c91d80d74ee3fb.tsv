@@ -1,1 +1,6 @@
-Druid	n. 1 priest of an ancient celtic religion. 2 member of a modern druidic order, esp. The gorsedd.  druidic adj. Druidism n. [latin from celtic]
+Druid	n. 1 priest of an ancient celtic religion. 2 member of a modern druidic order, esp. The gorsedd.  druidic adj. Druidism n. [latin from celtic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

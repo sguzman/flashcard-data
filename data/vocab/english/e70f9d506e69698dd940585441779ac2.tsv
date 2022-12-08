@@ -1,1 +1,6 @@
-Gulp	—v. 1 (often foll. By down) swallow hastily, greedily, or with effort. 2 swallow gaspingly or with difficulty; choke. 3 (foll. By down, back) suppress (esp. Tears). —n. 1 act of gulping. 2 large mouthful of a drink. [dutch gulpen, imitative]
+Gulp	—v. 1 (often foll. By down) swallow hastily, greedily, or with effort. 2 swallow gaspingly or with difficulty; choke. 3 (foll. By down, back) suppress (esp. Tears). —n. 1 act of gulping. 2 large mouthful of a drink. [dutch gulpen, imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

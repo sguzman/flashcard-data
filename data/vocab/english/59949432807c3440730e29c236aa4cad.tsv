@@ -1,1 +1,6 @@
-Freelance	—n. 1 (also freelancer) person, usu. Self-employed, working for several employers on particular assignments. 2 (attrib.) (freelance editor). —v. (-cing) act as a freelance. —adv. As a freelance. [free lance, a medieval mercenary]
+Freelance	—n. 1 (also freelancer) person, usu. Self-employed, working for several employers on particular assignments. 2 (attrib.) (freelance editor). —v. (-cing) act as a freelance. —adv. As a freelance. [free lance, a medieval mercenary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

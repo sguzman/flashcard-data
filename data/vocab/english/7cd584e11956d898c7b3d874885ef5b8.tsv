@@ -1,1 +1,6 @@
-Fine2	—n. Money to be paid as a penalty. —v. (-ning) punish by a fine (fined him £5).  in fine in short. [french fin settlement of a dispute, from latin finis end]
+Fine2	—n. Money to be paid as a penalty. —v. (-ning) punish by a fine (fined him £5).  in fine in short. [french fin settlement of a dispute, from latin finis end]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

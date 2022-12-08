@@ -1,1 +1,6 @@
-Avert	v. (often foll. By from) 1 turn away (one's eyes or thoughts). 2 prevent or ward off (esp. Danger).
+Avert	v. (often foll. By from) 1 turn away (one's eyes or thoughts). 2 prevent or ward off (esp. Danger).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

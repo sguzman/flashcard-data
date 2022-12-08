@@ -1,1 +1,6 @@
-Copy	—n. (pl. -ies) 1 thing made to imitate another. 2 single specimen of a publication or issue. 3 material to be printed, esp. Regarded as good etc. Reading matter (the crisis will make exciting copy). —v. (-ies, -ied) 1 make a copy of. 2 imitate, do the same as. [latin copia transcript]
+Copy	—n. (pl. -ies) 1 thing made to imitate another. 2 single specimen of a publication or issue. 3 material to be printed, esp. Regarded as good etc. Reading matter (the crisis will make exciting copy). —v. (-ies, -ied) 1 make a copy of. 2 imitate, do the same as. [latin copia transcript]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

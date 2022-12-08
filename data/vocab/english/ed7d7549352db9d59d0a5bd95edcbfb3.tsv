@@ -1,1 +1,6 @@
-Online	computing —adj. Directly connected, so that a computer immediately receives an input from or sends an output to a peripheral process etc.; carried out while so connected or under direct computer control. —adv. With the processing of data carried out simultaneously with its production; while connected to a computer; under direct computer control.
+Online	computing —adj. Directly connected, so that a computer immediately receives an input from or sends an output to a peripheral process etc.; carried out while so connected or under direct computer control. —adv. With the processing of data carried out simultaneously with its production; while connected to a computer; under direct computer control.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

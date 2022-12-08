@@ -1,1 +1,6 @@
-Gold	—n. 1 precious yellow metallic element. 2 colour of gold. 3 a coins or articles made of gold. B wealth. 4 something precious or beautiful. 5 = *gold medal. —adj. 1 made wholly or chiefly of gold. 2 coloured like gold. [old english]
+Gold	—n. 1 precious yellow metallic element. 2 colour of gold. 3 a coins or articles made of gold. B wealth. 4 something precious or beautiful. 5 = *gold medal. —adj. 1 made wholly or chiefly of gold. 2 coloured like gold. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

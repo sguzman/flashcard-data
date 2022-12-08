@@ -1,1 +1,6 @@
-Croquet	—n. 1 lawn game in which wooden balls are driven through hoops with mallets. 2 act of croqueting a ball. —v. (croqueted; croqueting) drive away (an opponent's ball) by placing and then striking one's own against it. [perhaps a dial. Form of french crochet hook]
+Croquet	—n. 1 lawn game in which wooden balls are driven through hoops with mallets. 2 act of croqueting a ball. —v. (croqueted; croqueting) drive away (an opponent's ball) by placing and then striking one's own against it. [perhaps a dial. Form of french crochet hook]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

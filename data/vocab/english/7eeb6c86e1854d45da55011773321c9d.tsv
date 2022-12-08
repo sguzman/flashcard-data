@@ -1,1 +1,6 @@
-Response	n. 1 answer given in a word or act; reply. 2 feeling, movement, or change caused by a stimulus or influence. 3 (often in pl.) Any part of the liturgy said or sung in answer to the priest. [latin: related to *respond]
+Response	n. 1 answer given in a word or act; reply. 2 feeling, movement, or change caused by a stimulus or influence. 3 (often in pl.) Any part of the liturgy said or sung in answer to the priest. [latin: related to *respond]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

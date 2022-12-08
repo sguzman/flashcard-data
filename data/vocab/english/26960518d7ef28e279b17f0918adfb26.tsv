@@ -1,1 +1,6 @@
-Usage	(1) in scientific, philosophical, and general use, this word is usually considered to denote a number of items and is thus treated as plural with datum as the singular. (2) in computing and allied subjects (and sometimes in general use), it is treated as a mass (or collective) noun and used with words like this, that, and much, with singular verbs, e.g. Useful data has been collected. Some people consider use (2) to be incorrect but it is more common than use (1). However, data is not a singular countable noun and cannot be preceded by a, every, each, either, or neither, or be given a plural form datas.
+Usage	(1) in scientific, philosophical, and general use, this word is usually considered to denote a number of items and is thus treated as plural with datum as the singular. (2) in computing and allied subjects (and sometimes in general use), it is treated as a mass (or collective) noun and used with words like this, that, and much, with singular verbs, e.g. Useful data has been collected. Some people consider use (2) to be incorrect but it is more common than use (1). However, data is not a singular countable noun and cannot be preceded by a, every, each, either, or neither, or be given a plural form datas.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

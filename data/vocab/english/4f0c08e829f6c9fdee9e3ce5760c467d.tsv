@@ -1,1 +1,6 @@
-Authority	n. (pl. -ies) 1 a power or right to enforce obedience. B (often foll. By for, or to + infin.) Delegated power. 2 (esp. In pl.) Body having authority. 3 influence based on recognized knowledge or expertise. 4 expert. [latin auctoritas]
+Authority	n. (pl. -ies) 1 a power or right to enforce obedience. B (often foll. By for, or to + infin.) Delegated power. 2 (esp. In pl.) Body having authority. 3 influence based on recognized knowledge or expertise. 4 expert. [latin auctoritas]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

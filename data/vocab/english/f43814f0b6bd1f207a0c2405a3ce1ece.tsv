@@ -1,1 +1,6 @@
-Century	n. (pl. -ies) 1 a 100 years. B any century reckoned from the birth of christ (twentieth century = 1901–2000; fifth century bc = 500–401 bc). 2 score etc. Of 100 esp. By one batsman in cricket. 3 company in the ancient roman army, orig. Of 100 men. [latin centuria: related to *cent]
+Century	n. (pl. -ies) 1 a 100 years. B any century reckoned from the birth of christ (twentieth century = 1901–2000; fifth century bc = 500–401 bc). 2 score etc. Of 100 esp. By one batsman in cricket. 3 company in the ancient roman army, orig. Of 100 men. [latin centuria: related to *cent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

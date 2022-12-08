@@ -1,1 +1,6 @@
-Duplex	—n. (often attrib.) Esp. Us 1 flat on two floors. 2 house subdivided for two families; semi-detached house. —adj. 1 of two parts. 2 computing (of a circuit) allowing simultaneous two-way transmission of signals. [latin, = double]
+Duplex	—n. (often attrib.) Esp. Us 1 flat on two floors. 2 house subdivided for two families; semi-detached house. —adj. 1 of two parts. 2 computing (of a circuit) allowing simultaneous two-way transmission of signals. [latin, = double]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Predominant	adj. 1 predominating. 2 being the strongest or main element.  predominance n. Predominantly adv.
+Predominant	adj. 1 predominating. 2 being the strongest or main element.  predominance n. Predominantly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Grommet	n. (also grummet) 1 metal, plastic, or rubber eyelet placed in a hole to protect or insulate a rope or cable etc. Passed through it. 2 tube passed through the eardrum to make a communication with the middle ear. [french]
+Grommet	n. (also grummet) 1 metal, plastic, or rubber eyelet placed in a hole to protect or insulate a rope or cable etc. Passed through it. 2 tube passed through the eardrum to make a communication with the middle ear. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

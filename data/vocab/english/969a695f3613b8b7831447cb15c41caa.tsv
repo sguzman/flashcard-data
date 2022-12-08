@@ -1,1 +1,6 @@
-Mod	colloq. —adj. Modern. —n. Young person (esp. In the 1960s) of a group known for its smart modern dress. [abbreviation]
+Mod	colloq. —adj. Modern. —n. Young person (esp. In the 1960s) of a group known for its smart modern dress. [abbreviation]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

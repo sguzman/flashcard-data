@@ -1,1 +1,6 @@
-Compound2	n. 1 enclosure or fenced-in space. 2 enclosure, esp. In india, china, etc., in which a factory or house stands. [malay kampong]
+Compound2	n. 1 enclosure or fenced-in space. 2 enclosure, esp. In india, china, etc., in which a factory or house stands. [malay kampong]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

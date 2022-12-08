@@ -1,1 +1,6 @@
-Zest	n. 1 piquancy; stimulating flavour or quality. 2 a keen enjoyment or interest. B (often foll. By for) relish. C gusto. 3 scraping of orange or lemon peel as flavouring.  zestful adj. Zestfully adv. [french]
+Zest	n. 1 piquancy; stimulating flavour or quality. 2 a keen enjoyment or interest. B (often foll. By for) relish. C gusto. 3 scraping of orange or lemon peel as flavouring.  zestful adj. Zestfully adv. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Choice	—n. 1 a act of choosing. B thing or person chosen. 2 range from which to choose. 3 power or opportunity to choose. —adj. Of superior quality. [germanic: related to *choose]
+Choice	—n. 1 a act of choosing. B thing or person chosen. 2 range from which to choose. 3 power or opportunity to choose. —adj. Of superior quality. [germanic: related to *choose]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

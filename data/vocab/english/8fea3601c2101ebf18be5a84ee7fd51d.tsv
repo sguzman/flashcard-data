@@ -1,1 +1,6 @@
-Scots	(also scotch) esp. Scot. —adj. 1 = *scottish adj. 2 in the dialect, accent, etc., of (esp. Lowlands) scotland. —n. 1 = *scottish n. 2 form of english spoken in (esp. Lowlands) scotland. [var. Of *scottish]
+Scots	(also scotch) esp. Scot. —adj. 1 = *scottish adj. 2 in the dialect, accent, etc., of (esp. Lowlands) scotland. —n. 1 = *scottish n. 2 form of english spoken in (esp. Lowlands) scotland. [var. Of *scottish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

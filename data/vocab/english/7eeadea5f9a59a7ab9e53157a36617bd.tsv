@@ -1,1 +1,6 @@
-Materialize	v. (also -ise) (-zing or -sing) 1 become actual fact; happen. 2 colloq. Appear or be present. 3 represent in or assume bodily form.  materialization n.
+Materialize	v. (also -ise) (-zing or -sing) 1 become actual fact; happen. 2 colloq. Appear or be present. 3 represent in or assume bodily form.  materialization n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

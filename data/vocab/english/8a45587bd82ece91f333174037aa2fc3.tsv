@@ -1,1 +1,6 @@
-Dispense	v. (-sing) 1 distribute; deal out. 2 administer. 3 make up and give out (medicine etc.). 4 (foll. By with) do without; make unnecessary. [french from latin pendo pens- weigh]
+Dispense	v. (-sing) 1 distribute; deal out. 2 administer. 3 make up and give out (medicine etc.). 4 (foll. By with) do without; make unnecessary. [french from latin pendo pens- weigh]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

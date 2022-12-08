@@ -1,1 +1,6 @@
-Finesse	—n. 1 refinement. 2 subtle manipulation. 3 artfulness; tact. 4 cards attempt to win a trick with a card that is not the highest held. —v. (-ssing) 1 use or achieve by finesse. 2 cards a make a finesse. B play (a card) as a finesse. [french: related to *fine1]
+Finesse	—n. 1 refinement. 2 subtle manipulation. 3 artfulness; tact. 4 cards attempt to win a trick with a card that is not the highest held. —v. (-ssing) 1 use or achieve by finesse. 2 cards a make a finesse. B play (a card) as a finesse. [french: related to *fine1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

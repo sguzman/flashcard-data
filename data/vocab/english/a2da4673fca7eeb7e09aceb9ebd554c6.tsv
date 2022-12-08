@@ -1,1 +1,6 @@
-Compost	—n. 1 mixture of decayed organic matter. 2 loam soil with fertilizer for growing plants. —v. 1 treat with compost. 2 make into compost. [latin: related to *compose]
+Compost	—n. 1 mixture of decayed organic matter. 2 loam soil with fertilizer for growing plants. —v. 1 treat with compost. 2 make into compost. [latin: related to *compose]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

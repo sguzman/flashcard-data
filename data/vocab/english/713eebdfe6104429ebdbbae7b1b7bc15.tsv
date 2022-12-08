@@ -1,1 +1,6 @@
-Comfort	—n. 1 a state of physical well-being. B (usu. In pl.) Things that make life easy or pleasant. 2 relief of suffering or grief, consolation. 3 person or thing giving consolation. —v. Soothe in grief; console. [latin fortis strong]
+Comfort	—n. 1 a state of physical well-being. B (usu. In pl.) Things that make life easy or pleasant. 2 relief of suffering or grief, consolation. 3 person or thing giving consolation. —v. Soothe in grief; console. [latin fortis strong]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Ethereal	adj. 1 light, airy. 2 highly delicate, esp. In appearance. 3 heavenly.  ethereally adv. [greek: related to *ether]
+Ethereal	adj. 1 light, airy. 2 highly delicate, esp. In appearance. 3 heavenly.  ethereally adv. [greek: related to *ether]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

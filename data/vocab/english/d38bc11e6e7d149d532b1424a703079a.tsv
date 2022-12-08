@@ -1,1 +1,6 @@
-Requisition	—n. 1 official order laying claim to the use of property or materials. 2 formal written demand that some duty should be performed. 3 being called or put into service. —v. Demand the use or supply of, esp. By requisition order. [latin: related to *require]
+Requisition	—n. 1 official order laying claim to the use of property or materials. 2 formal written demand that some duty should be performed. 3 being called or put into service. —v. Demand the use or supply of, esp. By requisition order. [latin: related to *require]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

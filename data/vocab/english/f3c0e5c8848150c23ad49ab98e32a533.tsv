@@ -1,1 +1,6 @@
-Crayon	—n. Stick or pencil of coloured chalk, wax, etc. —v. Draw with crayons. [french craie chalk]
+Crayon	—n. Stick or pencil of coloured chalk, wax, etc. —v. Draw with crayons. [french craie chalk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

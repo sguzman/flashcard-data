@@ -1,1 +1,6 @@
-Bull's-eye	n. 1 centre of a target. 2 hard minty sweet. 3 hemispherical ship's window. 4 small circular window. 5 a hemispherical lens. B lantern with this. 6 boss of glass in a blown glass sheet.
+Bull's-eye	n. 1 centre of a target. 2 hard minty sweet. 3 hemispherical ship's window. 4 small circular window. 5 a hemispherical lens. B lantern with this. 6 boss of glass in a blown glass sheet.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

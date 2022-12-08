@@ -1,1 +1,6 @@
-Callous	adj. 1 unfeeling, insensitive. 2 (also calloused) (of skin) hardened.  callously adv. Callousness n. [latin: related to *callus]
+Callous	adj. 1 unfeeling, insensitive. 2 (also calloused) (of skin) hardened.  callously adv. Callousness n. [latin: related to *callus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Overload	—v. 1 load excessively (with baggage, work, etc.). 2 put too great a demand on (an electrical circuit etc.). —n. Excessive quantity or demand.
+Overload	—v. 1 load excessively (with baggage, work, etc.). 2 put too great a demand on (an electrical circuit etc.). —n. Excessive quantity or demand.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

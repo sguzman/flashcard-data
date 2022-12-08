@@ -1,1 +1,6 @@
-Fiend	n. 1 evil spirit, demon. 2 a wicked or cruel person. B mischievous or annoying person. 3 slang devotee (fitness fiend). 4 difficult or unpleasant thing.  fiendish adj. Fiendishly adv. [old english]
+Fiend	n. 1 evil spirit, demon. 2 a wicked or cruel person. B mischievous or annoying person. 3 slang devotee (fitness fiend). 4 difficult or unpleasant thing.  fiendish adj. Fiendishly adv. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

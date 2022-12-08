@@ -1,1 +1,6 @@
-Polygamy	n. Practice of having more than one wife or (less usu.) Husband at once.  polygamist n. Polygamous adj. [greek gamos marriage]
+Polygamy	n. Practice of having more than one wife or (less usu.) Husband at once.  polygamist n. Polygamous adj. [greek gamos marriage]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pot-hook	n. 1 hook over a hearth for hanging or lifting a pot. 2 curved stroke in handwriting.
+Pot-hook	n. 1 hook over a hearth for hanging or lifting a pot. 2 curved stroke in handwriting.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

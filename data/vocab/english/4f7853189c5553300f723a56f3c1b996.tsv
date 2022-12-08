@@ -1,1 +1,6 @@
-Page1	—n. 1 a leaf of a book, periodical, etc. B each side of this. C what is written or printed on this. 2 episode; memorable event. —v. (-ging) paginate. [latin pagina]
+Page1	—n. 1 a leaf of a book, periodical, etc. B each side of this. C what is written or printed on this. 2 episode; memorable event. —v. (-ging) paginate. [latin pagina]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

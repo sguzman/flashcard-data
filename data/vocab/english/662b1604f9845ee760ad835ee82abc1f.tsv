@@ -1,1 +1,6 @@
-Dissolution	n. 1 dissolving or being dissolved, esp. Of a partnership or of parliament for a new election. 2 breaking up, abolition (of an institution). 3 death.
+Dissolution	n. 1 dissolving or being dissolved, esp. Of a partnership or of parliament for a new election. 2 breaking up, abolition (of an institution). 3 death.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

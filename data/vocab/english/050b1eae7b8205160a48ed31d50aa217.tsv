@@ -1,1 +1,6 @@
-Epiphany	n. (pl. -ies) 1 (epiphany) a manifestation of christ to the magi. B festival of this on 6 january. 2 manifestation of a god or demigod. [greek phaino show]
+Epiphany	n. (pl. -ies) 1 (epiphany) a manifestation of christ to the magi. B festival of this on 6 january. 2 manifestation of a god or demigod. [greek phaino show]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Laud	—v. Praise or extol. —n. 1 praise; hymn of praise. 2 (in pl.) The first morning prayer of the roman catholic church. [latin laus laud-]
+Laud	—v. Praise or extol. —n. 1 praise; hymn of praise. 2 (in pl.) The first morning prayer of the roman catholic church. [latin laus laud-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lady	n. (pl. -ies) 1 a woman regarded as being of superior social status or as having refined manners. B (lady) title of peeresses, female relatives of peers, the wives and widows of knights, etc. 2 (often attrib.) Woman; female (ask that lady; lady butcher). 3 colloq. Wife, girlfriend. 4 ruling woman (lady of the house). 5 (the ladies or ladies') women's public lavatory. [old english, = loaf-kneader]
+Lady	n. (pl. -ies) 1 a woman regarded as being of superior social status or as having refined manners. B (lady) title of peeresses, female relatives of peers, the wives and widows of knights, etc. 2 (often attrib.) Woman; female (ask that lady; lady butcher). 3 colloq. Wife, girlfriend. 4 ruling woman (lady of the house). 5 (the ladies or ladies') women's public lavatory. [old english, = loaf-kneader]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Poach2	v. 1 (also absol.) Catch (game or fish) illegally. 2 (often foll. By on) trespass or encroach on (another's property, territory, etc.). 3 appropriate (another's ideas, staff, etc.).  poacher n. [earlier poche: related to *poach1]
+Poach2	v. 1 (also absol.) Catch (game or fish) illegally. 2 (often foll. By on) trespass or encroach on (another's property, territory, etc.). 3 appropriate (another's ideas, staff, etc.).  poacher n. [earlier poche: related to *poach1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

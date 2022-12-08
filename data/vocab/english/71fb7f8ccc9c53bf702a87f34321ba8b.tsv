@@ -1,1 +1,6 @@
-Discretion	n. 1 being discreet. 2 prudence; good judgement. 3 freedom or authority to act according to one's judgement.  use one's discretion act according to one's own judgement.  discretionary adj. [latin: related to *discern]
+Discretion	n. 1 being discreet. 2 prudence; good judgement. 3 freedom or authority to act according to one's judgement.  use one's discretion act according to one's own judgement.  discretionary adj. [latin: related to *discern]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

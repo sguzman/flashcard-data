@@ -1,1 +1,6 @@
-Vogue	n. 1 (prec. By the) prevailing fashion. 2 (often attrib.) Popular use (had a great vogue).  in vogue in fashion.  voguish adj. [french from italian]
+Vogue	n. 1 (prec. By the) prevailing fashion. 2 (often attrib.) Popular use (had a great vogue).  in vogue in fashion.  voguish adj. [french from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

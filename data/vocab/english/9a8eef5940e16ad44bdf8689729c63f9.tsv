@@ -1,1 +1,6 @@
-Debug	v. (-gg-) colloq. 1 remove concealed microphones from (a room etc.). 2 remove defects from (a computer program etc.). 3 = *delouse.
+Debug	v. (-gg-) colloq. 1 remove concealed microphones from (a room etc.). 2 remove defects from (a computer program etc.). 3 = *delouse.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

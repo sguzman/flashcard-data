@@ -1,1 +1,6 @@
-Woodwork	n. 1 making of things in wood. 2 things made of wood.  crawl out of the woodwork colloq. (of something distasteful) appear.
+Woodwork	n. 1 making of things in wood. 2 things made of wood.  crawl out of the woodwork colloq. (of something distasteful) appear.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

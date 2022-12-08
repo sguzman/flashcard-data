@@ -1,1 +1,6 @@
-Smother	v. 1 suffocate, stifle. 2 (foll. By in, with) overwhelm or cover with (kisses, gifts, kindness, etc.). 3 extinguish (a fire) by covering it. 4 a die of suffocation. B have difficulty breathing. 5 (often foll. By up) suppress or conceal. [old english]
+Smother	v. 1 suffocate, stifle. 2 (foll. By in, with) overwhelm or cover with (kisses, gifts, kindness, etc.). 3 extinguish (a fire) by covering it. 4 a die of suffocation. B have difficulty breathing. 5 (often foll. By up) suppress or conceal. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

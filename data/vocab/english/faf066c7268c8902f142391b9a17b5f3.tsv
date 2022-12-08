@@ -1,1 +1,6 @@
-Usage	some people reject sense 2 of verbal as illogical, and prefer oral. However, verbal is the usual term in expressions such as verbal communication, verbal contract, and verbal evidence.
+Usage	some people reject sense 2 of verbal as illogical, and prefer oral. However, verbal is the usual term in expressions such as verbal communication, verbal contract, and verbal evidence.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

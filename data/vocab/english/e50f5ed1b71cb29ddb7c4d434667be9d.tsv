@@ -1,1 +1,6 @@
-Distance	—n. 1 being far off; remoteness. 2 space between two points. 3 distant point or place. 4 aloofness; reserve. 5 remoter field of vision (in the distance). 6 interval of time. —v. (-cing) (often refl.) 1 place or cause to seem far off; be aloof. 2 leave far behind in a race etc.  at a distance far off. Keep one's distance remain aloof. [latin: related to *dis-, sto stand]
+Distance	—n. 1 being far off; remoteness. 2 space between two points. 3 distant point or place. 4 aloofness; reserve. 5 remoter field of vision (in the distance). 6 interval of time. —v. (-cing) (often refl.) 1 place or cause to seem far off; be aloof. 2 leave far behind in a race etc.  at a distance far off. Keep one's distance remain aloof. [latin: related to *dis-, sto stand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

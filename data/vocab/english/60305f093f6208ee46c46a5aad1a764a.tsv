@@ -1,1 +1,6 @@
-Trammel	—n. 1 (usu. In pl.) Impediment; hindrance (trammels of domesticity). 2 triple drag-net for fishing. —v. (-ll-; us -l-) hamper. [medieval latin tremaculum]
+Trammel	—n. 1 (usu. In pl.) Impediment; hindrance (trammels of domesticity). 2 triple drag-net for fishing. —v. (-ll-; us -l-) hamper. [medieval latin tremaculum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

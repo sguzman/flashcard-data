@@ -1,1 +1,6 @@
-Tenon	n. Wooden projection made for insertion into a cavity, esp. A mortise, in another piece. [latin: related to *tenor]
+Tenon	n. Wooden projection made for insertion into a cavity, esp. A mortise, in another piece. [latin: related to *tenor]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

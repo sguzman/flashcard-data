@@ -1,1 +1,6 @@
-Fungus	n. (pl. -gi or -guses) 1 mushroom, toadstool, or allied plant, including moulds, feeding on organic matter. 2 med. Spongy morbid growth.  fungal adj. Fungous adj. [latin]
+Fungus	n. (pl. -gi or -guses) 1 mushroom, toadstool, or allied plant, including moulds, feeding on organic matter. 2 med. Spongy morbid growth.  fungal adj. Fungous adj. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

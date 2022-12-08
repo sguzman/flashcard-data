@@ -1,1 +1,6 @@
-Uniat	(also uniate) —adj. Of the church in e. Europe or the near east, acknowledging papal supremacy but retaining its own liturgy etc. —n. Member of such a church. [latin unio *union]
+Uniat	(also uniate) —adj. Of the church in e. Europe or the near east, acknowledging papal supremacy but retaining its own liturgy etc. —n. Member of such a church. [latin unio *union]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

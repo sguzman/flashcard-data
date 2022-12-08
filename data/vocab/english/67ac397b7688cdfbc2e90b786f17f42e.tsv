@@ -1,1 +1,6 @@
-Ratio	n. (pl. -s) quantitative relation between two similar magnitudes expressed as the number of times one contains the other (in the ratio of three to two). [latin reor rat- reckon]
+Ratio	n. (pl. -s) quantitative relation between two similar magnitudes expressed as the number of times one contains the other (in the ratio of three to two). [latin reor rat- reckon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

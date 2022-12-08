@@ -1,1 +1,6 @@
-Gilt1	—adj. 1 thinly covered with gold. 2 gold-coloured. —n. 1 gilding. 2 gilt-edged security. [from *gild1]
+Gilt1	—adj. 1 thinly covered with gold. 2 gold-coloured. —n. 1 gilding. 2 gilt-edged security. [from *gild1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Contraction	n. 1 contracting or being contracted. 2 med. Shortening of the uterine muscles during childbirth. 3 shrinking, diminution. 4 shortened form of a word or words (e.g. He's).
+Contraction	n. 1 contracting or being contracted. 2 med. Shortening of the uterine muscles during childbirth. 3 shrinking, diminution. 4 shortened form of a word or words (e.g. He's).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

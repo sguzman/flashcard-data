@@ -1,1 +1,6 @@
-Tingle	—v. (-ling) 1 feel a slight prickling, stinging, or throbbing sensation. 2 cause this (the reply tingled in my ears). —n. Tingling sensation.  tingly adj. [probably from *tinkle]
+Tingle	—v. (-ling) 1 feel a slight prickling, stinging, or throbbing sensation. 2 cause this (the reply tingled in my ears). —n. Tingling sensation.  tingly adj. [probably from *tinkle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

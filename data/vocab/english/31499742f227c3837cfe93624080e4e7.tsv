@@ -1,1 +1,6 @@
-Silly	—adj. (-ier, -iest) 1 foolish, imprudent. 2 weak-minded. 3 cricket (of a fielder or position) very close to the batsman. —n. (pl. -ies) colloq. Foolish person.  sillily adv. Silliness n. [old english, = happy]
+Silly	—adj. (-ier, -iest) 1 foolish, imprudent. 2 weak-minded. 3 cricket (of a fielder or position) very close to the batsman. —n. (pl. -ies) colloq. Foolish person.  sillily adv. Silliness n. [old english, = happy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

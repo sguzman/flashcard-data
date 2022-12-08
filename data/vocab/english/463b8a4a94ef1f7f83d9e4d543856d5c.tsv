@@ -1,1 +1,6 @@
-Recapitulate	v. (-ting) 1 go briefly through again; summarize. 2 go over the main points or headings of. [latin: related to *capital]
+Recapitulate	v. (-ting) 1 go briefly through again; summarize. 2 go over the main points or headings of. [latin: related to *capital]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

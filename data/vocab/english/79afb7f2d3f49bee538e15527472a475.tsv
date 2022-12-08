@@ -1,1 +1,6 @@
-Leader	n. 1 a person or thing that leads. B person followed by others. 2 principal player in a music group or of the first violins in an orchestra. 3 = *leading article. 4 shoot of a plant at the apex of a stem or of the main branch.  leadership n.
+Leader	n. 1 a person or thing that leads. B person followed by others. 2 principal player in a music group or of the first violins in an orchestra. 3 = *leading article. 4 shoot of a plant at the apex of a stem or of the main branch.  leadership n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Heaven	n. 1 place regarded in some religions as the abode of god and the angels, and of the blessed after death. 2 place or state of supreme bliss. 3 colloq. Delightful thing. 4 (usu. Heaven) god, providence (often as an exclamation or mild oath: heavens). 5 (the heavens) esp. Poet. The sky as seen from the earth, in which the sun, moon, and stars appear.  heavenward adv. (also heavenwards). [old english]
+Heaven	n. 1 place regarded in some religions as the abode of god and the angels, and of the blessed after death. 2 place or state of supreme bliss. 3 colloq. Delightful thing. 4 (usu. Heaven) god, providence (often as an exclamation or mild oath: heavens). 5 (the heavens) esp. Poet. The sky as seen from the earth, in which the sun, moon, and stars appear.  heavenward adv. (also heavenwards). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

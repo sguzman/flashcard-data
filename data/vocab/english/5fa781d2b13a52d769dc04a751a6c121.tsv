@@ -1,1 +1,6 @@
-Sustenance	n. 1 nourishment, food. 2 means of support. [anglo-french: related to *sustain]
+Sustenance	n. 1 nourishment, food. 2 means of support. [anglo-french: related to *sustain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

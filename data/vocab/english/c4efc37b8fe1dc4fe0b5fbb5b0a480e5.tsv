@@ -1,1 +1,6 @@
-Ipecacuanha	n. Root of a s. American shrub, used as an emetic and purgative. [portuguese from s. American indian, = emetic creeper]
+Ipecacuanha	n. Root of a s. American shrub, used as an emetic and purgative. [portuguese from s. American indian, = emetic creeper]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

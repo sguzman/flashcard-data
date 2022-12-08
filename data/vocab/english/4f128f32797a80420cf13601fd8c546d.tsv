@@ -1,1 +1,6 @@
-Prelude	—n. (often foll. By to) 1 action, event, or situation serving as an introduction. 2 introductory part of a poem etc. 3 mus. A introductory piece to a fugue, suite, etc. B short piece of a similar type. —v. (-ding) 1 serve as a prelude to. 2 introduce with a prelude. [latin ludo lus- play]
+Prelude	—n. (often foll. By to) 1 action, event, or situation serving as an introduction. 2 introductory part of a poem etc. 3 mus. A introductory piece to a fugue, suite, etc. B short piece of a similar type. —v. (-ding) 1 serve as a prelude to. 2 introduce with a prelude. [latin ludo lus- play]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

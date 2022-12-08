@@ -1,1 +1,6 @@
-Calf1	n. (pl. Calves) 1 young cow or bull. 2 young of other animals, e.g. The elephant, deer, and whale. 3 calfskin. [old english]
+Calf1	n. (pl. Calves) 1 young cow or bull. 2 young of other animals, e.g. The elephant, deer, and whale. 3 calfskin. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

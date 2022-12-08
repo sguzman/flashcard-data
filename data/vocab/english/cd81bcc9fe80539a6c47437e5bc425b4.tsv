@@ -1,1 +1,6 @@
-Retention	n. 1 retaining or being retained. 2 condition of retaining bodily fluid (esp. Urine) normally evacuated. [latin: related to *retain]
+Retention	n. 1 retaining or being retained. 2 condition of retaining bodily fluid (esp. Urine) normally evacuated. [latin: related to *retain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

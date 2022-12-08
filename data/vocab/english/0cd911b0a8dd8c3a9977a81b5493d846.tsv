@@ -1,1 +1,6 @@
-Forbear1	v. (past forbore; past part. Forborne) formal abstain or desist (from) (could not forbear (from) speaking out; forbore to mention it). [old english: related to *bear1]
+Forbear1	v. (past forbore; past part. Forborne) formal abstain or desist (from) (could not forbear (from) speaking out; forbore to mention it). [old english: related to *bear1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

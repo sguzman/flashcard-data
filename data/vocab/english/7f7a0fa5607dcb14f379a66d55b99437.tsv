@@ -1,1 +1,6 @@
-Foothold	n. 1 secure place for a foot when climbing etc. 2 secure initial position.
+Foothold	n. 1 secure place for a foot when climbing etc. 2 secure initial position.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

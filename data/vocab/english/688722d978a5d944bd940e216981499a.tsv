@@ -1,1 +1,6 @@
-Prosecution	n. 1 a institution and continuation of (esp. Criminal) legal proceedings. B prosecuting party in a court case. 2 prosecuting or being prosecuted (in the prosecution of his hobby).
+Prosecution	n. 1 a institution and continuation of (esp. Criminal) legal proceedings. B prosecuting party in a court case. 2 prosecuting or being prosecuted (in the prosecution of his hobby).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

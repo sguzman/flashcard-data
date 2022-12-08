@@ -1,1 +1,6 @@
-They	pron. (obj. Them; poss. Their, theirs) 1 pl. Of *he, *she, *it. 2 people in general (so they say). 3 those in authority (they have raised taxes). [old norse]
+They	pron. (obj. Them; poss. Their, theirs) 1 pl. Of *he, *she, *it. 2 people in general (so they say). 3 those in authority (they have raised taxes). [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

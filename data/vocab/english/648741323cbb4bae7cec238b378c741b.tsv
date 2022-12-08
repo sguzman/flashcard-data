@@ -1,1 +1,6 @@
-Tense2	n. 1 form of a verb indicating the time (also the continuance or completeness) of the action etc. 2 set of such forms as a paradigm. [latin tempus time]
+Tense2	n. 1 form of a verb indicating the time (also the continuance or completeness) of the action etc. 2 set of such forms as a paradigm. [latin tempus time]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

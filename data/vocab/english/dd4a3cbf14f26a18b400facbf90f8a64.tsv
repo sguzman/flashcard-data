@@ -1,1 +1,6 @@
-Prefect	n. 1 chief administrative officer of a district, esp. In france. 2 senior pupil in a school, helping to maintain discipline. [latin praeficio -fect- set in authority over]
+Prefect	n. 1 chief administrative officer of a district, esp. In france. 2 senior pupil in a school, helping to maintain discipline. [latin praeficio -fect- set in authority over]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

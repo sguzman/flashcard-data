@@ -1,1 +1,6 @@
-Lollipop man	n. (also lollipop lady) colloq. Warden using a circular sign on a pole to stop traffic for children to cross the road.
+Lollipop man	n. (also lollipop lady) colloq. Warden using a circular sign on a pole to stop traffic for children to cross the road.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

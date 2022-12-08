@@ -1,1 +1,6 @@
-Abbey	n. (pl. -s) 1 building(s) occupied by a community of monks or nuns. 2 the community itself. 3 building that was once an abbey.
+Abbey	n. (pl. -s) 1 building(s) occupied by a community of monks or nuns. 2 the community itself. 3 building that was once an abbey.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

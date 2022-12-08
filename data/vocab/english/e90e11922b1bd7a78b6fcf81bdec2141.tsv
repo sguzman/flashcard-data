@@ -1,1 +1,6 @@
-Rogue	n. 1 dishonest or unprincipled person. 2 joc. Mischievous person, esp. A child. 3 (usu. Attrib.) Wild fierce animal driven away or living apart from others (rogue elephant). 4 (often attrib.) Inexplicably aberrant result or phenomenon; inferior or defective specimen. [origin unknown]
+Rogue	n. 1 dishonest or unprincipled person. 2 joc. Mischievous person, esp. A child. 3 (usu. Attrib.) Wild fierce animal driven away or living apart from others (rogue elephant). 4 (often attrib.) Inexplicably aberrant result or phenomenon; inferior or defective specimen. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

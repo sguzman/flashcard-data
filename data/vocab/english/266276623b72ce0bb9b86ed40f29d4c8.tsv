@@ -1,1 +1,6 @@
-Anglo-	comb. Form 1 english. 2 of english origin. 3 english or british and. [latin: related to *angle]
+Anglo-	comb. Form 1 english. 2 of english origin. 3 english or british and. [latin: related to *angle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

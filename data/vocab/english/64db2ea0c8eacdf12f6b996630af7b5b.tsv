@@ -1,1 +1,6 @@
-Debit	—n. 1 entry in an account recording a sum owed. 2 sum recorded. 3 total of such sums. 4 debit side of an account. —v. (-t-) 1 (foll. By against, to) enter on the debit side of an account (debit £50 to my account). 2 (foll. By with) charge (a person) with a debt (debited me with £500). [latin debitum *debt]
+Debit	—n. 1 entry in an account recording a sum owed. 2 sum recorded. 3 total of such sums. 4 debit side of an account. —v. (-t-) 1 (foll. By against, to) enter on the debit side of an account (debit £50 to my account). 2 (foll. By with) charge (a person) with a debt (debited me with £500). [latin debitum *debt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

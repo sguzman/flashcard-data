@@ -1,1 +1,6 @@
-Option	n. 1 a choosing; choice. B thing that is or may be chosen. 2 liberty to choose. 3 right to buy or sell at a specified price within a set time.  keep (or leave) one's options open not commit oneself. [latin: related to *opt]
+Option	n. 1 a choosing; choice. B thing that is or may be chosen. 2 liberty to choose. 3 right to buy or sell at a specified price within a set time.  keep (or leave) one's options open not commit oneself. [latin: related to *opt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

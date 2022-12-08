@@ -1,1 +1,6 @@
-Bold	adj. 1 confidently assertive; adventurous, brave. 2 impudent. 3 vivid (bold colours).  make (or be) so bold as to presume to; venture to.  boldly adv. Boldness n. [old english]
+Bold	adj. 1 confidently assertive; adventurous, brave. 2 impudent. 3 vivid (bold colours).  make (or be) so bold as to presume to; venture to.  boldly adv. Boldness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

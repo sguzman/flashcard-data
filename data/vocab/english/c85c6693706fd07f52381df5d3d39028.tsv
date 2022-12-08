@@ -1,1 +1,6 @@
-Gin2	—n. 1 snare, trap. 2 machine separating cotton from its seeds. 3 a kind of crane and windlass. —v. (-nn-) 1 treat (cotton) in a gin. 2 trap. [french: related to *engine]
+Gin2	—n. 1 snare, trap. 2 machine separating cotton from its seeds. 3 a kind of crane and windlass. —v. (-nn-) 1 treat (cotton) in a gin. 2 trap. [french: related to *engine]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

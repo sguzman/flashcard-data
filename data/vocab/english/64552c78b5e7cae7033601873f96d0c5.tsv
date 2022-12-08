@@ -1,1 +1,6 @@
-Sync	(also synch) colloq. —n. Synchronization. —v. Synchronize.  in (or out of) sync (often foll. By with) according or agreeing well (or badly). [abbreviation]
+Sync	(also synch) colloq. —n. Synchronization. —v. Synchronize.  in (or out of) sync (often foll. By with) according or agreeing well (or badly). [abbreviation]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Printer	n. 1 person who prints books etc. 2 owner of a printing business. 3 device that prints, esp. From a computer.
+Printer	n. 1 person who prints books etc. 2 owner of a printing business. 3 device that prints, esp. From a computer.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

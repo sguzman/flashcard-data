@@ -1,1 +1,6 @@
-Decisive	adj. 1 conclusive, settling an issue. 2 quick to decide.  decisively adv. Decisiveness n. [medieval latin: related to *decide]
+Decisive	adj. 1 conclusive, settling an issue. 2 quick to decide.  decisively adv. Decisiveness n. [medieval latin: related to *decide]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

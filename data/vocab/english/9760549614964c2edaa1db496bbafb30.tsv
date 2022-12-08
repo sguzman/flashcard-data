@@ -1,1 +1,6 @@
-One-to-one	adj. & adv. 1 involving or between only two people. 2 with one member of one group corresponding to one of another.
+One-to-one	adj. & adv. 1 involving or between only two people. 2 with one member of one group corresponding to one of another.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

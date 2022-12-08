@@ -1,1 +1,6 @@
-Penal	adj. 1 of or concerning punishment or its infliction. 2 (of an offence) punishable, esp. By law.  penally adv. [latin poena *pain]
+Penal	adj. 1 of or concerning punishment or its infliction. 2 (of an offence) punishable, esp. By law.  penally adv. [latin poena *pain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

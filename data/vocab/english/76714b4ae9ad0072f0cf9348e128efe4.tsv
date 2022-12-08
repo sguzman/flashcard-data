@@ -1,1 +1,6 @@
-Shroud	—n. 1 wrapping for a corpse. 2 thing that conceals. 3 (in pl.) Ropes supporting a mast. —v. 1 clothe (a body) for burial. 2 cover or conceal. [old english, = garment]
+Shroud	—n. 1 wrapping for a corpse. 2 thing that conceals. 3 (in pl.) Ropes supporting a mast. —v. 1 clothe (a body) for burial. 2 cover or conceal. [old english, = garment]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

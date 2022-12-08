@@ -1,1 +1,6 @@
-Repel	v. (-ll-) 1 drive back; ward off (repel an attacker). 2 refuse to accept (repelled offers of help). 3 be repulsive or distasteful to. 4 resist mixing with or admitting (oil and water repel each other; surface repels moisture). 5 (of a magnetic pole) push away from itself (like poles repel).  repellent adj. & n. [latin repello -puls-]
+Repel	v. (-ll-) 1 drive back; ward off (repel an attacker). 2 refuse to accept (repelled offers of help). 3 be repulsive or distasteful to. 4 resist mixing with or admitting (oil and water repel each other; surface repels moisture). 5 (of a magnetic pole) push away from itself (like poles repel).  repellent adj. & n. [latin repello -puls-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

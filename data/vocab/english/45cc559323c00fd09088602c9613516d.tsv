@@ -1,1 +1,6 @@
-Peep2	—v. Make a shrill feeble sound as of young birds, mice, etc. —n. 1 such a sound. 2 slight sound, utterance, or complaint (not a peep out of them). [imitative]
+Peep2	—v. Make a shrill feeble sound as of young birds, mice, etc. —n. 1 such a sound. 2 slight sound, utterance, or complaint (not a peep out of them). [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

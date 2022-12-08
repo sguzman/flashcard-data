@@ -1,1 +1,6 @@
-Poignant	adj. 1 painfully sharp to the emotions or senses; deeply moving. 2 arousing sympathy. 3 sharp or pungent in taste or smell. 4 pleasantly piquant.  poignance n. Poignancy n. Poignantly adv. [latin: related to *point]
+Poignant	adj. 1 painfully sharp to the emotions or senses; deeply moving. 2 arousing sympathy. 3 sharp or pungent in taste or smell. 4 pleasantly piquant.  poignance n. Poignancy n. Poignantly adv. [latin: related to *point]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

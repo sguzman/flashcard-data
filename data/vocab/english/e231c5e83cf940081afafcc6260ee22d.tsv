@@ -1,1 +1,6 @@
-Reek	—v. (often foll. By of) 1 smell strongly and unpleasantly. 2 have unpleasant or suspicious associations (reeks of corruption). —n. 1 foul or stale smell. 2 esp. Scot. Smoke. 3 vapour, visible exhalation. [old english]
+Reek	—v. (often foll. By of) 1 smell strongly and unpleasantly. 2 have unpleasant or suspicious associations (reeks of corruption). —n. 1 foul or stale smell. 2 esp. Scot. Smoke. 3 vapour, visible exhalation. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

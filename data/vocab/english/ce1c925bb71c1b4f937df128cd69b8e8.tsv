@@ -1,1 +1,6 @@
-Incandescent	adj. 1 glowing with heat. 2 shining. 3 (of artificial light) produced by a glowing filament etc.  incandescence n. [latin candeo be white]
+Incandescent	adj. 1 glowing with heat. 2 shining. 3 (of artificial light) produced by a glowing filament etc.  incandescence n. [latin candeo be white]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

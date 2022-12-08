@@ -1,1 +1,6 @@
-Bald	adj. 1 lacking some or all hair on the scalp. 2 lacking the usual hair, feathers, leaves, etc. 3 colloq. With a worn surface (bald tyre). 4 plain, direct (bald statement, style).  balding adj. (in senses 1–3). Baldly adv. (in sense 4). Baldness n. [old english]
+Bald	adj. 1 lacking some or all hair on the scalp. 2 lacking the usual hair, feathers, leaves, etc. 3 colloq. With a worn surface (bald tyre). 4 plain, direct (bald statement, style).  balding adj. (in senses 1–3). Baldly adv. (in sense 4). Baldness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

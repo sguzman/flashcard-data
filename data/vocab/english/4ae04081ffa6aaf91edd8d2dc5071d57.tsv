@@ -1,1 +1,6 @@
-Prink	v. 1 a (usu. Refl.; often foll. By up) smarten (oneself) up. B dress oneself up. 2 (of a bird) preen. [origin unknown]
+Prink	v. 1 a (usu. Refl.; often foll. By up) smarten (oneself) up. B dress oneself up. 2 (of a bird) preen. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

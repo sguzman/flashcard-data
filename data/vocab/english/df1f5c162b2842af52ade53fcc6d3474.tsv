@@ -1,1 +1,6 @@
-Slug1	n. 1 small shell-less mollusc often destroying plants. 2 a bullet, esp. Of irregular shape. B missile for an airgun. 3 printing metal bar used in spacing. 4 mouthful of drink (esp. Spirits). [scandinavian]
+Slug1	n. 1 small shell-less mollusc often destroying plants. 2 a bullet, esp. Of irregular shape. B missile for an airgun. 3 printing metal bar used in spacing. 4 mouthful of drink (esp. Spirits). [scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

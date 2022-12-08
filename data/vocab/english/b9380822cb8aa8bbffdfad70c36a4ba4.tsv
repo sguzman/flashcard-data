@@ -1,1 +1,6 @@
-Explore	v. (-ring) 1 travel through (a country etc.) To learn about it. 2 inquire into. 3 surgery examine (a part of the body) in detail.  exploration n. Exploratory adj. Explorer n. [latin exploro search out]
+Explore	v. (-ring) 1 travel through (a country etc.) To learn about it. 2 inquire into. 3 surgery examine (a part of the body) in detail.  exploration n. Exploratory adj. Explorer n. [latin exploro search out]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

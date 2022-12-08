@@ -1,1 +1,6 @@
-Fawn1	—n. 1 deer in its first year. 2 light yellowish brown. —adj. Fawn-coloured. —v. (also absol.) Give birth to (a fawn). [latin: related to *foetus]
+Fawn1	—n. 1 deer in its first year. 2 light yellowish brown. —adj. Fawn-coloured. —v. (also absol.) Give birth to (a fawn). [latin: related to *foetus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

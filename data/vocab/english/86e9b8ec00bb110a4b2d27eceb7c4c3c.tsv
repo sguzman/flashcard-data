@@ -1,1 +1,6 @@
-Bounce	—v. (-cing) 1 (cause to) rebound. 2 slang (of a cheque) be returned by a bank when there are no funds to meet it. 3 (foll. By about, up, in, out, etc.) Jump, move, or rush boisterously. —n. 1 a rebound. B power of rebounding. 2 colloq. A swagger, self-confidence. B liveliness.  bounce back recover well after a setback.  bouncy adj. (-ier, -iest). [imitative]
+Bounce	—v. (-cing) 1 (cause to) rebound. 2 slang (of a cheque) be returned by a bank when there are no funds to meet it. 3 (foll. By about, up, in, out, etc.) Jump, move, or rush boisterously. —n. 1 a rebound. B power of rebounding. 2 colloq. A swagger, self-confidence. B liveliness.  bounce back recover well after a setback.  bouncy adj. (-ier, -iest). [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

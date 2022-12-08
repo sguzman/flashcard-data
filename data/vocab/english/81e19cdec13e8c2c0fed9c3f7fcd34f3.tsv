@@ -1,1 +1,6 @@
-Forester	n. 1 person managing a forest or skilled in forestry. 2 dweller in a forest.
+Forester	n. 1 person managing a forest or skilled in forestry. 2 dweller in a forest.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

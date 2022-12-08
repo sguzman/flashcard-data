@@ -1,1 +1,6 @@
-Deism	n. Reasoned belief in the existence of a god.  deist n. Deistic adj. [latin deus god]
+Deism	n. Reasoned belief in the existence of a god.  deist n. Deistic adj. [latin deus god]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

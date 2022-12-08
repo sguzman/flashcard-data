@@ -1,1 +1,6 @@
-Kindly1	adv. 1 in a kind manner (spoke kindly). 2 often iron. Please (kindly go away).  look kindly upon regard sympathetically. Take kindly to be pleased by; like.
+Kindly1	adv. 1 in a kind manner (spoke kindly). 2 often iron. Please (kindly go away).  look kindly upon regard sympathetically. Take kindly to be pleased by; like.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

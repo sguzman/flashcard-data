@@ -1,1 +1,6 @@
-Species	n. (pl. Same) 1 class of things having some common characteristics. 2 group of animals or plants within a genus, differing only slightly from others and capable of interbreeding. 3 kind, sort. [latin specio look]
+Species	n. (pl. Same) 1 class of things having some common characteristics. 2 group of animals or plants within a genus, differing only slightly from others and capable of interbreeding. 3 kind, sort. [latin specio look]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Equivocate	v. (-ting) use ambiguity to conceal the truth.  equivocation n. Equivocator n. [latin: related to *equivocal]
+Equivocate	v. (-ting) use ambiguity to conceal the truth.  equivocation n. Equivocator n. [latin: related to *equivocal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

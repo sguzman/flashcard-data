@@ -1,1 +1,6 @@
-Date2	n. 1 dark oval single-stoned fruit. 2 (in full date-palm) tree bearing it. [greek: related to *dactyl, from the shape of the leaf]
+Date2	n. 1 dark oval single-stoned fruit. 2 (in full date-palm) tree bearing it. [greek: related to *dactyl, from the shape of the leaf]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

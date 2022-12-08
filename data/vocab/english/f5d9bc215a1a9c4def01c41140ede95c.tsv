@@ -1,1 +1,6 @@
-Status	n. 1 rank, social position, relative importance. 2 superior social etc. Position. [latin: related to *stature]
+Status	n. 1 rank, social position, relative importance. 2 superior social etc. Position. [latin: related to *stature]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

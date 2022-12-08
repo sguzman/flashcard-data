@@ -1,1 +1,6 @@
-False	adj. 1 wrong, incorrect. 2 spurious, artificial. 3 improperly so called (false acacia). 4 deceptive. 5 (foll. By to) deceitful, treacherous, or unfaithful.  falsely adv. Falseness n. [latin falsus: related to *fail]
+False	adj. 1 wrong, incorrect. 2 spurious, artificial. 3 improperly so called (false acacia). 4 deceptive. 5 (foll. By to) deceitful, treacherous, or unfaithful.  falsely adv. Falseness n. [latin falsus: related to *fail]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

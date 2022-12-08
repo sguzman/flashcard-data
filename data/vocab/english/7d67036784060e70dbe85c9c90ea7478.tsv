@@ -1,1 +1,6 @@
-Anticipate	v. (-ting) 1 deal with or use before the proper time. 2 expect, foresee (did not anticipate a problem). 3 forestall (a person or thing). 4 look forward to.  anticipation n. Anticipatory adj. [latin anti- before, capio take]
+Anticipate	v. (-ting) 1 deal with or use before the proper time. 2 expect, foresee (did not anticipate a problem). 3 forestall (a person or thing). 4 look forward to.  anticipation n. Anticipatory adj. [latin anti- before, capio take]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

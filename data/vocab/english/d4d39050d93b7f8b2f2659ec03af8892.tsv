@@ -1,1 +1,6 @@
-Fauna	n. (pl. -s or -nae) animal life of a region or period. [latin fauna, name of a rural goddess]
+Fauna	n. (pl. -s or -nae) animal life of a region or period. [latin fauna, name of a rural goddess]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

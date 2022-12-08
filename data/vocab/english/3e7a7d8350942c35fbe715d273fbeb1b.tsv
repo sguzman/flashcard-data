@@ -1,1 +1,6 @@
-Hexadecimal	adj. Esp. Computing of a system of numerical notation that has 16 (the figures 0 to 9 and the letters a to f) rather than 10 as a base.
+Hexadecimal	adj. Esp. Computing of a system of numerical notation that has 16 (the figures 0 to 9 and the letters a to f) rather than 10 as a base.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

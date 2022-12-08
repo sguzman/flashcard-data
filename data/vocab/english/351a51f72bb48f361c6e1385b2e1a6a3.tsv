@@ -1,1 +1,6 @@
-Plenty	—n. (often foll. By of) abundance, sufficient quantity or number (we have plenty; plenty of time; a time of plenty). —adj. Colloq. Plentiful. —adv. Colloq. Fully, quite. [latin plenitas: related to *plenary]
+Plenty	—n. (often foll. By of) abundance, sufficient quantity or number (we have plenty; plenty of time; a time of plenty). —adj. Colloq. Plentiful. —adv. Colloq. Fully, quite. [latin plenitas: related to *plenary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

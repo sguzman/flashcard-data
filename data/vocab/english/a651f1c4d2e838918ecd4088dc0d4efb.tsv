@@ -1,1 +1,6 @@
-Piscina	n. (pl. -nae or -s) 1 stone basin near the altar in a church for draining water used in rinsing the chalice etc. 2 fish-pond. [latin, from piscis fish]
+Piscina	n. (pl. -nae or -s) 1 stone basin near the altar in a church for draining water used in rinsing the chalice etc. 2 fish-pond. [latin, from piscis fish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

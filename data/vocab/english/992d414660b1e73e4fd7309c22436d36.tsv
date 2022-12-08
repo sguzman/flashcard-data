@@ -1,1 +1,6 @@
-Coral	—n. Hard red, pink, or white calcareous substance secreted by marine polyps for support and habitation. —adj. 1 red or pink, like coral. 2 made of coral. [greek korallion]
+Coral	—n. Hard red, pink, or white calcareous substance secreted by marine polyps for support and habitation. —adj. 1 red or pink, like coral. 2 made of coral. [greek korallion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

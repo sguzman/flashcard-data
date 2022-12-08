@@ -1,1 +1,6 @@
--ac	suffix forming adjectives often (or only) used as nouns (cardiac; maniac). [latin -acus, greek -akos]
+-ac	suffix forming adjectives often (or only) used as nouns (cardiac; maniac). [latin -acus, greek -akos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

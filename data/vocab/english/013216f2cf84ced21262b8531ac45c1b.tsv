@@ -1,1 +1,6 @@
-Minute2	adj. (-est) 1 very small. 2 accurate, detailed.  minutely adv. [latin minutus: related to *minute1]
+Minute2	adj. (-est) 1 very small. 2 accurate, detailed.  minutely adv. [latin minutus: related to *minute1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

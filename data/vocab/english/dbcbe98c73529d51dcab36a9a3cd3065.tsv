@@ -1,1 +1,6 @@
-Winnow	v. 1 blow (grain) free of chaff etc. By an air-current. 2 (foll. By out, away, from, etc.) Get rid of (chaff etc.) From grain. 3 sift, examine (evidence etc.). [old english: related to *wind1]
+Winnow	v. 1 blow (grain) free of chaff etc. By an air-current. 2 (foll. By out, away, from, etc.) Get rid of (chaff etc.) From grain. 3 sift, examine (evidence etc.). [old english: related to *wind1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

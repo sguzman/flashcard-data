@@ -1,1 +1,6 @@
-Gild1	v. (past part. Gilded or as adj. In sense 1 gilt) 1 cover thinly with gold. 2 tinge with a golden colour. 3 give a false brilliance to.  gild the lily try to improve what is already satisfactory. [old english: related to *gold]
+Gild1	v. (past part. Gilded or as adj. In sense 1 gilt) 1 cover thinly with gold. 2 tinge with a golden colour. 3 give a false brilliance to.  gild the lily try to improve what is already satisfactory. [old english: related to *gold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Provost	n. 1 head of some (esp. Oxbridge) colleges. 2 head of a cathedral chapter. 3 = *provost marshal. [latin propositus from pono place]
+Provost	n. 1 head of some (esp. Oxbridge) colleges. 2 head of a cathedral chapter. 3 = *provost marshal. [latin propositus from pono place]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

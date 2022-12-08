@@ -1,1 +1,6 @@
-Tend1	v. 1 (often foll. By to) be apt or inclined (tends to lose his temper; tends to fat). 2 be moving; hold a course (tends in our direction). [latin tendo tens- or tent- stretch]
+Tend1	v. 1 (often foll. By to) be apt or inclined (tends to lose his temper; tends to fat). 2 be moving; hold a course (tends in our direction). [latin tendo tens- or tent- stretch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

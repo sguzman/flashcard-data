@@ -1,1 +1,6 @@
-Runner	n. 1 person, horse, etc. That runs, esp. In a race. 2 creeping rooting plant-stem. 3 rod, groove, roller, or blade on which a thing, e.g. A sledge, slides. 4 sliding ring on a rod etc. 5 messenger. 6 (in full runner bean) twining bean plant with long flat green edible seed pods. 7 long narrow ornamental cloth or rug.  do a runner slang leave hastily; flee.
+Runner	n. 1 person, horse, etc. That runs, esp. In a race. 2 creeping rooting plant-stem. 3 rod, groove, roller, or blade on which a thing, e.g. A sledge, slides. 4 sliding ring on a rod etc. 5 messenger. 6 (in full runner bean) twining bean plant with long flat green edible seed pods. 7 long narrow ornamental cloth or rug.  do a runner slang leave hastily; flee.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

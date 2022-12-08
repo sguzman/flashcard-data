@@ -1,1 +1,6 @@
-Bevel	—n. 1 slope from the horizontal or vertical in carpentry etc.; sloping surface or edge. 2 tool for marking angles. —v. (-ll-; us -l-) 1 reduce (a square edge) to a sloping edge. 2 slope at an angle. [french]
+Bevel	—n. 1 slope from the horizontal or vertical in carpentry etc.; sloping surface or edge. 2 tool for marking angles. —v. (-ll-; us -l-) 1 reduce (a square edge) to a sloping edge. 2 slope at an angle. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

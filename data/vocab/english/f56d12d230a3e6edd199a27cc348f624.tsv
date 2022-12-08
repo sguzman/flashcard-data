@@ -1,1 +1,6 @@
-Wrench	—n. 1 violent twist or oblique pull or tearing off. 2 tool like a spanner for gripping and turning nuts etc. 3 painful uprooting or parting. —v. 1 twist or pull violently round or sideways. 2 (often foll. By off, away, etc.) Pull off with a wrench. [old english]
+Wrench	—n. 1 violent twist or oblique pull or tearing off. 2 tool like a spanner for gripping and turning nuts etc. 3 painful uprooting or parting. —v. 1 twist or pull violently round or sideways. 2 (often foll. By off, away, etc.) Pull off with a wrench. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

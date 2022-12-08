@@ -1,1 +1,6 @@
-Whither	archaic —adv. 1 to what place or state? 2 (prec. By place etc.) To which. —conj. 1 to the or any place to which (go whither you will). 2 and thither. [old english]
+Whither	archaic —adv. 1 to what place or state? 2 (prec. By place etc.) To which. —conj. 1 to the or any place to which (go whither you will). 2 and thither. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

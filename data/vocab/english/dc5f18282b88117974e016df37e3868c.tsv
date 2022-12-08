@@ -1,1 +1,6 @@
-Fratricide	n. 1 killing of one's brother or sister. 2 person who does this.  fratricidal adj. [latin frater brother]
+Fratricide	n. 1 killing of one's brother or sister. 2 person who does this.  fratricidal adj. [latin frater brother]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

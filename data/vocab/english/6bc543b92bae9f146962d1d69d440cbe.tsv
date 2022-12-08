@@ -1,1 +1,6 @@
-Miller	n. 1 proprietor or tenant of a mill, esp. A corn-mill. 2 person operating a milling machine. [related to *mill]
+Miller	n. 1 proprietor or tenant of a mill, esp. A corn-mill. 2 person operating a milling machine. [related to *mill]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

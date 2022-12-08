@@ -1,1 +1,6 @@
-Rota	n. List of duties to be done or names of people to do them in turn; roster. [latin, = wheel]
+Rota	n. List of duties to be done or names of people to do them in turn; roster. [latin, = wheel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

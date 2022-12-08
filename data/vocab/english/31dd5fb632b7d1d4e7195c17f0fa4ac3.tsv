@@ -1,1 +1,6 @@
-Homologous	adj. 1 a having the same relation, relative position, etc. B corresponding. 2 biol. (of organs etc.) Similar in position and structure but not necessarily in function. [from *homo-, greek logos ratio]
+Homologous	adj. 1 a having the same relation, relative position, etc. B corresponding. 2 biol. (of organs etc.) Similar in position and structure but not necessarily in function. [from *homo-, greek logos ratio]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

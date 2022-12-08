@@ -1,1 +1,6 @@
-Caution	—n. 1 attention to safety; prudence, carefulness. 2 a law warning, esp. A formal one. B warning and reprimand. 3 colloq. Amusing or surprising person or thing. —v. 1 warn or admonish. 2 issue a caution to. [latin caveo take heed]
+Caution	—n. 1 attention to safety; prudence, carefulness. 2 a law warning, esp. A formal one. B warning and reprimand. 3 colloq. Amusing or surprising person or thing. —v. 1 warn or admonish. 2 issue a caution to. [latin caveo take heed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

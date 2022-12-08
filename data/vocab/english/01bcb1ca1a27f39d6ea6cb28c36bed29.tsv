@@ -1,1 +1,6 @@
-Scupper2	v. Slang 1 sink (a ship or its crew). 2 defeat or ruin (a plan etc.). 3 kill. [origin unknown]
+Scupper2	v. Slang 1 sink (a ship or its crew). 2 defeat or ruin (a plan etc.). 3 kill. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

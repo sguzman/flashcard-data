@@ -1,1 +1,6 @@
-Tremble	—v. (-ling) 1 shake involuntarily from emotion, weakness, etc. 2 be in a state of extreme apprehension. 3 quiver (leaves trembled in the breeze). —n. Trembling; quiver (tremble in his voice). [medieval latin: related to *tremulous]
+Tremble	—v. (-ling) 1 shake involuntarily from emotion, weakness, etc. 2 be in a state of extreme apprehension. 3 quiver (leaves trembled in the breeze). —n. Trembling; quiver (tremble in his voice). [medieval latin: related to *tremulous]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

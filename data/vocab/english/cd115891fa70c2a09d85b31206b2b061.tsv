@@ -1,1 +1,6 @@
-Soup	—n. Liquid food made by boiling meat, fish, or vegetables. —v. (usu. Foll. By up) colloq. 1 increase the power of (an engine). 2 enliven (a souped-up version of the original).  in the soup colloq. In difficulties. [french]
+Soup	—n. Liquid food made by boiling meat, fish, or vegetables. —v. (usu. Foll. By up) colloq. 1 increase the power of (an engine). 2 enliven (a souped-up version of the original).  in the soup colloq. In difficulties. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

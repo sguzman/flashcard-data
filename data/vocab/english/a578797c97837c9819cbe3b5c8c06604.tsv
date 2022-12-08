@@ -1,1 +1,6 @@
-Ego	n. (pl. -s) 1 the self; the part of the mind that reacts to reality and has a sense of individuality. 2 self-esteem; self-conceit. [latin, = i]
+Ego	n. (pl. -s) 1 the self; the part of the mind that reacts to reality and has a sense of individuality. 2 self-esteem; self-conceit. [latin, = i]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

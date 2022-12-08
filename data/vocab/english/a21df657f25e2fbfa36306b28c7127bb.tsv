@@ -1,1 +1,6 @@
-Office	n. 1 room or building used as a place of business, esp. For clerical or administrative work. 2 room or area for a particular business (ticket office). 3 local centre of a large business (our london office). 4 position with duties attached to it. 5 tenure of an official position (hold office). 6 (office) quarters, staff, or collective authority of a government department etc. (foreign office). 7 duty, task, function. 8 (usu. In pl.) Piece of kindness; service (esp. Through the good offices of). 9 authorized form of worship. [latin officium from opus work, facio fic- do]
+Office	n. 1 room or building used as a place of business, esp. For clerical or administrative work. 2 room or area for a particular business (ticket office). 3 local centre of a large business (our london office). 4 position with duties attached to it. 5 tenure of an official position (hold office). 6 (office) quarters, staff, or collective authority of a government department etc. (foreign office). 7 duty, task, function. 8 (usu. In pl.) Piece of kindness; service (esp. Through the good offices of). 9 authorized form of worship. [latin officium from opus work, facio fic- do]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Possible	—adj. 1 capable of existing, happening, being done, etc. 2 potential (a possible way of doing it). —n. 1 possible candidate, member of a team, etc. 2 highest possible score, esp. In shooting.
+Possible	—adj. 1 capable of existing, happening, being done, etc. 2 potential (a possible way of doing it). —n. 1 possible candidate, member of a team, etc. 2 highest possible score, esp. In shooting.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

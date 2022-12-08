@@ -1,1 +1,6 @@
-Silk	n. 1 fine soft lustrous fibre produced by silkworms. 2 (often attrib.) Thread or cloth from this. 3 (in pl.) Cloth or garments of silk, esp. As worn by a jockey. 4 colloq. Queen's (or king's) counsel, as having the right to wear a silk gown. 5 fine soft thread (embroidery silk).  take silk become a queen's (or king's) counsel. [old english sioloc]
+Silk	n. 1 fine soft lustrous fibre produced by silkworms. 2 (often attrib.) Thread or cloth from this. 3 (in pl.) Cloth or garments of silk, esp. As worn by a jockey. 4 colloq. Queen's (or king's) counsel, as having the right to wear a silk gown. 5 fine soft thread (embroidery silk).  take silk become a queen's (or king's) counsel. [old english sioloc]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

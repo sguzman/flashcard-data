@@ -1,1 +1,6 @@
-Hybrid	—n. 1 offspring of two plants or animals of different species or varieties. 2 thing composed of diverse elements, e.g. A word with parts taken from different languages. —adj. 1 bred as a hybrid. 2 heterogeneous.  hybridism n. [latin]
+Hybrid	—n. 1 offspring of two plants or animals of different species or varieties. 2 thing composed of diverse elements, e.g. A word with parts taken from different languages. —adj. 1 bred as a hybrid. 2 heterogeneous.  hybridism n. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

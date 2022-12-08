@@ -1,1 +1,6 @@
-Embarrass	v. 1 make (a person) feel awkward or ashamed. 2 (as embarrassed adj.) Encumbered with debts. 3 encumber.  embarrassment n. [italian imbarrare bar in]
+Embarrass	v. 1 make (a person) feel awkward or ashamed. 2 (as embarrassed adj.) Encumbered with debts. 3 encumber.  embarrassment n. [italian imbarrare bar in]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

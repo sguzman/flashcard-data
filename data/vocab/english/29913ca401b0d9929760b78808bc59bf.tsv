@@ -1,1 +1,6 @@
-Revolution	n. 1 forcible overthrow of a government or social order. 2 any fundamental change or reversal of conditions. 3 revolving. 4 a single completion of an orbit or rotation. B time taken for this. 5 cyclic recurrence. [latin: related to *revolve]
+Revolution	n. 1 forcible overthrow of a government or social order. 2 any fundamental change or reversal of conditions. 3 revolving. 4 a single completion of an orbit or rotation. B time taken for this. 5 cyclic recurrence. [latin: related to *revolve]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

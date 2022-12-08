@@ -1,1 +1,6 @@
-Stormy	adj. (-ier, -iest) 1 of or affected by storms. 2 (of a wind etc.) Violent. 3 full of angry feeling or outbursts (stormy meeting).  stormily adv. Storminess n.
+Stormy	adj. (-ier, -iest) 1 of or affected by storms. 2 (of a wind etc.) Violent. 3 full of angry feeling or outbursts (stormy meeting).  stormily adv. Storminess n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

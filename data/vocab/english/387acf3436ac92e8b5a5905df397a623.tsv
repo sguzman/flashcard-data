@@ -1,1 +1,6 @@
-Volunteer	—n. Person who voluntarily undertakes a task or enters military etc. Service. —v. 1 (often foll. By to + infin.) Undertake or offer (one's services, a remark, etc.) Voluntarily. 2 (often foll. By for) be a volunteer. [french: related to *voluntary]
+Volunteer	—n. Person who voluntarily undertakes a task or enters military etc. Service. —v. 1 (often foll. By to + infin.) Undertake or offer (one's services, a remark, etc.) Voluntarily. 2 (often foll. By for) be a volunteer. [french: related to *voluntary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

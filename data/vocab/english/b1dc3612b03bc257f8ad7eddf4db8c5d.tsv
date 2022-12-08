@@ -1,1 +1,6 @@
-Plasma	n. (also plasm) 1 a colourless fluid part of blood, lymph, or milk, in which corpuscles or fat-globules are suspended. B this taken from blood for transfusions. 2 = *protoplasm. 3 gas of positive ions and free electrons in about equal numbers.  plasmic adj. [greek plasso shape (v.)]
+Plasma	n. (also plasm) 1 a colourless fluid part of blood, lymph, or milk, in which corpuscles or fat-globules are suspended. B this taken from blood for transfusions. 2 = *protoplasm. 3 gas of positive ions and free electrons in about equal numbers.  plasmic adj. [greek plasso shape (v.)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

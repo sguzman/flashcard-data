@@ -1,1 +1,6 @@
-Sheep	n. (pl. Same) 1 mammal with a thick woolly coat, esp. Kept for its wool or meat. 2 timid, silly, or easily-led person. 3 (usu. In pl.) Member of a minister's congregation. [old english]
+Sheep	n. (pl. Same) 1 mammal with a thick woolly coat, esp. Kept for its wool or meat. 2 timid, silly, or easily-led person. 3 (usu. In pl.) Member of a minister's congregation. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Incommensurable	adj. (often foll. By with) 1 not commensurable. 2 having no common factor, integral or fractional.  incommensurability n.
+Incommensurable	adj. (often foll. By with) 1 not commensurable. 2 having no common factor, integral or fractional.  incommensurability n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

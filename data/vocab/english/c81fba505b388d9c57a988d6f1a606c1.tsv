@@ -1,1 +1,6 @@
-Fig1	n. 1 soft pulpy fruit with many seeds. 2 (in full fig-tree) tree bearing figs.  not care (or give) a fig not care at all. [latin ficus]
+Fig1	n. 1 soft pulpy fruit with many seeds. 2 (in full fig-tree) tree bearing figs.  not care (or give) a fig not care at all. [latin ficus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

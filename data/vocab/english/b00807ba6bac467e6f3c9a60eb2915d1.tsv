@@ -1,1 +1,6 @@
-Dread	—v. Fear greatly, esp. In advance. —n. Great fear or apprehension. —adj. 1 dreaded. 2 archaic awe-inspiring, dreadful. [old english]
+Dread	—v. Fear greatly, esp. In advance. —n. Great fear or apprehension. —adj. 1 dreaded. 2 archaic awe-inspiring, dreadful. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

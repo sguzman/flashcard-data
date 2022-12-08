@@ -1,1 +1,6 @@
-Triangle	n. 1 plane figure with three sides and angles. 2 any three things not in a straight line, with imaginary lines joining them. 3 implement of this shape. 4 musical instrument consisting of a steel rod bent into a triangle, struck with a small steel rod. 5 situation, esp. An emotional relationship, involving three people.  triangular adj. [latin: related to *tri-]
+Triangle	n. 1 plane figure with three sides and angles. 2 any three things not in a straight line, with imaginary lines joining them. 3 implement of this shape. 4 musical instrument consisting of a steel rod bent into a triangle, struck with a small steel rod. 5 situation, esp. An emotional relationship, involving three people.  triangular adj. [latin: related to *tri-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

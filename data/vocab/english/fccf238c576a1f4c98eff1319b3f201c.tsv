@@ -1,1 +1,6 @@
-Analyze	n. (brit. Analyse) 1 examine in detail; ascertain the constituents of (a substance, sentence, etc.). 2 psychoanalyse.
+Analyze	n. (brit. Analyse) 1 examine in detail; ascertain the constituents of (a substance, sentence, etc.). 2 psychoanalyse.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

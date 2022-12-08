@@ -1,1 +1,6 @@
-Contemporary	—adj. 1 living or occurring at the same time. 2 of approximately the same age. 3 modern in style or design. —n. (pl. -ies) contemporary person or thing. [medieval latin: related to *contemporaneous]
+Contemporary	—adj. 1 living or occurring at the same time. 2 of approximately the same age. 3 modern in style or design. —n. (pl. -ies) contemporary person or thing. [medieval latin: related to *contemporaneous]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

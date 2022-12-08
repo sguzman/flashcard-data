@@ -1,1 +1,6 @@
--able	suffix forming adjectives meaning: 1 that may or must be (eatable; payable). 2 that can be made the subject of (dutiable; objectionable). 3 relevant to or in accordance with (fashionable; seasonable). [latin -abilis]
+-able	suffix forming adjectives meaning: 1 that may or must be (eatable; payable). 2 that can be made the subject of (dutiable; objectionable). 3 relevant to or in accordance with (fashionable; seasonable). [latin -abilis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

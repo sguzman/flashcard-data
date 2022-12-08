@@ -1,1 +1,6 @@
-Secular	adj. 1 not concerned with religion; not sacred; worldly (secular education; secular music). 2 (of clerics) not monastic.  secularism n. Secularize v. (also -ise) (-zing or -sing). Secularization n. [latin saeculum an age]
+Secular	adj. 1 not concerned with religion; not sacred; worldly (secular education; secular music). 2 (of clerics) not monastic.  secularism n. Secularize v. (also -ise) (-zing or -sing). Secularization n. [latin saeculum an age]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

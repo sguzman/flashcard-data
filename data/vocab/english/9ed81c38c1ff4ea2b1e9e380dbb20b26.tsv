@@ -1,1 +1,6 @@
-Fee	n. 1 payment made for professional advice or services etc. 2 a charge for a privilege, examination, admission to a society, etc. (enrolment fee). B money paid for the transfer to another employer of a footballer etc. 3 (in pl.) Regular payments (esp. To a school). 4 law inherited estate, unlimited (fee simple) or limited (fee tail) as to category of heir. [medieval latin feudum]
+Fee	n. 1 payment made for professional advice or services etc. 2 a charge for a privilege, examination, admission to a society, etc. (enrolment fee). B money paid for the transfer to another employer of a footballer etc. 3 (in pl.) Regular payments (esp. To a school). 4 law inherited estate, unlimited (fee simple) or limited (fee tail) as to category of heir. [medieval latin feudum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

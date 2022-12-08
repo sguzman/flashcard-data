@@ -1,1 +1,6 @@
-Innings	n. (pl. Same) 1 esp. Cricket part of a game during which a side is batting. 2 period during which a government, party, person, etc. Is in office or can achieve something. [obsolete in (verb) = go in]
+Innings	n. (pl. Same) 1 esp. Cricket part of a game during which a side is batting. 2 period during which a government, party, person, etc. Is in office or can achieve something. [obsolete in (verb) = go in]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

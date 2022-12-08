@@ -1,1 +1,6 @@
-Tether	—n. Rope etc. Confining a grazing animal. —v. Tie with a tether.  at the end of one's tether at the limit of one's patience, resources, etc. [old norse]
+Tether	—n. Rope etc. Confining a grazing animal. —v. Tie with a tether.  at the end of one's tether at the limit of one's patience, resources, etc. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

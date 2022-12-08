@@ -1,1 +1,6 @@
-Cuckoo	—n. Bird having a characteristic cry, and laying its eggs in the nests of small birds. —predic. Adj. Slang crazy. [french, imitative]
+Cuckoo	—n. Bird having a characteristic cry, and laying its eggs in the nests of small birds. —predic. Adj. Slang crazy. [french, imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

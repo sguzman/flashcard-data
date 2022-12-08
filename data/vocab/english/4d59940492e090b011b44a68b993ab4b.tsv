@@ -1,1 +1,6 @@
-Mixer	n. 1 machine for mixing foods etc. 2 person who manages socially in a specified way (a good mixer). 3 (usu. Soft) drink to be mixed with another. 4 device that receives two or more separate signals from microphones etc. And combines them in a single output.
+Mixer	n. 1 machine for mixing foods etc. 2 person who manages socially in a specified way (a good mixer). 3 (usu. Soft) drink to be mixed with another. 4 device that receives two or more separate signals from microphones etc. And combines them in a single output.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

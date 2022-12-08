@@ -1,1 +1,6 @@
-Scale2	n. 1 a (often in pl.) Weighing machine. B (also scale-pan) each of the dishes on a simple balance. 2 (the scales) zodiacal sign or constellation libra.  tip (or turn) the scales 1 be the decisive factor. 2 (usu. Foll. By at) weigh. [old norse skál bowl]
+Scale2	n. 1 a (often in pl.) Weighing machine. B (also scale-pan) each of the dishes on a simple balance. 2 (the scales) zodiacal sign or constellation libra.  tip (or turn) the scales 1 be the decisive factor. 2 (usu. Foll. By at) weigh. [old norse skál bowl]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

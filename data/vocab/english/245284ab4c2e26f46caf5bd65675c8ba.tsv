@@ -1,1 +1,6 @@
-Treble chance	n. Method of competing in a football pool in which the chances of winning depend on the number of draws and home and away wins predicted by the competitors.
+Treble chance	n. Method of competing in a football pool in which the chances of winning depend on the number of draws and home and away wins predicted by the competitors.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

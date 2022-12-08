@@ -1,1 +1,6 @@
-Appear	v. 1 become or be visible. 2 seem (appeared unwell). 3 present oneself publicly or formally. 4 be published. [latin appareo]
+Appear	v. 1 become or be visible. 2 seem (appeared unwell). 3 present oneself publicly or formally. 4 be published. [latin appareo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

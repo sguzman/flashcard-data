@@ -1,1 +1,6 @@
-Clerk	—n. 1 person employed to keep records, accounts, etc. 2 secretary or agent of a local council, court, etc. 3 lay officer of a church. —v. Work as clerk. [old english and french: related to *cleric]
+Clerk	—n. 1 person employed to keep records, accounts, etc. 2 secretary or agent of a local council, court, etc. 3 lay officer of a church. —v. Work as clerk. [old english and french: related to *cleric]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

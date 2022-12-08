@@ -1,1 +1,6 @@
-Baton	n. 1 thin stick for conducting an orchestra etc. 2 short stick passed on in a relay race. 3 stick carried by a drum major. 4 staff of office. [french from latin]
+Baton	n. 1 thin stick for conducting an orchestra etc. 2 short stick passed on in a relay race. 3 stick carried by a drum major. 4 staff of office. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

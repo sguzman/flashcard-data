@@ -1,1 +1,6 @@
-Barbecue	—n. 1 a meal cooked over charcoal etc. Out of doors. B party for this. 2 grill etc. Used for this. —v. (-ues, -ued, -uing) cook on a barbecue. [spanish from haitian]
+Barbecue	—n. 1 a meal cooked over charcoal etc. Out of doors. B party for this. 2 grill etc. Used for this. —v. (-ues, -ued, -uing) cook on a barbecue. [spanish from haitian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

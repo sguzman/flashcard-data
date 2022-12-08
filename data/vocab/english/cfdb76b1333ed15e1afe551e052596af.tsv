@@ -1,1 +1,6 @@
-Suspect	—v. 1 be inclined to think. 2 have an impression of the existence or presence of. 3 (often foll. By of) mentally accuse. 4 doubt the genuineness or truth of. —n. Suspected person. —adj. Subject to or deserving suspicion. [latin suspicio -spect-]
+Suspect	—v. 1 be inclined to think. 2 have an impression of the existence or presence of. 3 (often foll. By of) mentally accuse. 4 doubt the genuineness or truth of. —n. Suspected person. —adj. Subject to or deserving suspicion. [latin suspicio -spect-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

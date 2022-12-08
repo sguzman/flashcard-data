@@ -1,1 +1,6 @@
-Dairy	n. (pl. -ies) 1 place for processing, distributing, or selling milk and its products. 2 (attrib.) Of, containing, or used for, dairy products (and sometimes eggs) (dairy cow). [old english]
+Dairy	n. (pl. -ies) 1 place for processing, distributing, or selling milk and its products. 2 (attrib.) Of, containing, or used for, dairy products (and sometimes eggs) (dairy cow). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

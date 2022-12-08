@@ -1,1 +1,6 @@
-Banish	v. 1 condemn to exile. 2 dismiss (esp. From one's mind).  banishment n. [germanic: related to *ban]
+Banish	v. 1 condemn to exile. 2 dismiss (esp. From one's mind).  banishment n. [germanic: related to *ban]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

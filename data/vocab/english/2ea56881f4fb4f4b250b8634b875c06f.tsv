@@ -1,1 +1,6 @@
-Brickbat	n. 1 piece of brick, esp. As a missile. 2 insult.
+Brickbat	n. 1 piece of brick, esp. As a missile. 2 insult.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

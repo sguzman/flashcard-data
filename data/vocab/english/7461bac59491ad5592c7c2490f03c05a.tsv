@@ -1,1 +1,6 @@
-Carat	n. 1 unit of weight for precious stones (200 mg). 2 measure of purity of gold (pure gold = 24 carats). [french ultimately from greek keras horn]
+Carat	n. 1 unit of weight for precious stones (200 mg). 2 measure of purity of gold (pure gold = 24 carats). [french ultimately from greek keras horn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

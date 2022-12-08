@@ -1,1 +1,6 @@
-Infill	—n. 1 material used to fill a hole, gap, etc. 2 filling gaps (esp. In a row of buildings). —v. Fill in (a cavity etc.).
+Infill	—n. 1 material used to fill a hole, gap, etc. 2 filling gaps (esp. In a row of buildings). —v. Fill in (a cavity etc.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Candle	n. Cylinder or block of wax or tallow with a central wick which gives light when burning.  cannot hold a candle to is much inferior to. Not worth the candle not justifying cost or trouble. [latin candela]
+Candle	n. Cylinder or block of wax or tallow with a central wick which gives light when burning.  cannot hold a candle to is much inferior to. Not worth the candle not justifying cost or trouble. [latin candela]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

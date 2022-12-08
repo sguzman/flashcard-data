@@ -1,1 +1,6 @@
-Strawberry	n. (pl. -ies) 1 pulpy red fruit with a seed-studded surface. 2 plant with runners and white flowers bearing this. [old english: related to *straw, for unknown reason]
+Strawberry	n. (pl. -ies) 1 pulpy red fruit with a seed-studded surface. 2 plant with runners and white flowers bearing this. [old english: related to *straw, for unknown reason]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

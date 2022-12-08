@@ -1,1 +1,6 @@
-Dessertspoon	n. 1 medium-sized spoon for dessert. 2 amount held by this.  dessertspoonful n. (pl. -s).
+Dessertspoon	n. 1 medium-sized spoon for dessert. 2 amount held by this.  dessertspoonful n. (pl. -s).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

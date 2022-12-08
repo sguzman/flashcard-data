@@ -1,1 +1,6 @@
-Milky	adj. (-ier, -iest) 1 of, like, or mixed with milk. 2 (of a gem or liquid) cloudy; not clear.  milkiness n.
+Milky	adj. (-ier, -iest) 1 of, like, or mixed with milk. 2 (of a gem or liquid) cloudy; not clear.  milkiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Bunny	n. (pl. -ies) 1 child's name for a rabbit. 2 (in full bunny girl) club hostess, waitress, etc., wearing rabbit ears and tail. [dial. Bun rabbit]
+Bunny	n. (pl. -ies) 1 child's name for a rabbit. 2 (in full bunny girl) club hostess, waitress, etc., wearing rabbit ears and tail. [dial. Bun rabbit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

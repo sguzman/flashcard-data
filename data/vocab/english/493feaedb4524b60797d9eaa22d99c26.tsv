@@ -1,1 +1,6 @@
-Countervail	v. Literary 1 counterbalance. 2 (often foll. By against) oppose, usu. Successfully. [latin valeo have worth]
+Countervail	v. Literary 1 counterbalance. 2 (often foll. By against) oppose, usu. Successfully. [latin valeo have worth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

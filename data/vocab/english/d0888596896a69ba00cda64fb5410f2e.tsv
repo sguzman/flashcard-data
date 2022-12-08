@@ -1,1 +1,6 @@
-Grievous	adj. 1 (of pain etc.) Severe. 2 causing grief. 3 injurious. 4 flagrant, heinous.  grievously adv. [french: related to *grieve]
+Grievous	adj. 1 (of pain etc.) Severe. 2 causing grief. 3 injurious. 4 flagrant, heinous.  grievously adv. [french: related to *grieve]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

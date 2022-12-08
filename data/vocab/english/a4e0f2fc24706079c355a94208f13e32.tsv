@@ -1,1 +1,6 @@
-Intelligence	n. 1 a intellect; understanding. B quickness of understanding. 2 a the collecting of information, esp. Of military or political value. B information so collected. C people employed in this.
+Intelligence	n. 1 a intellect; understanding. B quickness of understanding. 2 a the collecting of information, esp. Of military or political value. B information so collected. C people employed in this.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

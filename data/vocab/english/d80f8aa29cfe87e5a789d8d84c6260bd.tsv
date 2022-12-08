@@ -1,1 +1,6 @@
-Serviceable	adj. 1 useful or usable; able to render service. 2 durable but plain.  serviceability n.
+Serviceable	adj. 1 useful or usable; able to render service. 2 durable but plain.  serviceability n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

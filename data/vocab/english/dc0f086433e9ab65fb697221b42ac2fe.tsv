@@ -1,1 +1,6 @@
-Possess	v. 1 hold as property; own. 2 have (a faculty, quality, etc.). 3 occupy or dominate the mind of (possessed by the devil; possessed by fear).  be possessed of own, have. What possessed you? An expression of incredulity.  possessor n. [latin possideo possess-]
+Possess	v. 1 hold as property; own. 2 have (a faculty, quality, etc.). 3 occupy or dominate the mind of (possessed by the devil; possessed by fear).  be possessed of own, have. What possessed you? An expression of incredulity.  possessor n. [latin possideo possess-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

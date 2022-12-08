@@ -1,1 +1,6 @@
-Wax2	v. 1 (of the moon) increase in apparent size. 2 become larger or stronger. 3 pass into a specified state or mood (wax lyrical).  wax and wane undergo alternate increases and decreases. [old english]
+Wax2	v. 1 (of the moon) increase in apparent size. 2 become larger or stronger. 3 pass into a specified state or mood (wax lyrical).  wax and wane undergo alternate increases and decreases. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

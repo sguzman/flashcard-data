@@ -1,1 +1,6 @@
-Introduction	n. 1 introducing or being introduced. 2 formal presentation of one person to another. 3 explanatory section at the beginning of a book etc. 4 introductory treatise. 5 thing introduced.
+Introduction	n. 1 introducing or being introduced. 2 formal presentation of one person to another. 3 explanatory section at the beginning of a book etc. 4 introductory treatise. 5 thing introduced.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

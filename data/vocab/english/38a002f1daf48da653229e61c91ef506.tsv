@@ -1,1 +1,6 @@
-Mayoress	n. 1 woman mayor. 2 wife or official consort of a mayor.
+Mayoress	n. 1 woman mayor. 2 wife or official consort of a mayor.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Host2	—n. 1 person who receives or entertains another as a guest. 2 compère. 3 biol. Animal or plant having a parasite. 4 recipient of a transplanted organ etc. 5 landlord of an inn. —v. Be host to (a person) or of (an event). [latin hospes hospitis host, guest]
+Host2	—n. 1 person who receives or entertains another as a guest. 2 compère. 3 biol. Animal or plant having a parasite. 4 recipient of a transplanted organ etc. 5 landlord of an inn. —v. Be host to (a person) or of (an event). [latin hospes hospitis host, guest]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

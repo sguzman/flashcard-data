@@ -1,1 +1,6 @@
-Dawn	—n. 1 daybreak. 2 beginning or birth of something. —v. 1 (of a day) begin; grow light. 2 (often foll. By on, upon) begin to become obvious (to). [old english]
+Dawn	—n. 1 daybreak. 2 beginning or birth of something. —v. 1 (of a day) begin; grow light. 2 (often foll. By on, upon) begin to become obvious (to). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

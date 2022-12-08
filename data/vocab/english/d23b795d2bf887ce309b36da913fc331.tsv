@@ -1,1 +1,6 @@
-Auxiliary	—adj. 1 subsidiary, additional. 2 giving help. —n. (pl. -ies) 1 auxiliary person or thing. 2 (in pl.) Foreign or allied troops in the service of a nation at war. 3 verb used to form tenses or moods of other verbs (e.g. Have in i have seen). [latin auxilium help]
+Auxiliary	—adj. 1 subsidiary, additional. 2 giving help. —n. (pl. -ies) 1 auxiliary person or thing. 2 (in pl.) Foreign or allied troops in the service of a nation at war. 3 verb used to form tenses or moods of other verbs (e.g. Have in i have seen). [latin auxilium help]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

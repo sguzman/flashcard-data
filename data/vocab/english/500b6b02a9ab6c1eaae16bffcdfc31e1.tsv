@@ -1,1 +1,6 @@
-Guinea	n. 1 hist. Sum of 21 old shillings (£1.05). 2 hist. Former british gold coin first coined for the african trade. [guinea in w. Africa]
+Guinea	n. 1 hist. Sum of 21 old shillings (£1.05). 2 hist. Former british gold coin first coined for the african trade. [guinea in w. Africa]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

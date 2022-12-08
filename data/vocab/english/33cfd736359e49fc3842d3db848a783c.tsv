@@ -1,1 +1,6 @@
-Cinnabar	n. 1 bright red mercuric sulphide. 2 vermilion. 3 moth with reddish-marked wings. [latin from greek]
+Cinnabar	n. 1 bright red mercuric sulphide. 2 vermilion. 3 moth with reddish-marked wings. [latin from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

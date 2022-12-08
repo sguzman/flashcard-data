@@ -1,1 +1,6 @@
-Kneecap	—n. 1 convex bone in front of the knee. 2 protective covering for the knee. —v. (-pp-) slang (of a terrorist) shoot (a person) in the knee or leg as a punishment.
+Kneecap	—n. 1 convex bone in front of the knee. 2 protective covering for the knee. —v. (-pp-) slang (of a terrorist) shoot (a person) in the knee or leg as a punishment.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

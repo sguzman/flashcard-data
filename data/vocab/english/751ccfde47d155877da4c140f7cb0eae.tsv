@@ -1,1 +1,6 @@
-Here	—adv. 1 in or at or to this place or position (come here; sit here). 2 indicating a person's presence or a thing offered (my son here will show you; here is your coat). 3 at this point in the argument, situation, etc. (here i have a question). —n.
+Here	—adv. 1 in or at or to this place or position (come here; sit here). 2 indicating a person's presence or a thing offered (my son here will show you; here is your coat). 3 at this point in the argument, situation, etc. (here i have a question). —n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

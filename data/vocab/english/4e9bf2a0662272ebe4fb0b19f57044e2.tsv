@@ -1,1 +1,6 @@
-Dynamite	—n. 1 high explosive mixture containing nitroglycerine. 2 potentially dangerous person etc. —v. (-ting) charge or blow up with dynamite.
+Dynamite	—n. 1 high explosive mixture containing nitroglycerine. 2 potentially dangerous person etc. —v. (-ting) charge or blow up with dynamite.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

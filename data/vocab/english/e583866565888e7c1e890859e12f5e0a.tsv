@@ -1,1 +1,6 @@
-Arrangement	n. 1 arranging or being arranged. 2 manner of this. 3 something arranged. 4 (in pl.) Plans, measures (made my own arrangements). 5 mus. Composition adapted for performance in a particular way.
+Arrangement	n. 1 arranging or being arranged. 2 manner of this. 3 something arranged. 4 (in pl.) Plans, measures (made my own arrangements). 5 mus. Composition adapted for performance in a particular way.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

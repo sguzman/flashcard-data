@@ -1,1 +1,6 @@
-Trailer	n. 1 set of brief extracts from a film etc., used to advertise it in advance. 2 vehicle towed by another, esp.: a the rear section of an articulated lorry. B an open cart. C a platform for transporting a boat etc. D us a caravan.
+Trailer	n. 1 set of brief extracts from a film etc., used to advertise it in advance. 2 vehicle towed by another, esp.: a the rear section of an articulated lorry. B an open cart. C a platform for transporting a boat etc. D us a caravan.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

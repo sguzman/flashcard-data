@@ -1,1 +1,6 @@
-Navy	n. (pl. -ies) 1 (often the navy) a whole body of a state's ships of war, including crews, maintenance systems, etc. B officers and men of a navy. 2 (in full navy blue) dark-blue colour as of naval uniforms. 3 poet. Fleet of ships. [romanic navia ship: related to *naval]
+Navy	n. (pl. -ies) 1 (often the navy) a whole body of a state's ships of war, including crews, maintenance systems, etc. B officers and men of a navy. 2 (in full navy blue) dark-blue colour as of naval uniforms. 3 poet. Fleet of ships. [romanic navia ship: related to *naval]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

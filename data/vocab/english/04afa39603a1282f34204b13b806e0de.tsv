@@ -1,1 +1,6 @@
-Motif	n. 1 theme that is repeated and developed in an artistic work. 2 decorative design or pattern. 3 ornament sewn separately on a garment. [french: related to *motive]
+Motif	n. 1 theme that is repeated and developed in an artistic work. 2 decorative design or pattern. 3 ornament sewn separately on a garment. [french: related to *motive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

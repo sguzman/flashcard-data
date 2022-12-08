@@ -1,1 +1,6 @@
-Accompany	v. (-ies, -ied) 1 go with; escort. 2 (usu. In passive; foll. By with, by) be done or found with; supplement. 3 mus. Partner with accompaniment. [french: related to *companion]
+Accompany	v. (-ies, -ied) 1 go with; escort. 2 (usu. In passive; foll. By with, by) be done or found with; supplement. 3 mus. Partner with accompaniment. [french: related to *companion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

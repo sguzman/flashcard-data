@@ -1,1 +1,6 @@
-Krona	n. 1 (pl. Kronor) chief monetary unit of sweden. 2 (pl. Kronur) chief monetary unit of iceland. [swedish and icelandic, = *crown]
+Krona	n. 1 (pl. Kronor) chief monetary unit of sweden. 2 (pl. Kronur) chief monetary unit of iceland. [swedish and icelandic, = *crown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

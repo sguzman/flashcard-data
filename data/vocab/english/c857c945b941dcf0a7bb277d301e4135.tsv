@@ -1,1 +1,6 @@
-Middleweight	n. 1 weight in certain sports between welterweight and light heavyweight, in amateur boxing 71–5 kg. 2 sportsman of this weight.
+Middleweight	n. 1 weight in certain sports between welterweight and light heavyweight, in amateur boxing 71–5 kg. 2 sportsman of this weight.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

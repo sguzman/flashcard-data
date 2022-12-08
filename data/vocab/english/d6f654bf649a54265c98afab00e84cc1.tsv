@@ -1,1 +1,6 @@
-Nitrate	—n. 1 any salt or ester of nitric acid. 2 potassium or sodium nitrate as a fertilizer. —v. (-ting) treat, combine, or impregnate with nitric acid.  nitration n. [french: related to *nitre]
+Nitrate	—n. 1 any salt or ester of nitric acid. 2 potassium or sodium nitrate as a fertilizer. —v. (-ting) treat, combine, or impregnate with nitric acid.  nitration n. [french: related to *nitre]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Germinate	v. (-ting) 1 sprout, bud, or develop. 2 cause to do this.  germination n. Germinative adj. [latin: related to *germ]
+Germinate	v. (-ting) 1 sprout, bud, or develop. 2 cause to do this.  germination n. Germinative adj. [latin: related to *germ]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Underlie	v. (-lying; past -lay; past part. -lain) 1 (also absol.) Lie under (a stratum etc.). 2 (also absol.) (esp. As underlying adj.) Be the basis of (a doctrine, conduct, etc.). 3 exist beneath the superficial aspect of.
+Underlie	v. (-lying; past -lay; past part. -lain) 1 (also absol.) Lie under (a stratum etc.). 2 (also absol.) (esp. As underlying adj.) Be the basis of (a doctrine, conduct, etc.). 3 exist beneath the superficial aspect of.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

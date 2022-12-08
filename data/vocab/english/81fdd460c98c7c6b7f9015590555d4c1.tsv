@@ -1,1 +1,6 @@
-Mercury	n. 1 silvery heavy liquid metallic element used in barometers, thermometers, etc. 2 (mercury) planet nearest to the sun.  mercuric adj. Mercurous adj. [latin mercurius, roman messenger-god]
+Mercury	n. 1 silvery heavy liquid metallic element used in barometers, thermometers, etc. 2 (mercury) planet nearest to the sun.  mercuric adj. Mercurous adj. [latin mercurius, roman messenger-god]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Projectile	—n. 1 missile, esp. Fired by a rocket. 2 bullet, shell, etc. —adj. 1 capable of being projected by force, esp. From a gun. 2 projecting or impelling.
+Projectile	—n. 1 missile, esp. Fired by a rocket. 2 bullet, shell, etc. —adj. 1 capable of being projected by force, esp. From a gun. 2 projecting or impelling.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

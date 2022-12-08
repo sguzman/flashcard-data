@@ -1,1 +1,6 @@
-Reward	—n. 1 a return or recompense for service or merit. B requital for good or evil. 2 sum offered for the detection of a criminal, restoration of lost property, etc. —v. Give a reward to (a person) or for (a service etc.). [anglo-french reward(er) *regard]
+Reward	—n. 1 a return or recompense for service or merit. B requital for good or evil. 2 sum offered for the detection of a criminal, restoration of lost property, etc. —v. Give a reward to (a person) or for (a service etc.). [anglo-french reward(er) *regard]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

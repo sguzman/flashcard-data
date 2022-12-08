@@ -1,1 +1,6 @@
-Artist	n. 1 practitioner of any of the arts, esp. Painting. 2 artiste. 3 person using skill or taste.  artistry n. [french artiste from italian]
+Artist	n. 1 practitioner of any of the arts, esp. Painting. 2 artiste. 3 person using skill or taste.  artistry n. [french artiste from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

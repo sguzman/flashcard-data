@@ -1,1 +1,6 @@
-Cooperative	(also co-operative) —adj. 1 willing to cooperate. 2 of or characterized by cooperation. 3 (of a business) owned and run jointly by its members, with profits shared. —n. Cooperative farm, society, or business.
+Cooperative	(also co-operative) —adj. 1 willing to cooperate. 2 of or characterized by cooperation. 3 (of a business) owned and run jointly by its members, with profits shared. —n. Cooperative farm, society, or business.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

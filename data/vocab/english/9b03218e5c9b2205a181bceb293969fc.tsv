@@ -1,1 +1,6 @@
-Usage	the number of words that can be formed with this prefix (and with un-2) is virtually unlimited; consequently only a selection can be given here.
+Usage	the number of words that can be formed with this prefix (and with un-2) is virtually unlimited; consequently only a selection can be given here.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Historical	adj. 1 of or concerning history (historical evidence). 2 (of the study of a subject) showing its development over a period. 3 factual, not fictional or legendary. 4 belonging to the past, not the present. 5 (of a novel etc.) Dealing with historical events.  historically adv.
+Historical	adj. 1 of or concerning history (historical evidence). 2 (of the study of a subject) showing its development over a period. 3 factual, not fictional or legendary. 4 belonging to the past, not the present. 5 (of a novel etc.) Dealing with historical events.  historically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

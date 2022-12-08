@@ -1,1 +1,6 @@
-Horoscope	n. 1 forecast of a person's future from a diagram showing the relative positions of the stars and planets at his or her birth. 2 such a diagram. [greek hora time, skopos observer]
+Horoscope	n. 1 forecast of a person's future from a diagram showing the relative positions of the stars and planets at his or her birth. 2 such a diagram. [greek hora time, skopos observer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

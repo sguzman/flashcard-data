@@ -1,1 +1,6 @@
-Astringent	—adj. 1 checking bleeding by contracting body tissues. 2 severe, austere. —n. Astringent substance.  astringency n. [latin astringo draw tight]
+Astringent	—adj. 1 checking bleeding by contracting body tissues. 2 severe, austere. —n. Astringent substance.  astringency n. [latin astringo draw tight]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

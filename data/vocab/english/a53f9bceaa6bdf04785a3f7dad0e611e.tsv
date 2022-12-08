@@ -1,1 +1,6 @@
-Holy	adj. (-ier, -iest) 1 morally and spiritually excellent or perfect, and to be revered. 2 belonging to or devoted to god. 3 consecrated, sacred. [old english: related to *whole]
+Holy	adj. (-ier, -iest) 1 morally and spiritually excellent or perfect, and to be revered. 2 belonging to or devoted to god. 3 consecrated, sacred. [old english: related to *whole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

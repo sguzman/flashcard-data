@@ -1,1 +1,6 @@
-Combination	n. 1 combining or being combined. 2 combined set of things or people. 3 sequence of numbers or letters used to open a combination lock. 4 motor cycle with a side-car attached. 5 (in pl.) Single undergarment for the body and legs. [latin: related to *combine]
+Combination	n. 1 combining or being combined. 2 combined set of things or people. 3 sequence of numbers or letters used to open a combination lock. 4 motor cycle with a side-car attached. 5 (in pl.) Single undergarment for the body and legs. [latin: related to *combine]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

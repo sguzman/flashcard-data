@@ -1,1 +1,6 @@
-Emissary	n. (pl. -ies) person sent on a diplomatic mission. [latin: related to *emit]
+Emissary	n. (pl. -ies) person sent on a diplomatic mission. [latin: related to *emit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

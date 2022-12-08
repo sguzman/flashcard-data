@@ -1,1 +1,6 @@
-Spiral	—adj. 1 coiled in a plane or as round a cylinder or cone. 2 having this shape. —n. 1 spiral curve or thing (spiral of smoke). 2 progressive rise or fall of two or more quantities alternately because each depends on the other(s). —v. (-ll-; us -l-) 1 move in a spiral course. 2 (of prices, wages, etc.) Rise or fall continuously.  spirally adv. [greek speira coil]
+Spiral	—adj. 1 coiled in a plane or as round a cylinder or cone. 2 having this shape. —n. 1 spiral curve or thing (spiral of smoke). 2 progressive rise or fall of two or more quantities alternately because each depends on the other(s). —v. (-ll-; us -l-) 1 move in a spiral course. 2 (of prices, wages, etc.) Rise or fall continuously.  spirally adv. [greek speira coil]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

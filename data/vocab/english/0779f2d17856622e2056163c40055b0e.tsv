@@ -1,1 +1,6 @@
-Crystalline	adj. 1 of, like, or clear as crystal. 2 having the structure and form of a crystal.  crystallinity n.
+Crystalline	adj. 1 of, like, or clear as crystal. 2 having the structure and form of a crystal.  crystallinity n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

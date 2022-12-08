@@ -1,1 +1,6 @@
-Stupefy	v. (-ies, -ied) 1 make stupid or insensible. 2 astonish, amaze.  stupefaction n. [french from latin stupeo be amazed]
+Stupefy	v. (-ies, -ied) 1 make stupid or insensible. 2 astonish, amaze.  stupefaction n. [french from latin stupeo be amazed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Median	—adj. Situated in the middle. —n. 1 straight line drawn from any vertex of a triangle to the middle of the opposite side. 2 middle value of a series. [latin: related to *medial]
+Median	—adj. Situated in the middle. —n. 1 straight line drawn from any vertex of a triangle to the middle of the opposite side. 2 middle value of a series. [latin: related to *medial]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

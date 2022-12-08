@@ -1,1 +1,6 @@
-Parity	n. 1 equality, equal status or pay. 2 parallelism or analogy (parity of reasoning). 3 equivalence of one currency with another; being at par. [latin paritas: related to *par]
+Parity	n. 1 equality, equal status or pay. 2 parallelism or analogy (parity of reasoning). 3 equivalence of one currency with another; being at par. [latin paritas: related to *par]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

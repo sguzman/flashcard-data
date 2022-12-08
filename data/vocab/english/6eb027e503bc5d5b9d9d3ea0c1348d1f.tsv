@@ -1,1 +1,6 @@
-Modern	—adj. 1 of present and recent times. 2 in current fashion; not antiquated. —n. Person living in modern times.  modernity n. [latin modo just now]
+Modern	—adj. 1 of present and recent times. 2 in current fashion; not antiquated. —n. Person living in modern times.  modernity n. [latin modo just now]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

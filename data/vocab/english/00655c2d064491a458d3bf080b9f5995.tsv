@@ -1,1 +1,6 @@
-Taint	—n. 1 spot or trace of decay, infection, corruption, etc. 2 corrupt condition or infection. —v. 1 affect with a taint; become tainted. 2 (foll. By with) affect slightly. [latin: related to *tinge]
+Taint	—n. 1 spot or trace of decay, infection, corruption, etc. 2 corrupt condition or infection. —v. 1 affect with a taint; become tainted. 2 (foll. By with) affect slightly. [latin: related to *tinge]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

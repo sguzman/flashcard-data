@@ -1,1 +1,6 @@
-Lamb	—n. 1 young sheep. 2 its flesh as food. 3 mild, gentle, or kind person. —v. Give birth to lambs.  the lamb (or lamb of god) name for christ. [old english]
+Lamb	—n. 1 young sheep. 2 its flesh as food. 3 mild, gentle, or kind person. —v. Give birth to lambs.  the lamb (or lamb of god) name for christ. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Girdle1	—n. 1 belt or cord worn round the waist. 2 corset. 3 thing that surrounds. 4 bony support for the limbs (pelvic girdle). —v. (-ling) surround with a girdle. [old english]
+Girdle1	—n. 1 belt or cord worn round the waist. 2 corset. 3 thing that surrounds. 4 bony support for the limbs (pelvic girdle). —v. (-ling) surround with a girdle. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

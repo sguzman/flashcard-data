@@ -1,1 +1,6 @@
-Quantum	n. (pl. Quanta) 1 physics discrete amount of energy proportional to the frequency of radiation it represents. 2 a required or allowed amount. [latin quantus how much]
+Quantum	n. (pl. Quanta) 1 physics discrete amount of energy proportional to the frequency of radiation it represents. 2 a required or allowed amount. [latin quantus how much]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

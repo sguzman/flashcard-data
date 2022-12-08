@@ -1,1 +1,6 @@
-Nee	adj. (brit. Née) (used in adding a married woman's maiden name after her surname) born (mrs ann hall, née brown). [french, feminine past part. Of naître be born]
+Nee	adj. (brit. Née) (used in adding a married woman's maiden name after her surname) born (mrs ann hall, née brown). [french, feminine past part. Of naître be born]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Dray	n. Low cart without sides for heavy loads, esp. Beer-barrels. [related to *draw]
+Dray	n. Low cart without sides for heavy loads, esp. Beer-barrels. [related to *draw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

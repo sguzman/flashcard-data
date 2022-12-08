@@ -1,1 +1,6 @@
-Borderline	—n. 1 line dividing two conditions. 2 line marking a boundary. —adj. 1 on the borderline. 2 barely acceptable.
+Borderline	—n. 1 line dividing two conditions. 2 line marking a boundary. —adj. 1 on the borderline. 2 barely acceptable.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

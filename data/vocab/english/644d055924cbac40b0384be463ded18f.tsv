@@ -1,1 +1,6 @@
-Usage	in formations not generally current the hyphen should be used. It may be omitted when the first element is of one syllable, unless it ends in -l.
+Usage	in formations not generally current the hyphen should be used. It may be omitted when the first element is of one syllable, unless it ends in -l.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

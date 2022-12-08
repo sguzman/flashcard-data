@@ -1,1 +1,6 @@
-Edition	n. 1 edited or published form of a book etc. 2 copies of a book, newspaper, etc. Issued at one time. 3 instance of a regular broadcast. 4 person or thing similar to another (a miniature edition of her mother).
+Edition	n. 1 edited or published form of a book etc. 2 copies of a book, newspaper, etc. Issued at one time. 3 instance of a regular broadcast. 4 person or thing similar to another (a miniature edition of her mother).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

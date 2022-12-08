@@ -1,1 +1,6 @@
-Masquerade	—n. 1 false show, pretence. 2 masked ball. —v. (-ding) (often foll. By as) appear falsely or in disguise. [spanish máscara mask]
+Masquerade	—n. 1 false show, pretence. 2 masked ball. —v. (-ding) (often foll. By as) appear falsely or in disguise. [spanish máscara mask]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

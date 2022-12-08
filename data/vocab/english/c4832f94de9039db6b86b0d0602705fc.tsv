@@ -1,1 +1,6 @@
-Reversion	n. 1 return to a previous state, habit, etc. 2 biol. Return to ancestral type. 3 legal right (esp. Of the original owner, or his or her heirs) to possess or succeed to property on the death of the present possessor. [latin: related to *reverse] 
+Reversion	n. 1 return to a previous state, habit, etc. 2 biol. Return to ancestral type. 3 legal right (esp. Of the original owner, or his or her heirs) to possess or succeed to property on the death of the present possessor. [latin: related to *reverse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

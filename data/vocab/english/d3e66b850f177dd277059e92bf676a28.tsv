@@ -1,1 +1,6 @@
-Size1	—n. 1 relative dimensions, magnitude. 2 each of the classes into which similar things are divided according to size. —v. (-zing) sort in sizes or according to size.  the size of it colloq. The truth of the matter. Size up colloq. Form a judgement of.  sized adj. (also in comb.). [french sise]
+Size1	—n. 1 relative dimensions, magnitude. 2 each of the classes into which similar things are divided according to size. —v. (-zing) sort in sizes or according to size.  the size of it colloq. The truth of the matter. Size up colloq. Form a judgement of.  sized adj. (also in comb.). [french sise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

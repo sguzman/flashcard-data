@@ -1,1 +1,6 @@
-Caption	—n. 1 wording appended to an illustration, cartoon, etc. 2 wording on a cinema or television screen. 3 heading of a chapter, article, etc. —v. Provide with a caption. [latin capio take]
+Caption	—n. 1 wording appended to an illustration, cartoon, etc. 2 wording on a cinema or television screen. 3 heading of a chapter, article, etc. —v. Provide with a caption. [latin capio take]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

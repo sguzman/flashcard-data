@@ -1,1 +1,6 @@
-Fig-leaf	n. 1 leaf of a fig-tree. 2 concealing device, esp. For the genitals (gen. 3:7).
+Fig-leaf	n. 1 leaf of a fig-tree. 2 concealing device, esp. For the genitals (gen. 3:7).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

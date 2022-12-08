@@ -1,1 +1,6 @@
-Tang	n. 1 strong taste or smell. 2 characteristic quality. 3 projection on the blade of esp. A knife, by which it is held firm in the handle. [old norse tange point]
+Tang	n. 1 strong taste or smell. 2 characteristic quality. 3 projection on the blade of esp. A knife, by which it is held firm in the handle. [old norse tange point]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

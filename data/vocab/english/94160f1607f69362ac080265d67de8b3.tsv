@@ -1,1 +1,6 @@
-Right of way	n. 1 right established by usage to pass over another's ground. 2 path subject to such a right. 3 right of a vehicle to precedence.
+Right of way	n. 1 right established by usage to pass over another's ground. 2 path subject to such a right. 3 right of a vehicle to precedence.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

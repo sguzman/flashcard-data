@@ -1,1 +1,6 @@
-Commensurable	adj. 1 (often foll. By with, to) measurable by the same standard. 2 (foll. By to) proportionate to. 3 math. (of numbers) in a ratio equal to the ratio of integers.  commensurability n. [latin: related to *measure]
+Commensurable	adj. 1 (often foll. By with, to) measurable by the same standard. 2 (foll. By to) proportionate to. 3 math. (of numbers) in a ratio equal to the ratio of integers.  commensurability n. [latin: related to *measure]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Mule1	n. 1 offspring of a male donkey and a female horse, or (in general use) of a female donkey and a male horse (cf. *hinny). 2 stupid or obstinate person. 3 (in full spinning mule) a kind of spinning-machine. [latin mulus]
+Mule1	n. 1 offspring of a male donkey and a female horse, or (in general use) of a female donkey and a male horse (cf. *hinny). 2 stupid or obstinate person. 3 (in full spinning mule) a kind of spinning-machine. [latin mulus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

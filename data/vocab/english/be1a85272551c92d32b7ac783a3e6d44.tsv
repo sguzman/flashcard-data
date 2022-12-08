@@ -1,1 +1,6 @@
-Invert	v. 1 turn upside down. 2 reverse the position, order, or relation of. [latin verto vers- turn]
+Invert	v. 1 turn upside down. 2 reverse the position, order, or relation of. [latin verto vers- turn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

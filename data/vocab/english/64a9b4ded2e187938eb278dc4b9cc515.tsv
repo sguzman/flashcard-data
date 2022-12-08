@@ -1,1 +1,6 @@
-Presumption	n. 1 arrogance, presumptuous behaviour. 2 a presuming a thing to be true. B thing that is or may be presumed to be true. 3 ground for presuming. [latin: related to *presume]
+Presumption	n. 1 arrogance, presumptuous behaviour. 2 a presuming a thing to be true. B thing that is or may be presumed to be true. 3 ground for presuming. [latin: related to *presume]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

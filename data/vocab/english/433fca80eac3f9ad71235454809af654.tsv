@@ -1,1 +1,6 @@
-Gravy	n. (pl. -ies) 1 juices exuding from meat during and after cooking. 2 sauce for food, made from these etc. [perhaps from a misreading of french grané from grain spice, *grain]
+Gravy	n. (pl. -ies) 1 juices exuding from meat during and after cooking. 2 sauce for food, made from these etc. [perhaps from a misreading of french grané from grain spice, *grain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

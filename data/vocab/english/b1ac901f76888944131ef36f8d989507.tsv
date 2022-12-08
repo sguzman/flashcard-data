@@ -1,1 +1,6 @@
-Ramble	—v. (-ling) 1 walk for pleasure. 2 talk or write incoherently. —n. Walk taken for pleasure. [dutch rammelen]
+Ramble	—v. (-ling) 1 walk for pleasure. 2 talk or write incoherently. —n. Walk taken for pleasure. [dutch rammelen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

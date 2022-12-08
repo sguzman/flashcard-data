@@ -1,1 +1,6 @@
-Proceeding	n. 1 action or piece of conduct (high-handed proceeding). 2 (in pl.) (in full legal proceedings) lawsuit. 3 (in pl.) Published report of discussions or a conference.
+Proceeding	n. 1 action or piece of conduct (high-handed proceeding). 2 (in pl.) (in full legal proceedings) lawsuit. 3 (in pl.) Published report of discussions or a conference.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

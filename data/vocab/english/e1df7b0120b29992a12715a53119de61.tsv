@@ -1,1 +1,6 @@
-Salon	n. 1 room or establishment of a hairdresser, beautician, etc. 2 hist. Meeting of eminent people in the home of a lady of fashion. 3 reception room, esp. Of a continental house. [french: related to *saloon]
+Salon	n. 1 room or establishment of a hairdresser, beautician, etc. 2 hist. Meeting of eminent people in the home of a lady of fashion. 3 reception room, esp. Of a continental house. [french: related to *saloon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

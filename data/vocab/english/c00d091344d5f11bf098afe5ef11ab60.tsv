@@ -1,1 +1,6 @@
-Vernacular	—n. 1 language or dialect of a particular country. 2 language of a particular class or group. 3 homely speech. —adj. (of language) native; not foreign or formal. [latin vernaculus native]
+Vernacular	—n. 1 language or dialect of a particular country. 2 language of a particular class or group. 3 homely speech. —adj. (of language) native; not foreign or formal. [latin vernaculus native]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

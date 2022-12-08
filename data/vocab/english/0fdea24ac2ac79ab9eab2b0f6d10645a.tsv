@@ -1,1 +1,6 @@
-Arouse	v. (-sing) 1 induce (esp. An emotion). 2 awake from sleep. 3 stir into activity. 4 stimulate sexually.  arousal n. [a- intensive prefix]
+Arouse	v. (-sing) 1 induce (esp. An emotion). 2 awake from sleep. 3 stir into activity. 4 stimulate sexually.  arousal n. [a- intensive prefix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

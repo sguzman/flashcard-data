@@ -1,1 +1,6 @@
-Ash1	n. 1 (often in pl.) Powdery residue left after burning. 2 (pl.) Human remains after cremation. 3 (the ashes) cricket trophy competed for by australia and england. [old english]
+Ash1	n. 1 (often in pl.) Powdery residue left after burning. 2 (pl.) Human remains after cremation. 3 (the ashes) cricket trophy competed for by australia and england. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

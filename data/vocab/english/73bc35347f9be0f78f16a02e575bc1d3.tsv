@@ -1,1 +1,6 @@
-Extremity	n. (pl. -ies) 1 extreme point; very end. 2 (in pl.) The hands and feet. 3 condition of extreme adversity. [latin: related to *extreme]
+Extremity	n. (pl. -ies) 1 extreme point; very end. 2 (in pl.) The hands and feet. 3 condition of extreme adversity. [latin: related to *extreme]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

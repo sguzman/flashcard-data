@@ -1,1 +1,6 @@
-Dictator	n. 1 usu. Unelected omnipotent ruler. 2 omnipotent person in any sphere. 3 domineering person.  dictatorship n. [latin: related to *dictate]
+Dictator	n. 1 usu. Unelected omnipotent ruler. 2 omnipotent person in any sphere. 3 domineering person.  dictatorship n. [latin: related to *dictate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

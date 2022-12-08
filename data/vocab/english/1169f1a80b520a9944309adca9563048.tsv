@@ -1,1 +1,6 @@
-Scrupulous	adj. 1 conscientious, thorough. 2 careful to avoid doing wrong. 3 punctilious; over-attentive to details.  scrupulously adv. [latin: related to *scruple]
+Scrupulous	adj. 1 conscientious, thorough. 2 careful to avoid doing wrong. 3 punctilious; over-attentive to details.  scrupulously adv. [latin: related to *scruple]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

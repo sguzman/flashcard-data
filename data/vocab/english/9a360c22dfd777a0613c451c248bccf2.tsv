@@ -1,1 +1,6 @@
-Hysterical	adj. 1 of or affected with hysteria. 2 uncontrollably emotional. 3 colloq. Extremely funny.  hysterically adv.
+Hysterical	adj. 1 of or affected with hysteria. 2 uncontrollably emotional. 3 colloq. Extremely funny.  hysterically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

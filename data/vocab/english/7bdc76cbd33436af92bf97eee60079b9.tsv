@@ -1,1 +1,6 @@
-Vital statistics	n.pl. 1 joc. Measurements of a woman's bust, waist, and hips. 2 the number of births, marriages, deaths, etc.
+Vital statistics	n.pl. 1 joc. Measurements of a woman's bust, waist, and hips. 2 the number of births, marriages, deaths, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

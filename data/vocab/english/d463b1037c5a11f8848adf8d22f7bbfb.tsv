@@ -1,1 +1,6 @@
-Sphere	n. 1 solid figure with every point on its surface equidistant from its centre; its surface. 2 ball, globe. 3 a field of action, influence, etc. B social class. 4 hist. Each of the revolving shells in which celestial bodies were thought to be set. [greek sphaira ball]
+Sphere	n. 1 solid figure with every point on its surface equidistant from its centre; its surface. 2 ball, globe. 3 a field of action, influence, etc. B social class. 4 hist. Each of the revolving shells in which celestial bodies were thought to be set. [greek sphaira ball]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

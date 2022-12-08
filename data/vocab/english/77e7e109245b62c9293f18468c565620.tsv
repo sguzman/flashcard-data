@@ -1,1 +1,6 @@
-Presbytery	n. (pl. -ies) 1 eastern part of a chancel. 2 body of presbyters, esp. A court next above a kirk-session. 3 house of a roman catholic priest.
+Presbytery	n. (pl. -ies) 1 eastern part of a chancel. 2 body of presbyters, esp. A court next above a kirk-session. 3 house of a roman catholic priest.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

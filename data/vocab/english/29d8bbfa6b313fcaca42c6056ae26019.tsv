@@ -1,1 +1,6 @@
-Lay figure	n. 1 jointed figure of a human body used by artists for arranging drapery on etc. 2 unrealistic character in a novel etc. [dutch led joint]
+Lay figure	n. 1 jointed figure of a human body used by artists for arranging drapery on etc. 2 unrealistic character in a novel etc. [dutch led joint]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

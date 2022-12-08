@@ -1,1 +1,6 @@
-Vestige	n. 1 trace; sign. 2 slight amount; particle. 3 atrophied part or organ of an animal or plant that was well developed in ancestors.  vestigial adj. [latin vestigium footprint]
+Vestige	n. 1 trace; sign. 2 slight amount; particle. 3 atrophied part or organ of an animal or plant that was well developed in ancestors.  vestigial adj. [latin vestigium footprint]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

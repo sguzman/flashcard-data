@@ -1,1 +1,6 @@
-Invocation	n. 1 invoking or being invoked, esp. In prayer. 2 summoning of supernatural beings, e.g. The muses, for inspiration. 3 eccl. The words ‘in the name of the father’ etc. Used to preface a sermon etc.  invocatory adj. [latin: related to *invoke] 
+Invocation	n. 1 invoking or being invoked, esp. In prayer. 2 summoning of supernatural beings, e.g. The muses, for inspiration. 3 eccl. The words ‘in the name of the father’ etc. Used to preface a sermon etc.  invocatory adj. [latin: related to *invoke]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

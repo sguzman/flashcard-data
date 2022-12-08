@@ -1,1 +1,6 @@
-Ball2	n. 1 formal social gathering for dancing. 2 slang enjoyable time (esp. Have a ball). [greek ballo throw]
+Ball2	n. 1 formal social gathering for dancing. 2 slang enjoyable time (esp. Have a ball). [greek ballo throw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

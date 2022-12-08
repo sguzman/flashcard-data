@@ -1,1 +1,6 @@
-Bantamweight	n. 1 weight in certain sports between flyweight and featherweight, in amateur boxing 51–4 kg. 2 sportsman of this weight.
+Bantamweight	n. 1 weight in certain sports between flyweight and featherweight, in amateur boxing 51–4 kg. 2 sportsman of this weight.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Simmer	—v. 1 bubble or boil gently. 2 be in a state of suppressed anger or excitement. —n. Simmering condition.  simmer down become less agitated. [perhaps imitative]
+Simmer	—v. 1 bubble or boil gently. 2 be in a state of suppressed anger or excitement. —n. Simmering condition.  simmer down become less agitated. [perhaps imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

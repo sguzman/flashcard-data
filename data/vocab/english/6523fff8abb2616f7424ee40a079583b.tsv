@@ -1,1 +1,6 @@
-Exquisite	adj. 1 extremely beautiful or delicate. 2 keenly felt (exquisite pleasure). 3 highly sensitive (exquisite taste).  exquisitely adv. [latin exquiro -quisit- seek out]
+Exquisite	adj. 1 extremely beautiful or delicate. 2 keenly felt (exquisite pleasure). 3 highly sensitive (exquisite taste).  exquisitely adv. [latin exquiro -quisit- seek out]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

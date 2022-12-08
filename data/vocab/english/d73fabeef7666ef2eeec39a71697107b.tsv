@@ -1,1 +1,6 @@
-Prolific	adj. 1 producing many offspring or much output. 2 (often foll. By of) abundantly productive. 3 (often foll. By in) abounding, copious.  prolifically adv. [medieval latin: related to *proliferate]
+Prolific	adj. 1 producing many offspring or much output. 2 (often foll. By of) abundantly productive. 3 (often foll. By in) abounding, copious.  prolifically adv. [medieval latin: related to *proliferate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

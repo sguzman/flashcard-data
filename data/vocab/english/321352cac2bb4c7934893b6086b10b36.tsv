@@ -1,1 +1,6 @@
-Fund	—n. 1 permanently available stock (fund of knowledge). 2 sum of money, esp. Set apart for a purpose. 3 (in pl.) Money resources. —v. 1 provide with money. 2 make (a debt) permanent at fixed interest.  in funds colloq. Having money to spend. [latin fundus bottom]
+Fund	—n. 1 permanently available stock (fund of knowledge). 2 sum of money, esp. Set apart for a purpose. 3 (in pl.) Money resources. —v. 1 provide with money. 2 make (a debt) permanent at fixed interest.  in funds colloq. Having money to spend. [latin fundus bottom]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

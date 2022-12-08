@@ -1,1 +1,6 @@
-Vow	—n. Solemn, esp. Religious, promise (monastic vows; marriage vows). —v. 1 promise solemnly. 2 archaic declare solemnly. [french vou(er): related to *vote]
+Vow	—n. Solemn, esp. Religious, promise (monastic vows; marriage vows). —v. 1 promise solemnly. 2 archaic declare solemnly. [french vou(er): related to *vote]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

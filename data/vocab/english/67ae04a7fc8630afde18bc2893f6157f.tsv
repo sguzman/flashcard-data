@@ -1,1 +1,6 @@
-Missionary position	n. Colloq. Position for sexual intercourse with the woman lying on her back and the man lying on top and facing her.
+Missionary position	n. Colloq. Position for sexual intercourse with the woman lying on her back and the man lying on top and facing her.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cook	—v. 1 prepare (food) by heating it. 2 (of food) undergo cooking. 3 colloq. Falsify (accounts etc.). 4 (as be cooking) colloq. Be happening or about to happen. —n. Person who cooks, esp. Professionally or in a specified way (a good cook).  cook up colloq. Concoct (a story, excuse, etc.). [latin coquus]
+Cook	—v. 1 prepare (food) by heating it. 2 (of food) undergo cooking. 3 colloq. Falsify (accounts etc.). 4 (as be cooking) colloq. Be happening or about to happen. —n. Person who cooks, esp. Professionally or in a specified way (a good cook).  cook up colloq. Concoct (a story, excuse, etc.). [latin coquus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

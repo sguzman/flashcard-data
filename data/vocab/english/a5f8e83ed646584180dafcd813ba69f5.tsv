@@ -1,1 +1,6 @@
-Upfront	colloq. —adv. (usu. Up front) 1 at the front; in front. 2 (of payments) in advance. —adj. 1 honest, frank, direct. 2 (of payments) made in advance.
+Upfront	colloq. —adv. (usu. Up front) 1 at the front; in front. 2 (of payments) in advance. —adj. 1 honest, frank, direct. 2 (of payments) made in advance.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

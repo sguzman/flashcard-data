@@ -1,1 +1,6 @@
-Hurdle	—n. 1 a each of a series of light frames to be cleared by athletes in a race. B (in pl.) Hurdle-race. 2 obstacle or difficulty. 3 portable rectangular frame used as a temporary fence etc. —v. (-ling) 1 run in a hurdle-race. 2 fence off etc. With hurdles. [old english]
+Hurdle	—n. 1 a each of a series of light frames to be cleared by athletes in a race. B (in pl.) Hurdle-race. 2 obstacle or difficulty. 3 portable rectangular frame used as a temporary fence etc. —v. (-ling) 1 run in a hurdle-race. 2 fence off etc. With hurdles. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

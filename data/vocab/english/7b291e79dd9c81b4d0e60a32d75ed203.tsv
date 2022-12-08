@@ -1,1 +1,6 @@
-Circumvent	v. 1 evade, find a way round. 2 baffle, outwit.  circumvention n. [latin venio vent- come]
+Circumvent	v. 1 evade, find a way round. 2 baffle, outwit.  circumvention n. [latin venio vent- come]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

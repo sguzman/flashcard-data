@@ -1,1 +1,6 @@
-Editorial	—adj. 1 of editing or editors. 2 written or approved by an editor. —n. Article giving a newspaper's views on a current topic.  editorially adv.
+Editorial	—adj. 1 of editing or editors. 2 written or approved by an editor. —n. Article giving a newspaper's views on a current topic.  editorially adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

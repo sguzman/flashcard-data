@@ -1,1 +1,6 @@
-Quartermaster	n. 1 regimental officer in charge of quartering, rations, etc. 2 naval petty officer in charge of steering, signals, etc.
+Quartermaster	n. 1 regimental officer in charge of quartering, rations, etc. 2 naval petty officer in charge of steering, signals, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

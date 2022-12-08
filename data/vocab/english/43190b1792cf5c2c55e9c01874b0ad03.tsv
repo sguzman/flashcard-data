@@ -1,1 +1,6 @@
-Comfit	n. Archaic sweet consisting of a nut etc. In sugar. [latin: related to *confection]
+Comfit	n. Archaic sweet consisting of a nut etc. In sugar. [latin: related to *confection]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

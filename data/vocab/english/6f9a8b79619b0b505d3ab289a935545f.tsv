@@ -1,1 +1,6 @@
-Expense	n. 1 cost incurred; payment of money. 2 (usu. In pl.) A costs incurred in doing a job etc. B amount paid to reimburse this. 3 thing on which money is spent.  at the expense of so as to cause loss or harm to; costing. [latin expensa: related to *expend]
+Expense	n. 1 cost incurred; payment of money. 2 (usu. In pl.) A costs incurred in doing a job etc. B amount paid to reimburse this. 3 thing on which money is spent.  at the expense of so as to cause loss or harm to; costing. [latin expensa: related to *expend]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

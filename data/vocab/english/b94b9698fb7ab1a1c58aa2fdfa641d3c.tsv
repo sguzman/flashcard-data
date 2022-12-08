@@ -1,1 +1,6 @@
-Sump	n. 1 casing holding the oil in an internal-combustion engine. 2 pit, well, hole, etc. In which superfluous liquid collects. [low german or dutch]
+Sump	n. 1 casing holding the oil in an internal-combustion engine. 2 pit, well, hole, etc. In which superfluous liquid collects. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

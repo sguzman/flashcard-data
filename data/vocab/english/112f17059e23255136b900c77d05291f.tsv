@@ -1,1 +1,6 @@
-Retrospective	—adj. 1 looking back on or dealing with the past. 2 (of a statute etc.) Applying to the past as well as the future. —n. Exhibition, recital, etc. Showing an artist's development over his or her lifetime.  retrospectively adv.
+Retrospective	—adj. 1 looking back on or dealing with the past. 2 (of a statute etc.) Applying to the past as well as the future. —n. Exhibition, recital, etc. Showing an artist's development over his or her lifetime.  retrospectively adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

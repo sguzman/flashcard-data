@@ -1,1 +1,6 @@
-Rude	adj. 1 impolite or offensive. 2 roughly made or done; crude (rude plough). 3 primitive or uneducated (rude simplicity). 4 abrupt, sudden, startling (rude awakening). 5 colloq. Indecent, lewd (rude joke). 6 vigorous or hearty (rude health).  rudely adv. Rudeness n. [latin rudis]
+Rude	adj. 1 impolite or offensive. 2 roughly made or done; crude (rude plough). 3 primitive or uneducated (rude simplicity). 4 abrupt, sudden, startling (rude awakening). 5 colloq. Indecent, lewd (rude joke). 6 vigorous or hearty (rude health).  rudely adv. Rudeness n. [latin rudis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hyssop	n. 1 small bushy aromatic herb, formerly used medicinally. 2 bibl. Plant whose twigs were used for sprinkling in jewish rites. [ultimately from greek hyssopos, of semitic origin]
+Hyssop	n. 1 small bushy aromatic herb, formerly used medicinally. 2 bibl. Plant whose twigs were used for sprinkling in jewish rites. [ultimately from greek hyssopos, of semitic origin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

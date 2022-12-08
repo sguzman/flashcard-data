@@ -1,1 +1,6 @@
-Upward	—adv. (also upwards) towards what is higher, more important, etc. —adj. Moving or extending upwards.  upwards of more than (upwards of forty).
+Upward	—adv. (also upwards) towards what is higher, more important, etc. —adj. Moving or extending upwards.  upwards of more than (upwards of forty).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

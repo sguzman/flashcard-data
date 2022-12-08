@@ -1,1 +1,6 @@
-Mole4	n. Chem. The si unit of amount of a substance equal to the quantity containing as many elementary units as there are atoms in 0.012 kg of carbon-12. [german mol from molekül *molecule]
+Mole4	n. Chem. The si unit of amount of a substance equal to the quantity containing as many elementary units as there are atoms in 0.012 kg of carbon-12. [german mol from molekül *molecule]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

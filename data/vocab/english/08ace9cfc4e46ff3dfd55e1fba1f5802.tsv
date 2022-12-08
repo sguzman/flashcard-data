@@ -1,1 +1,6 @@
-Buddha	n. 1 title of the indian philosopher gautama (5th c. Bc) and his successors. 2 sculpture etc. Of buddha. [sanskrit, = enlightened]
+Buddha	n. 1 title of the indian philosopher gautama (5th c. Bc) and his successors. 2 sculpture etc. Of buddha. [sanskrit, = enlightened]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

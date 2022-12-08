@@ -1,1 +1,6 @@
-Dizzy	—adj. (-ier, -iest) 1 a giddy. B feeling confused. 2 causing giddiness. —v. (-ies, -ied) 1 make dizzy. 2 bewilder.  dizzily adv. Dizziness n. [old english]
+Dizzy	—adj. (-ier, -iest) 1 a giddy. B feeling confused. 2 causing giddiness. —v. (-ies, -ied) 1 make dizzy. 2 bewilder.  dizzily adv. Dizziness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

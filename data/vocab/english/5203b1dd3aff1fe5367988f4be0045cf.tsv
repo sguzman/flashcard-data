@@ -1,1 +1,6 @@
-Elect	—v. (usu. Foll. By to + infin.) 1 choose. 2 choose by voting. —adj. 1 chosen. 2 select, choice. 3 (after the noun) chosen but not yet in office (president elect). [latin eligo elect- pick out]
+Elect	—v. (usu. Foll. By to + infin.) 1 choose. 2 choose by voting. —adj. 1 chosen. 2 select, choice. 3 (after the noun) chosen but not yet in office (president elect). [latin eligo elect- pick out]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

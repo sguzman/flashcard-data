@@ -1,1 +1,6 @@
-Bustle1	—v. (-ling) 1 (often foll. By about) (cause to) move busily and energetically. 2 (as bustling adj.) Active, lively. —n. Excited or energetic activity. [perhaps from obsolete busk prepare]
+Bustle1	—v. (-ling) 1 (often foll. By about) (cause to) move busily and energetically. 2 (as bustling adj.) Active, lively. —n. Excited or energetic activity. [perhaps from obsolete busk prepare]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Stock exchange	n. 1 place for dealing in stocks and shares. 2 dealers working there.
+Stock exchange	n. 1 place for dealing in stocks and shares. 2 dealers working there.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

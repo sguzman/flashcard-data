@@ -1,1 +1,6 @@
-Homeric	adj. 1 of, or in the style of, homer. 2 of bronze age greece as described in homer's poems.
+Homeric	adj. 1 of, or in the style of, homer. 2 of bronze age greece as described in homer's poems.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

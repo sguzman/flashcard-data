@@ -1,1 +1,6 @@
-Suspicion	n. 1 unconfirmed belief; distrust. 2 suspecting or being suspected. 3 (foll. By of) slight trace of.  above suspicion too obviously good etc. To be suspected. Under suspicion suspected. [latin: related to *suspect]
+Suspicion	n. 1 unconfirmed belief; distrust. 2 suspecting or being suspected. 3 (foll. By of) slight trace of.  above suspicion too obviously good etc. To be suspected. Under suspicion suspected. [latin: related to *suspect]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

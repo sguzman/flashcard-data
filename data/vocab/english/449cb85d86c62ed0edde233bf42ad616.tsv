@@ -1,1 +1,6 @@
-Treaty	n. (pl. -ies) 1 formal agreement between states. 2 agreement between parties, esp. For the purchase of property. [latin: related to *treat]
+Treaty	n. (pl. -ies) 1 formal agreement between states. 2 agreement between parties, esp. For the purchase of property. [latin: related to *treat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

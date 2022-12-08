@@ -1,1 +1,6 @@
-Impregnate	v. (-ting) 1 (often foll. By with) fill or saturate. 2 (often foll. By with) imbue (with feelings etc.). 3 a make (a female) pregnant. B fertilize (an ovum).  impregnation n. [latin: related to *pregnant]
+Impregnate	v. (-ting) 1 (often foll. By with) fill or saturate. 2 (often foll. By with) imbue (with feelings etc.). 3 a make (a female) pregnant. B fertilize (an ovum).  impregnation n. [latin: related to *pregnant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

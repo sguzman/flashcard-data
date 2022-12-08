@@ -1,1 +1,6 @@
-Blitz	colloq. —n. 1 a intensive or sudden (esp. Aerial) attack. B intensive period of work etc. (must have a blitz on this room). 2 (the blitz) german air raids on london in 1940. —v. Inflict a blitz on. [abbreviation of *blitzkrieg]
+Blitz	colloq. —n. 1 a intensive or sudden (esp. Aerial) attack. B intensive period of work etc. (must have a blitz on this room). 2 (the blitz) german air raids on london in 1940. —v. Inflict a blitz on. [abbreviation of *blitzkrieg]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

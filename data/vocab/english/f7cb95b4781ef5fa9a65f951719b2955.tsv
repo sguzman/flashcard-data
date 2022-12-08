@@ -1,1 +1,6 @@
-Rocket	—n. 1 cylindrical firework or signal etc. Propelled to a great height after ignition. 2 engine operating on the same principle, providing thrust but not dependent on air intake. 3 rocket-propelled missile, spacecraft, etc. 4 slang severe reprimand. —v. (-t-) 1 a move rapidly upwards or away. B increase rapidly (prices rocketed). 2 bombard with rockets. [french roquette from italian]
+Rocket	—n. 1 cylindrical firework or signal etc. Propelled to a great height after ignition. 2 engine operating on the same principle, providing thrust but not dependent on air intake. 3 rocket-propelled missile, spacecraft, etc. 4 slang severe reprimand. —v. (-t-) 1 a move rapidly upwards or away. B increase rapidly (prices rocketed). 2 bombard with rockets. [french roquette from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

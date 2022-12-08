@@ -1,1 +1,6 @@
-Instrumental	adj. 1 serving as an instrument or means. 2 (of music) performed on instruments. 3 of, or arising from, an instrument (instrumental error).
+Instrumental	adj. 1 serving as an instrument or means. 2 (of music) performed on instruments. 3 of, or arising from, an instrument (instrumental error).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

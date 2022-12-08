@@ -1,1 +1,6 @@
-Goodness	—n. 1 virtue; excellence. 2 kindness (had the goodness to wait). 3 what is beneficial in a thing. —int. (esp. As a substitution for ‘god’) expressing surprise, anger, etc. (goodness me!; goodness knows).
+Goodness	—n. 1 virtue; excellence. 2 kindness (had the goodness to wait). 3 what is beneficial in a thing. —int. (esp. As a substitution for ‘god’) expressing surprise, anger, etc. (goodness me!; goodness knows).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Acquaint	v. (usu. Foll. By with) make aware of or familiar with (acquaint me with the facts).  be acquainted with have personal knowledge of; know slightly. [latin: related to *ad-, *cognizance]
+Acquaint	v. (usu. Foll. By with) make aware of or familiar with (acquaint me with the facts).  be acquainted with have personal knowledge of; know slightly. [latin: related to *ad-, *cognizance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

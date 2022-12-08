@@ -1,1 +1,6 @@
-Accumulator	n. 1 rechargeable electric cell. 2 bet placed on a sequence of events, with the winnings and stake from each placed on the next.
+Accumulator	n. 1 rechargeable electric cell. 2 bet placed on a sequence of events, with the winnings and stake from each placed on the next.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

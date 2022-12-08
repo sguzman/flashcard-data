@@ -1,1 +1,6 @@
-Incentive	—n. 1 motive or incitement. 2 payment or concession encouraging effort in work. —attrib. Adj. Serving to motivate or incite (incentive scheme). [latin incentivus that sets the tune]
+Incentive	—n. 1 motive or incitement. 2 payment or concession encouraging effort in work. —attrib. Adj. Serving to motivate or incite (incentive scheme). [latin incentivus that sets the tune]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

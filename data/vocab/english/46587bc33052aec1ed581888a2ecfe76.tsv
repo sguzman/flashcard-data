@@ -1,1 +1,6 @@
-Both	—adj. & pron. The two, not only one (both boys; both the boys; both of the boys; i like both). —adv. With equal truth in two cases (is both hot and dry). [old norse]
+Both	—adj. & pron. The two, not only one (both boys; both the boys; both of the boys; i like both). —adv. With equal truth in two cases (is both hot and dry). [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

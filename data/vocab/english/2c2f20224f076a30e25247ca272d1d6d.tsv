@@ -1,1 +1,6 @@
--ee	suffix forming nouns denoting: 1 person affected by the verbal action (employee; payee). 2 person concerned with or described as (absentee; refugee). 3 object of smaller size (bootee). [french -é in past part.]
+-ee	suffix forming nouns denoting: 1 person affected by the verbal action (employee; payee). 2 person concerned with or described as (absentee; refugee). 3 object of smaller size (bootee). [french -é in past part.]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

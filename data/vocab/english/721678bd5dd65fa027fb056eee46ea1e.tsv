@@ -1,1 +1,6 @@
-Savvy	slang —v. (-ies, -ied) know. —n. Knowingness; understanding. —adj. (-ier, -iest) us knowing; wise. [pidgin alteration of spanish sabe usted you know]
+Savvy	slang —v. (-ies, -ied) know. —n. Knowingness; understanding. —adj. (-ier, -iest) us knowing; wise. [pidgin alteration of spanish sabe usted you know]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

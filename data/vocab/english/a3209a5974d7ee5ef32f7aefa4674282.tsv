@@ -1,1 +1,6 @@
-Linoleum	n. Canvas-backed material thickly coated with a preparation of linseed oil and powdered cork etc., esp. As a floor covering. [latin linum flax, oleum oil]
+Linoleum	n. Canvas-backed material thickly coated with a preparation of linseed oil and powdered cork etc., esp. As a floor covering. [latin linum flax, oleum oil]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

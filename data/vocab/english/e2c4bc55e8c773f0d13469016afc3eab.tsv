@@ -1,1 +1,6 @@
-Spear	—n. 1 thrusting or throwing weapon with a long shaft and a pointed usu. Steel tip. 2 a tip and stem of asparagus, broccoli, etc. B blade of grass etc. —v. Pierce or strike (as) with a spear. [old english]
+Spear	—n. 1 thrusting or throwing weapon with a long shaft and a pointed usu. Steel tip. 2 a tip and stem of asparagus, broccoli, etc. B blade of grass etc. —v. Pierce or strike (as) with a spear. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

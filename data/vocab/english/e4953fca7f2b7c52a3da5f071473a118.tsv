@@ -1,1 +1,6 @@
-Eddy	—n. (pl. -ies) 1 circular movement of water causing a small whirlpool. 2 movement of wind, smoke, etc. Resembling this. —v. (-ies, -ied) whirl round in eddies. [old english ed- again, back]
+Eddy	—n. (pl. -ies) 1 circular movement of water causing a small whirlpool. 2 movement of wind, smoke, etc. Resembling this. —v. (-ies, -ied) whirl round in eddies. [old english ed- again, back]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

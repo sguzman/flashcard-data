@@ -1,1 +1,6 @@
-Sari	n. (pl. -s) length of cloth draped round the body, traditionally worn by women of the indian subcontinent. [hindi]
+Sari	n. (pl. -s) length of cloth draped round the body, traditionally worn by women of the indian subcontinent. [hindi]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

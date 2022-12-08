@@ -1,1 +1,6 @@
-Dissect	v. 1 cut into pieces, esp. For examination or post mortem. 2 analyse or criticize in detail.  dissection n. [latin: related to *section]
+Dissect	v. 1 cut into pieces, esp. For examination or post mortem. 2 analyse or criticize in detail.  dissection n. [latin: related to *section]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

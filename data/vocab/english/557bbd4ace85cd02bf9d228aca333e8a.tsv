@@ -1,1 +1,6 @@
-Two-time	v. Colloq. 1 be unfaithful to (a lover). 2 swindle.  two-timer n.
+Two-time	v. Colloq. 1 be unfaithful to (a lover). 2 swindle.  two-timer n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

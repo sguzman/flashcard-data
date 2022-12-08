@@ -1,1 +1,6 @@
-Afloat	adv. & predic.adj. 1 floating. 2 at sea. 3 out of debt or difficulty. 4 current. [old english: related to *a2]
+Afloat	adv. & predic.adj. 1 floating. 2 at sea. 3 out of debt or difficulty. 4 current. [old english: related to *a2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

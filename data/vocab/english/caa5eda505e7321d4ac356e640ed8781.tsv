@@ -1,1 +1,6 @@
-Confine	—v. (-ning) 1 keep or restrict (within certain limits). 2 imprison. —n. (usu. In pl.) Limit, boundary. [latin finis limit]
+Confine	—v. (-ning) 1 keep or restrict (within certain limits). 2 imprison. —n. (usu. In pl.) Limit, boundary. [latin finis limit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

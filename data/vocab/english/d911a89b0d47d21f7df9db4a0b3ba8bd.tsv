@@ -1,1 +1,6 @@
-Waft	—v. Convey or travel easily and smoothly as through air or over water. —n. (usu. Foll. By of) whiff or scent. [originally ‘convoy (ship etc.)’ From dutch or low german wachter from wachten to guard]
+Waft	—v. Convey or travel easily and smoothly as through air or over water. —n. (usu. Foll. By of) whiff or scent. [originally ‘convoy (ship etc.)’ From dutch or low german wachter from wachten to guard]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

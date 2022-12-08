@@ -1,1 +1,6 @@
-Loft	—n. 1 attic. 2 room over a stable. 3 gallery in a church or hall. 4 pigeon-house. 5 backward slope on the face of a golf-club. 6 lofting stroke. —v. Send (a ball etc.) High up. [old english, = air, upper room]
+Loft	—n. 1 attic. 2 room over a stable. 3 gallery in a church or hall. 4 pigeon-house. 5 backward slope on the face of a golf-club. 6 lofting stroke. —v. Send (a ball etc.) High up. [old english, = air, upper room]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

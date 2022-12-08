@@ -1,1 +1,6 @@
-Aspic	n. Savoury jelly used esp. To contain game, eggs, etc. [french, = *asp, suggested by the colours of the jelly]
+Aspic	n. Savoury jelly used esp. To contain game, eggs, etc. [french, = *asp, suggested by the colours of the jelly]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

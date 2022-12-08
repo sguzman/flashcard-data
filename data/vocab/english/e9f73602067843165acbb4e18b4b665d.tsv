@@ -1,1 +1,6 @@
-Merino	n. (pl. -s) 1 (in full merino sheep) variety of sheep with long fine wool. 2 soft cashmere-like material, orig. Of merino wool. 3 fine woollen yarn. [spanish]
+Merino	n. (pl. -s) 1 (in full merino sheep) variety of sheep with long fine wool. 2 soft cashmere-like material, orig. Of merino wool. 3 fine woollen yarn. [spanish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

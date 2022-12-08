@@ -1,1 +1,6 @@
-Awake	—v. (-king; past awoke; past part. Awoken) 1 cease to sleep or arouse from sleep. 2 (often foll. By to) become or make alert, aware, or active. —predic. Adj. 1 not asleep. 2 (often foll. By to) alert, aware. [old english: related to *a2]
+Awake	—v. (-king; past awoke; past part. Awoken) 1 cease to sleep or arouse from sleep. 2 (often foll. By to) become or make alert, aware, or active. —predic. Adj. 1 not asleep. 2 (often foll. By to) alert, aware. [old english: related to *a2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

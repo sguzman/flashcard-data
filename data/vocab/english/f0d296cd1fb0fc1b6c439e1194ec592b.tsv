@@ -1,1 +1,6 @@
-Tunnel vision	n. 1 vision which is poor or lost outside the centre of the normal field of vision. 2 colloq. Inability to grasp a situation's wider implications.
+Tunnel vision	n. 1 vision which is poor or lost outside the centre of the normal field of vision. 2 colloq. Inability to grasp a situation's wider implications.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Arrive	v. (-ving) 1 (often foll. By at, in) reach a destination. 2 (foll. By at) reach (a conclusion etc.). 3 colloq. Become successful. 4 colloq. (of a child) be born. 5 (of a time) come. [latin ripa shore]
+Arrive	v. (-ving) 1 (often foll. By at, in) reach a destination. 2 (foll. By at) reach (a conclusion etc.). 3 colloq. Become successful. 4 colloq. (of a child) be born. 5 (of a time) come. [latin ripa shore]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Collapse	—n. 1 falling down or in of a structure; folding up; giving way. 2 sudden failure of a plan etc. 3 physical or mental breakdown; exhaustion. —v. (-sing) 1 (cause to) undergo collapse. 2 colloq. Lie or sit down and relax, esp. After prolonged effort. 3 fold up.  collapsible adj. [latin labor laps- slip]
+Collapse	—n. 1 falling down or in of a structure; folding up; giving way. 2 sudden failure of a plan etc. 3 physical or mental breakdown; exhaustion. —v. (-sing) 1 (cause to) undergo collapse. 2 colloq. Lie or sit down and relax, esp. After prolonged effort. 3 fold up.  collapsible adj. [latin labor laps- slip]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

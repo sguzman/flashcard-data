@@ -1,1 +1,6 @@
-Usage	where there is a danger of inflammable being understood to mean the opposite, i.e. ‘not easily set on fire’, flammable can be used to avoid confusion.
+Usage	where there is a danger of inflammable being understood to mean the opposite, i.e. ‘not easily set on fire’, flammable can be used to avoid confusion.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

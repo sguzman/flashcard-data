@@ -1,1 +1,6 @@
-Proverbial	adj. 1 (esp. Of a characteristic) well known; notorious (his proverbial honesty). 2 of or referred to in a proverb (proverbial ill wind).  proverbially adv. [latin: related to *proverb]
+Proverbial	adj. 1 (esp. Of a characteristic) well known; notorious (his proverbial honesty). 2 of or referred to in a proverb (proverbial ill wind).  proverbially adv. [latin: related to *proverb]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

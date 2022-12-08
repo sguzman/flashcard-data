@@ -1,1 +1,6 @@
-Florin	n. Hist. 1 british two-shilling coin now worth 10 pence. 2 english or foreign gold or silver coin. [italian fiorino: related to *florist]
+Florin	n. Hist. 1 british two-shilling coin now worth 10 pence. 2 english or foreign gold or silver coin. [italian fiorino: related to *florist]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

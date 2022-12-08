@@ -1,1 +1,6 @@
-Wed	v. (-dd-; past and past part. Wedded or wed) 1 usu. Formal or literary marry. 2 unite. 3 (as wedded adj.) Of or in marriage (wedded bliss). 4 (as wedded adj.) (foll. By to) obstinately attached or devoted to (a pursuit etc.). [old english, = pledge]
+Wed	v. (-dd-; past and past part. Wedded or wed) 1 usu. Formal or literary marry. 2 unite. 3 (as wedded adj.) Of or in marriage (wedded bliss). 4 (as wedded adj.) (foll. By to) obstinately attached or devoted to (a pursuit etc.). [old english, = pledge]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

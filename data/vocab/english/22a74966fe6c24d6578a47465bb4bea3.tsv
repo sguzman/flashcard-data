@@ -1,1 +1,6 @@
-Theme	n. 1 subject or topic of a talk, book, etc. 2 mus. Prominent melody in a composition. 3 us school exercise on a given subject.  thematic adj. Thematically adv. [greek thema -mat-]
+Theme	n. 1 subject or topic of a talk, book, etc. 2 mus. Prominent melody in a composition. 3 us school exercise on a given subject.  thematic adj. Thematically adv. [greek thema -mat-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Piquant	adj. 1 agreeably pungent, sharp, or appetizing. 2 pleasantly stimulating to the mind.  piquancy n. [french piquer prick]
+Piquant	adj. 1 agreeably pungent, sharp, or appetizing. 2 pleasantly stimulating to the mind.  piquancy n. [french piquer prick]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

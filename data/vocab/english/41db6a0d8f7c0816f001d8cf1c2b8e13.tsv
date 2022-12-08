@@ -1,1 +1,6 @@
-Usage	the use of off of for the preposition off (sense 1a), e.g. Picked it up off of the floor, is non-standard and should be avoided.
+Usage	the use of off of for the preposition off (sense 1a), e.g. Picked it up off of the floor, is non-standard and should be avoided.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

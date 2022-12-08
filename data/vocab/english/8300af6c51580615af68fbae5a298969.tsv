@@ -1,1 +1,6 @@
-Sod2	coarse slang —n. 1 unpleasant or awkward person or thing. 2 fellow (lucky sod). —v. (-dd-) 1 damn (sod them!). 2 (as sodding adj.) Damned.  sod off go away. [abbreviation of *sodomite]
+Sod2	coarse slang —n. 1 unpleasant or awkward person or thing. 2 fellow (lucky sod). —v. (-dd-) 1 damn (sod them!). 2 (as sodding adj.) Damned.  sod off go away. [abbreviation of *sodomite]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

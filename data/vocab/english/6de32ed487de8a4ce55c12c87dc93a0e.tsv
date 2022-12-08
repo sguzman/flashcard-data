@@ -1,1 +1,6 @@
-Elastic	—adj. 1 able to resume its normal bulk or shape after contraction, dilation, or distortion. 2 springy. 3 flexible, adaptable. —n. Elastic cord or fabric, usu. Woven with strips of rubber.  elastically adv. Elasticity n. [greek elastikos propulsive]
+Elastic	—adj. 1 able to resume its normal bulk or shape after contraction, dilation, or distortion. 2 springy. 3 flexible, adaptable. —n. Elastic cord or fabric, usu. Woven with strips of rubber.  elastically adv. Elasticity n. [greek elastikos propulsive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

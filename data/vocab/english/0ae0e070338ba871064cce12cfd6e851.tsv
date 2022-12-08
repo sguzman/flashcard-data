@@ -1,1 +1,6 @@
-Hostess	n. 1 woman who receives or entertains a guest. 2 woman employed to entertain customers at a nightclub etc. 3 stewardess on an aircraft etc. [related to *host2]
+Hostess	n. 1 woman who receives or entertains a guest. 2 woman employed to entertain customers at a nightclub etc. 3 stewardess on an aircraft etc. [related to *host2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

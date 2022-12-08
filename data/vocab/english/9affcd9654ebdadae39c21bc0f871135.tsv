@@ -1,1 +1,6 @@
-Surgical	adj. 1 of or by surgeons or surgery. 2 a used in surgery. B worn to correct a deformity etc. 3 (esp. Of military action) swift and precise. surgically adv.
+Surgical	adj. 1 of or by surgeons or surgery. 2 a used in surgery. B worn to correct a deformity etc. 3 (esp. Of military action) swift and precise. surgically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

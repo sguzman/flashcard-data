@@ -1,1 +1,6 @@
-Discount	—n. Amount deducted from a full or normal price, esp. For prompt or advance payment. —v. 1 disregard as unreliable or unimportant. 2 deduct an amount from (a price etc.). 3 give or get the present worth of (an investment certificate which has yet to mature).  at a discount below the usual price or true value.
+Discount	—n. Amount deducted from a full or normal price, esp. For prompt or advance payment. —v. 1 disregard as unreliable or unimportant. 2 deduct an amount from (a price etc.). 3 give or get the present worth of (an investment certificate which has yet to mature).  at a discount below the usual price or true value.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

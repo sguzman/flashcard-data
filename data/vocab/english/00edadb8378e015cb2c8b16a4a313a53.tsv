@@ -1,1 +1,6 @@
-Rhododendron	n. (pl. -s or -dra) evergreen shrub with large clusters of bell-shaped flowers. [greek rhodon rose, dendron tree]
+Rhododendron	n. (pl. -s or -dra) evergreen shrub with large clusters of bell-shaped flowers. [greek rhodon rose, dendron tree]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

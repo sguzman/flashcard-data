@@ -1,1 +1,6 @@
-Bat1	—n. 1 implement with a handle, used for hitting balls in games. 2 turn with this. 3 batsman. —v. (-tt-) 1 hit with or as with a bat. 2 take a turn at batting.  off one's own bat unprompted, unaided. [old english from french]
+Bat1	—n. 1 implement with a handle, used for hitting balls in games. 2 turn with this. 3 batsman. —v. (-tt-) 1 hit with or as with a bat. 2 take a turn at batting.  off one's own bat unprompted, unaided. [old english from french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

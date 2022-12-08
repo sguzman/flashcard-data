@@ -1,1 +1,6 @@
-Acute	—adj. (acuter, acutest) 1 serious, severe (acute hardship). 2 (of senses etc.) Keen, penetrating. 3 shrewd. 4 (of a disease) coming quickly to a crisis. 5 (of an angle) less than 90°. 6 (of a sound) high, shrill. —n. = *acute accent.  acutely adv. [latin acutus pointed]
+Acute	—adj. (acuter, acutest) 1 serious, severe (acute hardship). 2 (of senses etc.) Keen, penetrating. 3 shrewd. 4 (of a disease) coming quickly to a crisis. 5 (of an angle) less than 90°. 6 (of a sound) high, shrill. —n. = *acute accent.  acutely adv. [latin acutus pointed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

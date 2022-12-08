@@ -1,1 +1,6 @@
-Flour	—n. 1 meal or powder from ground wheat etc. 2 any fine powder. —v. Sprinkle with flour.  floury adj. (-ier, -iest). Flouriness n. [different spelling of *flower ‘best part’]
+Flour	—n. 1 meal or powder from ground wheat etc. 2 any fine powder. —v. Sprinkle with flour.  floury adj. (-ier, -iest). Flouriness n. [different spelling of *flower ‘best part’]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

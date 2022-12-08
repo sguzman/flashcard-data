@@ -1,1 +1,6 @@
-Capable	adj. 1 competent, able, gifted. 2 (foll. By of) a having the ability, fitness, etc. For. B admitting of (explanation, improvement, etc.).  capably adv. [latin capio hold]
+Capable	adj. 1 competent, able, gifted. 2 (foll. By of) a having the ability, fitness, etc. For. B admitting of (explanation, improvement, etc.).  capably adv. [latin capio hold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

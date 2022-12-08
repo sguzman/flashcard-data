@@ -1,1 +1,6 @@
-Liable	predic. Adj. 1 legally bound. 2 (foll. By to) subject to. 3 (foll. By to + infin.) Under an obligation. 4 (foll. By to) exposed or open to (something undesirable). 5 (foll. By to + infin.) Apt, likely (it is liable to rain). 6 (foll. By for) answerable. [french lier bind, from latin ligo]
+Liable	predic. Adj. 1 legally bound. 2 (foll. By to) subject to. 3 (foll. By to + infin.) Under an obligation. 4 (foll. By to) exposed or open to (something undesirable). 5 (foll. By to + infin.) Apt, likely (it is liable to rain). 6 (foll. By for) answerable. [french lier bind, from latin ligo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

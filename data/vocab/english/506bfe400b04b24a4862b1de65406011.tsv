@@ -1,1 +1,6 @@
-Metallic	adj. 1 of or like metal or metals (metallic taste). 2 sounding like struck metal. 3 shiny (metallic blue).  metallically adv.
+Metallic	adj. 1 of or like metal or metals (metallic taste). 2 sounding like struck metal. 3 shiny (metallic blue).  metallically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

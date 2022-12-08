@@ -1,1 +1,6 @@
-Eve	n. 1 evening or day before a festival etc. (christmas eve; eve of the funeral). 2 time just before an event (eve of the election). 3 archaic evening. [= *even2]
+Eve	n. 1 evening or day before a festival etc. (christmas eve; eve of the funeral). 2 time just before an event (eve of the election). 3 archaic evening. [= *even2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

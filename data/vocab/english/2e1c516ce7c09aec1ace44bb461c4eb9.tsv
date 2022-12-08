@@ -1,1 +1,6 @@
-Lifeboat	n. 1 special boat for rescuing those in distress at sea. 2 ship's small boat for use in emergency.
+Lifeboat	n. 1 special boat for rescuing those in distress at sea. 2 ship's small boat for use in emergency.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

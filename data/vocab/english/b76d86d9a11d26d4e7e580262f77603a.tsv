@@ -1,1 +1,6 @@
-Pip4	n. 1 any of the spots on a playing-card, dice, or domino. 2  star (1–3 according to rank) on the shoulder of an army officer's uniform. [origin unknown]
+Pip4	n. 1 any of the spots on a playing-card, dice, or domino. 2  star (1–3 according to rank) on the shoulder of an army officer's uniform. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

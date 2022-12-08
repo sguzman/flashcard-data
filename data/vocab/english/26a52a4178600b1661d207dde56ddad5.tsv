@@ -1,1 +1,6 @@
-Manifold	—adj. 1 many and various. 2 having various forms, parts, applications, etc. —n. 1 manifold thing. 2  pipe or chamber branching into several openings. [old english: related to *many, *-fold]
+Manifold	—adj. 1 many and various. 2 having various forms, parts, applications, etc. —n. 1 manifold thing. 2  pipe or chamber branching into several openings. [old english: related to *many, *-fold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

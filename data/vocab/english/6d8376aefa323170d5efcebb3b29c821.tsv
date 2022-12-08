@@ -1,1 +1,6 @@
-Underarm	—adj. & adv. Sport, esp. Cricket with the arm below shoulder-level. —attrib. Adj. 1 under the arm (underarm seam). 2 in the armpit.
+Underarm	—adj. & adv. Sport, esp. Cricket with the arm below shoulder-level. —attrib. Adj. 1 under the arm (underarm seam). 2 in the armpit.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

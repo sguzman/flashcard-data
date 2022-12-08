@@ -1,1 +1,6 @@
-Proper	adj. 1 a accurate, correct (gave him the proper amount). B fit, suitable, right (at the proper time). 2 decent; respectable, esp. Excessively so (not quite proper). 3 (usu. Foll. By to) belonging or relating (respect proper to them). 4 (usu. Placed after the noun) strictly so called; genuine (this is the crypt, not the cathedral proper). 5 colloq. Thorough; complete (a proper row). [latin proprius one's own]
+Proper	adj. 1 a accurate, correct (gave him the proper amount). B fit, suitable, right (at the proper time). 2 decent; respectable, esp. Excessively so (not quite proper). 3 (usu. Foll. By to) belonging or relating (respect proper to them). 4 (usu. Placed after the noun) strictly so called; genuine (this is the crypt, not the cathedral proper). 5 colloq. Thorough; complete (a proper row). [latin proprius one's own]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

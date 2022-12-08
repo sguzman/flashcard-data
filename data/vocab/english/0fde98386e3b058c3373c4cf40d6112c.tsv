@@ -1,1 +1,6 @@
-Tatty	adj. (-ier, -iest) colloq. 1 tattered; shabby. 2 inferior. 3 tawdry.  tattily adv. Tattiness n. [originally scots, = shaggy, apparently related to *tatter]
+Tatty	adj. (-ier, -iest) colloq. 1 tattered; shabby. 2 inferior. 3 tawdry.  tattily adv. Tattiness n. [originally scots, = shaggy, apparently related to *tatter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

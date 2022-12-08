@@ -1,1 +1,6 @@
-Penalty	n. (pl. -ies) 1 punishment for breaking a law, rule, or contract. 2 disadvantage, loss, etc., esp. As a result of one's own actions. 3 sport disadvantage imposed for a breach of the rules etc. [medieval latin: related to *penal]
+Penalty	n. (pl. -ies) 1 punishment for breaking a law, rule, or contract. 2 disadvantage, loss, etc., esp. As a result of one's own actions. 3 sport disadvantage imposed for a breach of the rules etc. [medieval latin: related to *penal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

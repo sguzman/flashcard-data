@@ -1,1 +1,6 @@
-Our	poss. Pron. 1 of or belonging to us or society (our children's future). 2 colloq. Indicating a relative, friend, etc. Of the speaker (our barry works there; our friend here). [old english]
+Our	poss. Pron. 1 of or belonging to us or society (our children's future). 2 colloq. Indicating a relative, friend, etc. Of the speaker (our barry works there; our friend here). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hemp	n. 1 (in full indian hemp) asian herbaceous plant. 2 its fibre used to make rope and stout fabrics. 3 narcotic drug made from the hemp plant. [old english]
+Hemp	n. 1 (in full indian hemp) asian herbaceous plant. 2 its fibre used to make rope and stout fabrics. 3 narcotic drug made from the hemp plant. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

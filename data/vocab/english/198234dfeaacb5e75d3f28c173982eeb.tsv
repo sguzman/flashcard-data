@@ -1,1 +1,6 @@
-Each	—adj. Every one of two or more persons or things, regarded separately (five in each class). —pron. Each person or thing (each of us). [old english]
+Each	—adj. Every one of two or more persons or things, regarded separately (five in each class). —pron. Each person or thing (each of us). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

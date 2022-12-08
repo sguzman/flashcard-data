@@ -1,1 +1,6 @@
-Feminine	—adj. 1 of women. 2 having womanly qualities. 3 of or denoting the female gender. —n. Feminine gender or word.  femininity n. [latin: related to *female]
+Feminine	—adj. 1 of women. 2 having womanly qualities. 3 of or denoting the female gender. —n. Feminine gender or word.  femininity n. [latin: related to *female]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

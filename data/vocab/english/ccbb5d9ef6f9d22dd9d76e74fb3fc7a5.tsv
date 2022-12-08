@@ -1,1 +1,6 @@
-Burlesque	—n. 1 a comic imitation, parody. B this as a genre. 2 us variety show, esp. With striptease. —adj. Of or using burlesque. —v. (-ques, -qued, -quing) parody. [italian burla mockery]
+Burlesque	—n. 1 a comic imitation, parody. B this as a genre. 2 us variety show, esp. With striptease. —adj. Of or using burlesque. —v. (-ques, -qued, -quing) parody. [italian burla mockery]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

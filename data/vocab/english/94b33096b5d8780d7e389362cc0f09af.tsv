@@ -1,1 +1,6 @@
-Absolutely	adv. 1 completely, utterly. 2 in an absolute sense (god exists absolutely). 3  colloq. (used in reply) quite so; yes.
+Absolutely	adv. 1 completely, utterly. 2 in an absolute sense (god exists absolutely). 3  colloq. (used in reply) quite so; yes.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Yield	—v. 1 produce or return as a fruit, profit, or result. 2 give up; surrender, concede. 3 a (often foll. By to) surrender; submit; defer to. B (as yielding adj.) Compliant; submissive; soft and pliable. 4 (foll. By to) give right of way to (other traffic). 5 (foll.
+Yield	—v. 1 produce or return as a fruit, profit, or result. 2 give up; surrender, concede. 3 a (often foll. By to) surrender; submit; defer to. B (as yielding adj.) Compliant; submissive; soft and pliable. 4 (foll. By to) give right of way to (other traffic). 5 (foll.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

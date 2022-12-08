@@ -1,1 +1,6 @@
-Scarce	—adj. 1 (usu. Predic.) (esp. Of food, money, etc.) In short supply. 2 rare. —adv. Archaic or literary scarcely.  make oneself scarce colloq. Keep out of the way; surreptitiously disappear. [french scars latin excerpto *excerpt]
+Scarce	—adj. 1 (usu. Predic.) (esp. Of food, money, etc.) In short supply. 2 rare. —adv. Archaic or literary scarcely.  make oneself scarce colloq. Keep out of the way; surreptitiously disappear. [french scars latin excerpto *excerpt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

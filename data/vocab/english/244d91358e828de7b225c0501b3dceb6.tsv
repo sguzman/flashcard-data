@@ -1,1 +1,6 @@
-Bow2	—v. 1 incline the head or body, esp. In greeting or acknowledgement. 2 submit (bowed to the inevitable). 3 cause (the head etc.) To incline. —n. Act of bowing.  bow and scrape toady. Bow down 1 bend or kneel esp. In submission or reverence. 2 make stoop; crush (bowed down by care). Bow out 1 exit (esp. Formally). 2 withdraw; retire. Take a bow acknowledge applause. [old english]
+Bow2	—v. 1 incline the head or body, esp. In greeting or acknowledgement. 2 submit (bowed to the inevitable). 3 cause (the head etc.) To incline. —n. Act of bowing.  bow and scrape toady. Bow down 1 bend or kneel esp. In submission or reverence. 2 make stoop; crush (bowed down by care). Bow out 1 exit (esp. Formally). 2 withdraw; retire. Take a bow acknowledge applause. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

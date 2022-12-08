@@ -1,1 +1,6 @@
-Scrip	n. 1 provisional certificate of money subscribed, entitling the holder to dividends. 2 (collect.) Such certificates. 3 extra share or shares instead of a dividend. [abbreviation of subscription receipt]
+Scrip	n. 1 provisional certificate of money subscribed, entitling the holder to dividends. 2 (collect.) Such certificates. 3 extra share or shares instead of a dividend. [abbreviation of subscription receipt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

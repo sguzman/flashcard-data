@@ -1,1 +1,6 @@
-Prism	n. 1 solid figure whose two ends are equal parallel rectilinear figures, and whose sides are parallelograms. 2 transparent body in this form, usu. Triangular with refracting surfaces at an acute angle with each other, which separates white light into a spectrum of colours. [greek prisma -mat- thing sawn]
+Prism	n. 1 solid figure whose two ends are equal parallel rectilinear figures, and whose sides are parallelograms. 2 transparent body in this form, usu. Triangular with refracting surfaces at an acute angle with each other, which separates white light into a spectrum of colours. [greek prisma -mat- thing sawn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

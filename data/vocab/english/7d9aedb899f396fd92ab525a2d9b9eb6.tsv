@@ -1,1 +1,6 @@
-Carnivorous	adj. (of an animal or plant) feeding on flesh. [latin: related to *carnal, voro devour]
+Carnivorous	adj. (of an animal or plant) feeding on flesh. [latin: related to *carnal, voro devour]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-St leger	n. Horse-race at doncaster for three-year-olds. [from the name of the founder]
+St leger	n. Horse-race at doncaster for three-year-olds. [from the name of the founder]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

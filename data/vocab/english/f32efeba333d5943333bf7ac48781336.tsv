@@ -1,1 +1,6 @@
-Sound3	v. 1  test the depth or quality of the bottom of (the sea or a river etc.). 2 (often foll. By out) inquire (esp. Discreetly) into the opinions or feelings of (a person). [french sonder from latin sub unda under the wave]
+Sound3	v. 1  test the depth or quality of the bottom of (the sea or a river etc.). 2 (often foll. By out) inquire (esp. Discreetly) into the opinions or feelings of (a person). [french sonder from latin sub unda under the wave]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

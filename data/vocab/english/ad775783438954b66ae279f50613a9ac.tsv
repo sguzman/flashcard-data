@@ -1,1 +1,6 @@
-Dent	—n. 1 slight hollow as made by a blow or pressure. 2 noticeable adverse effect (dent in our funds). —v. 1 mark with a dent. 2 adversely affect. [from *indent]
+Dent	—n. 1 slight hollow as made by a blow or pressure. 2 noticeable adverse effect (dent in our funds). —v. 1 mark with a dent. 2 adversely affect. [from *indent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

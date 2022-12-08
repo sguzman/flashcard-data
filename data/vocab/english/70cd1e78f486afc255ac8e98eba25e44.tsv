@@ -1,1 +1,6 @@
-Decent	adj. 1 a conforming with standards of decency. B avoiding obscenity. 2 respectable. 3 acceptable, good enough. 4 kind, obliging.  decently adv. [latin decet is fitting]
+Decent	adj. 1 a conforming with standards of decency. B avoiding obscenity. 2 respectable. 3 acceptable, good enough. 4 kind, obliging.  decently adv. [latin decet is fitting]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Entry	n. (pl. -ies) 1 a going or coming in. B liberty to do this. 2 place of entrance; door, gate, etc. 3 passage between buildings. 4 a item entered in a diary, list, etc. B recording of this. 5 a person or thing competing in a race etc. B list of competitors. [romanic: related to *enter]
+Entry	n. (pl. -ies) 1 a going or coming in. B liberty to do this. 2 place of entrance; door, gate, etc. 3 passage between buildings. 4 a item entered in a diary, list, etc. B recording of this. 5 a person or thing competing in a race etc. B list of competitors. [romanic: related to *enter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

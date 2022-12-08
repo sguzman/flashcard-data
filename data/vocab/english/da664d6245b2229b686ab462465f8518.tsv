@@ -1,1 +1,6 @@
-Mardi gras	n. 1 a shrove tuesday in some catholic countries. B merrymaking on this day. 2 last day of a carnival etc. [french, = fat tuesday]
+Mardi gras	n. 1 a shrove tuesday in some catholic countries. B merrymaking on this day. 2 last day of a carnival etc. [french, = fat tuesday]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

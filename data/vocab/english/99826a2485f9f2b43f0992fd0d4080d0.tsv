@@ -1,1 +1,6 @@
-Impression	n. 1 effect (esp. On the mind or feelings). 2 notion or belief (esp. Vague or mistaken). 3 imitation of a person or sound, esp. As entertainment. 4 a impressing. B mark impressed.
+Impression	n. 1 effect (esp. On the mind or feelings). 2 notion or belief (esp. Vague or mistaken). 3 imitation of a person or sound, esp. As entertainment. 4 a impressing. B mark impressed.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

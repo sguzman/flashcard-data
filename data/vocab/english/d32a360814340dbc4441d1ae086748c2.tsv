@@ -1,1 +1,6 @@
-Telescopic	adj. 1 of or made with a telescope (telescopic observations). 2 (esp. Of a lens) able to focus on and magnify distant objects. 3 consisting of sections that telescope.  telescopically adv.
+Telescopic	adj. 1 of or made with a telescope (telescopic observations). 2 (esp. Of a lens) able to focus on and magnify distant objects. 3 consisting of sections that telescope.  telescopically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

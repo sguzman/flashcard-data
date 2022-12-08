@@ -1,1 +1,6 @@
-Qualification	n. 1 accomplishment fitting a person for a position or purpose. 2 thing that modifies or limits (statement had many qualifications). 3 qualifying or being qualified.  qualificatory adj. [french or medieval latin: related to *qualify]
+Qualification	n. 1 accomplishment fitting a person for a position or purpose. 2 thing that modifies or limits (statement had many qualifications). 3 qualifying or being qualified.  qualificatory adj. [french or medieval latin: related to *qualify]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

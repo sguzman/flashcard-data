@@ -1,1 +1,6 @@
-Setting	n. 1 position or manner in which a thing is set. 2 immediate surroundings of a house etc. 3 period, place, etc., of a story, drama, etc. 4 frame etc. For a jewel. 5 music to which words are set. 6 cutlery etc. For one person at a table. 7 level at which a machine is set to operate (on a high setting).
+Setting	n. 1 position or manner in which a thing is set. 2 immediate surroundings of a house etc. 3 period, place, etc., of a story, drama, etc. 4 frame etc. For a jewel. 5 music to which words are set. 6 cutlery etc. For one person at a table. 7 level at which a machine is set to operate (on a high setting).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

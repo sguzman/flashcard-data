@@ -1,1 +1,6 @@
-Tent	n. 1 portable canvas etc. Shelter or dwelling supported by poles and cords attached to pegs driven into the ground. 2 tentlike enclosure, e.g. Supplying oxygen to a patient. [latin: related to *tend1]
+Tent	n. 1 portable canvas etc. Shelter or dwelling supported by poles and cords attached to pegs driven into the ground. 2 tentlike enclosure, e.g. Supplying oxygen to a patient. [latin: related to *tend1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Loud	—adj. 1 strongly audible, noisy. 2 (of colours etc.) Gaudy, obtrusive. —adv. Loudly.  out loud aloud.  loudish adj. Loudly adv. Loudness n. [old english]
+Loud	—adj. 1 strongly audible, noisy. 2 (of colours etc.) Gaudy, obtrusive. —adv. Loudly.  out loud aloud.  loudish adj. Loudly adv. Loudness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

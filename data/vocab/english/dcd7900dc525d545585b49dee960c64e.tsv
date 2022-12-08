@@ -1,1 +1,6 @@
-Untie	v. (untying) 1 undo (a knot, package, etc.). 2 release from bonds or attachment.
+Untie	v. (untying) 1 undo (a knot, package, etc.). 2 release from bonds or attachment.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

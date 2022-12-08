@@ -1,1 +1,6 @@
-Glutton	n. 1 greedy eater. 2 (often foll. By for) colloq. Person insatiably eager (glutton for work). 3 voracious animal of the weasel family.  gluttonous adj. Gluttonously adv. [latin gluttio *swallow1]
+Glutton	n. 1 greedy eater. 2 (often foll. By for) colloq. Person insatiably eager (glutton for work). 3 voracious animal of the weasel family.  gluttonous adj. Gluttonously adv. [latin gluttio *swallow1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Crab1	n. 1 a ten-footed crustacean, with the first pair of legs as pincers. B crab as food. 2 (crab) sign or constellation cancer. 3 (in full crab-louse) (often in pl.) Parasitic louse transmitted sexually to esp. Pubic hair. 4 machine for hoisting heavy weights.  catch a crab rowing jam an oar or miss the water.  crablike adj. [old english]
+Crab1	n. 1 a ten-footed crustacean, with the first pair of legs as pincers. B crab as food. 2 (crab) sign or constellation cancer. 3 (in full crab-louse) (often in pl.) Parasitic louse transmitted sexually to esp. Pubic hair. 4 machine for hoisting heavy weights.  catch a crab rowing jam an oar or miss the water.  crablike adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

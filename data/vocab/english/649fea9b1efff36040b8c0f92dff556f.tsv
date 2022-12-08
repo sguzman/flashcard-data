@@ -1,1 +1,6 @@
-Saxon	—n. 1 hist. A member of the germanic people that conquered parts of england in 5th–6th c. B (usu. Old saxon) language of the saxons. 2 = *anglo-saxon. —adj. 1 hist. Of the saxons. 2 = *anglo-saxon. [latin saxo -onis]
+Saxon	—n. 1 hist. A member of the germanic people that conquered parts of england in 5th–6th c. B (usu. Old saxon) language of the saxons. 2 = *anglo-saxon. —adj. 1 hist. Of the saxons. 2 = *anglo-saxon. [latin saxo -onis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

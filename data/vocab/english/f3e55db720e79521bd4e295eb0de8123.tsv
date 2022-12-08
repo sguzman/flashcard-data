@@ -1,1 +1,6 @@
-Military	—adj. Of or characteristic of soldiers or armed forces. —n. (as sing. Or pl.; prec. By the) the army.  militarily adv. [latin miles milit- soldier]
+Military	—adj. Of or characteristic of soldiers or armed forces. —n. (as sing. Or pl.; prec. By the) the army.  militarily adv. [latin miles milit- soldier]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

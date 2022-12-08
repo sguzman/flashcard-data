@@ -1,1 +1,6 @@
-Calculus	n. (pl. -luses or -li) 1 particular method of mathematical calculation or reasoning. 2 stone or mineral mass in the body. [latin, = small stone (used on an abacus)]
+Calculus	n. (pl. -luses or -li) 1 particular method of mathematical calculation or reasoning. 2 stone or mineral mass in the body. [latin, = small stone (used on an abacus)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

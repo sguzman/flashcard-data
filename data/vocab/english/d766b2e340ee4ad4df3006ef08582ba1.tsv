@@ -1,1 +1,6 @@
-Fierce	adj. (fiercer, fiercest) 1 violently aggressive or frightening. 2 eager, intense. 3 unpleasantly strong or intense (fierce heat).  fiercely adv. Fierceness n. [latin ferus savage]
+Fierce	adj. (fiercer, fiercest) 1 violently aggressive or frightening. 2 eager, intense. 3 unpleasantly strong or intense (fierce heat).  fiercely adv. Fierceness n. [latin ferus savage]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Loan	—n. 1 thing lent, esp. A sum of money. 2 lending or being lent. —v. Lend (money, works of art, etc.).  on loan being lent. [old english]
+Loan	—n. 1 thing lent, esp. A sum of money. 2 lending or being lent. —v. Lend (money, works of art, etc.).  on loan being lent. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

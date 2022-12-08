@@ -1,1 +1,6 @@
-Might-have-been	n. Colloq. 1 past possibility that no longer applies. 2 person of unfulfilled promise.
+Might-have-been	n. Colloq. 1 past possibility that no longer applies. 2 person of unfulfilled promise.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

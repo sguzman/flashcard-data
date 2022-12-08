@@ -1,1 +1,6 @@
-Puddle	—n. 1 small pool, esp. Of rainwater. 2 clay and sand worked with water used as a watertight covering for embankments etc. —v. (-ling) 1 knead (clay and sand) into puddle. 2  stir (molten iron) to produce wrought iron by expelling carbon.  puddly adj. [old english]
+Puddle	—n. 1 small pool, esp. Of rainwater. 2 clay and sand worked with water used as a watertight covering for embankments etc. —v. (-ling) 1 knead (clay and sand) into puddle. 2  stir (molten iron) to produce wrought iron by expelling carbon.  puddly adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

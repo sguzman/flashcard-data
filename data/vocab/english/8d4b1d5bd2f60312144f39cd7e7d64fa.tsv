@@ -1,1 +1,6 @@
-Archive	—n. (usu. In pl.) 1 collection of documents or records. 2 store for these. —v. (-ving) 1 place or store in an archive. 2 computing transfer (data) to a less frequently used file. [greek arkheia public records]
+Archive	—n. (usu. In pl.) 1 collection of documents or records. 2 store for these. —v. (-ving) 1 place or store in an archive. 2 computing transfer (data) to a less frequently used file. [greek arkheia public records]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

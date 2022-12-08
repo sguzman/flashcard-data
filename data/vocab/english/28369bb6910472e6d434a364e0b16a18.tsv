@@ -1,1 +1,6 @@
-Coast	—n. Border of land near the sea; seashore. —v. 1 ride or move, usu. Downhill, without the use of power. 2 make progress without much effort. 3 sail along the coast.  the coast is clear there is no danger of being observed or caught.  coastal adj. [latin costa side]
+Coast	—n. Border of land near the sea; seashore. —v. 1 ride or move, usu. Downhill, without the use of power. 2 make progress without much effort. 3 sail along the coast.  the coast is clear there is no danger of being observed or caught.  coastal adj. [latin costa side]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

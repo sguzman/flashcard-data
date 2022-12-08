@@ -1,1 +1,6 @@
-Strict	adj. 1 precisely limited or defined; undeviating (strict diet). 2 requiring complete obedience or exact performance.  strictly speaking applying words or rules in their strict sense. strictly adv. Strictness n. [latin stringo strict- draw tight] 
+Strict	adj. 1 precisely limited or defined; undeviating (strict diet). 2 requiring complete obedience or exact performance.  strictly speaking applying words or rules in their strict sense. strictly adv. Strictness n. [latin stringo strict- draw tight]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

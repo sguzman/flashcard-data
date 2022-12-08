@@ -1,1 +1,6 @@
-Prevent	v. (often foll. By from + verbal noun) stop from happening or doing something; hinder; make impossible (the weather prevented me from going).  preventable adj. (also preventible). Prevention n. [latin praevenio -vent- hinder]
+Prevent	v. (often foll. By from + verbal noun) stop from happening or doing something; hinder; make impossible (the weather prevented me from going).  preventable adj. (also preventible). Prevention n. [latin praevenio -vent- hinder]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

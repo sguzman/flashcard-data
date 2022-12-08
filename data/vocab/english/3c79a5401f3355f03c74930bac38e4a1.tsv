@@ -1,1 +1,6 @@
-Motor	—n. 1 thing that imparts motion. 2 machine (esp. One using electricity or internal combustion) supplying motive power for a vehicle or other machine. 3 = *car 1. 4 (attrib.) A giving, imparting, or producing motion. B driven by a motor (motor-mower). C of or for motor vehicles. D anat. Relating to muscular movement or the nerves activating it. —v. Go or convey in a motor vehicle. [latin: related to *move]
+Motor	—n. 1 thing that imparts motion. 2 machine (esp. One using electricity or internal combustion) supplying motive power for a vehicle or other machine. 3 = *car 1. 4 (attrib.) A giving, imparting, or producing motion. B driven by a motor (motor-mower). C of or for motor vehicles. D anat. Relating to muscular movement or the nerves activating it. —v. Go or convey in a motor vehicle. [latin: related to *move]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Equipage	n. 1 archaic a requisites. B outfit. 2 hist. Carriage and horses with attendants. [french: related to *equip]
+Equipage	n. 1 archaic a requisites. B outfit. 2 hist. Carriage and horses with attendants. [french: related to *equip]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

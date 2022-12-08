@@ -1,1 +1,6 @@
-Treadmill	n. 1 device for producing motion by the weight of persons or animals stepping on steps attached to a revolving upright wheel. 2 similar device used for exercise. 3 monotonous routine work.
+Treadmill	n. 1 device for producing motion by the weight of persons or animals stepping on steps attached to a revolving upright wheel. 2 similar device used for exercise. 3 monotonous routine work.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Rotor	n. 1 rotary part of a machine. 2 rotary aerofoil on a helicopter, providing lift. [related to *rotate]
+Rotor	n. 1 rotary part of a machine. 2 rotary aerofoil on a helicopter, providing lift. [related to *rotate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

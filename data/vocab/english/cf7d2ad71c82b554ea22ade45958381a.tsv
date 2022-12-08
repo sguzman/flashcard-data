@@ -1,1 +1,6 @@
-Regent	—n. Person appointed to administer a state because the monarch is a minor or is absent or incapacitated. —adj. (after the noun) acting as regent (prince regent). [latin rego rule]
+Regent	—n. Person appointed to administer a state because the monarch is a minor or is absent or incapacitated. —adj. (after the noun) acting as regent (prince regent). [latin rego rule]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Phoney	(also phony) colloq. —adj. (-ier, -iest) 1 sham; counterfeit. 2 fictitious. —n. (pl. -eys or -ies) phoney person or thing.  phoniness n. [origin unknown]
+Phoney	(also phony) colloq. —adj. (-ier, -iest) 1 sham; counterfeit. 2 fictitious. —n. (pl. -eys or -ies) phoney person or thing.  phoniness n. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

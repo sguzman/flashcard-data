@@ -1,1 +1,6 @@
-Harbinger	n. 1 person or thing that announces or signals the approach of another. 2 forerunner. [germanic: related to *harbour]
+Harbinger	n. 1 person or thing that announces or signals the approach of another. 2 forerunner. [germanic: related to *harbour]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

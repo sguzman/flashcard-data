@@ -1,1 +1,6 @@
-Fatal	adj. 1 causing or ending in death (fatal accident). 2 (often foll. By to) ruinous (fatal mistake). 3 fateful.  fatally adv. [latin: related to *fate]
+Fatal	adj. 1 causing or ending in death (fatal accident). 2 (often foll. By to) ruinous (fatal mistake). 3 fateful.  fatally adv. [latin: related to *fate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

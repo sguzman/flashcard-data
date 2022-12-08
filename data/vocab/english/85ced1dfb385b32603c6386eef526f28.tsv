@@ -1,1 +1,6 @@
-Prodigal	—adj. 1 recklessly wasteful. 2 (foll. By of) lavish. —n. 1 prodigal person. 2 (in full prodigal son) repentant wastrel, returned wanderer, etc. (luke 15:11–32).  prodigality n. [latin prodigus lavish]
+Prodigal	—adj. 1 recklessly wasteful. 2 (foll. By of) lavish. —n. 1 prodigal person. 2 (in full prodigal son) repentant wastrel, returned wanderer, etc. (luke 15:11–32).  prodigality n. [latin prodigus lavish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

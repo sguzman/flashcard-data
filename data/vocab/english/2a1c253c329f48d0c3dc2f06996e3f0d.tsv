@@ -1,1 +1,6 @@
-Halfway	—adv. 1 at a point midway between two others (halfway to rome). 2 to some extent, more or less (is halfway acceptable). —adj. Situated halfway (reached a halfway point).
+Halfway	—adv. 1 at a point midway between two others (halfway to rome). 2 to some extent, more or less (is halfway acceptable). —adj. Situated halfway (reached a halfway point).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

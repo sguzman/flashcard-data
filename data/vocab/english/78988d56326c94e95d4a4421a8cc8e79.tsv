@@ -1,1 +1,6 @@
-Refinement	n. 1 refining or being refined. 2 fineness of feeling or taste. 3 polish or elegance in behaviour or manner. 4 added development or improvement (car with several refinements). 5 subtle reasoning; fine distinction.
+Refinement	n. 1 refining or being refined. 2 fineness of feeling or taste. 3 polish or elegance in behaviour or manner. 4 added development or improvement (car with several refinements). 5 subtle reasoning; fine distinction.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Proper noun	n. (also proper name) capitalized name for an individual person, place, animal, country, title, etc., e.g. ‘jane’, ‘everest’.
+Proper noun	n. (also proper name) capitalized name for an individual person, place, animal, country, title, etc., e.g. ‘jane’, ‘everest’.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

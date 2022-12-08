@@ -1,1 +1,6 @@
-Theory	n. (pl. -ies) 1 supposition or system of ideas explaining something, esp. One based on general principles independent of the particular things to be explained (atomic theory; theory of evolution). 2 speculative (esp. Fanciful) view (one of my pet theories). 3 abstract knowledge or speculative thought (all very well in theory). 4 exposition of the principles of a science etc. (the theory of music). 5 collection of propositions to illustrate the principles of a mathematical subject (probability theory). [greek: related to *theorem]
+Theory	n. (pl. -ies) 1 supposition or system of ideas explaining something, esp. One based on general principles independent of the particular things to be explained (atomic theory; theory of evolution). 2 speculative (esp. Fanciful) view (one of my pet theories). 3 abstract knowledge or speculative thought (all very well in theory). 4 exposition of the principles of a science etc. (the theory of music). 5 collection of propositions to illustrate the principles of a mathematical subject (probability theory). [greek: related to *theorem]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

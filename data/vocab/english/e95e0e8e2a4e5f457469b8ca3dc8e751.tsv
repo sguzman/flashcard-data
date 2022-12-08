@@ -1,1 +1,6 @@
-Colposcopy	n. Examination of the vagina and neck of the womb.  colposcope n. [greek kolpos womb]
+Colposcopy	n. Examination of the vagina and neck of the womb.  colposcope n. [greek kolpos womb]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

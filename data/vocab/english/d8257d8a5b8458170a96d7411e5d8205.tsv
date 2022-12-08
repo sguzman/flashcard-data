@@ -1,1 +1,6 @@
-Memorandum	n. (pl. -da or -s) 1 note or record for future use. 2 informal written message, esp. In business, diplomacy, etc. [see *memorable]
+Memorandum	n. (pl. -da or -s) 1 note or record for future use. 2 informal written message, esp. In business, diplomacy, etc. [see *memorable]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

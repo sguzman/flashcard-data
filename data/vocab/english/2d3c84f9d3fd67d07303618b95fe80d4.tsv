@@ -1,1 +1,6 @@
-Property	n. (pl. -ies) 1 thing(s) owned; possession, esp. A house, land, etc. (has money in property). 2 attribute, quality, or characteristic (property of dissolving grease). 3 movable object used on a theatre stage or in a film. [latin proprietas: related to *proper]
+Property	n. (pl. -ies) 1 thing(s) owned; possession, esp. A house, land, etc. (has money in property). 2 attribute, quality, or characteristic (property of dissolving grease). 3 movable object used on a theatre stage or in a film. [latin proprietas: related to *proper]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

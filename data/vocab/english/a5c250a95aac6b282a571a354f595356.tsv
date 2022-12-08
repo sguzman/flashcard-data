@@ -1,1 +1,6 @@
-Niche	n. 1 shallow recess, esp. In a wall. 2 comfortable or apt position in life or employment. 3 position from which an entrepreneur exploits a gap in the market; profitable corner of the market. [latin nidus nest]
+Niche	n. 1 shallow recess, esp. In a wall. 2 comfortable or apt position in life or employment. 3 position from which an entrepreneur exploits a gap in the market; profitable corner of the market. [latin nidus nest]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

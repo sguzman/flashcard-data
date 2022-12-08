@@ -1,1 +1,6 @@
-Dialogue	n. (us dialog) 1 a conversation. B this in written form. 2 discussion between people with different opinions. [greek lego speak]
+Dialogue	n. (us dialog) 1 a conversation. B this in written form. 2 discussion between people with different opinions. [greek lego speak]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

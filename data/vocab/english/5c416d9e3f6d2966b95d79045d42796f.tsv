@@ -1,1 +1,6 @@
-Territory	n. (pl. -ies) 1 extent of the land under the jurisdiction of a ruler, state, etc. 2 (territory) organized division of a country, esp. One not yet admitted to the full rights of a state. 3 sphere of action etc.; province. 4 commercial traveller's sales area. 5 animal's or human's defended space or area. 6 area defended by a team or player in a game. [latin terra land]
+Territory	n. (pl. -ies) 1 extent of the land under the jurisdiction of a ruler, state, etc. 2 (territory) organized division of a country, esp. One not yet admitted to the full rights of a state. 3 sphere of action etc.; province. 4 commercial traveller's sales area. 5 animal's or human's defended space or area. 6 area defended by a team or player in a game. [latin terra land]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

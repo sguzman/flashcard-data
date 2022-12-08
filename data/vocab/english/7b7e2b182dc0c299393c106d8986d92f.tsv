@@ -1,1 +1,6 @@
-Dumb	adj. 1 a unable to speak. B (of an animal) naturally dumb. 2 silenced by surprise, shyness, etc. 3 taciturn, reticent (dumb insolence). 4 suffered or done in silence (dumb agony). 5 colloq. Stupid; ignorant. 6 disenfranchised; inarticulate (dumb masses). 7 (of a computer terminal etc.) Able to transmit or receive but unable to process data. 8 giving no sound. [old english]
+Dumb	adj. 1 a unable to speak. B (of an animal) naturally dumb. 2 silenced by surprise, shyness, etc. 3 taciturn, reticent (dumb insolence). 4 suffered or done in silence (dumb agony). 5 colloq. Stupid; ignorant. 6 disenfranchised; inarticulate (dumb masses). 7 (of a computer terminal etc.) Able to transmit or receive but unable to process data. 8 giving no sound. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

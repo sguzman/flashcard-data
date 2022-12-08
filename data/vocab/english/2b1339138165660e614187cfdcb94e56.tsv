@@ -1,1 +1,6 @@
-Thatch	—n. 1 roof-covering of straw, reeds, etc. 2 colloq. Hair of the head. —v. (also absol.) Cover with thatch.  thatcher n. [old english]
+Thatch	—n. 1 roof-covering of straw, reeds, etc. 2 colloq. Hair of the head. —v. (also absol.) Cover with thatch.  thatcher n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

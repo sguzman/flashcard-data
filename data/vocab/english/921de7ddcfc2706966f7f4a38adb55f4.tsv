@@ -1,1 +1,6 @@
-Lap1	n. 1 front of the body from the waist to the knees of a sitting person. 2 clothing covering this.   in the lap of the gods beyond human control. In the lap of luxury in extremely luxurious surroundings. [old english]
+Lap1	n. 1 front of the body from the waist to the knees of a sitting person. 2 clothing covering this.   in the lap of the gods beyond human control. In the lap of luxury in extremely luxurious surroundings. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

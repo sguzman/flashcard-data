@@ -1,1 +1,6 @@
-Iberian	—adj. Of iberia, the peninsula comprising spain and portugal; of spain and portugal. —n. Native or language of iberia. [latin iberia]
+Iberian	—adj. Of iberia, the peninsula comprising spain and portugal; of spain and portugal. —n. Native or language of iberia. [latin iberia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

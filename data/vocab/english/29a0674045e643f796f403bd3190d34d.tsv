@@ -1,1 +1,6 @@
-Tuscan	—n. 1 inhabitant of tuscany. 2 form of italian spoken in tuscany; standard italian. —adj. 1 of tuscany or the tuscans. 2 archit. Of the plainest of the classical orders. [latin]
+Tuscan	—n. 1 inhabitant of tuscany. 2 form of italian spoken in tuscany; standard italian. —adj. 1 of tuscany or the tuscans. 2 archit. Of the plainest of the classical orders. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

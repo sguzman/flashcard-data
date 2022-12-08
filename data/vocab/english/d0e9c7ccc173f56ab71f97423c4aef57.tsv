@@ -1,1 +1,6 @@
-Profit	—n. 1 advantage or benefit. 2 financial gain; excess of returns over outlay. —v. (-t-) 1 (also absol.) Be beneficial to. 2 obtain advantage or benefit (profited by the experience).  at a profit with financial gain. [latin profectus: related to *proficient]
+Profit	—n. 1 advantage or benefit. 2 financial gain; excess of returns over outlay. —v. (-t-) 1 (also absol.) Be beneficial to. 2 obtain advantage or benefit (profited by the experience).  at a profit with financial gain. [latin profectus: related to *proficient]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cellular radio	n. System of mobile radio-telephone transmission with an area divided into ‘cells’, each served by a small transmitter.
+Cellular radio	n. System of mobile radio-telephone transmission with an area divided into ‘cells’, each served by a small transmitter.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

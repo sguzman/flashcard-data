@@ -1,1 +1,6 @@
-Historicism	n. 1 theory that social and cultural phenomena are determined by history. 2 belief that historical events are governed by laws.
+Historicism	n. 1 theory that social and cultural phenomena are determined by history. 2 belief that historical events are governed by laws.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

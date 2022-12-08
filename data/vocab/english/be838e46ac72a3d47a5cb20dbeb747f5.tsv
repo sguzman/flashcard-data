@@ -1,1 +1,6 @@
-Saloon	n. 1 a large room or hall on a ship, in a hotel, etc. B public room for a specified purpose (billiard-saloon). 2 (in full saloon car) (usu. Four-seater) car with the body closed off from the luggage area. 3 us drinking-bar. 4 (in full saloon bar) more comfortable bar in a public house. [french salon]
+Saloon	n. 1 a large room or hall on a ship, in a hotel, etc. B public room for a specified purpose (billiard-saloon). 2 (in full saloon car) (usu. Four-seater) car with the body closed off from the luggage area. 3 us drinking-bar. 4 (in full saloon bar) more comfortable bar in a public house. [french salon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

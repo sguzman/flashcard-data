@@ -1,1 +1,6 @@
-Expire	v. (-ring) 1 (of a period of time, validity, etc.) Come to an end. 2 cease to be valid. 3 die. 4 (also absol.) Breathe out (air etc.).  expiration n. Expiratory adj. (in sense 4). [latin spirare breathe]
+Expire	v. (-ring) 1 (of a period of time, validity, etc.) Come to an end. 2 cease to be valid. 3 die. 4 (also absol.) Breathe out (air etc.).  expiration n. Expiratory adj. (in sense 4). [latin spirare breathe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cruel	adj. (crueller, cruellest or crueler, cruelest) 1 causing pain or suffering, esp. Deliberately. 2 harsh, severe (a cruel blow).  cruelly adv. Cruelness n. Cruelty n. (pl. -ies). [latin: related to *crude]
+Cruel	adj. (crueller, cruellest or crueler, cruelest) 1 causing pain or suffering, esp. Deliberately. 2 harsh, severe (a cruel blow).  cruelly adv. Cruelness n. Cruelty n. (pl. -ies). [latin: related to *crude]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

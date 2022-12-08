@@ -1,1 +1,6 @@
-Grovel	v. (-ll-; us -l-) 1 behave obsequiously. 2 lie prone in abject humility.  grovelling adj. [obsolete grovelling (adv.) From old norse á grúfu face down]
+Grovel	v. (-ll-; us -l-) 1 behave obsequiously. 2 lie prone in abject humility.  grovelling adj. [obsolete grovelling (adv.) From old norse á grúfu face down]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

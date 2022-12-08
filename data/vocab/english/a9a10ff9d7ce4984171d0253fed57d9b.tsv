@@ -1,1 +1,6 @@
-Madam	n. 1 polite or respectful form of address or mode of reference to a woman. 2 colloq. Conceited or precocious girl or young woman. 3 woman brothel-keeper. [related to *madame]
+Madam	n. 1 polite or respectful form of address or mode of reference to a woman. 2 colloq. Conceited or precocious girl or young woman. 3 woman brothel-keeper. [related to *madame]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

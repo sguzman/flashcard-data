@@ -1,1 +1,6 @@
-Suspension	n. 1 suspending or being suspended. 2 springs etc. Supporting a vehicle on its axles. 3 substance consisting of particles suspended in a medium.
+Suspension	n. 1 suspending or being suspended. 2 springs etc. Supporting a vehicle on its axles. 3 substance consisting of particles suspended in a medium.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

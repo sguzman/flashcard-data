@@ -1,1 +1,6 @@
-Revelation	n. 1 a revealing, esp. The supposed disclosure of knowledge to man by a divine or supernatural agency. B knowledge disclosed in this way. 2 striking disclosure. 3 (revelation or colloq. Revelations) (in full the revelation of st john the divine) last book of the new testament.
+Revelation	n. 1 a revealing, esp. The supposed disclosure of knowledge to man by a divine or supernatural agency. B knowledge disclosed in this way. 2 striking disclosure. 3 (revelation or colloq. Revelations) (in full the revelation of st john the divine) last book of the new testament.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

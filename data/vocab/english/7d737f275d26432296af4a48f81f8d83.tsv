@@ -1,1 +1,6 @@
-Sheraton	n. (often attrib.) Style of english furniture c.1790. [name of a furniture-maker]
+Sheraton	n. (often attrib.) Style of english furniture c.1790. [name of a furniture-maker]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Embryo	n. (pl. -s) 1 a unborn or unhatched offspring. B human offspring in the first eight weeks from conception. 2 rudimentary plant in a seed. 3 thing in a rudimentary stage. 4 (attrib.) Undeveloped, immature.  in embryo undeveloped.  embryonic adj. [greek bruo grow]
+Embryo	n. (pl. -s) 1 a unborn or unhatched offspring. B human offspring in the first eight weeks from conception. 2 rudimentary plant in a seed. 3 thing in a rudimentary stage. 4 (attrib.) Undeveloped, immature.  in embryo undeveloped.  embryonic adj. [greek bruo grow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

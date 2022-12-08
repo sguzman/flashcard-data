@@ -1,1 +1,6 @@
-Tactical	adj. 1 of tactics (tactical retreat). 2 (of bombing etc.) Done in direct support of military or naval operations. 3 adroitly planning or adroitly planned.  tactically adv.
+Tactical	adj. 1 of tactics (tactical retreat). 2 (of bombing etc.) Done in direct support of military or naval operations. 3 adroitly planning or adroitly planned.  tactically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

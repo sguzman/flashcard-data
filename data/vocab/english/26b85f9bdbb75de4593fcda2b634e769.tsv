@@ -1,1 +1,6 @@
-Sergeant	n. 1 non-commissioned army or raf officer next below warrant-officer. 2 police officer below inspector. [french sergent from latin serviens -ent- servant]
+Sergeant	n. 1 non-commissioned army or raf officer next below warrant-officer. 2 police officer below inspector. [french sergent from latin serviens -ent- servant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

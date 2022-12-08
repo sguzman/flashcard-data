@@ -1,1 +1,6 @@
-Plot	—n. 1 defined and usu. Small piece of land. 2 interrelationship of the main events in a play, novel, film, etc. 3 conspiracy or secret plan. —v. (-tt-) 1 make a plan or map of. 2 (also absol.) Plan or contrive secretly (a crime etc.). 3 mark on a chart or diagram. 4  make (a curve etc.) By marking out a number of points. 5  provide (a play, novel, film, etc.) With a plot.  plotter n. [old english and french complot]
+Plot	—n. 1 defined and usu. Small piece of land. 2 interrelationship of the main events in a play, novel, film, etc. 3 conspiracy or secret plan. —v. (-tt-) 1 make a plan or map of. 2 (also absol.) Plan or contrive secretly (a crime etc.). 3 mark on a chart or diagram. 4  make (a curve etc.) By marking out a number of points. 5  provide (a play, novel, film, etc.) With a plot.  plotter n. [old english and french complot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

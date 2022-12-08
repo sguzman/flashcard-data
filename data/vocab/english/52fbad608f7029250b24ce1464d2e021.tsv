@@ -1,1 +1,6 @@
-Peanut	n. 1 plant of the pea family bearing pods underground that contain seeds used for food and oil. 2 seed of this. 3 (in pl.) Colloq. Paltry thing or amount, esp. Of money.
+Peanut	n. 1 plant of the pea family bearing pods underground that contain seeds used for food and oil. 2 seed of this. 3 (in pl.) Colloq. Paltry thing or amount, esp. Of money.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

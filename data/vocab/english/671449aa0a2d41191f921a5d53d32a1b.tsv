@@ -1,1 +1,6 @@
-Dyke1	(also dike) —n. 1 embankment built to prevent flooding. 2 low wall of turf or stone. —v. (-king) provide or protect with dyke(s). [related to *ditch]
+Dyke1	(also dike) —n. 1 embankment built to prevent flooding. 2 low wall of turf or stone. —v. (-king) provide or protect with dyke(s). [related to *ditch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

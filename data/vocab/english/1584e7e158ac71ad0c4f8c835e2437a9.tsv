@@ -1,1 +1,6 @@
-Blister	—n. 1 small bubble on the skin filled with watery fluid and caused by heat or friction. 2 similar swelling on plastic, wood, etc. —v. 1 come up in blisters. 2 raise a blister on. 3 attack sharply. [origin uncertain]
+Blister	—n. 1 small bubble on the skin filled with watery fluid and caused by heat or friction. 2 similar swelling on plastic, wood, etc. —v. 1 come up in blisters. 2 raise a blister on. 3 attack sharply. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

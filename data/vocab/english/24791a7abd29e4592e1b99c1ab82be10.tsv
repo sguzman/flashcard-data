@@ -1,1 +1,6 @@
-Curtain	—n. 1 piece of cloth etc. Hung as a screen, esp. At a window. 2 a rise or fall of a stage curtain between acts or scenes. B = *curtain-call. 3 partition or cover. 4 (in pl.) Slang the end. —v. 1 provide or cover with curtain(s). 2 (foll. By off) shut off with curtain(s). [latin cortina]
+Curtain	—n. 1 piece of cloth etc. Hung as a screen, esp. At a window. 2 a rise or fall of a stage curtain between acts or scenes. B = *curtain-call. 3 partition or cover. 4 (in pl.) Slang the end. —v. 1 provide or cover with curtain(s). 2 (foll. By off) shut off with curtain(s). [latin cortina]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

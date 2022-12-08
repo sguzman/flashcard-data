@@ -1,1 +1,6 @@
-Or1	conj. 1 introducing an alternative (white or black; take it or leave it; whether or not). 2 introducing an alternative name (the lapwing or peewit). 3 introducing an afterthought (came in laughing – or was it crying?). 4 = or else 1 (run or you'll be late).  or else 1 otherwise (run, or else you will be late). 2 colloq. Expressing a warning or threat (be good or else). [old english]
+Or1	conj. 1 introducing an alternative (white or black; take it or leave it; whether or not). 2 introducing an alternative name (the lapwing or peewit). 3 introducing an afterthought (came in laughing – or was it crying?). 4 = or else 1 (run or you'll be late).  or else 1 otherwise (run, or else you will be late). 2 colloq. Expressing a warning or threat (be good or else). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

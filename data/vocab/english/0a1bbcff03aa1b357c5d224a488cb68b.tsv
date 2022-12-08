@@ -1,1 +1,6 @@
-Scallop	(also scollop) —n. 1 edible mollusc with two fan-shaped ridged shells. 2 (in full scallop shell) single shell of a scallop, often used for cooking or serving food in. 3 (in pl.) Ornamental edging of semicircular curves. —v. (-p-) ornament with scallops.  scalloping n. (in sense 3 of n.). [french *escalope]
+Scallop	(also scollop) —n. 1 edible mollusc with two fan-shaped ridged shells. 2 (in full scallop shell) single shell of a scallop, often used for cooking or serving food in. 3 (in pl.) Ornamental edging of semicircular curves. —v. (-p-) ornament with scallops.  scalloping n. (in sense 3 of n.). [french *escalope]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

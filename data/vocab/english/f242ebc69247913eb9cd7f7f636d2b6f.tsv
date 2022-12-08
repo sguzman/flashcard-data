@@ -1,1 +1,6 @@
-Hoist	—v. 1 raise or haul up. 2 raise by means of ropes and pulleys etc. —n. 1 act of hoisting, lift. 2 apparatus for hoisting.  hoist with one's own petard caught by one's own trick etc. [earlier hoise, probably from low german]
+Hoist	—v. 1 raise or haul up. 2 raise by means of ropes and pulleys etc. —n. 1 act of hoisting, lift. 2 apparatus for hoisting.  hoist with one's own petard caught by one's own trick etc. [earlier hoise, probably from low german]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sag	—v. (-gg-) 1 sink or subside, esp. Unevenly. 2 have a downward bulge or curve in the middle. 3 fall in price. —n. State or extent of sagging.  saggy adj. [low german or dutch]
+Sag	—v. (-gg-) 1 sink or subside, esp. Unevenly. 2 have a downward bulge or curve in the middle. 3 fall in price. —n. State or extent of sagging.  saggy adj. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

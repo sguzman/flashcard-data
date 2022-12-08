@@ -1,1 +1,6 @@
-Grindstone	n. 1 thick revolving disc used for grinding, sharpening, and polishing. 2 a kind of stone used for this.  keep one's nose to the grindstone work hard and continuously.
+Grindstone	n. 1 thick revolving disc used for grinding, sharpening, and polishing. 2 a kind of stone used for this.  keep one's nose to the grindstone work hard and continuously.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

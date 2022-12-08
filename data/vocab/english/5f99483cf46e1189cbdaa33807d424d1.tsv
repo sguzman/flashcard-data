@@ -1,1 +1,6 @@
-Bail3	v. (also bale) 1 (usu. Foll. By out) scoop water out of (a boat etc.). 2 scoop (water etc.) Out.  bail out var. Of bale out 1 (see *bale1). [french]
+Bail3	v. (also bale) 1 (usu. Foll. By out) scoop water out of (a boat etc.). 2 scoop (water etc.) Out.  bail out var. Of bale out 1 (see *bale1). [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

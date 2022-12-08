@@ -1,1 +1,6 @@
-Suite	n. 1 set, esp. Of rooms in a hotel etc. Or a sofa and armchairs. 2 mus. Set of instrumental pieces performed as a unit. [french: related to *suit]
+Suite	n. 1 set, esp. Of rooms in a hotel etc. Or a sofa and armchairs. 2 mus. Set of instrumental pieces performed as a unit. [french: related to *suit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

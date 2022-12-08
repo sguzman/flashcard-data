@@ -1,1 +1,6 @@
-Water-colour	n. (us water-color) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours.  water-colourist n.
+Water-colour	n. (us water-color) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours.  water-colourist n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

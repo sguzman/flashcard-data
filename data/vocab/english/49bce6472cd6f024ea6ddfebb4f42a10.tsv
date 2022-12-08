@@ -1,1 +1,6 @@
-Redouble	—v. (-ling) 1 make or grow greater or more intense or numerous. 2 bridge double again a bid already doubled by an opponent. —n. Bridge redoubling of a bid.
+Redouble	—v. (-ling) 1 make or grow greater or more intense or numerous. 2 bridge double again a bid already doubled by an opponent. —n. Bridge redoubling of a bid.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

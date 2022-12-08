@@ -1,1 +1,6 @@
-Outline	—n. 1 rough draft. 2 summary. 3 sketch consisting of only contour lines. 4 (in sing. Or pl.) A lines enclosing or indicating an object. B contour. C external boundary. 5 (in pl.) Main features or principles. —v. (-ning) 1 draw or describe in outline. 2 mark the outline of.
+Outline	—n. 1 rough draft. 2 summary. 3 sketch consisting of only contour lines. 4 (in sing. Or pl.) A lines enclosing or indicating an object. B contour. C external boundary. 5 (in pl.) Main features or principles. —v. (-ning) 1 draw or describe in outline. 2 mark the outline of.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

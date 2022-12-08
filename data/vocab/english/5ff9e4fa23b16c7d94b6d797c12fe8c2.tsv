@@ -1,1 +1,6 @@
-Increase	—v. (-sing) make or become greater or more numerous. —n. 1 growth, enlargement. 2 (of people, animals, or plants) multiplication. 3 amount or extent of an increase.  on the increase increasing. [latin cresco grow]
+Increase	—v. (-sing) make or become greater or more numerous. —n. 1 growth, enlargement. 2 (of people, animals, or plants) multiplication. 3 amount or extent of an increase.  on the increase increasing. [latin cresco grow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

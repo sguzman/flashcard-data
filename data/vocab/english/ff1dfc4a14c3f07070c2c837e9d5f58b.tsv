@@ -1,1 +1,6 @@
-Billion	adj. & n. (pl. Same or (in sense 3) -s) 1 a thousand million (109). 2 (now less often) a million million (1012). 3 (in pl.) Colloq. A very large number (billions of years).  billionth adj. & n. [french]
+Billion	adj. & n. (pl. Same or (in sense 3) -s) 1 a thousand million (109). 2 (now less often) a million million (1012). 3 (in pl.) Colloq. A very large number (billions of years).  billionth adj. & n. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

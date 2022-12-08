@@ -1,1 +1,6 @@
-Eyeful	n. (pl. -s) colloq. 1 (esp. In phr. Get an eyeful (of)) good look; as much as the eye can take in. 2 visually striking person or thing. 3 thing thrown or blown into the eye.
+Eyeful	n. (pl. -s) colloq. 1 (esp. In phr. Get an eyeful (of)) good look; as much as the eye can take in. 2 visually striking person or thing. 3 thing thrown or blown into the eye.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

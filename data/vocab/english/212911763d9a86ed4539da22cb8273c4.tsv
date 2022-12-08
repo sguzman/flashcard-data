@@ -1,1 +1,6 @@
-Pervade	v. (-ding) 1 spread throughout, permeate. 2 be rife among or through.  pervasion n. Pervasive adj. [latin pervado penetrate]
+Pervade	v. (-ding) 1 spread throughout, permeate. 2 be rife among or through.  pervasion n. Pervasive adj. [latin pervado penetrate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

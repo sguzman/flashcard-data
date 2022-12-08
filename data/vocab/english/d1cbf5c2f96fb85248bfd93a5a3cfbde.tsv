@@ -1,1 +1,6 @@
-Sore	—adj. 1 (of a part of the body) painful. 2 suffering pain. 3 aggrieved, vexed. 4 archaic grievous or severe (in sore need). —n. 1 inflamed place on the skin or flesh. 2 source of distress or annoyance. —adv. Archaic grievously, severely.  soreness n. [old english]
+Sore	—adj. 1 (of a part of the body) painful. 2 suffering pain. 3 aggrieved, vexed. 4 archaic grievous or severe (in sore need). —n. 1 inflamed place on the skin or flesh. 2 source of distress or annoyance. —adv. Archaic grievously, severely.  soreness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

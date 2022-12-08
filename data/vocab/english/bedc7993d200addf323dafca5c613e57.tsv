@@ -1,1 +1,6 @@
-Ilk	n. 1 colloq., usu. Derog. Sort, family, class, etc. 2 (in of that ilk) scot. Of the ancestral estate with the same name as the family (guthrie of that ilk). [old english]
+Ilk	n. 1 colloq., usu. Derog. Sort, family, class, etc. 2 (in of that ilk) scot. Of the ancestral estate with the same name as the family (guthrie of that ilk). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

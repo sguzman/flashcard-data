@@ -1,1 +1,6 @@
-Exception	n. 1 excepting or being excepted. 2 thing that has been or will be excepted. 3 instance that does not follow a rule.  take exception (often foll. By to) object. With the exception of except.
+Exception	n. 1 excepting or being excepted. 2 thing that has been or will be excepted. 3 instance that does not follow a rule.  take exception (often foll. By to) object. With the exception of except.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

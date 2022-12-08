@@ -1,1 +1,6 @@
-Leukaemia	n. (us leukemia) malignant disease in which the bone-marrow etc. Produces too many leucocytes. [greek leukos white, haima blood]
+Leukaemia	n. (us leukemia) malignant disease in which the bone-marrow etc. Produces too many leucocytes. [greek leukos white, haima blood]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

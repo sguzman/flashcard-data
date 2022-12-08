@@ -1,1 +1,6 @@
-Relinquish	v. 1 surrender or resign (a right or possession). 2 give up or cease from (a habit, plan, belief, etc.). 3 relax hold of.  relinquishment n. [latin relinquo -lict- leave behind]
+Relinquish	v. 1 surrender or resign (a right or possession). 2 give up or cease from (a habit, plan, belief, etc.). 3 relax hold of.  relinquishment n. [latin relinquo -lict- leave behind]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

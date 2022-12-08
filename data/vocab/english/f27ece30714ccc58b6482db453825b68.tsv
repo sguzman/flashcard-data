@@ -1,1 +1,6 @@
-Shingle2	—n. 1 rectangular wooden tile used on roofs etc. 2 archaic a shingled hair. B shingling of hair. —v. (-ling) 1 roof with shingles. 2 archaic a cut (a woman's hair) short. B cut the hair of (a person or head) in this way. [latin scindula]
+Shingle2	—n. 1 rectangular wooden tile used on roofs etc. 2 archaic a shingled hair. B shingling of hair. —v. (-ling) 1 roof with shingles. 2 archaic a cut (a woman's hair) short. B cut the hair of (a person or head) in this way. [latin scindula]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

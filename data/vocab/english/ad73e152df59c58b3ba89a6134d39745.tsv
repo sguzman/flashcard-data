@@ -1,1 +1,6 @@
-Examine	v. (-ning) 1 inquire into the nature or condition etc. Of. 2 look closely at. 3 test the proficiency of. 4 check the health of (a patient). 5 formally question in court.  examinee n. Examiner n. [latin examen tongue of a balance]
+Examine	v. (-ning) 1 inquire into the nature or condition etc. Of. 2 look closely at. 3 test the proficiency of. 4 check the health of (a patient). 5 formally question in court.  examinee n. Examiner n. [latin examen tongue of a balance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

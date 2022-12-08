@@ -1,1 +1,6 @@
-Uncut	adj. 1 not cut. 2 (of a book) with the pages sealed or untrimmed. 3 (of a book, film, etc.) Complete; uncensored. 4 (of esp. A diamond) not shaped. 5 (of fabric) with a looped pile.
+Uncut	adj. 1 not cut. 2 (of a book) with the pages sealed or untrimmed. 3 (of a book, film, etc.) Complete; uncensored. 4 (of esp. A diamond) not shaped. 5 (of fabric) with a looped pile.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

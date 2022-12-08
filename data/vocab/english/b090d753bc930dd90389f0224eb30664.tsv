@@ -1,1 +1,6 @@
-Condenser	n. 1 apparatus or vessel for condensing vapour. 2 electr. = *capacitor. 3 lens or system of lenses for concentrating light.
+Condenser	n. 1 apparatus or vessel for condensing vapour. 2 electr. = *capacitor. 3 lens or system of lenses for concentrating light.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

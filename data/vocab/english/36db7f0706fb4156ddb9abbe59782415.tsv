@@ -1,1 +1,6 @@
-Deacon	n. (fem. (in senses 2 and 3) deaconess) 1 (in episcopal churches) minister below bishop and priest. 2 (in nonconformist churches) lay officer. 3 (in the early church) minister of charity. [greek diakonos servant]
+Deacon	n. (fem. (in senses 2 and 3) deaconess) 1 (in episcopal churches) minister below bishop and priest. 2 (in nonconformist churches) lay officer. 3 (in the early church) minister of charity. [greek diakonos servant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

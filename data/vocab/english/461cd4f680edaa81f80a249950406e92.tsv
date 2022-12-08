@@ -1,1 +1,6 @@
-Adjust	v. 1 order or position; regulate; arrange. 2 (usu. Foll. By to) become or make suited; adapt. 3 harmonize (discrepancies). 4 assess (loss or damages).  adjustable adj. Adjustment n. [latin juxta near]
+Adjust	v. 1 order or position; regulate; arrange. 2 (usu. Foll. By to) become or make suited; adapt. 3 harmonize (discrepancies). 4 assess (loss or damages).  adjustable adj. Adjustment n. [latin juxta near]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

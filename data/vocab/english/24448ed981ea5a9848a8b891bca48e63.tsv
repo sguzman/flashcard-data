@@ -1,1 +1,6 @@
-Window	n. 1 a opening in a wall etc., usu. With glass to admit light etc. B the glass itself. 2 space for display behind the window of a shop. 3 window-like opening. 4 opportunity to learn from observation. 5 transparent part in an envelope showing an address. 6 vdu display showing a particular part of the data.  windowless adj. [old norse, = wind-eye]
+Window	n. 1 a opening in a wall etc., usu. With glass to admit light etc. B the glass itself. 2 space for display behind the window of a shop. 3 window-like opening. 4 opportunity to learn from observation. 5 transparent part in an envelope showing an address. 6 vdu display showing a particular part of the data.  windowless adj. [old norse, = wind-eye]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

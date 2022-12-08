@@ -1,1 +1,6 @@
-Douche	—n. 1 jet of liquid applied to part of the body for cleansing or medicinal purposes. 2 device for producing such a jet. —v. (-ching) 1 treat with a douche. 2 use a douche. [latin: related to *duct]
+Douche	—n. 1 jet of liquid applied to part of the body for cleansing or medicinal purposes. 2 device for producing such a jet. —v. (-ching) 1 treat with a douche. 2 use a douche. [latin: related to *duct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

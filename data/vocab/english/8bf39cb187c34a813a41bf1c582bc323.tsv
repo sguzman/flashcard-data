@@ -1,1 +1,6 @@
-Croft	—n. 1 enclosed piece of (usu. Arable) land. 2 small rented farm in scotland or n. England. —v. Farm a croft; live as a crofter. [old english]
+Croft	—n. 1 enclosed piece of (usu. Arable) land. 2 small rented farm in scotland or n. England. —v. Farm a croft; live as a crofter. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

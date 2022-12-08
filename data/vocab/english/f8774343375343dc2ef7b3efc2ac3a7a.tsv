@@ -1,1 +1,6 @@
-Underline	v. (-ning) 1 draw a line under (a word etc.) To give emphasis, indicate italic type, etc. 2 emphasize, stress.
+Underline	v. (-ning) 1 draw a line under (a word etc.) To give emphasis, indicate italic type, etc. 2 emphasize, stress.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

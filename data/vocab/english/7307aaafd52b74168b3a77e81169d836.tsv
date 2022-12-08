@@ -1,1 +1,6 @@
-Indeterminate	adj. 1 not fixed in extent, character, etc. 2 left doubtful; vague. 3 math. Of no fixed value.  indeterminacy n.
+Indeterminate	adj. 1 not fixed in extent, character, etc. 2 left doubtful; vague. 3 math. Of no fixed value.  indeterminacy n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

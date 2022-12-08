@@ -1,1 +1,6 @@
-Raspberry	n. (pl. -ies) 1 a red blackberry-like fruit. B bramble bearing this. 2 colloq. Sound made by blowing through the lips, expressing derision or disapproval. [origin unknown]
+Raspberry	n. (pl. -ies) 1 a red blackberry-like fruit. B bramble bearing this. 2 colloq. Sound made by blowing through the lips, expressing derision or disapproval. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

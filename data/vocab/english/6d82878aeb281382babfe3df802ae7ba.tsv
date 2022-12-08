@@ -1,1 +1,6 @@
-Patronage	n. 1 patron's or customer's support. 2 right or control of appointments to office, privileges, etc. 3 condescending manner.
+Patronage	n. 1 patron's or customer's support. 2 right or control of appointments to office, privileges, etc. 3 condescending manner.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

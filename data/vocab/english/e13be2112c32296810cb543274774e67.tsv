@@ -1,1 +1,6 @@
-Estimate	—n. 1 approximate judgement, esp. Of cost, value, size, etc. 2 statement of approximate charge for work to be undertaken. —v. (-ting) (also absol.) 1 form an estimate or opinion of. 2 (foll. By that) make a rough calculation. 3 (often foll. By at) form an estimate; adjudge.  estimator n. [latin aestimo fix the price of]
+Estimate	—n. 1 approximate judgement, esp. Of cost, value, size, etc. 2 statement of approximate charge for work to be undertaken. —v. (-ting) (also absol.) 1 form an estimate or opinion of. 2 (foll. By that) make a rough calculation. 3 (often foll. By at) form an estimate; adjudge.  estimator n. [latin aestimo fix the price of]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

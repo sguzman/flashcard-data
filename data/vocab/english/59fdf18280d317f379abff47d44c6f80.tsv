@@ -1,1 +1,6 @@
-Precinct	n. 1 enclosed area, e.g. Around a cathedral, college, etc. 2 designated area in a town, esp. Where traffic is excluded. 3 (in pl.) Environs. [latin praecingo -cinct- encircle]
+Precinct	n. 1 enclosed area, e.g. Around a cathedral, college, etc. 2 designated area in a town, esp. Where traffic is excluded. 3 (in pl.) Environs. [latin praecingo -cinct- encircle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

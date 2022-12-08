@@ -1,1 +1,6 @@
-Resume	v. (-ming) 1 begin again or continue after an interruption. 2 begin to speak, work, or use again; recommence. 3 get back; take back (resume one's seat). [latin sumo sumpt- take]
+Resume	v. (-ming) 1 begin again or continue after an interruption. 2 begin to speak, work, or use again; recommence. 3 get back; take back (resume one's seat). [latin sumo sumpt- take]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

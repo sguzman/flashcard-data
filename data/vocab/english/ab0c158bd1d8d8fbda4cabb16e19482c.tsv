@@ -1,1 +1,6 @@
-Entertain	v. 1 occupy agreeably. 2 a receive as a guest. B receive guests. 3 cherish, consider (an idea etc.). [latin teneo hold]
+Entertain	v. 1 occupy agreeably. 2 a receive as a guest. B receive guests. 3 cherish, consider (an idea etc.). [latin teneo hold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

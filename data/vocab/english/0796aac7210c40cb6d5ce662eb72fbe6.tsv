@@ -1,1 +1,6 @@
-Blip	—n. 1 minor deviation or error. 2 quick popping sound. 3 small image on a radar screen. —v. (-pp-) make a blip. [imitative]
+Blip	—n. 1 minor deviation or error. 2 quick popping sound. 3 small image on a radar screen. —v. (-pp-) make a blip. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

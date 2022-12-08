@@ -1,1 +1,6 @@
-Lute2	—n. Clay or cement for making joints airtight etc. —v. (-ting) apply lute to. [latin lutum mud]
+Lute2	—n. Clay or cement for making joints airtight etc. —v. (-ting) apply lute to. [latin lutum mud]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

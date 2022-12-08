@@ -1,1 +1,6 @@
-Carbuncle	n. 1 severe skin abscess. 2 bright-red gem. [latin: related to *carbon]
+Carbuncle	n. 1 severe skin abscess. 2 bright-red gem. [latin: related to *carbon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

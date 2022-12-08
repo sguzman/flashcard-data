@@ -1,1 +1,6 @@
-Event	n. 1 thing that happens. 2 fact of a thing's occurring. 3 item in a (esp. Sports) programme.  at all events (or in any event) whatever happens. In the event as it turns (or turned) out. In the event of if (a specified thing) happens. In the event that if it happens that. [latin venio vent- come]
+Event	n. 1 thing that happens. 2 fact of a thing's occurring. 3 item in a (esp. Sports) programme.  at all events (or in any event) whatever happens. In the event as it turns (or turned) out. In the event of if (a specified thing) happens. In the event that if it happens that. [latin venio vent- come]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

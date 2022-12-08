@@ -1,1 +1,6 @@
-Kilt	—n. Pleated knee-length usu. Tartan skirt, traditionally worn by highland men. —v. 1 tuck up (the skirts) round the body. 2 (esp. As kilted adj.) Gather in vertical pleats. [scandinavian]
+Kilt	—n. Pleated knee-length usu. Tartan skirt, traditionally worn by highland men. —v. 1 tuck up (the skirts) round the body. 2 (esp. As kilted adj.) Gather in vertical pleats. [scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

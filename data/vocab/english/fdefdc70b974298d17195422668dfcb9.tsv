@@ -1,1 +1,6 @@
-Archduke	n. Hist. Chief duke (esp. As the title of a son of the emperor of austria).  archduchy n. (pl. -ies). [medieval latin archidux]
+Archduke	n. Hist. Chief duke (esp. As the title of a son of the emperor of austria).  archduchy n. (pl. -ies). [medieval latin archidux]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

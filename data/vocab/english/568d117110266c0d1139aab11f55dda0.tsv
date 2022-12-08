@@ -1,1 +1,6 @@
-Cancel	v. (-ll-; us -l-) 1 revoke or discontinue (an arrangement). 2 delete (writing etc.). 3 mark (a ticket, stamp, etc.) To invalidate it. 4 annul; make void. 5 (often foll. By out) neutralize or counterbalance. 6 math. Strike out (an equal factor) on each side of an equation etc.  cancellation n. [latin: related to *chancel]
+Cancel	v. (-ll-; us -l-) 1 revoke or discontinue (an arrangement). 2 delete (writing etc.). 3 mark (a ticket, stamp, etc.) To invalidate it. 4 annul; make void. 5 (often foll. By out) neutralize or counterbalance. 6 math. Strike out (an equal factor) on each side of an equation etc.  cancellation n. [latin: related to *chancel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

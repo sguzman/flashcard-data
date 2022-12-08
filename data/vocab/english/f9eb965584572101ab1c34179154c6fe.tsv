@@ -1,1 +1,6 @@
-Chat	—v. (-tt-) talk in a light familiar way. —n. 1 pleasant informal talk. 2 any of various songbirds.  chat up colloq. Chat to, esp. Flirtatiously or with an ulterior motive. [shortening of *chatter]
+Chat	—v. (-tt-) talk in a light familiar way. —n. 1 pleasant informal talk. 2 any of various songbirds.  chat up colloq. Chat to, esp. Flirtatiously or with an ulterior motive. [shortening of *chatter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

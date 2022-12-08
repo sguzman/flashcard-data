@@ -1,1 +1,6 @@
-Alert	—adj. 1 watchful, vigilant. 2 nimble, attentive. —n. 1 warning call or alarm. 2 state or period of special vigilance. —v. (often foll. By to) warn. [french alerte from italian all'erta to the watch-tower]
+Alert	—adj. 1 watchful, vigilant. 2 nimble, attentive. —n. 1 warning call or alarm. 2 state or period of special vigilance. —v. (often foll. By to) warn. [french alerte from italian all'erta to the watch-tower]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

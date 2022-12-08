@@ -1,1 +1,6 @@
-Mechanics	n.pl. (usu. Treated as sing.) 1 branch of applied mathematics dealing with motion etc. 2 science of machinery. 3 routine technical aspects of a thing (mechanics of local government).
+Mechanics	n.pl. (usu. Treated as sing.) 1 branch of applied mathematics dealing with motion etc. 2 science of machinery. 3 routine technical aspects of a thing (mechanics of local government).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

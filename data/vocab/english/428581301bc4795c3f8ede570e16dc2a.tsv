@@ -1,1 +1,6 @@
-Caravan	—n. 1 vehicle equipped for living in and usu. Towed by a car. 2 people travelling together, esp. Across a desert. —v. (-nn-) travel or live in a caravan.  caravanner n. [french from persian]
+Caravan	—n. 1 vehicle equipped for living in and usu. Towed by a car. 2 people travelling together, esp. Across a desert. —v. (-nn-) travel or live in a caravan.  caravanner n. [french from persian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

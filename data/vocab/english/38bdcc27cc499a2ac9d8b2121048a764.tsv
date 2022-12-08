@@ -1,1 +1,6 @@
-Nib	n. 1 pen-point. 2 (in pl.) Shelled and crushed coffee or cocoa beans. [low german or dutch]
+Nib	n. 1 pen-point. 2 (in pl.) Shelled and crushed coffee or cocoa beans. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

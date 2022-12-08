@@ -1,1 +1,6 @@
-Bane	n. 1 cause of ruin or trouble. 2 poet. Ruin. 3 archaic (except in comb.) Poison (ratsbane).  baneful adj. [old english]
+Bane	n. 1 cause of ruin or trouble. 2 poet. Ruin. 3 archaic (except in comb.) Poison (ratsbane).  baneful adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

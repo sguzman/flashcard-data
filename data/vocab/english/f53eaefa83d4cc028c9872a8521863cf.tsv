@@ -1,1 +1,6 @@
-Prefix	—n. 1 verbal element placed at the beginning of a word to qualify its meaning (e.g. Ex-, non-). 2 title before a name (e.g. Mr). —v. (often foll. By to) 1 add as an introduction. 2 join (a word or element) as a prefix.
+Prefix	—n. 1 verbal element placed at the beginning of a word to qualify its meaning (e.g. Ex-, non-). 2 title before a name (e.g. Mr). —v. (often foll. By to) 1 add as an introduction. 2 join (a word or element) as a prefix.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

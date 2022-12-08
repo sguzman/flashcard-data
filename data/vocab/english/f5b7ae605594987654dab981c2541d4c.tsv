@@ -1,1 +1,6 @@
-Machine	—n. 1 apparatus for applying mechanical power, having several interrelated parts. 2 particular machine, esp. A vehicle or an electrical or electronic apparatus. 3 controlling system of an organization etc. (party machine). 4 person who acts mechanically. 5 (esp. In comb.) Mechanical dispenser with slots for coins (cigarette machine). —v. (-ning) make or operate on with a machine. [greek mekhane]
+Machine	—n. 1 apparatus for applying mechanical power, having several interrelated parts. 2 particular machine, esp. A vehicle or an electrical or electronic apparatus. 3 controlling system of an organization etc. (party machine). 4 person who acts mechanically. 5 (esp. In comb.) Mechanical dispenser with slots for coins (cigarette machine). —v. (-ning) make or operate on with a machine. [greek mekhane]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

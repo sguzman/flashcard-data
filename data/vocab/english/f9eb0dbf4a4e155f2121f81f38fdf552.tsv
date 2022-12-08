@@ -1,1 +1,6 @@
-Isotope	n. One of two or more forms of an element differing from each other in relative atomic mass, and in nuclear but not chemical properties.  isotopic adj. [from *iso-, greek topos place]
+Isotope	n. One of two or more forms of an element differing from each other in relative atomic mass, and in nuclear but not chemical properties.  isotopic adj. [from *iso-, greek topos place]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Unanimous	adj. 1 all in agreement (committee was unanimous). 2 (of an opinion, vote, etc.) By all without exception (unanimous choice).  unanimity n. Unanimously adv. [latin unus one, animus mind]
+Unanimous	adj. 1 all in agreement (committee was unanimous). 2 (of an opinion, vote, etc.) By all without exception (unanimous choice).  unanimity n. Unanimously adv. [latin unus one, animus mind]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

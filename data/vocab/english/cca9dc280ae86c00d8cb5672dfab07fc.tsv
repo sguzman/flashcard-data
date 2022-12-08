@@ -1,1 +1,6 @@
-Girl	n. 1 female child, daughter. 2 colloq. Young woman. 3 colloq. Girlfriend. 4 female servant.  girlhood n. Girlish adj. Girly adj. [origin uncertain]
+Girl	n. 1 female child, daughter. 2 colloq. Young woman. 3 colloq. Girlfriend. 4 female servant.  girlhood n. Girlish adj. Girly adj. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cognition	n. 1 knowing, perceiving, or conceiving as an act or faculty distinct from emotion and volition. 2 result of this.  cognitional adj. Cognitive adj. [latin cognitio: related to *cognizance]
+Cognition	n. 1 knowing, perceiving, or conceiving as an act or faculty distinct from emotion and volition. 2 result of this.  cognitional adj. Cognitive adj. [latin cognitio: related to *cognizance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

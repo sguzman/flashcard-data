@@ -1,1 +1,6 @@
-Opera1	n. 1 a drama set to music for singers and instrumentalists. B this as a genre. 2 opera-house. [italian from latin, = labour, work]
+Opera1	n. 1 a drama set to music for singers and instrumentalists. B this as a genre. 2 opera-house. [italian from latin, = labour, work]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

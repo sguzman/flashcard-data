@@ -1,1 +1,6 @@
-Mezzo	mus. —adv. Half, moderately. —n. (in full mezzo-soprano) (pl. -s) 1 female singing-voice between soprano and contralto. 2 singer with this voice. [latin medius middle]
+Mezzo	mus. —adv. Half, moderately. —n. (in full mezzo-soprano) (pl. -s) 1 female singing-voice between soprano and contralto. 2 singer with this voice. [latin medius middle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Spider	n. Eight-legged arthropod of which many species spin webs esp. To capture insects as food. [old english: related to *spin]
+Spider	n. Eight-legged arthropod of which many species spin webs esp. To capture insects as food. [old english: related to *spin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

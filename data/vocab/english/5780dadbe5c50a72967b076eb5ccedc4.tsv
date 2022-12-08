@@ -1,1 +1,6 @@
-Retire	v. (-ring) 1 a leave office or employment, esp. Because of age. B cause (a person) to retire from work. 2 withdraw, go away, retreat. 3 seek seclusion or shelter. 4 go to bed. 5  withdraw (troops). 6 cricket (of a batsman) voluntarily end or be compelled to suspend one's innings.  retire into oneself become uncommunicative or unsociable. [french tirer draw]
+Retire	v. (-ring) 1 a leave office or employment, esp. Because of age. B cause (a person) to retire from work. 2 withdraw, go away, retreat. 3 seek seclusion or shelter. 4 go to bed. 5  withdraw (troops). 6 cricket (of a batsman) voluntarily end or be compelled to suspend one's innings.  retire into oneself become uncommunicative or unsociable. [french tirer draw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

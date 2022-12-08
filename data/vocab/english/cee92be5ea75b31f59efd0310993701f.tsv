@@ -1,1 +1,6 @@
-Hypocrisy	n. (pl. -ies) 1 false claim to virtue; insincerity, pretence. 2 instance of this. [greek, = acting, feigning]
+Hypocrisy	n. (pl. -ies) 1 false claim to virtue; insincerity, pretence. 2 instance of this. [greek, = acting, feigning]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

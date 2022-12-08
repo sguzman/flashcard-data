@@ -1,1 +1,6 @@
-Fibre	n. (us fiber) 1 thread or filament forming tissue or textile. 2 piece of threadlike glass. 3 substance formed of fibres, or able to be spun, woven, etc. 4 structure; character (moral fibre). 5 roughage. [french from latin fibra]
+Fibre	n. (us fiber) 1 thread or filament forming tissue or textile. 2 piece of threadlike glass. 3 substance formed of fibres, or able to be spun, woven, etc. 4 structure; character (moral fibre). 5 roughage. [french from latin fibra]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Overbear	v. (past -bore; past part. -borne) 1 (as overbearing adj.) A domineering, bullying. B overpowering. 2 bear down by weight, force, or emotion. 3 repress by power or authority.
+Overbear	v. (past -bore; past part. -borne) 1 (as overbearing adj.) A domineering, bullying. B overpowering. 2 bear down by weight, force, or emotion. 3 repress by power or authority.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

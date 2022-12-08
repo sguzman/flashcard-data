@@ -1,1 +1,6 @@
-Interpolate	v. (-ting) 1 a insert (words) in a book etc., esp. Misleadingly. B make such insertions in (a book etc.). 2 interject (a remark) in a conversation. 3 estimate (values) between known ones in the same range.  interpolation n. Interpolator n. [latin interpolo furbish]
+Interpolate	v. (-ting) 1 a insert (words) in a book etc., esp. Misleadingly. B make such insertions in (a book etc.). 2 interject (a remark) in a conversation. 3 estimate (values) between known ones in the same range.  interpolation n. Interpolator n. [latin interpolo furbish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

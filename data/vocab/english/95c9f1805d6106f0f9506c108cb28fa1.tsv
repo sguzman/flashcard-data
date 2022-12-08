@@ -1,1 +1,6 @@
-Phenomenon	n. (pl. -mena) 1 fact or occurrence that appears or is perceived, esp. One of which the cause is in question. 2 remarkable person or thing. [greek phaino show]
+Phenomenon	n. (pl. -mena) 1 fact or occurrence that appears or is perceived, esp. One of which the cause is in question. 2 remarkable person or thing. [greek phaino show]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

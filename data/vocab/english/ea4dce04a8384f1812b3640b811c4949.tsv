@@ -1,1 +1,6 @@
-Legend	n. 1 a traditional story; myth. B these collectively. 2 colloq. Famous or remarkable event or person. 3 inscription. 4 explanation on a map etc. Of symbols used. [latin legenda what is to be read]
+Legend	n. 1 a traditional story; myth. B these collectively. 2 colloq. Famous or remarkable event or person. 3 inscription. 4 explanation on a map etc. Of symbols used. [latin legenda what is to be read]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

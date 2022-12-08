@@ -1,1 +1,6 @@
-Variable	—adj. 1 changeable, adaptable. 2 apt to vary; not constant. 3 math. (of a quantity) indeterminate; able to assume different numerical values. —n. Variable thing or quantity.  variability n. Variably adv.
+Variable	—adj. 1 changeable, adaptable. 2 apt to vary; not constant. 3 math. (of a quantity) indeterminate; able to assume different numerical values. —n. Variable thing or quantity.  variability n. Variably adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

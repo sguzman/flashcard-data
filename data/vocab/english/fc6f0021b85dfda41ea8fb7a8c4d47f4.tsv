@@ -1,1 +1,6 @@
-Tattoo1	n. 1 evening drum or bugle signal recalling soldiers to quarters. 2 elaboration of this with music and marching as an entertainment. 3 rhythmic tapping or drumming. [earlier tap-too from dutch taptoe, literally ‘close the tap’ (of the cask)]
+Tattoo1	n. 1 evening drum or bugle signal recalling soldiers to quarters. 2 elaboration of this with music and marching as an entertainment. 3 rhythmic tapping or drumming. [earlier tap-too from dutch taptoe, literally ‘close the tap’ (of the cask)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

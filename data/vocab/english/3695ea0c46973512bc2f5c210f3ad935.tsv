@@ -1,1 +1,6 @@
-Relationship	n. 1 state or instance of being related. 2 a connection or association (good working relationship). B colloq. Emotional (esp. Sexual) association between two people.
+Relationship	n. 1 state or instance of being related. 2 a connection or association (good working relationship). B colloq. Emotional (esp. Sexual) association between two people.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

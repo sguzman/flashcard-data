@@ -1,1 +1,6 @@
-Plexus	n. (pl. Same or plexuses) anat. Network of nerves or vessels (solar plexus). [latin plecto plex- plait]
+Plexus	n. (pl. Same or plexuses) anat. Network of nerves or vessels (solar plexus). [latin plecto plex- plait]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

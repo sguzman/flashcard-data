@@ -1,1 +1,6 @@
-Annual	—adj. 1 reckoned by the year. 2 occurring yearly. 3 living or lasting (only) a year. —n. 1 book etc. Published yearly. 2 plant that lives only a year.  annually adv. [latin annus year]
+Annual	—adj. 1 reckoned by the year. 2 occurring yearly. 3 living or lasting (only) a year. —n. 1 book etc. Published yearly. 2 plant that lives only a year.  annually adv. [latin annus year]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

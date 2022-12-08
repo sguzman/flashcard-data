@@ -1,1 +1,6 @@
-Mousse	n. 1 a dessert of whipped cream, eggs, etc., usu. Flavoured with fruit or chocolate. B meat or fish purée made with whipped cream etc. 2 foamy substance applied to the hair to enable styling. [french, = froth]
+Mousse	n. 1 a dessert of whipped cream, eggs, etc., usu. Flavoured with fruit or chocolate. B meat or fish purée made with whipped cream etc. 2 foamy substance applied to the hair to enable styling. [french, = froth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sally	(pl. -ies) —n. 1 sudden military charge; sortie. 2 excursion. 3 witticism. —v. (-ies, -ied) 1 (usu. Foll. By out, forth) set out on a walk, journey, etc. 2 (usu. Foll. By out) make a military sally. [french saillie from latin salio leap]
+Sally	(pl. -ies) —n. 1 sudden military charge; sortie. 2 excursion. 3 witticism. —v. (-ies, -ied) 1 (usu. Foll. By out, forth) set out on a walk, journey, etc. 2 (usu. Foll. By out) make a military sally. [french saillie from latin salio leap]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Induct	v. (often foll. By to, into) 1 introduce into office, install (into a benefice etc.). 2 archaic lead (to a seat, into a room, etc.); install. [related to *induce]
+Induct	v. (often foll. By to, into) 1 introduce into office, install (into a benefice etc.). 2 archaic lead (to a seat, into a room, etc.); install. [related to *induce]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

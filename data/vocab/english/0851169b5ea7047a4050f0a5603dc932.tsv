@@ -1,1 +1,6 @@
-Blindfold	—v. Cover the eyes of (a person) with a tied cloth etc. —n. Cloth etc. So used. —adj. & adv. 1 with eyes covered. 2 without due care. [originally blindfelled = struck blind]
+Blindfold	—v. Cover the eyes of (a person) with a tied cloth etc. —n. Cloth etc. So used. —adj. & adv. 1 with eyes covered. 2 without due care. [originally blindfelled = struck blind]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

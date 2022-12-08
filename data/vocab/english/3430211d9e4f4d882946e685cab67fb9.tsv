@@ -1,1 +1,6 @@
-Add	v. 1 join (one thing to another) as an increase or supplement. 2 put together (numbers) to find their total. 3 say further.  add in include. Add up 1 find the total of. 2 (foll. By to) amount to. 3 colloq. Make sense. [latin addo]
+Add	v. 1 join (one thing to another) as an increase or supplement. 2 put together (numbers) to find their total. 3 say further.  add in include. Add up 1 find the total of. 2 (foll. By to) amount to. 3 colloq. Make sense. [latin addo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Veneer	—n. 1 thin covering of fine wood etc. 2 (often foll. By of) deceptively pleasing appearance. —v. 1 apply a veneer to (wood etc.). 2 disguise. [german furnieren to furnish]
+Veneer	—n. 1 thin covering of fine wood etc. 2 (often foll. By of) deceptively pleasing appearance. —v. 1 apply a veneer to (wood etc.). 2 disguise. [german furnieren to furnish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

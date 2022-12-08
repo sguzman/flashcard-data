@@ -1,1 +1,6 @@
-Sedan	n. 1 (in full sedan chair) hist. Enclosed chair for one, carried on poles by two men. 2 us enclosed car with four or more seats. [origin uncertain]
+Sedan	n. 1 (in full sedan chair) hist. Enclosed chair for one, carried on poles by two men. 2 us enclosed car with four or more seats. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

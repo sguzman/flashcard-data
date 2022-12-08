@@ -1,1 +1,6 @@
-Mock	—v. 1 (often foll. By at) ridicule; scoff (at); act with scorn or contempt for. 2 mimic contemptuously. 3 defy or delude contemptuously. —attrib. Adj. 1 sham, imitation. 2 as a trial run (mock exam). —n. (in pl.) Colloq. Mock examinations.  mockingly adv. [french moquer]
+Mock	—v. 1 (often foll. By at) ridicule; scoff (at); act with scorn or contempt for. 2 mimic contemptuously. 3 defy or delude contemptuously. —attrib. Adj. 1 sham, imitation. 2 as a trial run (mock exam). —n. (in pl.) Colloq. Mock examinations.  mockingly adv. [french moquer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

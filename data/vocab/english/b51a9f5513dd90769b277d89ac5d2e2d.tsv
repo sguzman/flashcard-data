@@ -1,1 +1,6 @@
-Macadam	n. 1 broken stone as material for road-making. 2 = *tarmacadam.  macadamize v. (also -ise) (-zing or -sing). [mcadam, name of a surveyor]
+Macadam	n. 1 broken stone as material for road-making. 2 = *tarmacadam.  macadamize v. (also -ise) (-zing or -sing). [mcadam, name of a surveyor]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

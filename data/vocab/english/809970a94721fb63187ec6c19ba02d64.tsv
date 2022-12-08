@@ -1,1 +1,6 @@
-Reproduce	v. (-cing) 1 produce a copy or representation of. 2 cause to be seen or heard etc. Again (tried to reproduce the sound exactly). 3 produce further members of the same species by natural means. 4 refl. Produce offspring.  reproducible adj.
+Reproduce	v. (-cing) 1 produce a copy or representation of. 2 cause to be seen or heard etc. Again (tried to reproduce the sound exactly). 3 produce further members of the same species by natural means. 4 refl. Produce offspring.  reproducible adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

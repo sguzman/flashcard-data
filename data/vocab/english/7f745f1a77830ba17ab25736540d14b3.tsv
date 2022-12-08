@@ -1,1 +1,6 @@
-Perimeter	n. 1 a circumference or outline of a closed figure. B length of this. 2 outer boundary of an enclosed area. [greek: related to *-meter]
+Perimeter	n. 1 a circumference or outline of a closed figure. B length of this. 2 outer boundary of an enclosed area. [greek: related to *-meter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

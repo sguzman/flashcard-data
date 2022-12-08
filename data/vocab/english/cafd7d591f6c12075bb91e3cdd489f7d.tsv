@@ -1,1 +1,6 @@
-Corral	—n. 1 us pen for cattle, horses, etc. 2 enclosure for capturing wild animals. —v. (-ll-) put or keep in a corral. [spanish and portuguese: related to *kraal]
+Corral	—n. 1 us pen for cattle, horses, etc. 2 enclosure for capturing wild animals. —v. (-ll-) put or keep in a corral. [spanish and portuguese: related to *kraal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tinker	—n. 1 itinerant mender of kettles and pans etc. 2 scot. & ir. Gypsy. 3 colloq. Mischievous person or animal. 4 spell of tinkering. —v. 1 (foll. By at, with) work in an amateurish or desultory way. 2 work as a tinker. [origin unknown]
+Tinker	—n. 1 itinerant mender of kettles and pans etc. 2 scot. & ir. Gypsy. 3 colloq. Mischievous person or animal. 4 spell of tinkering. —v. 1 (foll. By at, with) work in an amateurish or desultory way. 2 work as a tinker. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

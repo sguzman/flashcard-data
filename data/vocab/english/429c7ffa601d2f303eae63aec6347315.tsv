@@ -1,1 +1,6 @@
-Minister	—n. 1 head of a government department. 2 clergyman, esp. In the presbyterian and nonconformist churches. 3 diplomat, usu. Ranking below an ambassador. —v. (usu. Foll. By to) help, serve, look after (a person, cause, etc.).  ministerial adj. [latin, = servant]
+Minister	—n. 1 head of a government department. 2 clergyman, esp. In the presbyterian and nonconformist churches. 3 diplomat, usu. Ranking below an ambassador. —v. (usu. Foll. By to) help, serve, look after (a person, cause, etc.).  ministerial adj. [latin, = servant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

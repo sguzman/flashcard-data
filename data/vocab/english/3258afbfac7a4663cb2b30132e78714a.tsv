@@ -1,1 +1,6 @@
-Nazarene	—n. 1 a (prec. By the) christ. B (esp. In jewish or muslim use) christian. 2 native or inhabitant of nazareth. —adj. Of nazareth. [latin from greek]
+Nazarene	—n. 1 a (prec. By the) christ. B (esp. In jewish or muslim use) christian. 2 native or inhabitant of nazareth. —adj. Of nazareth. [latin from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

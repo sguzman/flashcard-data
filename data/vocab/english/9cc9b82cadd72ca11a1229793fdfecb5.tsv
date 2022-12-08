@@ -1,1 +1,6 @@
-Tutor	—n. 1 private teacher. 2 university teacher supervising the studies or welfare of assigned undergraduates. —v. 1 act as tutor to. 2 work as a tutor. tutorship n. [latin tueor tut- watch]
+Tutor	—n. 1 private teacher. 2 university teacher supervising the studies or welfare of assigned undergraduates. —v. 1 act as tutor to. 2 work as a tutor. tutorship n. [latin tueor tut- watch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

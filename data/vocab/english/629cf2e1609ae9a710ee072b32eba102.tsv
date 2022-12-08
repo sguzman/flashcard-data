@@ -1,1 +1,6 @@
-Sclerosis	n. 1 abnormal hardening of body tissue. 2 (in full multiple or disseminated sclerosis) serious progressive disease of the nervous system.  sclerotic adj. [greek skleros hard]
+Sclerosis	n. 1 abnormal hardening of body tissue. 2 (in full multiple or disseminated sclerosis) serious progressive disease of the nervous system.  sclerotic adj. [greek skleros hard]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

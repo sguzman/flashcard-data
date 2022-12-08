@@ -1,1 +1,6 @@
-Clarify	v. (-ies, -ied) 1 make or become clearer. 2 a free (liquid etc.) From impurities. B make transparent.  clarification n. [latin: related to *clear]
+Clarify	v. (-ies, -ied) 1 make or become clearer. 2 a free (liquid etc.) From impurities. B make transparent.  clarification n. [latin: related to *clear]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Rat	—n. 1 a rodent like a large mouse. B similar rodent (muskrat; water-rat). 2 turncoat. 3 colloq. Unpleasant or treacherous person. 4 (in pl.) Slang exclamation of annoyance etc. —v. (-tt-) 1 hunt or kill rats. 2 (also foll. By on) inform (on); desert, betray. [old english]
+Rat	—n. 1 a rodent like a large mouse. B similar rodent (muskrat; water-rat). 2 turncoat. 3 colloq. Unpleasant or treacherous person. 4 (in pl.) Slang exclamation of annoyance etc. —v. (-tt-) 1 hunt or kill rats. 2 (also foll. By on) inform (on); desert, betray. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

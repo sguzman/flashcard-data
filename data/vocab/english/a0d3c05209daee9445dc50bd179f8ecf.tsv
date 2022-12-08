@@ -1,1 +1,6 @@
-Tall	—adj. 1 of more than average height. 2 of a specified height (about six feet tall). 3 higher than the surrounding objects (tall building). —adv. As if tall; proudly (sit tall).  tallish adj. Tallness n. [old english, = swift]
+Tall	—adj. 1 of more than average height. 2 of a specified height (about six feet tall). 3 higher than the surrounding objects (tall building). —adv. As if tall; proudly (sit tall).  tallish adj. Tallness n. [old english, = swift]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

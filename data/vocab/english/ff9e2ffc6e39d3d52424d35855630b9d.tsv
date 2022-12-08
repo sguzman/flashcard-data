@@ -1,1 +1,6 @@
-Week	n. 1 period of seven days reckoned usu. From midnight on saturday. 2 any period of seven days. 3 the six days between sundays. 4 a the five days monday to friday. B time spent working in this period (35-hour week; three-day week). [old english]
+Week	n. 1 period of seven days reckoned usu. From midnight on saturday. 2 any period of seven days. 3 the six days between sundays. 4 a the five days monday to friday. B time spent working in this period (35-hour week; three-day week). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

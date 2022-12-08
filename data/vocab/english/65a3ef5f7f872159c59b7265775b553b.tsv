@@ -1,1 +1,6 @@
-Wrack	n. 1 seaweed cast up or growing on the shore. 2 destruction. [low german or dutch wrak: cf. *wreck]
+Wrack	n. 1 seaweed cast up or growing on the shore. 2 destruction. [low german or dutch wrak: cf. *wreck]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

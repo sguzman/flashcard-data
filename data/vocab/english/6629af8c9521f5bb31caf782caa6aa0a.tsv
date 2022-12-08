@@ -1,1 +1,6 @@
-Uniform	—adj. 1 unvarying (uniform appearance). 2 conforming to the same standard, rules, etc. 3 constant over a period (uniform acceleration). —n. Distinctive clothing worn by soldiers, police, schoolchildren, etc.  uniformed adj. Uniformity n. Uniformly adv. [latin: related to *form]
+Uniform	—adj. 1 unvarying (uniform appearance). 2 conforming to the same standard, rules, etc. 3 constant over a period (uniform acceleration). —n. Distinctive clothing worn by soldiers, police, schoolchildren, etc.  uniformed adj. Uniformity n. Uniformly adv. [latin: related to *form]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

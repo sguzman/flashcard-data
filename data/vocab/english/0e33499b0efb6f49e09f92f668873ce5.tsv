@@ -1,1 +1,6 @@
-Dedicate	v. (-ting) (often foll. By to) 1 devote (esp. Oneself) to a special task or purpose. 2 address (a book etc.) To a friend, patron, etc. 3 devote (a building etc.) To a deity, saint, etc. 4 (as dedicated adj.) A (of a person) single-mindedly loyal to an aim, vocation, etc. B (of equipment, esp.
+Dedicate	v. (-ting) (often foll. By to) 1 devote (esp. Oneself) to a special task or purpose. 2 address (a book etc.) To a friend, patron, etc. 3 devote (a building etc.) To a deity, saint, etc. 4 (as dedicated adj.) A (of a person) single-mindedly loyal to an aim, vocation, etc. B (of equipment, esp.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

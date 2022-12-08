@@ -1,1 +1,6 @@
-Barb	—n. 1 secondary backward-facing projection from an arrow, fish-hook, etc. 2 hurtful remark. 3 fleshy filament at the mouth of some fish. —v. 1 fit with a barb. 2 (as barbed adj.) (of a remark etc.) Deliberately hurtful. [latin barba beard]
+Barb	—n. 1 secondary backward-facing projection from an arrow, fish-hook, etc. 2 hurtful remark. 3 fleshy filament at the mouth of some fish. —v. 1 fit with a barb. 2 (as barbed adj.) (of a remark etc.) Deliberately hurtful. [latin barba beard]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

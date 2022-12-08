@@ -1,1 +1,6 @@
-Peculiar	adj. 1 strange; odd; unusual. 2 a (usu. Foll. By to) belonging exclusively (peculiar to the time). B belonging to the individual (in their own peculiar way). 3 particular; special (point of peculiar interest). [latin peculium private property, from pecu cattle]
+Peculiar	adj. 1 strange; odd; unusual. 2 a (usu. Foll. By to) belonging exclusively (peculiar to the time). B belonging to the individual (in their own peculiar way). 3 particular; special (point of peculiar interest). [latin peculium private property, from pecu cattle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

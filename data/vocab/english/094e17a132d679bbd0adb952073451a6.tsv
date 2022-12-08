@@ -1,1 +1,6 @@
-Contingent	—adj. 1 (usu. Foll. By on, upon) conditional, dependent (on an uncertain event or circumstance). 2 a that may or may not occur. B fortuitous. —n. 1  body (of troops, ships, etc.) Forming part of a larger group. 2 group of people sharing an interest, origin, etc. (the oxford contingent). [latin: related to *contact]
+Contingent	—adj. 1 (usu. Foll. By on, upon) conditional, dependent (on an uncertain event or circumstance). 2 a that may or may not occur. B fortuitous. —n. 1  body (of troops, ships, etc.) Forming part of a larger group. 2 group of people sharing an interest, origin, etc. (the oxford contingent). [latin: related to *contact]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

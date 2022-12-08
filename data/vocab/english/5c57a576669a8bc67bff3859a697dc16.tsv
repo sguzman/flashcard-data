@@ -1,1 +1,6 @@
-Floodlight	—n. Large powerful light (usu. One of several) to illuminate a building, sports ground, etc. —v. Illuminate with floodlights.  floodlit adj.
+Floodlight	—n. Large powerful light (usu. One of several) to illuminate a building, sports ground, etc. —v. Illuminate with floodlights.  floodlit adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

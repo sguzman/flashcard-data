@@ -1,1 +1,6 @@
-Parlor	n. (brit. Parlour) 1 archaic sitting-room in a private house.  2 esp. Us shop providing specified goods or services (beauty parlour; ice-cream parlour). [anglo-french: related to *parley]
+Parlor	n. (brit. Parlour) 1 archaic sitting-room in a private house.  2 esp. Us shop providing specified goods or services (beauty parlour; ice-cream parlour). [anglo-french: related to *parley]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

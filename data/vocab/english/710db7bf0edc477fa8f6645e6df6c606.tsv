@@ -1,1 +1,6 @@
-Pare	v. (-ring) 1 a trim or shave by cutting away the surface or edge. B (often foll. By off, away) cut off (the surface or edge). 2 (often foll. By away, down) diminish little by little. [latin paro prepare]
+Pare	v. (-ring) 1 a trim or shave by cutting away the surface or edge. B (often foll. By off, away) cut off (the surface or edge). 2 (often foll. By away, down) diminish little by little. [latin paro prepare]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

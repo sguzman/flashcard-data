@@ -1,1 +1,6 @@
-Nervous	adj. 1 easily upset, timid, highly strung. 2 anxious. 3 affecting the nerves. 4 (foll. By of + verbal noun) afraid (am nervous of meeting them).  nervously adv. Nervousness n.
+Nervous	adj. 1 easily upset, timid, highly strung. 2 anxious. 3 affecting the nerves. 4 (foll. By of + verbal noun) afraid (am nervous of meeting them).  nervously adv. Nervousness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Jewel	—n. 1 a precious stone. B this used in watchmaking. 2 jewelled personal ornament. 3 precious person or thing. —v. (-ll-; us -l-) (esp. As jewelled adj.) Adorn or set with jewels. [french]
+Jewel	—n. 1 a precious stone. B this used in watchmaking. 2 jewelled personal ornament. 3 precious person or thing. —v. (-ll-; us -l-) (esp. As jewelled adj.) Adorn or set with jewels. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

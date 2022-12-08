@@ -1,1 +1,6 @@
-Hairline	n. 1 edge of a person's hair, esp. On the forehead. 2 very narrow line, crack (usu. Hairline crack), etc.
+Hairline	n. 1 edge of a person's hair, esp. On the forehead. 2 very narrow line, crack (usu. Hairline crack), etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

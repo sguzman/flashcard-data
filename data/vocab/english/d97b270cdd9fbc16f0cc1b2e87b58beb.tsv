@@ -1,1 +1,6 @@
-Sweeping	—adj. 1 wide in range or effect (sweeping changes). 2 generalized, arbitrary (sweeping statement). —n. (in pl.) Dirt etc. Collected by sweeping.
+Sweeping	—adj. 1 wide in range or effect (sweeping changes). 2 generalized, arbitrary (sweeping statement). —n. (in pl.) Dirt etc. Collected by sweeping.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

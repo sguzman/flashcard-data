@@ -1,1 +1,6 @@
-Graze2	—v. (-zing) 1 rub or scrape (part of the body, esp. The skin). 2 a touch lightly in passing. B (foll. By against, along, etc.) Move with a light passing contact. —n. Abrasion. [perhaps from *graze1, as if ‘take off the grass close to the ground’]
+Graze2	—v. (-zing) 1 rub or scrape (part of the body, esp. The skin). 2 a touch lightly in passing. B (foll. By against, along, etc.) Move with a light passing contact. —n. Abrasion. [perhaps from *graze1, as if ‘take off the grass close to the ground’]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

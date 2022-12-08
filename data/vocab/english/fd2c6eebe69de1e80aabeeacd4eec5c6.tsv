@@ -1,1 +1,6 @@
-Venerable	adj. 1 entitled to deep respect on account of character, age, associations, etc. (venerable priest; venerable relics). 2 title of an archdeacon in the church of england. [latin: related to *venerate]
+Venerable	adj. 1 entitled to deep respect on account of character, age, associations, etc. (venerable priest; venerable relics). 2 title of an archdeacon in the church of england. [latin: related to *venerate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

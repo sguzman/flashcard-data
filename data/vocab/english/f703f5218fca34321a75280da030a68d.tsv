@@ -1,1 +1,6 @@
-Stocking	n. 1 long knitted covering for the leg and foot, of nylon, wool, silk, etc. 2 differently-coloured lower leg of a horse etc.  in one's stocking (or stockinged) feet without shoes. [from *stock]
+Stocking	n. 1 long knitted covering for the leg and foot, of nylon, wool, silk, etc. 2 differently-coloured lower leg of a horse etc.  in one's stocking (or stockinged) feet without shoes. [from *stock]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

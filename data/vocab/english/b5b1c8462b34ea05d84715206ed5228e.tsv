@@ -1,1 +1,6 @@
-Roller-skate	—n. Metal frame with small wheels, fitted to shoes for riding on a hard surface. —v. (-ting) move on roller-skates.  roller-skater n.
+Roller-skate	—n. Metal frame with small wheels, fitted to shoes for riding on a hard surface. —v. (-ting) move on roller-skates.  roller-skater n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

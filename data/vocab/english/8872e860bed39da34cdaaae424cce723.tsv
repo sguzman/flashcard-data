@@ -1,1 +1,6 @@
-Ton-up	attrib. Adj. Slang (of a motor cyclist) achieving a speed of 100 m.p.h., esp. Habitually.
+Ton-up	attrib. Adj. Slang (of a motor cyclist) achieving a speed of 100 m.p.h., esp. Habitually.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

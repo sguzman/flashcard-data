@@ -1,1 +1,6 @@
-Posthumous	adj. 1 occurring after death. 2 (of a book etc.) Published after the author's death. 3 (of a child) born after the death of its father.  posthumously adv. [latin postumus last]
+Posthumous	adj. 1 occurring after death. 2 (of a book etc.) Published after the author's death. 3 (of a child) born after the death of its father.  posthumously adv. [latin postumus last]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

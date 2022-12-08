@@ -1,1 +1,6 @@
-Shilling	n. 1 hist. Former british coin and monetary unit worth one-twentieth of a pound. 2 monetary unit in kenya, tanzania, and uganda. [old english]
+Shilling	n. 1 hist. Former british coin and monetary unit worth one-twentieth of a pound. 2 monetary unit in kenya, tanzania, and uganda. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

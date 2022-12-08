@@ -1,1 +1,6 @@
-German	—n. 1 a native or national of germany. B person of german descent. 2 language of germany. —adj. Of germany or its people or language. [latin germanus]
+German	—n. 1 a native or national of germany. B person of german descent. 2 language of germany. —adj. Of germany or its people or language. [latin germanus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

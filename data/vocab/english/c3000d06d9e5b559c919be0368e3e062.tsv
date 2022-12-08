@@ -1,1 +1,6 @@
-Education	n. 1 systematic instruction. 2 particular kind of or stage in education (a classical education; further education). 3 development of character or mental powers.  educational adj. Educationally adv.
+Education	n. 1 systematic instruction. 2 particular kind of or stage in education (a classical education; further education). 3 development of character or mental powers.  educational adj. Educationally adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

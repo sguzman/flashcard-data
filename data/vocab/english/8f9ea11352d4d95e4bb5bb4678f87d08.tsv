@@ -1,1 +1,6 @@
-Fusion	n. 1 fusing or melting. 2 blending. 3 coalition. 4 = *nuclear fusion. [latin: related to *fuse1]
+Fusion	n. 1 fusing or melting. 2 blending. 3 coalition. 4 = *nuclear fusion. [latin: related to *fuse1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

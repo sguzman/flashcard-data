@@ -1,1 +1,6 @@
-Deliquesce	v. (-cing) 1 become liquid, melt. 2 dissolve in water absorbed from the air.  deliquescence n. Deliquescent adj. [latin: related to *liquid]
+Deliquesce	v. (-cing) 1 become liquid, melt. 2 dissolve in water absorbed from the air.  deliquescence n. Deliquescent adj. [latin: related to *liquid]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

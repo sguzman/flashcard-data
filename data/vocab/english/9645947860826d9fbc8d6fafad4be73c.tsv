@@ -1,1 +1,6 @@
-Reclaim	v. 1 seek the return of (one's property, rights, etc.). 2 bring (land) under cultivation, esp. From being under water. 3 win back or away from vice, error, or a waste condition. reclaimable adj. Reclamation n. [latin reclamare cry out against]
+Reclaim	v. 1 seek the return of (one's property, rights, etc.). 2 bring (land) under cultivation, esp. From being under water. 3 win back or away from vice, error, or a waste condition. reclaimable adj. Reclamation n. [latin reclamare cry out against]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

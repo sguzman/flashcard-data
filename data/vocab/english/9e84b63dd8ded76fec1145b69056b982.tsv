@@ -1,1 +1,6 @@
-Ink	—n. 1 coloured fluid or paste used for writing, printing, etc. 2 black liquid ejected by a cuttlefish etc. —v. 1 (usu. Foll. By in, over, etc.) Mark with ink. 2 cover (type etc.) With ink. [greek egkauston purple ink used by roman emperors]
+Ink	—n. 1 coloured fluid or paste used for writing, printing, etc. 2 black liquid ejected by a cuttlefish etc. —v. 1 (usu. Foll. By in, over, etc.) Mark with ink. 2 cover (type etc.) With ink. [greek egkauston purple ink used by roman emperors]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Specify	v. (-ies, -ied) 1 (also absol.) Name or mention expressly or as a condition (specified a two-hour limit). 2 include in specifications. [latin: related to *specific]
+Specify	v. (-ies, -ied) 1 (also absol.) Name or mention expressly or as a condition (specified a two-hour limit). 2 include in specifications. [latin: related to *specific]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

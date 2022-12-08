@@ -1,1 +1,6 @@
-Rococo	—adj. 1 of a late baroque style of 18th-c. Decoration. 2 (of literature, music, architecture, etc.) Highly ornate. —n. This style. [french]
+Rococo	—adj. 1 of a late baroque style of 18th-c. Decoration. 2 (of literature, music, architecture, etc.) Highly ornate. —n. This style. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

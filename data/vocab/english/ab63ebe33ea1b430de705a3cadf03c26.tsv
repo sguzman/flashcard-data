@@ -1,1 +1,6 @@
-Thirst	—n. 1 need to drink; discomfort caused by this. 2 desire, craving. —v. (often foll. By for or after) 1 feel thirst. 2 have a strong desire. [old english]
+Thirst	—n. 1 need to drink; discomfort caused by this. 2 desire, craving. —v. (often foll. By for or after) 1 feel thirst. 2 have a strong desire. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

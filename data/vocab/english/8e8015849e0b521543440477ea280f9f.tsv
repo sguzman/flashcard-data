@@ -1,1 +1,6 @@
-Capacity	n. (pl. -ies) 1 a power to contain, receive, experience, or produce (capacity for heat, pain, etc.). B maximum amount that can be contained or produced etc. C (attrib.) Fully occupying the available space etc. (capacity crowd). 2 mental power. 3 position or function. 4 legal competence.  to capacity fully. [latin: related to *capacious]
+Capacity	n. (pl. -ies) 1 a power to contain, receive, experience, or produce (capacity for heat, pain, etc.). B maximum amount that can be contained or produced etc. C (attrib.) Fully occupying the available space etc. (capacity crowd). 2 mental power. 3 position or function. 4 legal competence.  to capacity fully. [latin: related to *capacious]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

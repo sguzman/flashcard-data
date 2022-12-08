@@ -1,1 +1,6 @@
-Piety	n. (pl. -ies) 1 quality of being pious. 2 pious act. [latin: related to *pious]
+Piety	n. (pl. -ies) 1 quality of being pious. 2 pious act. [latin: related to *pious]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

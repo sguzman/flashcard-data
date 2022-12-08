@@ -1,1 +1,6 @@
-Equity	n. (pl. -ies) 1 fairness. 2 principles of justice used to correct or supplement the law. 3 a value of the shares issued by a company. B (in pl.) Stocks and shares not bearing fixed interest. [latin aequitas: related to *equal]
+Equity	n. (pl. -ies) 1 fairness. 2 principles of justice used to correct or supplement the law. 3 a value of the shares issued by a company. B (in pl.) Stocks and shares not bearing fixed interest. [latin aequitas: related to *equal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

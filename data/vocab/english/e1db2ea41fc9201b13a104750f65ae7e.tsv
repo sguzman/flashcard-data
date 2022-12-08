@@ -1,1 +1,6 @@
-Domicile	—n. 1 dwelling-place. 2 law a place of permanent residence. B residing. —v. (-ling) (usu. As domiciled adj.) (usu. Foll. By at, in) settle in a place. [latin domus home]
+Domicile	—n. 1 dwelling-place. 2 law a place of permanent residence. B residing. —v. (-ling) (usu. As domiciled adj.) (usu. Foll. By at, in) settle in a place. [latin domus home]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Patter1	—n. Sound of quick light steps or taps. —v. Make this sound (rain pattering on the window-panes). [from *pat1]
+Patter1	—n. Sound of quick light steps or taps. —v. Make this sound (rain pattering on the window-panes). [from *pat1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

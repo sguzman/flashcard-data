@@ -1,1 +1,6 @@
-Grammar	n. 1 the study or rules of a language's inflections or other means of showing the relation between words. 2 observance or application of the rules of grammar (bad grammar). 3 book on grammar. [greek gramma letter]
+Grammar	n. 1 the study or rules of a language's inflections or other means of showing the relation between words. 2 observance or application of the rules of grammar (bad grammar). 3 book on grammar. [greek gramma letter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

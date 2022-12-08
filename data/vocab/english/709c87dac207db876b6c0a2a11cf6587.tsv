@@ -1,1 +1,6 @@
-Deluge	—n. 1 great flood. 2 (the deluge) biblical flood (gen. 6-8). 3 overwhelming rush. 4 heavy fall of rain. —v. (-ging) flood or inundate (deluged with complaints). [latin diluvium]
+Deluge	—n. 1 great flood. 2 (the deluge) biblical flood (gen. 6-8). 3 overwhelming rush. 4 heavy fall of rain. —v. (-ging) flood or inundate (deluged with complaints). [latin diluvium]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

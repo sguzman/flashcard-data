@@ -1,1 +1,6 @@
-Freeman	n. 1 person who has the freedom of a city etc. 2 person who is not a slave or serf.
+Freeman	n. 1 person who has the freedom of a city etc. 2 person who is not a slave or serf.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

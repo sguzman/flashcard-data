@@ -1,1 +1,6 @@
-Moratorium	n. (pl. -s or -ria) 1 (often foll. By on) temporary prohibition or suspension (of an activity). 2 a legal authorization to debtors to postpone payment. B period of this postponement. [latin moror delay]
+Moratorium	n. (pl. -s or -ria) 1 (often foll. By on) temporary prohibition or suspension (of an activity). 2 a legal authorization to debtors to postpone payment. B period of this postponement. [latin moror delay]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

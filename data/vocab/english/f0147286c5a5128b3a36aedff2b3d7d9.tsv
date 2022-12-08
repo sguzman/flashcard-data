@@ -1,1 +1,6 @@
-Kink	—n. 1 a twist or bend in wire etc. B tight wave in hair. 2 mental twist or quirk, esp. When perverse. —v. (cause to) form a kink. [low german or dutch]
+Kink	—n. 1 a twist or bend in wire etc. B tight wave in hair. 2 mental twist or quirk, esp. When perverse. —v. (cause to) form a kink. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

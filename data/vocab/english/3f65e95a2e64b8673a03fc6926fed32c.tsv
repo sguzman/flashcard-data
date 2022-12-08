@@ -1,1 +1,6 @@
-Supercargo	n. (pl. -es) officer in a merchant ship managing sales etc. Of cargo. [spanish sobrecargo]
+Supercargo	n. (pl. -es) officer in a merchant ship managing sales etc. Of cargo. [spanish sobrecargo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

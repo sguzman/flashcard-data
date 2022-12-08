@@ -1,1 +1,6 @@
-Errant	adj. 1 erring. 2 literary or archaic travelling in search of adventure (knight errant).  errantry n. (in sense 2). [from *err: sense 2 ultimately from latin iter journey]
+Errant	adj. 1 erring. 2 literary or archaic travelling in search of adventure (knight errant).  errantry n. (in sense 2). [from *err: sense 2 ultimately from latin iter journey]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

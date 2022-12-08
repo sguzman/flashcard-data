@@ -1,1 +1,6 @@
-Electronic	adj. 1 a produced by or involving the flow of electrons. B of electrons or electronics. 2 (of music) produced by electronic means and usu. Recorded on tape.  electronically adv.
+Electronic	adj. 1 a produced by or involving the flow of electrons. B of electrons or electronics. 2 (of music) produced by electronic means and usu. Recorded on tape.  electronically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

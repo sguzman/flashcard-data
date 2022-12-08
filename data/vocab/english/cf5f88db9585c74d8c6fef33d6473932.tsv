@@ -1,1 +1,6 @@
-Radiant	—adj. 1 emitting rays of light. 2 (of eyes or looks) beaming with joy, hope, or love. 3 (of beauty) splendid or dazzling. 4 (of light) issuing in rays. —n. Point or object from which light or heat radiates.  radiance n. Radiantly adv.
+Radiant	—adj. 1 emitting rays of light. 2 (of eyes or looks) beaming with joy, hope, or love. 3 (of beauty) splendid or dazzling. 4 (of light) issuing in rays. —n. Point or object from which light or heat radiates.  radiance n. Radiantly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

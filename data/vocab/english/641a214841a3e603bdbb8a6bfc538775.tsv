@@ -1,1 +1,6 @@
-Mediterranean	adj.  Of the sea bordered by s. Europe, sw asia, and n. Africa, or its surrounding region (mediterranean cookery). [latin mediterraneus inland]
+Mediterranean	adj.  Of the sea bordered by s. Europe, sw asia, and n. Africa, or its surrounding region (mediterranean cookery). [latin mediterraneus inland]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tolerate	v. (-ting) 1 allow the existence or occurrence of without authoritative interference. 2 endure (suffering etc.). 3 find or treat as endurable. 4 be able to take or undergo (drugs, treatment, etc.) Without adverse effects. [latin tolero]
+Tolerate	v. (-ting) 1 allow the existence or occurrence of without authoritative interference. 2 endure (suffering etc.). 3 find or treat as endurable. 4 be able to take or undergo (drugs, treatment, etc.) Without adverse effects. [latin tolero]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

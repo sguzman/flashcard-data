@@ -1,1 +1,6 @@
-Elude	v. (-ding) 1 escape adroitly from (danger, pursuit, etc.). 2 avoid compliance with (a law etc.) Or fulfilment of (an obligation). 3 baffle (a person or memory etc.).  elusion n. [latin ludo play]
+Elude	v. (-ding) 1 escape adroitly from (danger, pursuit, etc.). 2 avoid compliance with (a law etc.) Or fulfilment of (an obligation). 3 baffle (a person or memory etc.).  elusion n. [latin ludo play]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

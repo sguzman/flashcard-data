@@ -1,1 +1,6 @@
-Cull	—v. 1 select or gather (knowledge culled from books). 2 gather (flowers etc.). 3 a select (animals), esp. For killing. B reduce the population of (an animal) by selective slaughter. —n. 1 culling or being culled. 2 animal(s) culled. [french: related to *collect1]
+Cull	—v. 1 select or gather (knowledge culled from books). 2 gather (flowers etc.). 3 a select (animals), esp. For killing. B reduce the population of (an animal) by selective slaughter. —n. 1 culling or being culled. 2 animal(s) culled. [french: related to *collect1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

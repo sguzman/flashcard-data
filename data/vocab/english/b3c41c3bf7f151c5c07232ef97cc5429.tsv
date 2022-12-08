@@ -1,1 +1,6 @@
-Mixed	adj. 1 of diverse qualities or elements. 2 containing persons from various backgrounds etc. 3 for persons of both sexes (mixed school). [latin misceo mix]
+Mixed	adj. 1 of diverse qualities or elements. 2 containing persons from various backgrounds etc. 3 for persons of both sexes (mixed school). [latin misceo mix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

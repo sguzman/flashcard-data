@@ -1,1 +1,6 @@
-Hydrostatic	adj. Of the equilibrium of liquids and the pressure exerted by liquid at rest. [related to *static]
+Hydrostatic	adj. Of the equilibrium of liquids and the pressure exerted by liquid at rest. [related to *static]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

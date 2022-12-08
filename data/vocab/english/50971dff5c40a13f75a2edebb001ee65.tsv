@@ -1,1 +1,6 @@
-Catechism	n. 1 a principles of a religion in the form of questions and answers. B book containing this. 2 series of questions. [church latin: related to *catechize]
+Catechism	n. 1 a principles of a religion in the form of questions and answers. B book containing this. 2 series of questions. [church latin: related to *catechize]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

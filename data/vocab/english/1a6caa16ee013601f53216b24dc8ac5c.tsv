@@ -1,1 +1,6 @@
-Transmute	v. (-ting) 1 change the form, nature, or substance of. 2 hist. Change (base metals) into gold.  transmutation n. [latin muto change]
+Transmute	v. (-ting) 1 change the form, nature, or substance of. 2 hist. Change (base metals) into gold.  transmutation n. [latin muto change]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

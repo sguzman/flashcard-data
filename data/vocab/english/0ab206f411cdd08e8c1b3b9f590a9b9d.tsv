@@ -1,1 +1,6 @@
-Fiery	adj. (-ier, -iest) 1 consisting of or flaming with fire. 2 bright red. 3 hot; burning. 4 a flashing, ardent (fiery eyes). B pugnacious; spirited (fiery temper).  fierily adv. Fieriness n.
+Fiery	adj. (-ier, -iest) 1 consisting of or flaming with fire. 2 bright red. 3 hot; burning. 4 a flashing, ardent (fiery eyes). B pugnacious; spirited (fiery temper).  fierily adv. Fieriness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

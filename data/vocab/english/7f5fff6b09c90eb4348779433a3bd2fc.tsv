@@ -1,1 +1,6 @@
-Accessory	n. (pl. -ies) 1 additional or extra thing. 2 (usu. In pl.) Small attachment, fitting, or subsidiary item of dress (e.g. Shoes, gloves). 3 (often foll. By to) person who abets or is privy to an (esp. Illegal) act. [medieval latin: related to *accede]
+Accessory	n. (pl. -ies) 1 additional or extra thing. 2 (usu. In pl.) Small attachment, fitting, or subsidiary item of dress (e.g. Shoes, gloves). 3 (often foll. By to) person who abets or is privy to an (esp. Illegal) act. [medieval latin: related to *accede]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

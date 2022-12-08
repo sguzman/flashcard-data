@@ -1,1 +1,6 @@
-Goad	—v. 1 urge on with a goad. 2 (usu. Foll. By on, into) irritate; stimulate. —n. 1 spiked stick used for urging cattle forward. 2 anything that torments or incites. [old english]
+Goad	—v. 1 urge on with a goad. 2 (usu. Foll. By on, into) irritate; stimulate. —n. 1 spiked stick used for urging cattle forward. 2 anything that torments or incites. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lease	—n. Contract by which the owner of property allows another to use it for a specified time, usu. In return for payment. —v. (-sing) grant or take on lease.  new lease of (us on) life improved prospect of living, or of use after repair. [anglo-french lesser let, from latin laxo loosen]
+Lease	—n. Contract by which the owner of property allows another to use it for a specified time, usu. In return for payment. —v. (-sing) grant or take on lease.  new lease of (us on) life improved prospect of living, or of use after repair. [anglo-french lesser let, from latin laxo loosen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

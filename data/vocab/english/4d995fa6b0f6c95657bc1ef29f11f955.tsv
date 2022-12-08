@@ -1,1 +1,6 @@
-Pentecost	n. 1 whit sunday. 2 jewish harvest festival, on the fiftieth day after the second day of passover. [greek pentekoste fiftieth (day)]
+Pentecost	n. 1 whit sunday. 2 jewish harvest festival, on the fiftieth day after the second day of passover. [greek pentekoste fiftieth (day)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

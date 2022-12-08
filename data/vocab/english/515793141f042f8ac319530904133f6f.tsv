@@ -1,1 +1,6 @@
-Mycology	n. 1 the study of fungi. 2 fungi of a particular region.  mycologist n. [greek mukes mushroom]
+Mycology	n. 1 the study of fungi. 2 fungi of a particular region.  mycologist n. [greek mukes mushroom]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Wattle1	n. 1 structure of interlaced rods and sticks used for fences etc. 2 australian acacia with pliant branches and golden flowers used as the national emblem. [old english]
+Wattle1	n. 1 structure of interlaced rods and sticks used for fences etc. 2 australian acacia with pliant branches and golden flowers used as the national emblem. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

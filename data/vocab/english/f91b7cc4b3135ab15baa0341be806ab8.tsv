@@ -1,1 +1,6 @@
-Syncopate	v. (-ting) 1 displace the beats or accents in (music). 2 shorten (a word) by dropping interior letters.  syncopation n. [latin: related to *syncope]
+Syncopate	v. (-ting) 1 displace the beats or accents in (music). 2 shorten (a word) by dropping interior letters.  syncopation n. [latin: related to *syncope]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

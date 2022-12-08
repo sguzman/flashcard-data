@@ -1,1 +1,6 @@
-Hypermedia	n. Provision of several media (e.g. Audio, video, and graphics) on one computer system, with cross-references from one to another (often attrib.: hypermedia database).
+Hypermedia	n. Provision of several media (e.g. Audio, video, and graphics) on one computer system, with cross-references from one to another (often attrib.: hypermedia database).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

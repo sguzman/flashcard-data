@@ -1,1 +1,6 @@
-Lapis lazuli	n. 1 blue mineral used as a gemstone. 2 bright blue pigment. 3 its colour. [related to *lapidary, *azure]
+Lapis lazuli	n. 1 blue mineral used as a gemstone. 2 bright blue pigment. 3 its colour. [related to *lapidary, *azure]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sit-down	—attrib. Adj. 1 (of a meal) eaten sitting at a table. 2 (of a protest etc.) With demonstrators occupying their workplace or sitting down on the ground in a public place. —n. 1 spell of sitting. 2 sit-down protest etc.
+Sit-down	—attrib. Adj. 1 (of a meal) eaten sitting at a table. 2 (of a protest etc.) With demonstrators occupying their workplace or sitting down on the ground in a public place. —n. 1 spell of sitting. 2 sit-down protest etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

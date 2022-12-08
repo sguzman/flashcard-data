@@ -1,1 +1,6 @@
-South-east	—n. 1 point of the horizon midway between south and east. 2 direction in which this lies. —adj. Of, towards, or coming from the south-east. —adv. Towards, at, or near the south-east.
+South-east	—n. 1 point of the horizon midway between south and east. 2 direction in which this lies. —adj. Of, towards, or coming from the south-east. —adv. Towards, at, or near the south-east.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

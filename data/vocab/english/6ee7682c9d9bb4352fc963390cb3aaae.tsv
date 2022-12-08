@@ -1,1 +1,6 @@
-Commute	v. (-ting) 1 travel some distance to and from work. 2 (usu. Foll. By to) change (a punishment) to one less severe. 3 (often foll. By into, for) change (one kind of payment or obligation) for another. 4 exchange.  commutable adj. Commutation n. [latin muto change]
+Commute	v. (-ting) 1 travel some distance to and from work. 2 (usu. Foll. By to) change (a punishment) to one less severe. 3 (often foll. By into, for) change (one kind of payment or obligation) for another. 4 exchange.  commutable adj. Commutation n. [latin muto change]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

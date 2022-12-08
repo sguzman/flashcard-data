@@ -1,1 +1,6 @@
-Quatrefoil	n. Four-pointed or -leafed figure, esp. As an architectural ornament. [anglo-french quatre four: related to *foil2]
+Quatrefoil	n. Four-pointed or -leafed figure, esp. As an architectural ornament. [anglo-french quatre four: related to *foil2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

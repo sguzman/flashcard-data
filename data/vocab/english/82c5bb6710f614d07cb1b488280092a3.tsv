@@ -1,1 +1,6 @@
-Jet set	n. Wealthy people who travel widely, esp. For pleasure.  jet-setter n. Jet-setting n. & attrib. Adj.
+Jet set	n. Wealthy people who travel widely, esp. For pleasure.  jet-setter n. Jet-setting n. & attrib. Adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

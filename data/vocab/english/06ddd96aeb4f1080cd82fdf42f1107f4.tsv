@@ -1,1 +1,6 @@
-Commemorate	v. (-ting) 1 preserve in memory by a celebration or ceremony. 2 be a memorial of.  commemoration n. Commemorative adj. [latin: related to *memory]
+Commemorate	v. (-ting) 1 preserve in memory by a celebration or ceremony. 2 be a memorial of.  commemoration n. Commemorative adj. [latin: related to *memory]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

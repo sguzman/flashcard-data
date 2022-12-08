@@ -1,1 +1,6 @@
-Sabotage	—n. Deliberate damage to productive capacity, esp. As a political act. —v. (-ging) 1 commit sabotage on. 2 destroy, spoil. [french: related to *sabot]
+Sabotage	—n. Deliberate damage to productive capacity, esp. As a political act. —v. (-ging) 1 commit sabotage on. 2 destroy, spoil. [french: related to *sabot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Frontage	n. 1 front of a building. 2 land next to a street or water etc. 3 extent of a front. 4 a the way a thing faces. B outlook.
+Frontage	n. 1 front of a building. 2 land next to a street or water etc. 3 extent of a front. 4 a the way a thing faces. B outlook.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

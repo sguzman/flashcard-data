@@ -1,1 +1,6 @@
-Pure	adj. 1 unmixed, unadulterated (pure white; pure malice). 2 of unmixed origin or descent (pure-blooded). 3 chaste. 4 not morally corrupt. 5 guiltless. 6 sincere. 7 (of a sound) perfectly in tune. 8 (of a subject of study) abstract, not applied.  pureness n. [latin purus]
+Pure	adj. 1 unmixed, unadulterated (pure white; pure malice). 2 of unmixed origin or descent (pure-blooded). 3 chaste. 4 not morally corrupt. 5 guiltless. 6 sincere. 7 (of a sound) perfectly in tune. 8 (of a subject of study) abstract, not applied.  pureness n. [latin purus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

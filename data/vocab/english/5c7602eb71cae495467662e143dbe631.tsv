@@ -1,1 +1,6 @@
-Cartouche	n. 1 scroll-like ornamentation. 2 oval ring enclosing the name and title of a pharaoh. [french: related to *cartoon]
+Cartouche	n. 1 scroll-like ornamentation. 2 oval ring enclosing the name and title of a pharaoh. [french: related to *cartoon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

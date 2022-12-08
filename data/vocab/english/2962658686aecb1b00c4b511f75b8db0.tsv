@@ -1,1 +1,6 @@
-Concrete	—adj. 1 a existing in a material form; real. B specific, definite (concrete evidence; a concrete proposal). 2 gram. (of a noun) denoting a material object as opposed to a quality, state, etc. —n. (often attrib.) Mixture of gravel, sand, cement, and water, used for building. —v. (-ting) cover with or embed in concrete.  [latin cresco cret- grow]
+Concrete	—adj. 1 a existing in a material form; real. B specific, definite (concrete evidence; a concrete proposal). 2 gram. (of a noun) denoting a material object as opposed to a quality, state, etc. —n. (often attrib.) Mixture of gravel, sand, cement, and water, used for building. —v. (-ting) cover with or embed in concrete.  [latin cresco cret- grow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

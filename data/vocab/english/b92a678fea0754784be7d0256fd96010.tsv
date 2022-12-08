@@ -1,1 +1,6 @@
-Bank1	—n. 1 sloping ground beside a river. 2 raised area, esp. In the sea; slope. 3 mass of cloud, fog, snow, etc. —v. 1 (often foll. By up) heap or rise into banks. 2 pack (a fire) tightly for slow burning. 3 a (of a vehicle, aircraft, etc.) Round a curve with one side higher than the other. B cause to do this. [old norse: related to *bench]
+Bank1	—n. 1 sloping ground beside a river. 2 raised area, esp. In the sea; slope. 3 mass of cloud, fog, snow, etc. —v. 1 (often foll. By up) heap or rise into banks. 2 pack (a fire) tightly for slow burning. 3 a (of a vehicle, aircraft, etc.) Round a curve with one side higher than the other. B cause to do this. [old norse: related to *bench]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Airlock	n. 1 stoppage of the flow by an air bubble in a pump or pipe. 2 compartment permitting movement between areas at different pressures.
+Airlock	n. 1 stoppage of the flow by an air bubble in a pump or pipe. 2 compartment permitting movement between areas at different pressures.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

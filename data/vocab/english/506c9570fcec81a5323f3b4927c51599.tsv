@@ -1,1 +1,6 @@
-Fealty	n. (pl. -ies) 1 hist. Fidelity to a feudal lord. 2 allegiance. [latin: related to *fidelity]
+Fealty	n. (pl. -ies) 1 hist. Fidelity to a feudal lord. 2 allegiance. [latin: related to *fidelity]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

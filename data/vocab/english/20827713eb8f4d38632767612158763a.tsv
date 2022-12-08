@@ -1,1 +1,6 @@
-Settlement	n. 1 settling or being settled. 2 a place occupied by settlers. B small village. 3 a political or financial etc. Agreement. B arrangement ending a dispute. 4 a terms on which property is given to a person. B deed stating these. C amount or property given.
+Settlement	n. 1 settling or being settled. 2 a place occupied by settlers. B small village. 3 a political or financial etc. Agreement. B arrangement ending a dispute. 4 a terms on which property is given to a person. B deed stating these. C amount or property given.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

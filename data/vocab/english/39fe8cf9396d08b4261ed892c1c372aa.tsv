@@ -1,1 +1,6 @@
-Patriarch	n. 1 male head of a family or tribe. 2 (often in pl.)  Any of those regarded as fathers of the human race, esp. The sons of jacob, or abraham, isaac, and jacob, and their forefathers. 3 eccl. A chief bishop in the orthodox church. B rc ch. Bishop ranking immediately below the pope. 4 venerable old man.  patriarchal adj. [greek patria family, arkhes ruler]
+Patriarch	n. 1 male head of a family or tribe. 2 (often in pl.)  Any of those regarded as fathers of the human race, esp. The sons of jacob, or abraham, isaac, and jacob, and their forefathers. 3 eccl. A chief bishop in the orthodox church. B rc ch. Bishop ranking immediately below the pope. 4 venerable old man.  patriarchal adj. [greek patria family, arkhes ruler]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

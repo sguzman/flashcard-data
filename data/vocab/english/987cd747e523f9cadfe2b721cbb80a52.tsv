@@ -1,1 +1,6 @@
-Egg1	n. 1 a body produced by females of birds, insects, etc. And capable of developing into a new individual. B egg of the domestic hen, used for food. 2 biol. Ovum. 3 colloq. Person or thing of a specified kind (good egg).  with egg on one's face colloq.
+Egg1	n. 1 a body produced by females of birds, insects, etc. And capable of developing into a new individual. B egg of the domestic hen, used for food. 2 biol. Ovum. 3 colloq. Person or thing of a specified kind (good egg).  with egg on one's face colloq.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sperm	n. (pl. Same or -s) 1 = *spermatozoon. 2 semen. [greek sperma -mat-]
+Sperm	n. (pl. Same or -s) 1 = *spermatozoon. 2 semen. [greek sperma -mat-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

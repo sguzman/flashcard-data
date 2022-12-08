@@ -1,1 +1,6 @@
-Ridge	—n. 1 line of the junction of two surfaces sloping upwards towards each other (ridge of a roof). 2 long narrow hilltop, mountain range, or watershed. 3 any narrow elevation across a surface. 4 elongated region of high barometric pressure. 5 raised strip of esp. Ploughed land. —v. (-ging) mark with ridges.  ridgy adj. [old english]
+Ridge	—n. 1 line of the junction of two surfaces sloping upwards towards each other (ridge of a roof). 2 long narrow hilltop, mountain range, or watershed. 3 any narrow elevation across a surface. 4 elongated region of high barometric pressure. 5 raised strip of esp. Ploughed land. —v. (-ging) mark with ridges.  ridgy adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Companion	n. 1 a person who accompanies or associates with another. B (foll. By in, of) partner, sharer. C person employed to live with and assist another. 2 handbook or reference book. 3 thing that matches another. 4 (companion) member of some orders of knighthood. [latin panis bread]
+Companion	n. 1 a person who accompanies or associates with another. B (foll. By in, of) partner, sharer. C person employed to live with and assist another. 2 handbook or reference book. 3 thing that matches another. 4 (companion) member of some orders of knighthood. [latin panis bread]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

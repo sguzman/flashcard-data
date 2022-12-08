@@ -1,1 +1,6 @@
-Ingenuous	adj. 1 artless. 2 frank.  ingenuously adv. [latin ingenuus free-born, frank]
+Ingenuous	adj. 1 artless. 2 frank.  ingenuously adv. [latin ingenuus free-born, frank]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

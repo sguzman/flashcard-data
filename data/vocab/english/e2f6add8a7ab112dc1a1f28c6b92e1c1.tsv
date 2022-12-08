@@ -1,1 +1,6 @@
-Demesne	n. 1 a territory; domain. B land attached to a mansion etc. C landed property. 2 (usu. Foll. By of) region or sphere. 3 law hist. Possession (of real property) as one's own. [latin dominicus from dominus lord]
+Demesne	n. 1 a territory; domain. B land attached to a mansion etc. C landed property. 2 (usu. Foll. By of) region or sphere. 3 law hist. Possession (of real property) as one's own. [latin dominicus from dominus lord]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Zoroastrian	(also zarathustrian) —adj. Of zoroaster (or zarathustra) or the dualistic religious system taught by him. —n. Follower of zoroaster.  zoroastrianism n. [zoroaster, persian founder of the religion]
+Zoroastrian	(also zarathustrian) —adj. Of zoroaster (or zarathustra) or the dualistic religious system taught by him. —n. Follower of zoroaster.  zoroastrianism n. [zoroaster, persian founder of the religion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

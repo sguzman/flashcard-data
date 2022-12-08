@@ -1,1 +1,6 @@
-Instalment	n. (us installment) 1 any of several usu. Equal payments for something. 2 any of several parts, esp. Of a broadcast or published story. [anglo-french estaler fix]
+Instalment	n. (us installment) 1 any of several usu. Equal payments for something. 2 any of several parts, esp. Of a broadcast or published story. [anglo-french estaler fix]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

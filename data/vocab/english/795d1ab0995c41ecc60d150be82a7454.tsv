@@ -1,1 +1,6 @@
-Parch	v. 1 make or become hot and dry. 2 roast (peas, corn, etc.) Slightly. [origin unknown]
+Parch	v. 1 make or become hot and dry. 2 roast (peas, corn, etc.) Slightly. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

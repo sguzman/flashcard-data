@@ -1,1 +1,6 @@
-Scholar	n. 1 learned person, academic. 2 holder of a scholarship. 3 person of specified academic ability (poor scholar).  scholarly adj. [latin: related to *school1]
+Scholar	n. 1 learned person, academic. 2 holder of a scholarship. 3 person of specified academic ability (poor scholar).  scholarly adj. [latin: related to *school1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

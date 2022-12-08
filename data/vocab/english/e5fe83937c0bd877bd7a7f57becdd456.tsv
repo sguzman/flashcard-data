@@ -1,1 +1,6 @@
-Mischief	n. 1 troublesome, but not malicious, conduct, esp. Of children (get into mischief). 2 playfulness; malice (eyes full of mischief). 3 harm, injury (do someone a mischief).  make mischief create discord. [french: related to *mis-2, chever happen] 
+Mischief	n. 1 troublesome, but not malicious, conduct, esp. Of children (get into mischief). 2 playfulness; malice (eyes full of mischief). 3 harm, injury (do someone a mischief).  make mischief create discord. [french: related to *mis-2, chever happen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

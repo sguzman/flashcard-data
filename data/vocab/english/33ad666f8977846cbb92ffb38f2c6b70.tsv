@@ -1,1 +1,6 @@
-Window-seat	n. 1 seat below a window, esp. In an alcove. 2 seat next to a window in an aircraft, train, etc.
+Window-seat	n. 1 seat below a window, esp. In an alcove. 2 seat next to a window in an aircraft, train, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

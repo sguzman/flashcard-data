@@ -1,1 +1,6 @@
-Gallop	—n. 1 fastest pace of a horse etc., with all the feet off the ground together in each stride. 2 ride at this pace. —v. (-p-) 1 a (of a horse etc. Or its rider) go at a gallop. B make (a horse etc.) Gallop. 2 read, talk, etc., fast. 3 progress rapidly (galloping inflation). [french: related to *wallop]
+Gallop	—n. 1 fastest pace of a horse etc., with all the feet off the ground together in each stride. 2 ride at this pace. —v. (-p-) 1 a (of a horse etc. Or its rider) go at a gallop. B make (a horse etc.) Gallop. 2 read, talk, etc., fast. 3 progress rapidly (galloping inflation). [french: related to *wallop]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

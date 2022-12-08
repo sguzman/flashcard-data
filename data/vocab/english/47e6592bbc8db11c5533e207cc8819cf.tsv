@@ -1,1 +1,6 @@
-Torrent	n. 1 rushing stream of liquid. 2 (in pl.) Great downpour of rain. 3 (usu. Foll. By of) violent or copious flow (torrent of abuse).  torrential adj. [french from italian]
+Torrent	n. 1 rushing stream of liquid. 2 (in pl.) Great downpour of rain. 3 (usu. Foll. By of) violent or copious flow (torrent of abuse).  torrential adj. [french from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

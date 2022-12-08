@@ -1,1 +1,6 @@
-Bay5	—v. Bark or howl loudly and plaintively. —n. Sound of this, esp. Of hounds in close pursuit.  at bay cornered, unable to escape. Keep at bay hold off (a pursuer). [french bayer to bark]
+Bay5	—v. Bark or howl loudly and plaintively. —n. Sound of this, esp. Of hounds in close pursuit.  at bay cornered, unable to escape. Keep at bay hold off (a pursuer). [french bayer to bark]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

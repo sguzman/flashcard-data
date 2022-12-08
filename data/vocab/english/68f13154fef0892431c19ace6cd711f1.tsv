@@ -1,1 +1,6 @@
-Entrap	v. (-pp-) 1 catch in or as in a trap. 2 beguile.  entrapment n. [related to *en-1]
+Entrap	v. (-pp-) 1 catch in or as in a trap. 2 beguile.  entrapment n. [related to *en-1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

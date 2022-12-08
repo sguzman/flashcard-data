@@ -1,1 +1,6 @@
-Mob	—n. 1 disorderly crowd; rabble. 2 (prec. By the) usu. Derog. The populace. 3 colloq. Gang; group. —v. (-bb-) crowd round in order to attack or admire. [latin mobile vulgus excitable crowd]
+Mob	—n. 1 disorderly crowd; rabble. 2 (prec. By the) usu. Derog. The populace. 3 colloq. Gang; group. —v. (-bb-) crowd round in order to attack or admire. [latin mobile vulgus excitable crowd]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

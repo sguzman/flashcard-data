@@ -1,1 +1,6 @@
-Purview	n. 1 scope or range of a document, scheme, etc. 2 range of physical or mental vision. [anglo-french past part.: related to *purvey]
+Purview	n. 1 scope or range of a document, scheme, etc. 2 range of physical or mental vision. [anglo-french past part.: related to *purvey]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

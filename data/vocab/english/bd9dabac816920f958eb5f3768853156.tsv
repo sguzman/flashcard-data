@@ -1,1 +1,6 @@
-Suffice	v. (-cing) 1 (often foll. By for, or to + infin.) Be adequate. 2 satisfy.  suffice it to say i shall say only this. [latin sufficio]
+Suffice	v. (-cing) 1 (often foll. By for, or to + infin.) Be adequate. 2 satisfy.  suffice it to say i shall say only this. [latin sufficio]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

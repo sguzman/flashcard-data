@@ -1,1 +1,6 @@
-Water-level	n. 1 a surface of the water in a reservoir etc. B height of this. 2 level below which the ground is saturated with water. 3 level using water to determine the horizontal.
+Water-level	n. 1 a surface of the water in a reservoir etc. B height of this. 2 level below which the ground is saturated with water. 3 level using water to determine the horizontal.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

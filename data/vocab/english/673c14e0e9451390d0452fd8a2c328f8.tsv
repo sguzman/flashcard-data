@@ -1,1 +1,6 @@
-League1	—n. 1 people, countries, groups, etc., combining for a particular purpose. 2 agreement to combine in this way. 3 group of sports clubs which compete for a championship. 4 class of contestants etc. —v. (-gues, -gued, -guing) (often foll. By together) join in a league.  in league allied, conspiring. [latin ligo bind]
+League1	—n. 1 people, countries, groups, etc., combining for a particular purpose. 2 agreement to combine in this way. 3 group of sports clubs which compete for a championship. 4 class of contestants etc. —v. (-gues, -gued, -guing) (often foll. By together) join in a league.  in league allied, conspiring. [latin ligo bind]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Encounter	—v. 1 meet unexpectedly. 2 meet as an adversary. —n. Meeting by chance or in conflict. [latin contra against]
+Encounter	—v. 1 meet unexpectedly. 2 meet as an adversary. —n. Meeting by chance or in conflict. [latin contra against]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

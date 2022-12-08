@@ -1,1 +1,6 @@
-Crib	—n. 1 a baby's small bed or cot. B model of the nativity with a manger. 2 rack for animal fodder. 3  colloq. A translation of a text used by students. B plagiarized work etc. 4 colloq. A cribbage. B set of cards given to the dealer at cribbage. —v. (-bb-) (also absol.) 1 colloq. Copy unfairly. 2 confine in a small space. 3 colloq. Pilfer. [old english]
+Crib	—n. 1 a baby's small bed or cot. B model of the nativity with a manger. 2 rack for animal fodder. 3  colloq. A translation of a text used by students. B plagiarized work etc. 4 colloq. A cribbage. B set of cards given to the dealer at cribbage. —v. (-bb-) (also absol.) 1 colloq. Copy unfairly. 2 confine in a small space. 3 colloq. Pilfer. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

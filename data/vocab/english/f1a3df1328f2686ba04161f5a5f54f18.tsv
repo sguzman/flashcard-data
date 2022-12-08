@@ -1,1 +1,6 @@
-Gorge	—n. 1 narrow opening between hills. 2 act of gorging. 3 contents of the stomach. —v. (-ging) 1 feed greedily. 2 a (often refl.) Satiate. B devour greedily.  one's gorge rises at one is sickened by. [french, = throat]
+Gorge	—n. 1 narrow opening between hills. 2 act of gorging. 3 contents of the stomach. —v. (-ging) 1 feed greedily. 2 a (often refl.) Satiate. B devour greedily.  one's gorge rises at one is sickened by. [french, = throat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

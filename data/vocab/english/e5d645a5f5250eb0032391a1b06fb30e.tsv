@@ -1,1 +1,6 @@
-Slouch	—v. Stand, move, or sit in a drooping fashion.  —n. 1 slouching posture or movement.  2 slang incompetent or slovenly worker etc. [origin unknown]
+Slouch	—v. Stand, move, or sit in a drooping fashion.  —n. 1 slouching posture or movement.  2 slang incompetent or slovenly worker etc. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

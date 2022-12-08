@@ -1,1 +1,6 @@
-Guest	n. 1 person invited to visit another's house or to have a meal etc. At another's expense. 2 person lodging at a hotel etc. 3 outside performer invited to take part with a regular body of performers. [old norse]
+Guest	n. 1 person invited to visit another's house or to have a meal etc. At another's expense. 2 person lodging at a hotel etc. 3 outside performer invited to take part with a regular body of performers. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

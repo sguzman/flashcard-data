@@ -1,1 +1,6 @@
-Rank2	adj. 1 luxuriant, coarse; choked with or apt to produce weeds or excessive foliage. 2 a foul-smelling. B loathsome, corrupt. 3 flagrant, virulent, gross, complete (rank outsider). [old english]
+Rank2	adj. 1 luxuriant, coarse; choked with or apt to produce weeds or excessive foliage. 2 a foul-smelling. B loathsome, corrupt. 3 flagrant, virulent, gross, complete (rank outsider). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

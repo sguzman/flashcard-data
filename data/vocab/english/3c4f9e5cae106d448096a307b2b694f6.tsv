@@ -1,1 +1,6 @@
-Agonize	v. (also -ise) (-zing or -sing) 1 undergo (esp. Mental) anguish; suffer or cause to suffer agony. 2 (as agonized adj.) Expressing agony (an agonized look).
+Agonize	v. (also -ise) (-zing or -sing) 1 undergo (esp. Mental) anguish; suffer or cause to suffer agony. 2 (as agonized adj.) Expressing agony (an agonized look).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

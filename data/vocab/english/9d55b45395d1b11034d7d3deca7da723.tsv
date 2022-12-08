@@ -1,1 +1,6 @@
-Fringe	—n. 1 border of tassels or loose threads. 2 front hair hanging over the forehead. 3 outer limit of an area, population, etc. (often attrib.: fringe theatre). 4 unimportant area or part. —v. (-ging) 1 adorn with a fringe. 2 serve as a fringe to. [latin fimbria]
+Fringe	—n. 1 border of tassels or loose threads. 2 front hair hanging over the forehead. 3 outer limit of an area, population, etc. (often attrib.: fringe theatre). 4 unimportant area or part. —v. (-ging) 1 adorn with a fringe. 2 serve as a fringe to. [latin fimbria]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

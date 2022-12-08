@@ -1,1 +1,6 @@
-Uncountable	adj. 1 inestimable, immense (uncountable wealth). 2 (of a noun) not used in the plural or with the indefinite article (e.g. Happiness, milk).
+Uncountable	adj. 1 inestimable, immense (uncountable wealth). 2 (of a noun) not used in the plural or with the indefinite article (e.g. Happiness, milk).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

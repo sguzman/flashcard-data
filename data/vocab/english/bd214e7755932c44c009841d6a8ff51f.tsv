@@ -1,1 +1,6 @@
-Tinny	adj. (-ier, -iest) 1 of or like tin. 2 flimsy, insubstantial. 3 (of sound) thin and metallic.
+Tinny	adj. (-ier, -iest) 1 of or like tin. 2 flimsy, insubstantial. 3 (of sound) thin and metallic.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

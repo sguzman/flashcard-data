@@ -1,1 +1,6 @@
-Xerox	—n. Propr. 1 machine for copying by xerography. 2 copy thus made. —v. (xerox) reproduce by this process.
+Xerox	—n. Propr. 1 machine for copying by xerography. 2 copy thus made. —v. (xerox) reproduce by this process.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

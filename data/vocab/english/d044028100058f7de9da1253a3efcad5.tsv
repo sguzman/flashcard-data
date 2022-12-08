@@ -1,1 +1,6 @@
-Marinade	—n. 1 mixture of wine, vinegar, oil, spices, etc., for soaking meat, fish, etc. Before cooking. 2 meat, fish, etc., so soaked. —v. (-ding) soak in a marinade. [spanish marinar pickle in brine: related to *marine]
+Marinade	—n. 1 mixture of wine, vinegar, oil, spices, etc., for soaking meat, fish, etc. Before cooking. 2 meat, fish, etc., so soaked. —v. (-ding) soak in a marinade. [spanish marinar pickle in brine: related to *marine]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

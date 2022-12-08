@@ -1,1 +1,6 @@
-Scarify1	v. (-ies, -ied) 1 a make slight incisions in. B cut off skin from. 2 hurt by severe criticism etc. 3 loosen (soil).  scarification n. [greek skariphos stylus]
+Scarify1	v. (-ies, -ied) 1 a make slight incisions in. B cut off skin from. 2 hurt by severe criticism etc. 3 loosen (soil).  scarification n. [greek skariphos stylus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

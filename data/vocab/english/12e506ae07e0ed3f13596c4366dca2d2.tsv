@@ -1,1 +1,6 @@
-Shirt	n. Upper-body garment of cotton etc., usu. Front-opening.  keep one's shirt on colloq. Keep one's temper. Put one's shirt on colloq. Bet all one has on.  shirting n. Shirtless adj. [old english]
+Shirt	n. Upper-body garment of cotton etc., usu. Front-opening.  keep one's shirt on colloq. Keep one's temper. Put one's shirt on colloq. Bet all one has on.  shirting n. Shirtless adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

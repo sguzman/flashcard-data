@@ -1,1 +1,6 @@
-Opium	n. Drug made from the juice of a certain poppy, used esp. As an analgesic and narcotic. [latin from greek opion]
+Opium	n. Drug made from the juice of a certain poppy, used esp. As an analgesic and narcotic. [latin from greek opion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Mist	—n. 1 a water vapour near the ground in minute droplets limiting visibility. B condensed vapour obscuring glass etc. 2 dimness or blurring of the sight caused by tears etc. 3 cloud of particles resembling mist. —v. (usu. Foll. By up, over) cover or become covered with mist or as with mist. [old english]
+Mist	—n. 1 a water vapour near the ground in minute droplets limiting visibility. B condensed vapour obscuring glass etc. 2 dimness or blurring of the sight caused by tears etc. 3 cloud of particles resembling mist. —v. (usu. Foll. By up, over) cover or become covered with mist or as with mist. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

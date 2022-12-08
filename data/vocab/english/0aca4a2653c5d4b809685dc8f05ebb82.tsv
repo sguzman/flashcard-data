@@ -1,1 +1,6 @@
-Breed	—v. (past and past part. Bred) 1 (of animals) produce young. 2 propagate; raise (animals). 3 yield; result in. 4 arise; spread. 5 bring up; train. 6 create (fissile material) by nuclear reaction. —n. 1 stock of similar animals or plants within a species, usu. Developed by deliberate selection. 2 race; lineage. 3 sort, kind.  breeder n. [old english]
+Breed	—v. (past and past part. Bred) 1 (of animals) produce young. 2 propagate; raise (animals). 3 yield; result in. 4 arise; spread. 5 bring up; train. 6 create (fissile material) by nuclear reaction. —n. 1 stock of similar animals or plants within a species, usu. Developed by deliberate selection. 2 race; lineage. 3 sort, kind.  breeder n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

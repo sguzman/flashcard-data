@@ -1,1 +1,6 @@
-Miraculous	adj. 1 being a miracle. 2 supernatural. 3 remarkable, surprising.  miraculously adv. [french or medieval latin: related to *miracle]
+Miraculous	adj. 1 being a miracle. 2 supernatural. 3 remarkable, surprising.  miraculously adv. [french or medieval latin: related to *miracle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

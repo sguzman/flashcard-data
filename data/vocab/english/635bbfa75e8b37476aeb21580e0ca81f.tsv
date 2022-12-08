@@ -1,1 +1,6 @@
-Shoo	—int. Exclamation used to frighten away animals etc. —v. (shoos, shooed) 1 utter the word ‘shoo!’. 2 (usu. Foll. By away) drive away by shooing. [imitative]
+Shoo	—int. Exclamation used to frighten away animals etc. —v. (shoos, shooed) 1 utter the word ‘shoo!’. 2 (usu. Foll. By away) drive away by shooing. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

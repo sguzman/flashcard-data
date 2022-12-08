@@ -1,1 +1,6 @@
-Reef1	n. 1 ridge of rock or coral etc. At or near the surface of the sea. 2 a lode of ore. B bedrock surrounding this. [old norse rif]
+Reef1	n. 1 ridge of rock or coral etc. At or near the surface of the sea. 2 a lode of ore. B bedrock surrounding this. [old norse rif]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

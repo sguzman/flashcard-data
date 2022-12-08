@@ -1,1 +1,6 @@
-Transaction	n. 1 a piece of esp. Commercial business done. B transacting of business etc. 2 (in pl.) Published reports of discussions, papers read, etc., at the meetings of a learned society.
+Transaction	n. 1 a piece of esp. Commercial business done. B transacting of business etc. 2 (in pl.) Published reports of discussions, papers read, etc., at the meetings of a learned society.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

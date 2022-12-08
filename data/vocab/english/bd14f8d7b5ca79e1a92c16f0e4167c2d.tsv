@@ -1,1 +1,6 @@
-Sight-screen	n. Cricket large white screen placed near the boundary in line with the wicket to help the batsman see the ball.
+Sight-screen	n. Cricket large white screen placed near the boundary in line with the wicket to help the batsman see the ball.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

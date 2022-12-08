@@ -1,1 +1,6 @@
-Effloresce	v. (-cing) 1 burst into flower. 2 a (of a substance) turn to a fine powder on exposure to air. B (of salts) come to the surface and crystallize. C (of a surface) become covered with salt particles.  efflorescence n. Efflorescent adj. [latin flos flor- *flower]
+Effloresce	v. (-cing) 1 burst into flower. 2 a (of a substance) turn to a fine powder on exposure to air. B (of salts) come to the surface and crystallize. C (of a surface) become covered with salt particles.  efflorescence n. Efflorescent adj. [latin flos flor- *flower]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

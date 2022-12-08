@@ -1,1 +1,6 @@
-Brachiosaurus	n. (pl. -ruses) plant-eating dinosaur with forelegs longer than its hind legs. [latin from greek brakhion arm, sauros lizard]
+Brachiosaurus	n. (pl. -ruses) plant-eating dinosaur with forelegs longer than its hind legs. [latin from greek brakhion arm, sauros lizard]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

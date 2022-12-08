@@ -1,1 +1,6 @@
-Fragment	—n. 1 part broken off. 2 extant remains or unfinished portion (of a book etc.). —v. Break or separate into fragments.  fragmental adj. Fragmentary adj. Fragmentation n. [latin: related to *fraction]
+Fragment	—n. 1 part broken off. 2 extant remains or unfinished portion (of a book etc.). —v. Break or separate into fragments.  fragmental adj. Fragmentary adj. Fragmentation n. [latin: related to *fraction]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

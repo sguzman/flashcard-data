@@ -1,1 +1,6 @@
-Goat	n. 1 hardy domesticated mammal, with horns and (in the male) a beard. 2 lecherous man. 3 colloq. Foolish person. 4 (the goat) zodiacal sign or constellation capricorn.  get a person's goat colloq. Irritate a person. [old english]
+Goat	n. 1 hardy domesticated mammal, with horns and (in the male) a beard. 2 lecherous man. 3 colloq. Foolish person. 4 (the goat) zodiacal sign or constellation capricorn.  get a person's goat colloq. Irritate a person. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

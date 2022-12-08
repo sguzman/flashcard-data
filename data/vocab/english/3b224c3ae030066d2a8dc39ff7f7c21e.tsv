@@ -1,1 +1,6 @@
-Retort2	—n. 1 vessel with a long neck turned downwards, used in distilling liquids. 2 vessel for heating coal to generate gas. —v. Purify (mercury) by heating in a retort. [medieval latin: related to *retort1]
+Retort2	—n. 1 vessel with a long neck turned downwards, used in distilling liquids. 2 vessel for heating coal to generate gas. —v. Purify (mercury) by heating in a retort. [medieval latin: related to *retort1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

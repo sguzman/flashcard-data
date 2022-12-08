@@ -1,1 +1,6 @@
-Pasty2	adj. (-ier, -iest) unhealthily pale (pasty-faced).  pastiness n.
+Pasty2	adj. (-ier, -iest) unhealthily pale (pasty-faced).  pastiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Breathe	v. (-thing) 1 draw air into and expel it from the lungs. 2 be or seem alive. 3 a utter or sound (esp. Quietly). B express (breathed defiance). 4 pause. 5 send out or take in (as if) with the breath (breathed new life into them; breathed whisky). 6 (of wine etc.) Be exposed to the air.  breathe again (or freely) feel relief.
+Breathe	v. (-thing) 1 draw air into and expel it from the lungs. 2 be or seem alive. 3 a utter or sound (esp. Quietly). B express (breathed defiance). 4 pause. 5 send out or take in (as if) with the breath (breathed new life into them; breathed whisky). 6 (of wine etc.) Be exposed to the air.  breathe again (or freely) feel relief.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

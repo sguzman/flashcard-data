@@ -1,1 +1,6 @@
-Pointillism	n. Technique of impressionist painting using tiny dots of pure colour which become blended in the viewer's eye.  pointillist n. & adj. [french pointiller mark with dots]
+Pointillism	n. Technique of impressionist painting using tiny dots of pure colour which become blended in the viewer's eye.  pointillist n. & adj. [french pointiller mark with dots]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

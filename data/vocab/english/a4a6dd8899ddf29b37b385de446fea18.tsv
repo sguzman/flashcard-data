@@ -1,1 +1,6 @@
-Pile2	n. 1 heavy beam driven vertically into the ground to support a bridge, the foundations of a house, etc. 2 pointed stake or post. [latin pilum javelin]
+Pile2	n. 1 heavy beam driven vertically into the ground to support a bridge, the foundations of a house, etc. 2 pointed stake or post. [latin pilum javelin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

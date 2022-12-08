@@ -1,1 +1,6 @@
-Molecule	n. 1 smallest fundamental unit (usu. A group of atoms) of a chemical compound that can take part in a chemical reaction. 2 (in general use) small particle. [latin diminutive: related to *mole3]
+Molecule	n. 1 smallest fundamental unit (usu. A group of atoms) of a chemical compound that can take part in a chemical reaction. 2 (in general use) small particle. [latin diminutive: related to *mole3]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

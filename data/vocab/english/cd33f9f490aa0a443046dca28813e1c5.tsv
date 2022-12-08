@@ -1,1 +1,6 @@
-Extrovert	—n. 1 outgoing person. 2 person mainly concerned with external things. —adj. Typical of or with the nature of an extrovert.  extroversion n. Extroverted adj. [latin verto turn]
+Extrovert	—n. 1 outgoing person. 2 person mainly concerned with external things. —adj. Typical of or with the nature of an extrovert.  extroversion n. Extroverted adj. [latin verto turn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

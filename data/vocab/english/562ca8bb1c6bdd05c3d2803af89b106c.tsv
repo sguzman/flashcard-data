@@ -1,1 +1,6 @@
-Whoop	—n. 1 loud cry of or as of excitement etc. 2 long rasping indrawn breath in whooping cough. —v. Utter a whoop.  whoop it up colloq. 1 engage in revelry. 2 us make a stir. [imitative]
+Whoop	—n. 1 loud cry of or as of excitement etc. 2 long rasping indrawn breath in whooping cough. —v. Utter a whoop.  whoop it up colloq. 1 engage in revelry. 2 us make a stir. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

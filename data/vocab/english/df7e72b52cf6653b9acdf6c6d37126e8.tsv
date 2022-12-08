@@ -1,1 +1,6 @@
-According	adv. 1 (foll. By to) a as stated by (according to mary). B in proportion to (lives according to his means). 2 (foll. By as + clause) in a manner or to a degree that varies as (pays according as he is able).
+According	adv. 1 (foll. By to) a as stated by (according to mary). B in proportion to (lives according to his means). 2 (foll. By as + clause) in a manner or to a degree that varies as (pays according as he is able).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

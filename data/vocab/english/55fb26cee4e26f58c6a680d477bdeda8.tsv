@@ -1,1 +1,6 @@
-Pioneer	—n. 1 initiator of an enterprise; investigator of a subject etc. 2 explorer or settler; colonist. —v. 1 initiate (an enterprise etc.) For others to follow. 2 be a pioneer. [french pionnier: related to *pawn1]
+Pioneer	—n. 1 initiator of an enterprise; investigator of a subject etc. 2 explorer or settler; colonist. —v. 1 initiate (an enterprise etc.) For others to follow. 2 be a pioneer. [french pionnier: related to *pawn1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

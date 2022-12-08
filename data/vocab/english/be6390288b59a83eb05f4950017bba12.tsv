@@ -1,1 +1,6 @@
-Dopey	adj. (also dopy) (dopier, dopiest) colloq. 1 half asleep or stupefied as if by a drug. 2 stupid.  dopily adv. Dopiness n.
+Dopey	adj. (also dopy) (dopier, dopiest) colloq. 1 half asleep or stupefied as if by a drug. 2 stupid.  dopily adv. Dopiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

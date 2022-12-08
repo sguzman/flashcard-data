@@ -1,1 +1,6 @@
-Stymie	(also stimy) —n. (pl. -ies) 1 golf situation where an opponent's ball lies between one's ball and the hole. 2 difficult situation. —v. (-mies, -mied, -mying or -mieing) 1 obstruct; thwart. 2 golf block with a stymie. [origin unknown]
+Stymie	(also stimy) —n. (pl. -ies) 1 golf situation where an opponent's ball lies between one's ball and the hole. 2 difficult situation. —v. (-mies, -mied, -mying or -mieing) 1 obstruct; thwart. 2 golf block with a stymie. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

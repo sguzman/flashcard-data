@@ -1,1 +1,6 @@
--ful	comb. Form forming: 1 adjectives from a nouns, meaning full of or having qualities of (beautiful; masterful). B adjectives (direful). C verbs, meaning ‘apt to’ (forgetful). 2 nouns (pl. -fuls) meaning ‘amount that fills’ (handful; spoonful).
+-ful	comb. Form forming: 1 adjectives from a nouns, meaning full of or having qualities of (beautiful; masterful). B adjectives (direful). C verbs, meaning ‘apt to’ (forgetful). 2 nouns (pl. -fuls) meaning ‘amount that fills’ (handful; spoonful).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

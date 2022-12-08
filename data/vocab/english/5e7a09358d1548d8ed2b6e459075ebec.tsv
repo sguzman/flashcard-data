@@ -1,1 +1,6 @@
-Pinion1	—n. 1 outer part of a bird's wing. 2 poet. Wing; flight-feather. —v. 1 cut off the pinion of (a wing or bird) to prevent flight. 2 a bind the arms of (a person). B (often foll. By to) bind (the arms, a person, etc.) Fast to a thing. [latin pinna] 
+Pinion1	—n. 1 outer part of a bird's wing. 2 poet. Wing; flight-feather. —v. 1 cut off the pinion of (a wing or bird) to prevent flight. 2 a bind the arms of (a person). B (often foll. By to) bind (the arms, a person, etc.) Fast to a thing. [latin pinna]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

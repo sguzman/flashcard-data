@@ -1,1 +1,6 @@
-Chauvinism	n. 1 exaggerated or aggressive patriotism. 2 excessive or prejudiced support or loyalty for one's cause or group. [chauvin, name of a character in a french play 1831]
+Chauvinism	n. 1 exaggerated or aggressive patriotism. 2 excessive or prejudiced support or loyalty for one's cause or group. [chauvin, name of a character in a french play 1831]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

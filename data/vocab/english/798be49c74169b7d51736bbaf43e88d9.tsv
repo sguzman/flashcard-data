@@ -1,1 +1,6 @@
-Shrine	n. 1 esp. Rc ch. A place for special worship or devotion. B tomb or reliquary. 2 place hallowed by some memory or association. [latin scrinium bookcase]
+Shrine	n. 1 esp. Rc ch. A place for special worship or devotion. B tomb or reliquary. 2 place hallowed by some memory or association. [latin scrinium bookcase]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

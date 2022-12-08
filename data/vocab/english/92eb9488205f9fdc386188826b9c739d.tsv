@@ -1,1 +1,6 @@
-Lagoon	n. Stretch of salt water separated from the sea by a sandbank, reef, etc. [latin *lacuna pool]
+Lagoon	n. Stretch of salt water separated from the sea by a sandbank, reef, etc. [latin *lacuna pool]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

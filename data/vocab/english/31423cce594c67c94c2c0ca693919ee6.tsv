@@ -1,1 +1,6 @@
-Prestige	n. 1 respect or reputation derived from achievements, power, associations, etc. 2 (attrib.) Having or conferring prestige.  prestigious adj. [latin praestigiae juggler's tricks]
+Prestige	n. 1 respect or reputation derived from achievements, power, associations, etc. 2 (attrib.) Having or conferring prestige.  prestigious adj. [latin praestigiae juggler's tricks]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

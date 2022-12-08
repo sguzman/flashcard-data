@@ -1,1 +1,6 @@
-Rent1	—n. 1 tenant's periodical payment to an owner for the use of land or premises. 2 payment for the use of equipment etc. —v. 1 (often foll. By from) take, occupy, or use at a rent. 2 (often foll. By out) let or hire (a thing) for rent. 3 (foll. By at) be let at a specified rate. [french rente: related to *render]
+Rent1	—n. 1 tenant's periodical payment to an owner for the use of land or premises. 2 payment for the use of equipment etc. —v. 1 (often foll. By from) take, occupy, or use at a rent. 2 (often foll. By out) let or hire (a thing) for rent. 3 (foll. By at) be let at a specified rate. [french rente: related to *render]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

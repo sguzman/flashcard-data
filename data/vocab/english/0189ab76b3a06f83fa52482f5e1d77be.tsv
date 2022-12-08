@@ -1,1 +1,6 @@
-Umlaut	n. 1 mark (¨) used over a vowel, esp. In germanic languages, to indicate a vowel change. 2 such a vowel change, e.g. German mann, männer, english man, men. [german]
+Umlaut	n. 1 mark (¨) used over a vowel, esp. In germanic languages, to indicate a vowel change. 2 such a vowel change, e.g. German mann, männer, english man, men. [german]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

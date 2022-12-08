@@ -1,1 +1,6 @@
-Fortify	v. (-ies, -ied) 1 provide with fortifications. 2 strengthen physically, mentally, or morally. 3 strengthen (wine) with alcohol. 4 increase the nutritive value of (food, esp. With vitamins). [latin fortis strong]
+Fortify	v. (-ies, -ied) 1 provide with fortifications. 2 strengthen physically, mentally, or morally. 3 strengthen (wine) with alcohol. 4 increase the nutritive value of (food, esp. With vitamins). [latin fortis strong]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

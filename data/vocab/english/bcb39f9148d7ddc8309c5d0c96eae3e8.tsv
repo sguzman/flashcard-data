@@ -1,1 +1,6 @@
-Demigod	n. 1 a partly divine being. B child of a god or goddess and a mortal. 2 colloq. Godlike person.
+Demigod	n. 1 a partly divine being. B child of a god or goddess and a mortal. 2 colloq. Godlike person.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

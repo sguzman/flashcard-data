@@ -1,1 +1,6 @@
-Definition	n. 1 a defining. B statement of the meaning of a word etc. 2 distinctness in outline, esp. Of a photographic image. [latin: related to *define]
+Definition	n. 1 a defining. B statement of the meaning of a word etc. 2 distinctness in outline, esp. Of a photographic image. [latin: related to *define]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

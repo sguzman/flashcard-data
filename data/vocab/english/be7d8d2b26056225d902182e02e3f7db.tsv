@@ -1,1 +1,6 @@
-Abstraction	n. 1 abstracting or taking away. 2 abstract or visionary idea. 3 abstract qualities (esp. In art). 4 absent-mindedness.
+Abstraction	n. 1 abstracting or taking away. 2 abstract or visionary idea. 3 abstract qualities (esp. In art). 4 absent-mindedness.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

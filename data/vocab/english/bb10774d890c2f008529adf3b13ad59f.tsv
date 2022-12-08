@@ -1,1 +1,6 @@
-Crater	—n. 1 mouth of a volcano. 2 bowl-shaped cavity, esp. That made by a shell or bomb. 3 hollow on the surface of a planet or moon, caused by impact. —v. Form a crater in. [greek, = mixing-bowl]
+Crater	—n. 1 mouth of a volcano. 2 bowl-shaped cavity, esp. That made by a shell or bomb. 3 hollow on the surface of a planet or moon, caused by impact. —v. Form a crater in. [greek, = mixing-bowl]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

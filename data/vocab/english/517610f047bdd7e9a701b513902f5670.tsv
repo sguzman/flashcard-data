@@ -1,1 +1,6 @@
-Cd-video	n. (pl. -s) 1 system of simultaneously reproducing high-quality sound and video pictures from a compact disc. 2 such a compact disc.
+Cd-video	n. (pl. -s) 1 system of simultaneously reproducing high-quality sound and video pictures from a compact disc. 2 such a compact disc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

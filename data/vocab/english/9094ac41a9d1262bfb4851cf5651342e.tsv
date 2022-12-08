@@ -1,1 +1,6 @@
-City	n. (pl. -ies) 1 large town, strictly one created by charter and containing a cathedral. 2 (the city) a part of london governed by the lord mayor and corporation. B business part of this. C commercial circles. [latin civitas: related to *civic]
+City	n. (pl. -ies) 1 large town, strictly one created by charter and containing a cathedral. 2 (the city) a part of london governed by the lord mayor and corporation. B business part of this. C commercial circles. [latin civitas: related to *civic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Dirt	n. 1 unclean matter that soils. 2 a earth, soil. B earth, cinders, etc., used to make the surface for a road etc. (usu. Attrib.: dirt track). 3 foul or malicious words or talk. 4 excrement.  treat like dirt treat with contempt. [old norse drit excrement]
+Dirt	n. 1 unclean matter that soils. 2 a earth, soil. B earth, cinders, etc., used to make the surface for a road etc. (usu. Attrib.: dirt track). 3 foul or malicious words or talk. 4 excrement.  treat like dirt treat with contempt. [old norse drit excrement]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

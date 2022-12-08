@@ -1,1 +1,6 @@
-Nursery	n. (pl. -ies) 1 a a room or place equipped for young children. B = *day nursery. 2 place where plants are reared for sale. [probably anglo-french: related to *nurse]
+Nursery	n. (pl. -ies) 1 a a room or place equipped for young children. B = *day nursery. 2 place where plants are reared for sale. [probably anglo-french: related to *nurse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

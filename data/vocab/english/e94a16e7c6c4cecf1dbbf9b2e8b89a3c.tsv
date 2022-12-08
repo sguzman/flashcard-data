@@ -1,1 +1,6 @@
-Snug	—adj. (snugger, snuggest) 1 cosy, comfortable, sheltered. 2 close-fitting. —n. Small room in a pub.  snugly adv. [probably low german or dutch]
+Snug	—adj. (snugger, snuggest) 1 cosy, comfortable, sheltered. 2 close-fitting. —n. Small room in a pub.  snugly adv. [probably low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Respirator	n. 1 apparatus worn over the face to warm, filter, or purify inhaled air. 2 apparatus for maintaining artificial respiration.
+Respirator	n. 1 apparatus worn over the face to warm, filter, or purify inhaled air. 2 apparatus for maintaining artificial respiration.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

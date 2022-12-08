@@ -1,1 +1,6 @@
-Primitive	—adj. 1 at an early stage of civilization (primitive man). 2 undeveloped, crude, simple (primitive methods). —n. 1 untutored painter with a direct naïve style. 2 picture by such a painter.  primitively adv. Primitiveness n.  [latin: related to *prime1]
+Primitive	—adj. 1 at an early stage of civilization (primitive man). 2 undeveloped, crude, simple (primitive methods). —n. 1 untutored painter with a direct naïve style. 2 picture by such a painter.  primitively adv. Primitiveness n.  [latin: related to *prime1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

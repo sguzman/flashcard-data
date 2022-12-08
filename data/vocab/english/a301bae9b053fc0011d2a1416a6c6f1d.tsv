@@ -1,1 +1,6 @@
-Fail	—v. 1 not succeed (failed to qualify). 2 be or judge to be unsuccessful in (an examination etc.). 3 be unable; neglect (failed to appear). 4 disappoint. 5 be absent or insufficient.
+Fail	—v. 1 not succeed (failed to qualify). 2 be or judge to be unsuccessful in (an examination etc.). 3 be unable; neglect (failed to appear). 4 disappoint. 5 be absent or insufficient.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

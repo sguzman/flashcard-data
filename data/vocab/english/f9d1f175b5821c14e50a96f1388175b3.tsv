@@ -1,1 +1,6 @@
-Saddleback	n. 1 roof of a tower with two opposite gables. 2 hill with a concave upper outline. 3 black pig with a white stripe across the back.  saddlebacked adj.
+Saddleback	n. 1 roof of a tower with two opposite gables. 2 hill with a concave upper outline. 3 black pig with a white stripe across the back.  saddlebacked adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

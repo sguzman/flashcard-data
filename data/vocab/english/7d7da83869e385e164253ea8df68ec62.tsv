@@ -1,1 +1,6 @@
-Village	n. 1 country settlement, larger than a hamlet and smaller than a town. 2 self-contained village-like community within a city etc. (greenwich village; olympic village).  villager n. [latin: related to *villa]
+Village	n. 1 country settlement, larger than a hamlet and smaller than a town. 2 self-contained village-like community within a city etc. (greenwich village; olympic village).  villager n. [latin: related to *villa]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

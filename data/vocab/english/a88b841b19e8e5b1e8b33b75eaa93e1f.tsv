@@ -1,1 +1,6 @@
-Aorta	n. (pl. -s) main artery, giving rise to the arterial network carrying oxygenated blood to the body from the heart.  aortic adj. [greek aeiro raise]
+Aorta	n. (pl. -s) main artery, giving rise to the arterial network carrying oxygenated blood to the body from the heart.  aortic adj. [greek aeiro raise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

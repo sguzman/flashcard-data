@@ -1,1 +1,6 @@
-Lottery	n. (pl. -ies) 1 means of raising money by selling numbered tickets and giving prizes to the holders of numbers drawn at random. 2 thing whose success is governed by chance. [dutch: related to *lot]
+Lottery	n. (pl. -ies) 1 means of raising money by selling numbered tickets and giving prizes to the holders of numbers drawn at random. 2 thing whose success is governed by chance. [dutch: related to *lot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

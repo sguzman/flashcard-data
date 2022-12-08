@@ -1,1 +1,6 @@
-Cockle	n. 1 a edible bivalve shellfish. B its shell. 2 (in full cockle-shell) small shallow boat. 3 pucker or wrinkle in paper, glass, etc.  warm the cockles of one's heart make one contented. [french coquille from greek: related to *conch]
+Cockle	n. 1 a edible bivalve shellfish. B its shell. 2 (in full cockle-shell) small shallow boat. 3 pucker or wrinkle in paper, glass, etc.  warm the cockles of one's heart make one contented. [french coquille from greek: related to *conch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

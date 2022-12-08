@@ -1,1 +1,6 @@
-Undo	v. (3rd sing. Present -does; past -did; past part. -done; pres. Part. -doing) 1 unfasten (a coat, button, parcel, etc.), or the clothing of (a person). 2 annul, cancel (cannot undo the past). 3 ruin the prospects, reputation, or morals of.
+Undo	v. (3rd sing. Present -does; past -did; past part. -done; pres. Part. -doing) 1 unfasten (a coat, button, parcel, etc.), or the clothing of (a person). 2 annul, cancel (cannot undo the past). 3 ruin the prospects, reputation, or morals of.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

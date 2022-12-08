@@ -1,1 +1,6 @@
-Accretion	n. 1 growth or increase by accumulation, addition, or organic enlargement. 2 the resulting whole. 3 a matter so added. B adhesion of this to the core matter. [latin cresco cret- grow]
+Accretion	n. 1 growth or increase by accumulation, addition, or organic enlargement. 2 the resulting whole. 3 a matter so added. B adhesion of this to the core matter. [latin cresco cret- grow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

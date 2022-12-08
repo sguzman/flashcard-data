@@ -1,1 +1,6 @@
-Tenderloin	n. 1 middle part of pork loin. 2 us undercut of sirloin.
+Tenderloin	n. 1 middle part of pork loin. 2 us undercut of sirloin.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

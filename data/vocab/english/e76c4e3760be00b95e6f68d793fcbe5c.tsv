@@ -1,1 +1,6 @@
-Redundant	adj. 1 superfluous. 2 that can be omitted without any loss of significance. 3 (of a person) no longer needed at work and therefore unemployed.  redundancy n. (pl. -ies). [latin: related to *redound]
+Redundant	adj. 1 superfluous. 2 that can be omitted without any loss of significance. 3 (of a person) no longer needed at work and therefore unemployed.  redundancy n. (pl. -ies). [latin: related to *redound]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

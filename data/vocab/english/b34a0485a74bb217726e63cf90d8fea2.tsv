@@ -1,1 +1,6 @@
-Nap3	—n. 1 form of whist in which players declare the number of tricks they expect to take. 2 racing tip claimed to be almost a certainty. —v. (-pp-) name (a horse etc.) As a probable winner.  go nap 1 attempt to take all five tricks in nap.
+Nap3	—n. 1 form of whist in which players declare the number of tricks they expect to take. 2 racing tip claimed to be almost a certainty. —v. (-pp-) name (a horse etc.) As a probable winner.  go nap 1 attempt to take all five tricks in nap.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

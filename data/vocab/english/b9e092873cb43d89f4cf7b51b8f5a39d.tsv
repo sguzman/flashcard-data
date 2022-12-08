@@ -1,1 +1,6 @@
-Bugle	—n. Brass military instrument like a small trumpet. —v. (-ling) 1 sound a bugle. 2 sound (a call etc.) On a bugle.  bugler n. [latin buculus young bull]
+Bugle	—n. Brass military instrument like a small trumpet. —v. (-ling) 1 sound a bugle. 2 sound (a call etc.) On a bugle.  bugler n. [latin buculus young bull]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

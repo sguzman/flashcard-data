@@ -1,1 +1,6 @@
-Piece	—n. 1 a (often foll. By of) distinct portion forming part of or broken off from a larger object. B each of the parts of which a set or category is composed (five-piece band). 2 coin. 3 (usu. Short) literary or musical composition; picture; play.
+Piece	—n. 1 a (often foll. By of) distinct portion forming part of or broken off from a larger object. B each of the parts of which a set or category is composed (five-piece band). 2 coin. 3 (usu. Short) literary or musical composition; picture; play.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

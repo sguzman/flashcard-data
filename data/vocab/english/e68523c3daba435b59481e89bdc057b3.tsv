@@ -1,1 +1,6 @@
-Usage	with reference to sense 1, the functions of this department in the uk now belong to the treasury, although the name formally survives, esp. In the title chancellor of the exchequer.
+Usage	with reference to sense 1, the functions of this department in the uk now belong to the treasury, although the name formally survives, esp. In the title chancellor of the exchequer.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

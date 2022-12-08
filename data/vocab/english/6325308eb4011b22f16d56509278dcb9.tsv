@@ -1,1 +1,6 @@
-Unclear	adj. 1 not clear or easy to understand. 2 (of a person) uncertain (i'm unclear as to what you mean).
+Unclear	adj. 1 not clear or easy to understand. 2 (of a person) uncertain (i'm unclear as to what you mean).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

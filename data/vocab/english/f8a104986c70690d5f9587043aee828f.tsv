@@ -1,1 +1,6 @@
-Special	—adj. 1 a exceptional. B peculiar; specific. 2 for a particular purpose. 3 for children with special needs (special school). —n. Special constable, train, edition of a newspaper, dish on a menu, etc.  specially adv. Specialness n. [latin: related to *species]
+Special	—adj. 1 a exceptional. B peculiar; specific. 2 for a particular purpose. 3 for children with special needs (special school). —n. Special constable, train, edition of a newspaper, dish on a menu, etc.  specially adv. Specialness n. [latin: related to *species]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

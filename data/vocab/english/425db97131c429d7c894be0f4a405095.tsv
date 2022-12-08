@@ -1,1 +1,6 @@
-Trousers	n.pl. 1 two-legged outer garment reaching from the waist usu. To the ankles. 2 (trouser) (attrib.) Designating part of this (trouser leg).  wear the trousers (esp. Of a wife) dominate in a marriage.  trousered adj. [in pl. After drawers: irish and gaelic triubhas trews]
+Trousers	n.pl. 1 two-legged outer garment reaching from the waist usu. To the ankles. 2 (trouser) (attrib.) Designating part of this (trouser leg).  wear the trousers (esp. Of a wife) dominate in a marriage.  trousered adj. [in pl. After drawers: irish and gaelic triubhas trews]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

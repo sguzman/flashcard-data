@@ -1,1 +1,6 @@
-Car	n. 1 (in full motor car) motor vehicle for a driver and small number of passengers. 2 (in comb.) Road vehicle or railway carriage esp. Of a specified kind (tramcar; dining-car). 3 us any railway carriage or van. 4 passenger compartment of a lift, balloon, etc. [french from latin]
+Car	n. 1 (in full motor car) motor vehicle for a driver and small number of passengers. 2 (in comb.) Road vehicle or railway carriage esp. Of a specified kind (tramcar; dining-car). 3 us any railway carriage or van. 4 passenger compartment of a lift, balloon, etc. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

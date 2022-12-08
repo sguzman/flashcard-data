@@ -1,1 +1,6 @@
-Philosophy	n. (pl. -ies) 1 use of reason and argument in seeking truth and knowledge of reality, esp. Knowledge of the causes and nature of things and of the principles governing existence. 2 a particular system or set of beliefs reached by this. B personal rule of life. [greek: related to *philo-, sophia wisdom]
+Philosophy	n. (pl. -ies) 1 use of reason and argument in seeking truth and knowledge of reality, esp. Knowledge of the causes and nature of things and of the principles governing existence. 2 a particular system or set of beliefs reached by this. B personal rule of life. [greek: related to *philo-, sophia wisdom]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

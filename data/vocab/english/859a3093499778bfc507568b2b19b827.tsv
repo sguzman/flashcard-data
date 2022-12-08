@@ -1,1 +1,6 @@
-Rubber1	n. 1 tough elastic substance made from the latex of plants or synthetically. 2 piece of this or a similar substance for erasing esp. Pencil marks. 3 colloq. Condom. 4 (in pl.) Us galoshes.  rubbery adj. Rubberiness n. [from *rub]
+Rubber1	n. 1 tough elastic substance made from the latex of plants or synthetically. 2 piece of this or a similar substance for erasing esp. Pencil marks. 3 colloq. Condom. 4 (in pl.) Us galoshes.  rubbery adj. Rubberiness n. [from *rub]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Apropos	—adj. 1 appropriate. 2 colloq. (often foll. By of) in respect of. —adv. 1 appropriately. 2 (absol.) Incidentally. [french à propos]
+Apropos	—adj. 1 appropriate. 2 colloq. (often foll. By of) in respect of. —adv. 1 appropriately. 2 (absol.) Incidentally. [french à propos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Calm	—adj. 1 tranquil, quiet, windless. 2 serene; not agitated. —n. Calm condition or period. —v. (often foll. By down) make or become calm.  calmly adv. Calmness n. [greek kauma heat]
+Calm	—adj. 1 tranquil, quiet, windless. 2 serene; not agitated. —n. Calm condition or period. —v. (often foll. By down) make or become calm.  calmly adv. Calmness n. [greek kauma heat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sprawl	—v. 1 a sit, lie, or fall with limbs flung out untidily. B spread (one's limbs) thus. 2 (of writing, a plant, a town, etc.) Be irregular or straggling. —n. 1 sprawling movement, position, or mass. 2 straggling urban expansion. [old english]
+Sprawl	—v. 1 a sit, lie, or fall with limbs flung out untidily. B spread (one's limbs) thus. 2 (of writing, a plant, a town, etc.) Be irregular or straggling. —n. 1 sprawling movement, position, or mass. 2 straggling urban expansion. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

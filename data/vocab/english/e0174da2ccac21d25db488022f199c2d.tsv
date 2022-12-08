@@ -1,1 +1,6 @@
-Delicate	adj. 1 a fine in texture, quality, etc.; slender, slight. B (of a colour, flavour, etc.) Subtle, hard to discern. 2 susceptible; weak, tender. 3 a requiring tact; tricky (delicate situation). B (of an instrument) highly sensitive. 4 deft (delicate touch). 5 modest. 6 (esp. Of actions) considerate.  delicately adv. [latin]
+Delicate	adj. 1 a fine in texture, quality, etc.; slender, slight. B (of a colour, flavour, etc.) Subtle, hard to discern. 2 susceptible; weak, tender. 3 a requiring tact; tricky (delicate situation). B (of an instrument) highly sensitive. 4 deft (delicate touch). 5 modest. 6 (esp. Of actions) considerate.  delicately adv. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

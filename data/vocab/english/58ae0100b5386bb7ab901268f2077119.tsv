@@ -1,1 +1,6 @@
-Blotch	—n. 1 discoloured or inflamed patch on the skin. 2 irregular patch of colour. —v. Cover with blotches.  blotchy adj. (-ier, -iest). [obsolete plotch, *blot]
+Blotch	—n. 1 discoloured or inflamed patch on the skin. 2 irregular patch of colour. —v. Cover with blotches.  blotchy adj. (-ier, -iest). [obsolete plotch, *blot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

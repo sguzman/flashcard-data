@@ -1,1 +1,6 @@
-Creation	n. 1 creating or being created. 2 a (usu. The creation) god's creating of the universe. B (usu. Creation) all created things, the universe. 3 product of the imagination, art, fashion, etc.
+Creation	n. 1 creating or being created. 2 a (usu. The creation) god's creating of the universe. B (usu. Creation) all created things, the universe. 3 product of the imagination, art, fashion, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

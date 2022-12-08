@@ -1,1 +1,6 @@
-Lead2	—n. 1 heavy bluish-grey soft metallic element. 2 a graphite. B thin length of this in a pencil. 3 lump of lead used in sounding water. 4 (in pl.) A strips of lead covering a roof. B piece of lead-covered roof. 5 (in pl.) Lead frames holding the glass of a lattice etc. 6 blank space between lines of print. —v. 1 cover, weight, or frame with lead. 2 space (printed matter) with leads. [old english]
+Lead2	—n. 1 heavy bluish-grey soft metallic element. 2 a graphite. B thin length of this in a pencil. 3 lump of lead used in sounding water. 4 (in pl.) A strips of lead covering a roof. B piece of lead-covered roof. 5 (in pl.) Lead frames holding the glass of a lattice etc. 6 blank space between lines of print. —v. 1 cover, weight, or frame with lead. 2 space (printed matter) with leads. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

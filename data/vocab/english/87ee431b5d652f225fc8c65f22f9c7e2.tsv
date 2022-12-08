@@ -1,1 +1,6 @@
-Herbalist	n. 1 dealer in medicinal herbs. 2 writer on herbs.
+Herbalist	n. 1 dealer in medicinal herbs. 2 writer on herbs.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

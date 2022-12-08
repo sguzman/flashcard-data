@@ -1,1 +1,6 @@
-Quality	n. (pl. -ies) 1 degree of excellence. 2 a general excellence (has quality). B (attrib.) Of high quality (a quality product). 3 attribute, faculty (has many good qualities). 4 relative nature or character. 5 timbre of a voice or sound. 6 archaic high social standing (people of quality). [latin qualis such as, of what kind]
+Quality	n. (pl. -ies) 1 degree of excellence. 2 a general excellence (has quality). B (attrib.) Of high quality (a quality product). 3 attribute, faculty (has many good qualities). 4 relative nature or character. 5 timbre of a voice or sound. 6 archaic high social standing (people of quality). [latin qualis such as, of what kind]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

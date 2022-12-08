@@ -1,1 +1,6 @@
-Writhe	v. (-thing) 1 twist or roll oneself about in or as in acute pain. 2 suffer mental torture or embarrassment (writhed with shame). [old english]
+Writhe	v. (-thing) 1 twist or roll oneself about in or as in acute pain. 2 suffer mental torture or embarrassment (writhed with shame). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

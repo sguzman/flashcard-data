@@ -1,1 +1,6 @@
-Universe	n. 1 all existing things; creation. 2 all mankind. 3 statistics & logic all the objects under consideration. [latin universus combined into one]
+Universe	n. 1 all existing things; creation. 2 all mankind. 3 statistics & logic all the objects under consideration. [latin universus combined into one]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

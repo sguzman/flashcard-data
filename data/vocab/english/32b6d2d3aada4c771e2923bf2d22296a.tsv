@@ -1,1 +1,6 @@
-Feint	—n. 1 sham attack or diversionary blow. 2 pretence. —v. Make a feint. —adj. = *faint adj. 5. [french: related to *feign]
+Feint	—n. 1 sham attack or diversionary blow. 2 pretence. —v. Make a feint. —adj. = *faint adj. 5. [french: related to *feign]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Directly	—adv. 1 a at once; without delay, immediately (directly after lunch). B presently, shortly. 2 exactly (directly opposite). 3 in a direct manner. —conj. Colloq. As soon as (will tell you directly they come).
+Directly	—adv. 1 a at once; without delay, immediately (directly after lunch). B presently, shortly. 2 exactly (directly opposite). 3 in a direct manner. —conj. Colloq. As soon as (will tell you directly they come).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

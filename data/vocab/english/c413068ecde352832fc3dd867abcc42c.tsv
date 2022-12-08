@@ -1,1 +1,6 @@
-Feast	—n. 1 large or sumptuous meal. 2 sensual or mental pleasure. 3 religious festival. 4 annual village festival. —v. 1 (often foll. By on) partake of a feast; eat and drink sumptuously. 2 regale.  feast one's eyes on look with pleasure at. [latin festus joy]
+Feast	—n. 1 large or sumptuous meal. 2 sensual or mental pleasure. 3 religious festival. 4 annual village festival. —v. 1 (often foll. By on) partake of a feast; eat and drink sumptuously. 2 regale.  feast one's eyes on look with pleasure at. [latin festus joy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

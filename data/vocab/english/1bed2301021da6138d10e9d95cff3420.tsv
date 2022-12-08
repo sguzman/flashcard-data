@@ -1,1 +1,6 @@
-Pyjamas	n.pl. (us pajamas) 1 suit of loose trousers and jacket for sleeping in. 2 loose trousers worn by both sexes in some asian countries. 3 (pyjama) (attrib.) Of either part of a pair of pyjamas (pyjama jacket). [urdu, = leg-clothing]
+Pyjamas	n.pl. (us pajamas) 1 suit of loose trousers and jacket for sleeping in. 2 loose trousers worn by both sexes in some asian countries. 3 (pyjama) (attrib.) Of either part of a pair of pyjamas (pyjama jacket). [urdu, = leg-clothing]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

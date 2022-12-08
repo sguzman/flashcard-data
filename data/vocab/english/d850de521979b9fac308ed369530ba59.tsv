@@ -1,1 +1,6 @@
-Curfew	n. 1 signal or time after which people must remain indoors. 2 hist. Signal for extinction of fires at a fixed hour. [french: related to *cover, latin *focus]
+Curfew	n. 1 signal or time after which people must remain indoors. 2 hist. Signal for extinction of fires at a fixed hour. [french: related to *cover, latin *focus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

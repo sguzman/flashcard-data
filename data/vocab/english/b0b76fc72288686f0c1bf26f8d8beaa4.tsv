@@ -1,1 +1,6 @@
-Convenience	n. 1 state of being convenient; suitability.  2 useful thing. 3 advantage. 4 lavatory, esp. A public one.  at one's convenience at a time or place that suits one. [latin: related to *convene]
+Convenience	n. 1 state of being convenient; suitability.  2 useful thing. 3 advantage. 4 lavatory, esp. A public one.  at one's convenience at a time or place that suits one. [latin: related to *convene]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

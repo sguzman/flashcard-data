@@ -1,1 +1,6 @@
-Usage	although the senses of emotive and emotional overlap, emotive is more common in the sense ‘arousing emotion’, as in an emotive issue, and is not used at all in sense 2 of emotional.
+Usage	although the senses of emotive and emotional overlap, emotive is more common in the sense ‘arousing emotion’, as in an emotive issue, and is not used at all in sense 2 of emotional.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

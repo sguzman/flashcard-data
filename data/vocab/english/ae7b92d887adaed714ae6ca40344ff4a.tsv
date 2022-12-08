@@ -1,1 +1,6 @@
-Butt1	—v. 1 push or strike with the head or horns. 2 (cause to) meet edge to edge. —n. 1 push with the head. 2 join of two edges.  butt in interrupt, meddle. [french from germanic]
+Butt1	—v. 1 push or strike with the head or horns. 2 (cause to) meet edge to edge. —n. 1 push with the head. 2 join of two edges.  butt in interrupt, meddle. [french from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

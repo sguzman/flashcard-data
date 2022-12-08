@@ -1,1 +1,6 @@
-Vermin	n. (usu. Treated as pl.) 1 mammals and birds harmful to game, crops, etc., e.g. Foxes and rats. 2 parasitic worms or insects. 3 vile people.  verminous adj. [latin vermis worm]
+Vermin	n. (usu. Treated as pl.) 1 mammals and birds harmful to game, crops, etc., e.g. Foxes and rats. 2 parasitic worms or insects. 3 vile people.  verminous adj. [latin vermis worm]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

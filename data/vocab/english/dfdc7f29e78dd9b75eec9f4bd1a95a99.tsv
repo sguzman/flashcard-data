@@ -1,1 +1,6 @@
-Wool	n. 1 fine soft wavy hair from the fleece of sheep etc. 2 woollen yarn or cloth or clothing. 3 wool-like substance (steel wool).  pull the wool over a person's eyes deceive a person. [old english]
+Wool	n. 1 fine soft wavy hair from the fleece of sheep etc. 2 woollen yarn or cloth or clothing. 3 wool-like substance (steel wool).  pull the wool over a person's eyes deceive a person. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Invent	v. 1 create by thought, originate (a method, device, etc.). 2 concoct (a false story etc.).  inventor n. [latin invenio -vent- find]
+Invent	v. 1 create by thought, originate (a method, device, etc.). 2 concoct (a false story etc.).  inventor n. [latin invenio -vent- find]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

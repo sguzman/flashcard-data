@@ -1,1 +1,6 @@
-Taut	adj. 1 (of a rope etc.) Tight; not slack. 2 (of nerves etc.) Tense. 3 (of a ship etc.) In good condition.  tauten v. Tautly adv. Tautness n. [perhaps = *tough]
+Taut	adj. 1 (of a rope etc.) Tight; not slack. 2 (of nerves etc.) Tense. 3 (of a ship etc.) In good condition.  tauten v. Tautly adv. Tautness n. [perhaps = *tough]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hungry	adj. (-ier, -iest) 1 feeling or showing hunger; needing food. 2 inducing hunger (hungry work). 3 craving (hungry for news).  hungrily adv. [old english]
+Hungry	adj. (-ier, -iest) 1 feeling or showing hunger; needing food. 2 inducing hunger (hungry work). 3 craving (hungry for news).  hungrily adv. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

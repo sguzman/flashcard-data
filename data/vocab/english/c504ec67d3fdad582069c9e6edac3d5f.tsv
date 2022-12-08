@@ -1,1 +1,6 @@
-Breakable	—adj. Easily broken. —n. (esp. In pl.) Breakable thing.
+Breakable	—adj. Easily broken. —n. (esp. In pl.) Breakable thing.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

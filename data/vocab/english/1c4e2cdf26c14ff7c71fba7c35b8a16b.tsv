@@ -1,1 +1,6 @@
-Unstring	v. (past and past part. Unstrung) 1 remove or relax the string(s) of (a bow, harp, etc.). 2 remove (beads etc.) From a string. 3 (esp. As unstrung adj.) Unnerve.
+Unstring	v. (past and past part. Unstrung) 1 remove or relax the string(s) of (a bow, harp, etc.). 2 remove (beads etc.) From a string. 3 (esp. As unstrung adj.) Unnerve.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

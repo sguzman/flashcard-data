@@ -1,1 +1,6 @@
-Frost	—n. 1 a frozen dew or vapour. B consistent temperature below freezing point. 2 cold dispiriting atmosphere. —v. 1 (usu. Foll. By over, up) become covered with frost. 2 a cover with or as with frost. B injure (a plant etc.) With frost. 3 make (glass) non-transparent by roughening its surface. [old english: related to *freeze]
+Frost	—n. 1 a frozen dew or vapour. B consistent temperature below freezing point. 2 cold dispiriting atmosphere. —v. 1 (usu. Foll. By over, up) become covered with frost. 2 a cover with or as with frost. B injure (a plant etc.) With frost. 3 make (glass) non-transparent by roughening its surface. [old english: related to *freeze]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

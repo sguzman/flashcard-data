@@ -1,1 +1,6 @@
-Temporal	adj. 1 worldly as opposed to spiritual; secular. 2 of time. 3 gram. Denoting time or tense (temporal conjunction). 4 of the temples of the head (temporal artery). [latin tempus -por- time]
+Temporal	adj. 1 worldly as opposed to spiritual; secular. 2 of time. 3 gram. Denoting time or tense (temporal conjunction). 4 of the temples of the head (temporal artery). [latin tempus -por- time]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

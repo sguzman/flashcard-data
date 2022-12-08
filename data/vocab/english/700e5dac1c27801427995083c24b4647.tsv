@@ -1,1 +1,6 @@
-Boo	—int. 1 expression of disapproval etc. 2 sound intended to surprise. —n. Utterance of boo, esp. To a performer etc. —v. (boos, booed) 1 utter boos. 2 jeer at by booing. [imitative]
+Boo	—int. 1 expression of disapproval etc. 2 sound intended to surprise. —n. Utterance of boo, esp. To a performer etc. —v. (boos, booed) 1 utter boos. 2 jeer at by booing. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

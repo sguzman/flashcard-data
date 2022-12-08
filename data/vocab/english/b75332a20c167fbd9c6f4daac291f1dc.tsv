@@ -1,1 +1,6 @@
-Croat	(also croatian) —n. 1 a native of croatia in se europe. B person of croatian descent. 2 slavonic dialect of the croats. —adj. Of the croats or their dialect. [serbo-croatian hrvat]
+Croat	(also croatian) —n. 1 a native of croatia in se europe. B person of croatian descent. 2 slavonic dialect of the croats. —adj. Of the croats or their dialect. [serbo-croatian hrvat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

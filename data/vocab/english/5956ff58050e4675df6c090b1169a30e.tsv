@@ -1,1 +1,6 @@
-Perennial	—adj. 1 lasting through a year or several years. 2 (of a plant) lasting several years. 3 lasting a long time or for ever. —n. Perennial plant.  perennially adv. [latin perennis from annus year]
+Perennial	—adj. 1 lasting through a year or several years. 2 (of a plant) lasting several years. 3 lasting a long time or for ever. —n. Perennial plant.  perennially adv. [latin perennis from annus year]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Maxilla	n. (pl. -llae) jaw or jawbone, esp. (in vertebrates) the upper jaw.  maxillary adj. [latin]
+Maxilla	n. (pl. -llae) jaw or jawbone, esp. (in vertebrates) the upper jaw.  maxillary adj. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

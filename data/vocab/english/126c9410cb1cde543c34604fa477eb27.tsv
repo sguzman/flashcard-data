@@ -1,1 +1,6 @@
-Indigenous	adj. (often foll. By to) native or belonging naturally to a place. [latin: from a root gen- be born]
+Indigenous	adj. (often foll. By to) native or belonging naturally to a place. [latin: from a root gen- be born]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

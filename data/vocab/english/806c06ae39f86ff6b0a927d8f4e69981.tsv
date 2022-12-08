@@ -1,1 +1,6 @@
-Silhouette	—n. 1 picture showing the outline only, usu. In black on white or cut from paper. 2 dark shadow or outline against a lighter background. —v. (-ting) represent or (usu. In passive) show in silhouette. [silhouette, name of a politician]
+Silhouette	—n. 1 picture showing the outline only, usu. In black on white or cut from paper. 2 dark shadow or outline against a lighter background. —v. (-ting) represent or (usu. In passive) show in silhouette. [silhouette, name of a politician]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

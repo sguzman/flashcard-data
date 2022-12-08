@@ -1,1 +1,6 @@
-Powder	—n. 1 mass of fine dry particles. 2 medicine or cosmetic in this form. 3 = *gunpowder. —v. 1 apply powder to. 2 (esp. As powdered adj.) Reduce to a fine powder (powdered milk).  powdery adj. [latin pulvis -ver- dust]
+Powder	—n. 1 mass of fine dry particles. 2 medicine or cosmetic in this form. 3 = *gunpowder. —v. 1 apply powder to. 2 (esp. As powdered adj.) Reduce to a fine powder (powdered milk).  powdery adj. [latin pulvis -ver- dust]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

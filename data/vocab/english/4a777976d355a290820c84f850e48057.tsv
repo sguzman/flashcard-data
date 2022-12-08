@@ -1,1 +1,6 @@
-Draught	n. (us draft) 1 current of air in a room or chimney etc. 2 pulling, traction. 3 depth of water needed to float a ship. 4 drawing of liquor from a cask etc. 5 a single act of drinking or inhaling. B amount drunk thus. 6 (in pl.) Game for two with 12 pieces each on a draughtboard. 7 a drawing in of a fishing-net. B fish so caught.  feel the draught colloq. Suffer from esp. Financial hardship. [related to *draw]
+Draught	n. (us draft) 1 current of air in a room or chimney etc. 2 pulling, traction. 3 depth of water needed to float a ship. 4 drawing of liquor from a cask etc. 5 a single act of drinking or inhaling. B amount drunk thus. 6 (in pl.) Game for two with 12 pieces each on a draughtboard. 7 a drawing in of a fishing-net. B fish so caught.  feel the draught colloq. Suffer from esp. Financial hardship. [related to *draw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

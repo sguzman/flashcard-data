@@ -1,1 +1,6 @@
-Example	n. 1 thing characteristic of its kind or illustrating a general rule. 2 person, thing, or piece of conduct, in terms of its fitness to be imitated. 3 circumstance or treatment seen as a warning to others. 4 problem or exercise designed to illustrate a rule.  for example by way of illustration. [latin exemplum: related to *exempt]
+Example	n. 1 thing characteristic of its kind or illustrating a general rule. 2 person, thing, or piece of conduct, in terms of its fitness to be imitated. 3 circumstance or treatment seen as a warning to others. 4 problem or exercise designed to illustrate a rule.  for example by way of illustration. [latin exemplum: related to *exempt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

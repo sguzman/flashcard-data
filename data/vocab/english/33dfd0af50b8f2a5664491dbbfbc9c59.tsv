@@ -1,1 +1,6 @@
-Cotter	n. 1 bolt or wedge for securing parts of machinery etc. 2 (in full cotter pin) split pin that can be opened after passing through a hole. [origin unknown]
+Cotter	n. 1 bolt or wedge for securing parts of machinery etc. 2 (in full cotter pin) split pin that can be opened after passing through a hole. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

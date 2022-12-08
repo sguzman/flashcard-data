@@ -1,1 +1,6 @@
-Immaculate	adj. 1 perfectly clean and tidy. 2 perfect (immaculate timing). 3 innocent, faultless.  immaculately adv. Immaculateness n. [latin: related to *in-1, macula spot]
+Immaculate	adj. 1 perfectly clean and tidy. 2 perfect (immaculate timing). 3 innocent, faultless.  immaculately adv. Immaculateness n. [latin: related to *in-1, macula spot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

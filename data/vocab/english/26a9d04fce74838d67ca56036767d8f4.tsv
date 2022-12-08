@@ -1,1 +1,6 @@
-Quite	adv. 1 completely, entirely, wholly. 2 to some extent, rather. 3 (often foll. By so) said to indicate agreement.  quite a (or some) remarkable or outstanding (thing). Quite a few colloq. A fairly large number of. Quite something colloq. Remarkable thing or person. [var. Of *quit]
+Quite	adv. 1 completely, entirely, wholly. 2 to some extent, rather. 3 (often foll. By so) said to indicate agreement.  quite a (or some) remarkable or outstanding (thing). Quite a few colloq. A fairly large number of. Quite something colloq. Remarkable thing or person. [var. Of *quit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

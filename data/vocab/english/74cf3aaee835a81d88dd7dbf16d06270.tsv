@@ -1,1 +1,6 @@
-Plenary	adj. 1 (of an assembly) to be attended by all members. 2 entire, unqualified (plenary indulgence). [latin plenus full]
+Plenary	adj. 1 (of an assembly) to be attended by all members. 2 entire, unqualified (plenary indulgence). [latin plenus full]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

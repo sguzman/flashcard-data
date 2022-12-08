@@ -1,1 +1,6 @@
-Masculine	—adj. 1 of men. 2 having manly qualities. 3 of or denoting the male gender. —n. Masculine gender or word.  masculinity n. [latin: related to *male]
+Masculine	—adj. 1 of men. 2 having manly qualities. 3 of or denoting the male gender. —n. Masculine gender or word.  masculinity n. [latin: related to *male]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

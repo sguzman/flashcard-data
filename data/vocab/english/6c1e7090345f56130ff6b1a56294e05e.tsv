@@ -1,1 +1,6 @@
-Luscious	adj. 1 richly sweet in taste or smell. 2 (of style) over-rich. 3 voluptuously attractive. [perhaps related to *delicious]
+Luscious	adj. 1 richly sweet in taste or smell. 2 (of style) over-rich. 3 voluptuously attractive. [perhaps related to *delicious]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

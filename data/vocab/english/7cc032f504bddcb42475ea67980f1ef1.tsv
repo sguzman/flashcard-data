@@ -1,1 +1,6 @@
-Provision	—n. 1 a act of providing (provision of nurseries). B preparation, esp. For the future (made provision for their old age). 2 (in pl.) Food, drink, etc., esp. For an expedition. 3 legal or formal stipulation or proviso. —v. Supply with provisions. [latin: related to *provide]
+Provision	—n. 1 a act of providing (provision of nurseries). B preparation, esp. For the future (made provision for their old age). 2 (in pl.) Food, drink, etc., esp. For an expedition. 3 legal or formal stipulation or proviso. —v. Supply with provisions. [latin: related to *provide]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

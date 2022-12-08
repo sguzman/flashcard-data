@@ -1,1 +1,6 @@
-Curry1	—n. (pl. -ies) meat, vegetables, etc., cooked in a spicy sauce, usu. Served with rice. —v. (-ies, -ied) prepare or flavour with a curry sauce. [tamil]
+Curry1	—n. (pl. -ies) meat, vegetables, etc., cooked in a spicy sauce, usu. Served with rice. —v. (-ies, -ied) prepare or flavour with a curry sauce. [tamil]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

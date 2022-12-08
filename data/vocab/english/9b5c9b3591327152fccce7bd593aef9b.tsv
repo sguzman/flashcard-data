@@ -1,1 +1,6 @@
-Augur	—v. Portend, serve as an omen (augur well or ill). —n. Hist. Roman religious official interpreting natural phenomena in order to pronounce on proposed actions. [latin]
+Augur	—v. Portend, serve as an omen (augur well or ill). —n. Hist. Roman religious official interpreting natural phenomena in order to pronounce on proposed actions. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

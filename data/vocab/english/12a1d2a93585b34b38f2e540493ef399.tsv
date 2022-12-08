@@ -1,1 +1,6 @@
-Cradle	—n. 1 a baby's bed or cot, esp. On rockers. B place in which something begins, esp. Civilization (cradle of democracy). 2 supporting framework or structure. —v. (-ling) 1 contain or shelter as in a cradle. 2 place in a cradle. [old english]
+Cradle	—n. 1 a baby's bed or cot, esp. On rockers. B place in which something begins, esp. Civilization (cradle of democracy). 2 supporting framework or structure. —v. (-ling) 1 contain or shelter as in a cradle. 2 place in a cradle. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

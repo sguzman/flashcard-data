@@ -1,1 +1,6 @@
-Levy	—v. (-ies, -ied) 1 impose or collect compulsorily (payment etc.). 2 enrol (troops etc.). 3 wage (war). —n. (pl. -ies) 1 a collecting of a contribution, tax, etc. B contribution etc. Levied. 2 a act of enrolling troops etc. B (in pl.) Troops enrolled. [latin levo raise]
+Levy	—v. (-ies, -ied) 1 impose or collect compulsorily (payment etc.). 2 enrol (troops etc.). 3 wage (war). —n. (pl. -ies) 1 a collecting of a contribution, tax, etc. B contribution etc. Levied. 2 a act of enrolling troops etc. B (in pl.) Troops enrolled. [latin levo raise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

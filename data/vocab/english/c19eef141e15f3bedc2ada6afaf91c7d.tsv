@@ -1,1 +1,6 @@
-Design	—n. 1 a preliminary plan or sketch for making something. B art of producing these. 2 lines or shapes forming a pattern or decoration. 3 plan, purpose, or intention. 4 a arrangement or layout of a product. B established version of a product. —v. 1 produce a design for (a building, machine, etc.). 2 intend or plan (designed for beginners). 3 be a designer.  by design on purpose. Have designs on plan to appropriate, seduce, etc. [latin signum mark]
+Design	—n. 1 a preliminary plan or sketch for making something. B art of producing these. 2 lines or shapes forming a pattern or decoration. 3 plan, purpose, or intention. 4 a arrangement or layout of a product. B established version of a product. —v. 1 produce a design for (a building, machine, etc.). 2 intend or plan (designed for beginners). 3 be a designer.  by design on purpose. Have designs on plan to appropriate, seduce, etc. [latin signum mark]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

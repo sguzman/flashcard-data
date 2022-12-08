@@ -1,1 +1,6 @@
-Residence	n. 1 process of residing or being resident. 2 a place where a person resides. B house, esp. One of pretension.  in residence living or working at a specified place, esp. For the performance of duties (artist in residence).
+Residence	n. 1 process of residing or being resident. 2 a place where a person resides. B house, esp. One of pretension.  in residence living or working at a specified place, esp. For the performance of duties (artist in residence).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

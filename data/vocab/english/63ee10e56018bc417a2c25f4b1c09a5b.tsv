@@ -1,1 +1,6 @@
-Joke	—n. 1 thing said or done to cause laughter; witticism. 2 ridiculous person or thing. —v. (-king) make jokes; tease (only joking).  no joke colloq. Serious matter.  jokingly adv. Joky adj. (also jokey). Jokily adv. Jokiness n. [probably latin jocus jest]
+Joke	—n. 1 thing said or done to cause laughter; witticism. 2 ridiculous person or thing. —v. (-king) make jokes; tease (only joking).  no joke colloq. Serious matter.  jokingly adv. Joky adj. (also jokey). Jokily adv. Jokiness n. [probably latin jocus jest]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

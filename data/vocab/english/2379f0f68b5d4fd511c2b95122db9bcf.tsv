@@ -1,1 +1,6 @@
-Antiquity	n. (pl. -ies) 1 ancient times, esp. Before the middle ages. 2 great age. 3 (usu. In pl.) Relics from ancient times. [latin: related to *antique]
+Antiquity	n. (pl. -ies) 1 ancient times, esp. Before the middle ages. 2 great age. 3 (usu. In pl.) Relics from ancient times. [latin: related to *antique]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

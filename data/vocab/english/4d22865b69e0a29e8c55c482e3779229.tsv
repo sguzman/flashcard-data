@@ -1,1 +1,6 @@
-Planner	n. 1 person who plans new towns etc. 2 person who makes plans. 3 list, table, etc., with information helpful in planning.
+Planner	n. 1 person who plans new towns etc. 2 person who makes plans. 3 list, table, etc., with information helpful in planning.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Presence	n. 1 being present. 2 place where a person is (admitted to their presence). 3 person's appearance or bearing, esp. When imposing. 4 person or spirit that is present (the royal presence; aware of a presence in the room). [latin: related to *present1]
+Presence	n. 1 being present. 2 place where a person is (admitted to their presence). 3 person's appearance or bearing, esp. When imposing. 4 person or spirit that is present (the royal presence; aware of a presence in the room). [latin: related to *present1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

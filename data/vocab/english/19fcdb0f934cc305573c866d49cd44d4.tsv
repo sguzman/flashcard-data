@@ -1,1 +1,6 @@
-Moneymaker	n. 1 person who earns much money. 2 thing, idea, etc., that produces much money.  moneymaking n. & adj.
+Moneymaker	n. 1 person who earns much money. 2 thing, idea, etc., that produces much money.  moneymaking n. & adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

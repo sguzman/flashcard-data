@@ -1,1 +1,6 @@
-Topography	n. 1 detailed description, representation on a map, etc., of the features of a town, district, etc. 2 such features.  topographer n. Topographical adj. [greek topos place]
+Topography	n. 1 detailed description, representation on a map, etc., of the features of a town, district, etc. 2 such features.  topographer n. Topographical adj. [greek topos place]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

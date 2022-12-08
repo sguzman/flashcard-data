@@ -1,1 +1,6 @@
-Second-guess	v. Colloq. 1 anticipate by guesswork. 2 criticize with hindsight.
+Second-guess	v. Colloq. 1 anticipate by guesswork. 2 criticize with hindsight.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sand	—n. 1 fine loose grains resulting from the erosion of esp. Siliceous rocks and forming the seashore, deserts, etc. 2 (in pl.) A grains of sand. B expanse of sand. C sandbank. —v. Smooth with sandpaper or sand. [old english]
+Sand	—n. 1 fine loose grains resulting from the erosion of esp. Siliceous rocks and forming the seashore, deserts, etc. 2 (in pl.) A grains of sand. B expanse of sand. C sandbank. —v. Smooth with sandpaper or sand. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

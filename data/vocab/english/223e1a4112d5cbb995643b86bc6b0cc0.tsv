@@ -1,1 +1,6 @@
-Nag1	v. (-gg-) 1 a persistently criticize or scold. B (often foll. By at) find fault or urge, esp. Persistently. 2 (of a pain) be persistent. [originally a dial. Word]
+Nag1	v. (-gg-) 1 a persistently criticize or scold. B (often foll. By at) find fault or urge, esp. Persistently. 2 (of a pain) be persistent. [originally a dial. Word]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

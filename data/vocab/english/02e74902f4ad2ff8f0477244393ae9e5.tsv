@@ -1,1 +1,6 @@
-Geography	n. 1 science of the earth's physical features, resources, climate, population, etc. 2 features or arrangement of an area, rooms, etc.  geographer n. [latin from greek]
+Geography	n. 1 science of the earth's physical features, resources, climate, population, etc. 2 features or arrangement of an area, rooms, etc.  geographer n. [latin from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

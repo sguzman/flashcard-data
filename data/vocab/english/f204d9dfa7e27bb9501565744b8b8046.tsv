@@ -1,1 +1,6 @@
-Usage	in sense 1a, a lot of is somewhat informal, but acceptable in serious writing, whereas lots of is not acceptable.
+Usage	in sense 1a, a lot of is somewhat informal, but acceptable in serious writing, whereas lots of is not acceptable.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

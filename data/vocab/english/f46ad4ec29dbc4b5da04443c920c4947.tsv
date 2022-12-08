@@ -1,1 +1,6 @@
-Consult	v. 1 seek information or advice from. 2 (often foll. By with) refer to a person for advice etc. 3 take into account (feelings, interests, etc.).  consultative adj. [latin consulo consult- take counsel]
+Consult	v. 1 seek information or advice from. 2 (often foll. By with) refer to a person for advice etc. 3 take into account (feelings, interests, etc.).  consultative adj. [latin consulo consult- take counsel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

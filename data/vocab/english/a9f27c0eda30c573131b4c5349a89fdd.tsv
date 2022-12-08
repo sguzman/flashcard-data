@@ -1,1 +1,6 @@
-Germinal	adj. 1 of germs. 2 in the earliest stage of development. 3 productive of new ideas.  germinally adv. [related to *germ]
+Germinal	adj. 1 of germs. 2 in the earliest stage of development. 3 productive of new ideas.  germinally adv. [related to *germ]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

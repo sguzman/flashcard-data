@@ -1,1 +1,6 @@
-Convocation	n. 1 convoking or being convoked. 2 large formal gathering. [latin: related to *convoke]
+Convocation	n. 1 convoking or being convoked. 2 large formal gathering. [latin: related to *convoke]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

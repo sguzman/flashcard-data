@@ -1,1 +1,6 @@
-Indomitable	adj. 1 unconquerable. 2 unyielding.  indomitably adv. [latin: related to *in-1, domito tame]
+Indomitable	adj. 1 unconquerable. 2 unyielding.  indomitably adv. [latin: related to *in-1, domito tame]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

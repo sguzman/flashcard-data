@@ -1,1 +1,6 @@
-Saturnalia	n. (pl. Same or -s) 1 (usu. Saturnalia) rom. Hist. Festival of saturn in december, the predecessor of christmas. 2 (as sing. Or pl.) Scene of wild revelry. [latin, pl. From saturnus roman god]
+Saturnalia	n. (pl. Same or -s) 1 (usu. Saturnalia) rom. Hist. Festival of saturn in december, the predecessor of christmas. 2 (as sing. Or pl.) Scene of wild revelry. [latin, pl. From saturnus roman god]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

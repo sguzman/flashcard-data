@@ -1,1 +1,6 @@
-Fruit	—n. 1 a seed-bearing part of a plant or tree; this as food. B these collectively. 2 (usu. In pl.) Vegetables, grains, etc. As food (fruits of the earth). 3 (usu. In pl.) Profits, rewards. —v. (cause to) bear fruit. [latin fructus from fruor enjoy]
+Fruit	—n. 1 a seed-bearing part of a plant or tree; this as food. B these collectively. 2 (usu. In pl.) Vegetables, grains, etc. As food (fruits of the earth). 3 (usu. In pl.) Profits, rewards. —v. (cause to) bear fruit. [latin fructus from fruor enjoy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

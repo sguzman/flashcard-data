@@ -1,1 +1,6 @@
-Represent1	v. 1 stand for or correspond to. 2 (often in passive) be a specimen of. 3 embody; symbolize. 4 place a likeness of before the mind or senses. 5 (often foll. By as, to be) describe or depict as; declare. 6 (foll. By that) allege. 7 show, or play the part of, on stage.
+Represent1	v. 1 stand for or correspond to. 2 (often in passive) be a specimen of. 3 embody; symbolize. 4 place a likeness of before the mind or senses. 5 (often foll. By as, to be) describe or depict as; declare. 6 (foll. By that) allege. 7 show, or play the part of, on stage.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Hoodoo	n. Esp. Us 1 a bad luck. B thing or person that brings this. 2 voodoo. [alteration of *voodoo]
+Hoodoo	n. Esp. Us 1 a bad luck. B thing or person that brings this. 2 voodoo. [alteration of *voodoo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

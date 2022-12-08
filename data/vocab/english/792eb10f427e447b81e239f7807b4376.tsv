@@ -1,1 +1,6 @@
-Feeble	adj. (feebler, feeblest) 1 weak, infirm. 2 lacking strength, energy, or effectiveness.  feebly adv. [latin flebilis lamentable]
+Feeble	adj. (feebler, feeblest) 1 weak, infirm. 2 lacking strength, energy, or effectiveness.  feebly adv. [latin flebilis lamentable]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

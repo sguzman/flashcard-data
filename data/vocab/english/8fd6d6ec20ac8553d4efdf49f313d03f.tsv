@@ -1,1 +1,6 @@
-Percolate	v. (-ting) 1 (often foll. By through) a (of liquid etc.) Filter or ooze gradually. B (of an idea etc.) Permeate gradually. 2 prepare (coffee) in a percolator. 3 strain (a liquid, powder, etc.) Through a fine mesh etc.  percolation n. [latin colum strainer]
+Percolate	v. (-ting) 1 (often foll. By through) a (of liquid etc.) Filter or ooze gradually. B (of an idea etc.) Permeate gradually. 2 prepare (coffee) in a percolator. 3 strain (a liquid, powder, etc.) Through a fine mesh etc.  percolation n. [latin colum strainer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

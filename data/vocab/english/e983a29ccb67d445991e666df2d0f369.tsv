@@ -1,1 +1,6 @@
-Refusal	n. 1 refusing or being refused. 2 (in full first refusal) right or privilege of deciding to take or leave a thing before it is offered to others.
+Refusal	n. 1 refusing or being refused. 2 (in full first refusal) right or privilege of deciding to take or leave a thing before it is offered to others.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Slight	—adj. 1 a small; insignificant. B inadequate. 2 slender, frail-looking. 3 (in superl.) Any whatever (if there were the slightest chance). —v. Treat disrespectfully; ignore. —n. Act of slighting.  slightly adv. Slightness n. [old norse]
+Slight	—adj. 1 a small; insignificant. B inadequate. 2 slender, frail-looking. 3 (in superl.) Any whatever (if there were the slightest chance). —v. Treat disrespectfully; ignore. —n. Act of slighting.  slightly adv. Slightness n. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

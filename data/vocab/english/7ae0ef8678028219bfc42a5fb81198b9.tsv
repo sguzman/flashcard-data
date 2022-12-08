@@ -1,1 +1,6 @@
-Squat	—v. (-tt-) 1 sit on one's heels or on the ground with the knees drawn up. 2 colloq. Sit down. 3 occupy a building as a squatter. —adj. (squatter, squattest) short and thick, dumpy. —n. 1 squatting posture. 2 place occupied by squatters. [french esquatir flatten]
+Squat	—v. (-tt-) 1 sit on one's heels or on the ground with the knees drawn up. 2 colloq. Sit down. 3 occupy a building as a squatter. —adj. (squatter, squattest) short and thick, dumpy. —n. 1 squatting posture. 2 place occupied by squatters. [french esquatir flatten]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

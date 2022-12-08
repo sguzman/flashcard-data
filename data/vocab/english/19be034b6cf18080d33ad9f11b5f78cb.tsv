@@ -1,1 +1,6 @@
-Mean3	—n. 1 median point (mean between modesty and pride). 2  a term midway between the first and last terms of an arithmetical etc. Progression. B quotient of the sum of several quantities and their number; average. —adj. 1 (of a quantity) equally far from two extremes. 2 calculated as a mean. [latin medianus *median]
+Mean3	—n. 1 median point (mean between modesty and pride). 2  a term midway between the first and last terms of an arithmetical etc. Progression. B quotient of the sum of several quantities and their number; average. —adj. 1 (of a quantity) equally far from two extremes. 2 calculated as a mean. [latin medianus *median]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

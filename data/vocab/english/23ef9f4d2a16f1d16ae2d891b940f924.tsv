@@ -1,1 +1,6 @@
-Labial	—adj. 1 a of the lips. B of, like, or serving as a lip. 2 (of a sound) requiring partial or complete closure of the lips. —n. Labial sound (e.g. P, m, v). [latin labia lips]
+Labial	—adj. 1 a of the lips. B of, like, or serving as a lip. 2 (of a sound) requiring partial or complete closure of the lips. —n. Labial sound (e.g. P, m, v). [latin labia lips]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

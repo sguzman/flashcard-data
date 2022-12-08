@@ -1,1 +1,6 @@
-Fraternity	n. (pl. -ies) 1 religious brotherhood. 2 group with common interests, or of the same professional class. 3 us male students' society. 4 brotherliness. [latin: related to *fraternal]
+Fraternity	n. (pl. -ies) 1 religious brotherhood. 2 group with common interests, or of the same professional class. 3 us male students' society. 4 brotherliness. [latin: related to *fraternal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

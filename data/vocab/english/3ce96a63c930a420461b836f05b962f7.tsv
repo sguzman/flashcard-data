@@ -1,1 +1,6 @@
-Feeder	n. 1 person or thing that feeds, esp. In specified manner. 2 baby's feeding-bottle. 3 bib. 4 tributary stream. 5 branch road, railway line, etc. Linking with a main system. 6 main carrying electricity to a distribution point. 7 feeding apparatus in a machine.
+Feeder	n. 1 person or thing that feeds, esp. In specified manner. 2 baby's feeding-bottle. 3 bib. 4 tributary stream. 5 branch road, railway line, etc. Linking with a main system. 6 main carrying electricity to a distribution point. 7 feeding apparatus in a machine.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gown	n. 1 loose flowing garment, esp. A woman's long dress. 2 official robe of an alderman, judge, cleric, academic, etc. 3 surgeon's overall. [latin gunna fur]
+Gown	n. 1 loose flowing garment, esp. A woman's long dress. 2 official robe of an alderman, judge, cleric, academic, etc. 3 surgeon's overall. [latin gunna fur]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

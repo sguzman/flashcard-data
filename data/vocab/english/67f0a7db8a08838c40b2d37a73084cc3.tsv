@@ -1,1 +1,6 @@
-Effigy	n. (pl. -ies) sculpture or model of a person.  burn in effigy burn a model of a person. [latin effigies from fingo fashion]
+Effigy	n. (pl. -ies) sculpture or model of a person.  burn in effigy burn a model of a person. [latin effigies from fingo fashion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

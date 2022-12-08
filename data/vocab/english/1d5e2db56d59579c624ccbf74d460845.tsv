@@ -1,1 +1,6 @@
-Pierce	v. (-cing) 1 a (of a sharp instrument etc.) Penetrate. B (often foll. By with) make a hole in or through with a sharp-pointed instrument. C make (a hole etc.). 2 (as piercing adj.) (of a glance, sound, light, pain, cold, etc.) Keen, sharp, or unpleasantly penetrating. 3 (often foll. By through, into) force a way through or into, penetrate. [french percer from latin pertundo bore through]
+Pierce	v. (-cing) 1 a (of a sharp instrument etc.) Penetrate. B (often foll. By with) make a hole in or through with a sharp-pointed instrument. C make (a hole etc.). 2 (as piercing adj.) (of a glance, sound, light, pain, cold, etc.) Keen, sharp, or unpleasantly penetrating. 3 (often foll. By through, into) force a way through or into, penetrate. [french percer from latin pertundo bore through]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

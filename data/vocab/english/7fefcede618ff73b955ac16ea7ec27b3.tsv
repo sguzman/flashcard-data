@@ -1,1 +1,6 @@
-Cleaner	n. 1 person employed to clean rooms etc. 2 establishment for cleaning clothes etc. 3 device or substance for cleaning.  take a person to the cleaners slang 1 defraud or rob a person. 2 criticize severely.
+Cleaner	n. 1 person employed to clean rooms etc. 2 establishment for cleaning clothes etc. 3 device or substance for cleaning.  take a person to the cleaners slang 1 defraud or rob a person. 2 criticize severely.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

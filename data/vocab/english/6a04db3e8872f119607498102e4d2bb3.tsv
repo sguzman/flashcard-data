@@ -1,1 +1,6 @@
-Adenoids	n.pl. Area of enlarged lymphatic tissue between the nose and the throat, often hindering breathing in the young.  adenoidal adj. [greek aden gland]
+Adenoids	n.pl. Area of enlarged lymphatic tissue between the nose and the throat, often hindering breathing in the young.  adenoidal adj. [greek aden gland]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

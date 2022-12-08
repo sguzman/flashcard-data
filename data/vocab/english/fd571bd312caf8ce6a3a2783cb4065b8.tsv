@@ -1,1 +1,6 @@
-Amazon	n. 1 female warrior of a mythical race in the black sea area. 2 (amazon) large, strong, or athletic woman.  amazonian adj. [latin from greek]
+Amazon	n. 1 female warrior of a mythical race in the black sea area. 2 (amazon) large, strong, or athletic woman.  amazonian adj. [latin from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

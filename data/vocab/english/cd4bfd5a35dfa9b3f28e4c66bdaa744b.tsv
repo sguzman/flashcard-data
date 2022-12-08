@@ -1,1 +1,6 @@
-Angle	n. (usu. In pl.) Member of a n. German tribe that settled in e. Britain in the 5th c. [latin anglus, from the name angul in germany]
+Angle	n. (usu. In pl.) Member of a n. German tribe that settled in e. Britain in the 5th c. [latin anglus, from the name angul in germany]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

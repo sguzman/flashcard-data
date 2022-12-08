@@ -1,1 +1,6 @@
-Marathon	n. 1 long-distance running race, usu. Of 26 miles 385 yards (42.195 km). 2 long-lasting or difficult undertaking etc. [marathon in greece, scene of a decisive battle in 490 bc: a messenger supposedly ran with news of the outcome to athens]
+Marathon	n. 1 long-distance running race, usu. Of 26 miles 385 yards (42.195 km). 2 long-lasting or difficult undertaking etc. [marathon in greece, scene of a decisive battle in 490 bc: a messenger supposedly ran with news of the outcome to athens]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

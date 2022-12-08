@@ -1,1 +1,6 @@
-Prophetic	adj. 1 (often foll. By of) containing a prediction; predicting. 2 of a prophet.   prophetically adv. [latin: related to *prophet]
+Prophetic	adj. 1 (often foll. By of) containing a prediction; predicting. 2 of a prophet.   prophetically adv. [latin: related to *prophet]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

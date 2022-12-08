@@ -1,1 +1,6 @@
-Combine	—v. (-ning) 1 join together; unite for a common purpose. 2 possess (qualities usually distinct) together. 3 form or cause to form a chemical compound. 4  harvest with a combine harvester. —n. 1  combination of esp. Commercial interests. 2 (in full combine harvester) machine that reaps and threshes in one operation. [latin bini a pair]
+Combine	—v. (-ning) 1 join together; unite for a common purpose. 2 possess (qualities usually distinct) together. 3 form or cause to form a chemical compound. 4  harvest with a combine harvester. —n. 1  combination of esp. Commercial interests. 2 (in full combine harvester) machine that reaps and threshes in one operation. [latin bini a pair]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Human	—adj. 1 of or belonging to the species homo sapiens. 2 consisting of human beings (the human race). 3 of or characteristic of humankind, esp. As being weak, fallible, etc. (is only human). 4 showing warmth, sympathy, etc. (is very human). —n. Human being. [latin humanus]
+Human	—adj. 1 of or belonging to the species homo sapiens. 2 consisting of human beings (the human race). 3 of or characteristic of humankind, esp. As being weak, fallible, etc. (is only human). 4 showing warmth, sympathy, etc. (is very human). —n. Human being. [latin humanus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

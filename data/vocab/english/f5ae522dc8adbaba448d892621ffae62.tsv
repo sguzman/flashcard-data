@@ -1,1 +1,6 @@
-Usage	use of comparable with to and with corresponds to the senses of compare: to is more common.
+Usage	use of comparable with to and with corresponds to the senses of compare: to is more common.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

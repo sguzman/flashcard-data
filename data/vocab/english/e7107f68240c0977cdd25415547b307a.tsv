@@ -1,1 +1,6 @@
-Address	—n. 1 a place where a person lives or an organization is situated. B particulars of this, esp. For postal purposes. C computing location of an item of stored information. 2 discourse to an audience. —v. 1 write postal directions on (an envelope etc.). 2 direct (remarks etc.). 3 speak or write to, esp. Formally. 4 direct one's attention to. 5 golf take aim at (the ball).  address oneself to 1 speak or write to. 2 attend to. [french: related to *ad-, *direct]
+Address	—n. 1 a place where a person lives or an organization is situated. B particulars of this, esp. For postal purposes. C computing location of an item of stored information. 2 discourse to an audience. —v. 1 write postal directions on (an envelope etc.). 2 direct (remarks etc.). 3 speak or write to, esp. Formally. 4 direct one's attention to. 5 golf take aim at (the ball).  address oneself to 1 speak or write to. 2 attend to. [french: related to *ad-, *direct]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

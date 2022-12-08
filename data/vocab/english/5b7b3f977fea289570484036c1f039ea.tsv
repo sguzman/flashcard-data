@@ -1,1 +1,6 @@
-Jet1	—n. 1 stream of water, steam, gas, flame, etc., shot esp. From a small opening. 2 spout or nozzle for this purpose. 3 jet engine or jet plane. —v. (-tt-) 1 spurt out in jets. 2 colloq. Send or travel by jet plane. [french jeter throw from latin jacto]
+Jet1	—n. 1 stream of water, steam, gas, flame, etc., shot esp. From a small opening. 2 spout or nozzle for this purpose. 3 jet engine or jet plane. —v. (-tt-) 1 spurt out in jets. 2 colloq. Send or travel by jet plane. [french jeter throw from latin jacto]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

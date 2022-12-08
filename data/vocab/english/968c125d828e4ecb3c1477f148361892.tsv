@@ -1,1 +1,6 @@
-May	n. 1 fifth month of the year. 2 (may) hawthorn, esp. In blossom. [latin maius of the goddess maia]
+May	n. 1 fifth month of the year. 2 (may) hawthorn, esp. In blossom. [latin maius of the goddess maia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

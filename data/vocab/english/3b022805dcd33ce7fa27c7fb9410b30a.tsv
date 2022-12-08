@@ -1,1 +1,6 @@
-Frontier	n. 1 a border between two countries. B district on each side of this. 2 limits of attainment or knowledge in a subject. 3 us borders between settled and unsettled country.  frontiersman n.
+Frontier	n. 1 a border between two countries. B district on each side of this. 2 limits of attainment or knowledge in a subject. 3 us borders between settled and unsettled country.  frontiersman n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

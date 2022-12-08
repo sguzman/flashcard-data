@@ -1,1 +1,6 @@
-Reasonable	adj. 1 having sound judgement; moderate; ready to listen to reason. 2 not absurd. 3 a not greatly less or more than might be expected. B inexpensive. C tolerable, fair.  reasonableness n. Reasonably adv.
+Reasonable	adj. 1 having sound judgement; moderate; ready to listen to reason. 2 not absurd. 3 a not greatly less or more than might be expected. B inexpensive. C tolerable, fair.  reasonableness n. Reasonably adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

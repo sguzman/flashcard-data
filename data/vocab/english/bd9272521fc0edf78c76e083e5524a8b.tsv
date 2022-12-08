@@ -1,1 +1,6 @@
-Overdo	v. (-doing; 3rd sing. Present -does; past -did; past part. -done) 1 carry to excess, go too far. 2 (esp. As overdone adj.) Overcook.  overdo it (or things) colloq. Exhaust oneself.
+Overdo	v. (-doing; 3rd sing. Present -does; past -did; past part. -done) 1 carry to excess, go too far. 2 (esp. As overdone adj.) Overcook.  overdo it (or things) colloq. Exhaust oneself.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

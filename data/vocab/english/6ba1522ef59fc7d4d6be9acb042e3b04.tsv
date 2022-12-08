@@ -1,1 +1,6 @@
-Fashion	—n. 1 current popular custom or style, esp. In dress. 2 manner of doing something. —v. (often foll. By into) make or form.  after (or in) a fashion to some extent, barely acceptably. In (or out of) fashion fashionable (or not fashionable). [latin factio: related to *fact]
+Fashion	—n. 1 current popular custom or style, esp. In dress. 2 manner of doing something. —v. (often foll. By into) make or form.  after (or in) a fashion to some extent, barely acceptably. In (or out of) fashion fashionable (or not fashionable). [latin factio: related to *fact]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

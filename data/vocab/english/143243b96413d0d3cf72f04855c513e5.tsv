@@ -1,1 +1,6 @@
-Blade	n. 1 cutting part of a knife etc. 2 flattened part of an oar, propeller, etc. 3 a flat narrow leaf of grass etc. B broad thin part of a leaf. 4 flat bone, e.g. In the shoulder. [old english]
+Blade	n. 1 cutting part of a knife etc. 2 flattened part of an oar, propeller, etc. 3 a flat narrow leaf of grass etc. B broad thin part of a leaf. 4 flat bone, e.g. In the shoulder. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

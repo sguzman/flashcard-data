@@ -1,1 +1,6 @@
-Carmelite	—n. 1 friar of the order of our lady of carmel. 2 nun of a similar order. —adj. Of the carmelites. [mt. Carmel in palestine, where the order was founded]
+Carmelite	—n. 1 friar of the order of our lady of carmel. 2 nun of a similar order. —adj. Of the carmelites. [mt. Carmel in palestine, where the order was founded]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

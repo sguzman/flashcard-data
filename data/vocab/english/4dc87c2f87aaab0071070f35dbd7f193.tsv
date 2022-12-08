@@ -1,1 +1,6 @@
-Multiply	v. (-ies, -ied) 1 (also absol.) Obtain from (a number) another that is a specified number of times its value (multiply 6 by 4 and you get 24). 2 increase in number, esp. By procreation. 3 produce a large number of (instances etc.). 4 a breed (animals). B propagate (plants). [latin multiplico: related to *multiplex]
+Multiply	v. (-ies, -ied) 1 (also absol.) Obtain from (a number) another that is a specified number of times its value (multiply 6 by 4 and you get 24). 2 increase in number, esp. By procreation. 3 produce a large number of (instances etc.). 4 a breed (animals). B propagate (plants). [latin multiplico: related to *multiplex]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

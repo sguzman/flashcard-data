@@ -1,1 +1,6 @@
-Physiology	n. 1 science of the functions of living organisms and their parts. 2 these functions.  physiological adj. Physiologist n. [latin: related to *physic, *-logy]
+Physiology	n. 1 science of the functions of living organisms and their parts. 2 these functions.  physiological adj. Physiologist n. [latin: related to *physic, *-logy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

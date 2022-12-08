@@ -1,1 +1,6 @@
-Chemical	—adj. Of, made by, or employing chemistry or chemicals. —n. Substance obtained or used in chemistry.  chemically adv. [french or medieval latin: related to *alchemy]
+Chemical	—adj. Of, made by, or employing chemistry or chemicals. —n. Substance obtained or used in chemistry.  chemically adv. [french or medieval latin: related to *alchemy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

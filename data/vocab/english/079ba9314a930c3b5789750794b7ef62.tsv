@@ -1,1 +1,6 @@
-Lutheran	—n. 1 follower of luther. 2 member of the lutheran church. —adj. Of luther, or the protestant reformation and the doctrines associated with him.  lutheranism n. [martin luther, religious reformer]
+Lutheran	—n. 1 follower of luther. 2 member of the lutheran church. —adj. Of luther, or the protestant reformation and the doctrines associated with him.  lutheranism n. [martin luther, religious reformer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

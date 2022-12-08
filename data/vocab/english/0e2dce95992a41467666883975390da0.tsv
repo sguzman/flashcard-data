@@ -1,1 +1,6 @@
-Scuttle2	—v. (-ling) scurry; flee from danger etc. —n. Hurried gait; precipitate flight. [perhaps related to dial. Scuddle frequentative of *scud]
+Scuttle2	—v. (-ling) scurry; flee from danger etc. —n. Hurried gait; precipitate flight. [perhaps related to dial. Scuddle frequentative of *scud]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

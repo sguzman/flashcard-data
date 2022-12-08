@@ -1,1 +1,6 @@
-Turning	n. 1 a road that branches off another. B place where this occurs. 2 a use of a lathe. B (in pl.) Chips or shavings from a lathe.
+Turning	n. 1 a road that branches off another. B place where this occurs. 2 a use of a lathe. B (in pl.) Chips or shavings from a lathe.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

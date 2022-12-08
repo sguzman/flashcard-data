@@ -1,1 +1,6 @@
-Flagon	n. 1 large bottle, usu. Holding a quart (1.13 litres), esp. Of wine, cider, etc. 2 large vessel for wine etc., usu. With a handle, spout, and lid. [latin flasco *flask]
+Flagon	n. 1 large bottle, usu. Holding a quart (1.13 litres), esp. Of wine, cider, etc. 2 large vessel for wine etc., usu. With a handle, spout, and lid. [latin flasco *flask]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

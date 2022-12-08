@@ -1,1 +1,6 @@
-Create	v. (-ting) 1 bring into existence; cause. 2 originate (actor creates a part). 3 invest with rank (created him a lord). 4 slang make a fuss. [latin creo]
+Create	v. (-ting) 1 bring into existence; cause. 2 originate (actor creates a part). 3 invest with rank (created him a lord). 4 slang make a fuss. [latin creo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

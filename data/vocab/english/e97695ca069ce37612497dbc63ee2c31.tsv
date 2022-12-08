@@ -1,1 +1,6 @@
-Rebuff	—n. 1 rejection of one who makes advances, proffers help, shows interest, makes a request, etc. 2 snub. —v. Give a rebuff to. [french from italian]
+Rebuff	—n. 1 rejection of one who makes advances, proffers help, shows interest, makes a request, etc. 2 snub. —v. Give a rebuff to. [french from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

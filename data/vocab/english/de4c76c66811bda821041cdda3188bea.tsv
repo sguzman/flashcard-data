@@ -1,1 +1,6 @@
-Inflict	v. (usu. Foll. By on) 1 deal (a blow etc.). 2 often joc. Impose (suffering, oneself, etc.) On (shall not inflict myself on you any longer).  infliction n. Inflictor n. [latin fligo flict- strike]
+Inflict	v. (usu. Foll. By on) 1 deal (a blow etc.). 2 often joc. Impose (suffering, oneself, etc.) On (shall not inflict myself on you any longer).  infliction n. Inflictor n. [latin fligo flict- strike]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Meiosis	n. (pl. Meioses) 1 cell division that results in gametes with half the normal chromosome number. 2 = *litotes. [greek meion less]
+Meiosis	n. (pl. Meioses) 1 cell division that results in gametes with half the normal chromosome number. 2 = *litotes. [greek meion less]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

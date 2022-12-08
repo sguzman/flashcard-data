@@ -1,1 +1,6 @@
-Mouse	—n. (pl. Mice) 1 small rodent, esp. Of a kind infesting houses. 2 timid or feeble person. 3 (pl. -s) computing small hand-held device controlling the cursor on a vdu screen. —v. (-sing) (of a cat, owl, etc.) Hunt mice.  mouser n. [old english]
+Mouse	—n. (pl. Mice) 1 small rodent, esp. Of a kind infesting houses. 2 timid or feeble person. 3 (pl. -s) computing small hand-held device controlling the cursor on a vdu screen. —v. (-sing) (of a cat, owl, etc.) Hunt mice.  mouser n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

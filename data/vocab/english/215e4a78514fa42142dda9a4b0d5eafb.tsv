@@ -1,1 +1,6 @@
-Yap	—v. (-pp-) 1 bark shrilly or fussily. 2 colloq. Talk noisily, foolishly, or complainingly. —n. Sound of yapping.  yappy adj. (-ier, -iest) in sense 1 of v. [imitative]
+Yap	—v. (-pp-) 1 bark shrilly or fussily. 2 colloq. Talk noisily, foolishly, or complainingly. —n. Sound of yapping.  yappy adj. (-ier, -iest) in sense 1 of v. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

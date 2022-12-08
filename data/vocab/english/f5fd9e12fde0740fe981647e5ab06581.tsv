@@ -1,1 +1,6 @@
-Squirrel	—n. 1 bushy-tailed usu. Tree-living rodent. 2 its fur. 3 hoarder. —v. (-ll-; us -l-) 1 (often foll. By away) hoard. 2 (often foll. By around) bustle about. [greek skiouros, from skia shade, oura tail]
+Squirrel	—n. 1 bushy-tailed usu. Tree-living rodent. 2 its fur. 3 hoarder. —v. (-ll-; us -l-) 1 (often foll. By away) hoard. 2 (often foll. By around) bustle about. [greek skiouros, from skia shade, oura tail]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

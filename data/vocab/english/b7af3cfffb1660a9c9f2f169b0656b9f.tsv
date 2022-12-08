@@ -1,1 +1,6 @@
-Promote	v. (-ting) 1 (often foll. By to) raise (a person) to a higher office, rank, etc. (promoted to captain). 2 help forward; encourage (a cause, process, etc.). 3 publicize and sell (a product). 4 chess raise (a pawn) to the rank of queen etc.  promotion n. Promotional adj. [latin promoveo -mot-]
+Promote	v. (-ting) 1 (often foll. By to) raise (a person) to a higher office, rank, etc. (promoted to captain). 2 help forward; encourage (a cause, process, etc.). 3 publicize and sell (a product). 4 chess raise (a pawn) to the rank of queen etc.  promotion n. Promotional adj. [latin promoveo -mot-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

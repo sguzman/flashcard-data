@@ -1,1 +1,6 @@
-Mirror	—n. 1 polished surface, usu. Of coated glass, reflecting an image. 2 anything reflecting or illuminating a state of affairs etc. —v. Reflect in or as in a mirror. [latin miro look at]
+Mirror	—n. 1 polished surface, usu. Of coated glass, reflecting an image. 2 anything reflecting or illuminating a state of affairs etc. —v. Reflect in or as in a mirror. [latin miro look at]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

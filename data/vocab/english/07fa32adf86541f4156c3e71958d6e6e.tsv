@@ -1,1 +1,6 @@
-Visor	n. (also vizor) 1 movable part of a helmet covering the face. 2 shield for the eyes, esp. One at the top of a vehicle windscreen. [anglo-french viser: related to *visage]
+Visor	n. (also vizor) 1 movable part of a helmet covering the face. 2 shield for the eyes, esp. One at the top of a vehicle windscreen. [anglo-french viser: related to *visage]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

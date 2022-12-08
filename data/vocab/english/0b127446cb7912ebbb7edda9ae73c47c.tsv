@@ -1,1 +1,6 @@
-Welcome	—n. Act of greeting or receiving gladly; kind or glad reception. —int. Expressing such a greeting. —v. (-ming) receive with a welcome. —adj. 1 that one receives with pleasure (welcome guest; welcome news). 2 (foll. By to, or to + infin.) Cordially allowed or invited (you are welcome to use my car).  make welcome receive hospitably. Outstay one's welcome stay too long as a visitor etc. You are welcome there is no need for thanks. [old english]
+Welcome	—n. Act of greeting or receiving gladly; kind or glad reception. —int. Expressing such a greeting. —v. (-ming) receive with a welcome. —adj. 1 that one receives with pleasure (welcome guest; welcome news). 2 (foll. By to, or to + infin.) Cordially allowed or invited (you are welcome to use my car).  make welcome receive hospitably. Outstay one's welcome stay too long as a visitor etc. You are welcome there is no need for thanks. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

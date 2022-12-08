@@ -1,1 +1,6 @@
-Flourish	—v. 1 a grow vigorously; thrive. B prosper. C be in one's prime. 2 wave, brandish. —n. 1 showy gesture. 2 ornamental curve in handwriting. 3 mus. Ornate passage or fanfare. [latin floreo from flos *flower]
+Flourish	—v. 1 a grow vigorously; thrive. B prosper. C be in one's prime. 2 wave, brandish. —n. 1 showy gesture. 2 ornamental curve in handwriting. 3 mus. Ornate passage or fanfare. [latin floreo from flos *flower]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

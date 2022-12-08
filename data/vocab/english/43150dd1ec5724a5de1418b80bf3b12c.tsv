@@ -1,1 +1,6 @@
-Trivial	adj. 1 of small value or importance; trifling. 2 (of a person etc.) Concerned only with trivial things.  triviality n. (pl. -ies). Trivially adv. [latin trivialis commonplace, from trivium three-way street corner]
+Trivial	adj. 1 of small value or importance; trifling. 2 (of a person etc.) Concerned only with trivial things.  triviality n. (pl. -ies). Trivially adv. [latin trivialis commonplace, from trivium three-way street corner]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

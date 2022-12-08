@@ -1,1 +1,6 @@
-Intermezzo	n. (pl. -mezzi or -s) 1 a short connecting instrumental movement in a musical work. B similar independent piece. 2 short light dramatic or other performance inserted between the acts of a play. [italian]
+Intermezzo	n. (pl. -mezzi or -s) 1 a short connecting instrumental movement in a musical work. B similar independent piece. 2 short light dramatic or other performance inserted between the acts of a play. [italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

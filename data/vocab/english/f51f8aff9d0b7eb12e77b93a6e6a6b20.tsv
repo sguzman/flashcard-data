@@ -1,1 +1,6 @@
-Nonentity	n. (pl. -ies) 1 person or thing of no importance. 2 a non-existence. B non-existent thing. [medieval latin]
+Nonentity	n. (pl. -ies) 1 person or thing of no importance. 2 a non-existence. B non-existent thing. [medieval latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

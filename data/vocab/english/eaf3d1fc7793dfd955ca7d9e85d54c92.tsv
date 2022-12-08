@@ -1,1 +1,6 @@
-Oblique	—adj. 1 slanting; at an angle. 2 not going straight to the point; indirect. 3 gram. (of a case) other than nominative or vocative. —n. Oblique stroke (/).  obliquely adv. Obliqueness n. Obliquity n. [french from latin]
+Oblique	—adj. 1 slanting; at an angle. 2 not going straight to the point; indirect. 3 gram. (of a case) other than nominative or vocative. —n. Oblique stroke (/).  obliquely adv. Obliqueness n. Obliquity n. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

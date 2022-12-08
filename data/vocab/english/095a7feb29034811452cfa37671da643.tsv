@@ -1,1 +1,6 @@
-Inferior	—adj. 1 (often foll. By to) lower in rank, quality, etc. 2 of poor quality. 3 situated below. 4 written or printed below the line. —n. Person inferior to another, esp. In rank. [latin, comparative of inferus]
+Inferior	—adj. 1 (often foll. By to) lower in rank, quality, etc. 2 of poor quality. 3 situated below. 4 written or printed below the line. —n. Person inferior to another, esp. In rank. [latin, comparative of inferus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

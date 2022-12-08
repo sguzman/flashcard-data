@@ -1,1 +1,6 @@
-Gouge	—n. Chisel with a concave blade. —v. (-ging) 1 cut with or as with a gouge. 2 (foll. By out) force out (esp. An eye with the thumb) with or as with a gouge. [latin gubia]
+Gouge	—n. Chisel with a concave blade. —v. (-ging) 1 cut with or as with a gouge. 2 (foll. By out) force out (esp. An eye with the thumb) with or as with a gouge. [latin gubia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

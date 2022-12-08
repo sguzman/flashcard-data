@@ -1,1 +1,6 @@
-Scuff	—v. 1 graze or brush against. 2 mark or wear out (shoes) in this way. 3 shuffle or drag the feet. —n. Mark of scuffing. [imitative]
+Scuff	—v. 1 graze or brush against. 2 mark or wear out (shoes) in this way. 3 shuffle or drag the feet. —n. Mark of scuffing. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

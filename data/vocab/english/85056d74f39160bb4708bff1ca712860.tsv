@@ -1,1 +1,6 @@
-Whence	formal —interrog. Adv. From what place? —conj. 1 to the place from which (return whence you came). 2 (often prec. By place etc.) From which. 3 and thence (whence it follows that). [old english: related to *when]
+Whence	formal —interrog. Adv. From what place? —conj. 1 to the place from which (return whence you came). 2 (often prec. By place etc.) From which. 3 and thence (whence it follows that). [old english: related to *when]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

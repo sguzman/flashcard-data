@@ -1,1 +1,6 @@
-White heat	n. 1 temperature at which metal emits white light. 2 state of intense passion or activity.  white-hot adj.
+White heat	n. 1 temperature at which metal emits white light. 2 state of intense passion or activity.  white-hot adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

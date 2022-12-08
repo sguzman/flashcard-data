@@ -1,1 +1,6 @@
-Gloss1	—n. 1 surface shine or lustre. 2 deceptively attractive appearance. 3 (in full gloss paint) paint giving a glossy finish. —v. Make glossy.  gloss over seek to conceal, esp. By mentioning only briefly. [origin unknown]
+Gloss1	—n. 1 surface shine or lustre. 2 deceptively attractive appearance. 3 (in full gloss paint) paint giving a glossy finish. —v. Make glossy.  gloss over seek to conceal, esp. By mentioning only briefly. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

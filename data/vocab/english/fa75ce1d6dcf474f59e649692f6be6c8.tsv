@@ -1,1 +1,6 @@
-Parse	v. (-sing) 1 describe (a word in context) grammatically, stating its inflection, relation to the sentence, etc. 2 resolve (a sentence) into its component parts and describe them grammatically. [perhaps from french pars parts: related to *part]
+Parse	v. (-sing) 1 describe (a word in context) grammatically, stating its inflection, relation to the sentence, etc. 2 resolve (a sentence) into its component parts and describe them grammatically. [perhaps from french pars parts: related to *part]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

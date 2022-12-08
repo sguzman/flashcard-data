@@ -1,1 +1,6 @@
-S1	n. (also s) (pl. Ss or s's) 1 nineteenth letter of the alphabet. 2 s-shaped thing.
+S1	n. (also s) (pl. Ss or s's) 1 nineteenth letter of the alphabet. 2 s-shaped thing.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

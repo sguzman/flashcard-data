@@ -1,1 +1,6 @@
-Deed	n. 1 thing done intentionally or consciously. 2 brave, skilful, or conspicuous act. 3 action (kind in word and deed). 4 legal document used esp. For transferring ownership of property. [old english: related to *do1]
+Deed	n. 1 thing done intentionally or consciously. 2 brave, skilful, or conspicuous act. 3 action (kind in word and deed). 4 legal document used esp. For transferring ownership of property. [old english: related to *do1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

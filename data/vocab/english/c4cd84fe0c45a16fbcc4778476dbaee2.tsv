@@ -1,1 +1,6 @@
-Nadir	n. 1 part of the celestial sphere directly below an observer. 2 lowest point; time of deep despair. [arabic, = opposite]
+Nadir	n. 1 part of the celestial sphere directly below an observer. 2 lowest point; time of deep despair. [arabic, = opposite]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

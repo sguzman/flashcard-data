@@ -1,1 +1,6 @@
-Ménage à trois	n. (pl. Ménages à trois) household of three, usu. A married couple and a lover. [french, = household of three]
+Ménage à trois	n. (pl. Ménages à trois) household of three, usu. A married couple and a lover. [french, = household of three]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Ziggurat	n. Rectangular stepped tower in ancient mesopotamia, surmounted by a temple. [assyrian]
+Ziggurat	n. Rectangular stepped tower in ancient mesopotamia, surmounted by a temple. [assyrian]	deck#2	due@2022-12-09 21:27:00
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

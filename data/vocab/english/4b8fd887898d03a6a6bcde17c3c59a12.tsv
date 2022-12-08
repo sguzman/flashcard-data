@@ -1,1 +1,6 @@
-Profound	adj. (-er, -est) 1 having or demanding great knowledge, study, or insight (profound treatise; profound doctrines). 2 intense, unqualified, thorough (a profound sleep; profound indifference). 3 deep (profound crevasses).  profoundly adv. Profoundness n. Profundity n. (pl. -ies). [latin profundus]
+Profound	adj. (-er, -est) 1 having or demanding great knowledge, study, or insight (profound treatise; profound doctrines). 2 intense, unqualified, thorough (a profound sleep; profound indifference). 3 deep (profound crevasses).  profoundly adv. Profoundness n. Profundity n. (pl. -ies). [latin profundus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tonnage	n. 1 ship's internal cubic capacity or freight-carrying capacity. 2 charge per ton on freight or cargo. [related to *ton]
+Tonnage	n. 1 ship's internal cubic capacity or freight-carrying capacity. 2 charge per ton on freight or cargo. [related to *ton]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

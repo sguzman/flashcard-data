@@ -1,1 +1,6 @@
-Testimony	n. (pl. -ies) 1 witness's statement under oath etc. 2 declaration or statement of fact. 3 evidence, demonstration (produce testimony). [latin testimonium from testis witness]
+Testimony	n. (pl. -ies) 1 witness's statement under oath etc. 2 declaration or statement of fact. 3 evidence, demonstration (produce testimony). [latin testimonium from testis witness]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

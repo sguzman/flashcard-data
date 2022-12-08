@@ -1,1 +1,6 @@
-Impatient	adj. 1 lacking or showing a lack of patience or tolerance. 2 restlessly eager. 3 (foll. By of) intolerant of.  impatience n. Impatiently adv.
+Impatient	adj. 1 lacking or showing a lack of patience or tolerance. 2 restlessly eager. 3 (foll. By of) intolerant of.  impatience n. Impatiently adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

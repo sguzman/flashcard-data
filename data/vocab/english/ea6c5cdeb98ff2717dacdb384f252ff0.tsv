@@ -1,1 +1,6 @@
-Necklace	n. 1 chain or string of beads, precious stones, etc., worn round the neck. 2 s.afr. Tyre soaked or filled with petrol, placed round a victim's neck, and set alight.
+Necklace	n. 1 chain or string of beads, precious stones, etc., worn round the neck. 2 s.afr. Tyre soaked or filled with petrol, placed round a victim's neck, and set alight.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

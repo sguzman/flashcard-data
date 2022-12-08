@@ -1,1 +1,6 @@
-Interrupt	v. 1 break the continuous progress of (an action, speech, person speaking, etc.). 2 obstruct (a person's view etc.).  interruption n. [latin: related to *rupture]
+Interrupt	v. 1 break the continuous progress of (an action, speech, person speaking, etc.). 2 obstruct (a person's view etc.).  interruption n. [latin: related to *rupture]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

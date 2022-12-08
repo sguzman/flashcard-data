@@ -1,1 +1,6 @@
-Oracle	n. 1 a place at which divine advice or prophecy was sought in classical antiquity. B response given. C prophet or prophetess at an oracle. 2 person or thing regarded as a source of wisdom etc. 3 (oracle) propr. Teletext service provided by independent television.  oracular adj. [latin oraculum from oro speak]
+Oracle	n. 1 a place at which divine advice or prophecy was sought in classical antiquity. B response given. C prophet or prophetess at an oracle. 2 person or thing regarded as a source of wisdom etc. 3 (oracle) propr. Teletext service provided by independent television.  oracular adj. [latin oraculum from oro speak]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

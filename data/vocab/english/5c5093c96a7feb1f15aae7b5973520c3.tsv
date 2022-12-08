@@ -1,1 +1,6 @@
-Gamut	n. Entire range or scope.  run the gamut of experience or perform the complete range of. [latin gamma ut, words arbitrarily taken as names of notes]
+Gamut	n. Entire range or scope.  run the gamut of experience or perform the complete range of. [latin gamma ut, words arbitrarily taken as names of notes]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

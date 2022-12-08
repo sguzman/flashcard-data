@@ -1,1 +1,6 @@
-Soldier	—n. 1 member of an army. 2 (in full common soldier) private or nco in an army.  3 colloq. Finger of bread for dipping into egg. —v. Serve as a soldier.  soldier on colloq. Persevere doggedly.  soldierly adj. [french soulde, originally = soldier's pay]
+Soldier	—n. 1 member of an army. 2 (in full common soldier) private or nco in an army.  3 colloq. Finger of bread for dipping into egg. —v. Serve as a soldier.  soldier on colloq. Persevere doggedly.  soldierly adj. [french soulde, originally = soldier's pay]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

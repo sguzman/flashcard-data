@@ -1,1 +1,6 @@
-Hull2	—n. Outer covering of a fruit, esp. The pod of peas and beans, the husk of grain, or the green calyx of a strawberry. —v. Remove the hulls from (fruit etc.). [old english]
+Hull2	—n. Outer covering of a fruit, esp. The pod of peas and beans, the husk of grain, or the green calyx of a strawberry. —v. Remove the hulls from (fruit etc.). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

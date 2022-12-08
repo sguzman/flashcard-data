@@ -1,1 +1,6 @@
-Real time	n. 1 actual time during which a process occurs. 2 (attrib.) (real-time) computing (of a system) in which the response time is the actual time during which an event occurs.
+Real time	n. 1 actual time during which a process occurs. 2 (attrib.) (real-time) computing (of a system) in which the response time is the actual time during which an event occurs.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

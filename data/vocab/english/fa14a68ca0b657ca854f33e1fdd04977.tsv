@@ -1,1 +1,6 @@
-Indicate	v. (-ting) (often foll. By that) 1 point out; make known. 2 be a sign of; show the presence of. 3 call for; require (stronger measures are indicated). 4 state briefly. 5 give as a reading or measurement. 6 point by hand; use a vehicle's indicator (failed to indicate).  indication n. [latin dico make known]
+Indicate	v. (-ting) (often foll. By that) 1 point out; make known. 2 be a sign of; show the presence of. 3 call for; require (stronger measures are indicated). 4 state briefly. 5 give as a reading or measurement. 6 point by hand; use a vehicle's indicator (failed to indicate).  indication n. [latin dico make known]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

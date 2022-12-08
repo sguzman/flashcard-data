@@ -1,1 +1,6 @@
-Departure	n. 1 departing. 2 (often foll. By from) deviation (from the truth, a standard, etc.). 3 (often attrib.) Departing of a train, aircraft, etc. (departure lounge). 4 new course of action or thought (driving is rather a departure for him).
+Departure	n. 1 departing. 2 (often foll. By from) deviation (from the truth, a standard, etc.). 3 (often attrib.) Departing of a train, aircraft, etc. (departure lounge). 4 new course of action or thought (driving is rather a departure for him).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Infrared	adj. Of or using rays with a wavelength just longer than the red end of the visible spectrum.
+Infrared	adj. Of or using rays with a wavelength just longer than the red end of the visible spectrum.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

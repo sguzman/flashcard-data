@@ -1,1 +1,6 @@
-Braid	—n. 1 woven band as edging or trimming. 2 us plait of hair. —v. 1 us plait. 2 trim with braid.  braiding n. [old english]
+Braid	—n. 1 woven band as edging or trimming. 2 us plait of hair. —v. 1 us plait. 2 trim with braid.  braiding n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

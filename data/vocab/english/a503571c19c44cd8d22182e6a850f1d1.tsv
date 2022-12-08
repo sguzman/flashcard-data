@@ -1,1 +1,6 @@
-Ellipse	n. Regular oval, resulting when a cone is cut obliquely by a plane. [greek elleipsis deficit]
+Ellipse	n. Regular oval, resulting when a cone is cut obliquely by a plane. [greek elleipsis deficit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

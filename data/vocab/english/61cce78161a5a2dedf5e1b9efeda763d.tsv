@@ -1,1 +1,6 @@
-Woolsack	n. 1 lord chancellor's wool-stuffed seat in the house of lords. 2 his position.
+Woolsack	n. 1 lord chancellor's wool-stuffed seat in the house of lords. 2 his position.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

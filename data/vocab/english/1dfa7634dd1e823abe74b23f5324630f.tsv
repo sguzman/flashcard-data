@@ -1,1 +1,6 @@
-Convention	n. 1 a general agreement on social behaviour etc. By implicit majority consent. B a custom or customary practice. 2 conference of people with a common interest. 3 a formal agreement, esp. Between states. [latin: related to *convene]
+Convention	n. 1 a general agreement on social behaviour etc. By implicit majority consent. B a custom or customary practice. 2 conference of people with a common interest. 3 a formal agreement, esp. Between states. [latin: related to *convene]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

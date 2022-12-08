@@ -1,1 +1,6 @@
-Prance	—v. (-cing) 1 (of a horse) raise the forelegs and spring from the hind legs. 2 walk or behave in an elated or arrogant manner. —n. Prancing, prancing movement. [origin unknown]
+Prance	—v. (-cing) 1 (of a horse) raise the forelegs and spring from the hind legs. 2 walk or behave in an elated or arrogant manner. —n. Prancing, prancing movement. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

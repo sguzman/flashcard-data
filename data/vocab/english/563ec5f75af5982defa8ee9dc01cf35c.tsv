@@ -1,1 +1,6 @@
-Assembler	n. 1 person who assembles a machine etc. 2 computing a program for converting instructions written in low-level symbolic code into machine code. B the low-level symbolic code itself.
+Assembler	n. 1 person who assembles a machine etc. 2 computing a program for converting instructions written in low-level symbolic code into machine code. B the low-level symbolic code itself.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

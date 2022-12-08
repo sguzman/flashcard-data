@@ -1,1 +1,6 @@
-Steam engine	n. 1 engine which uses steam to generate power. 2 locomotive powered by this.
+Steam engine	n. 1 engine which uses steam to generate power. 2 locomotive powered by this.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

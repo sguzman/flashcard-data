@@ -1,1 +1,6 @@
-Reservoir	n. 1 large natural or artificial lake as a source of water supply. 2 receptacle for fluid. 3 supply of information etc. [french: related to *reserve]
+Reservoir	n. 1 large natural or artificial lake as a source of water supply. 2 receptacle for fluid. 3 supply of information etc. [french: related to *reserve]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

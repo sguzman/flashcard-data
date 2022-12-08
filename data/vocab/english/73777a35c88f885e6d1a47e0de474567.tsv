@@ -1,1 +1,6 @@
-Griffon	n. 1 dog of a small terrier-like breed. 2 large vulture. 3 = *griffin. [french, = *griffin]
+Griffon	n. 1 dog of a small terrier-like breed. 2 large vulture. 3 = *griffin. [french, = *griffin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

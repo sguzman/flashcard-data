@@ -1,1 +1,6 @@
-Justice	n. 1 justness, fairness. 2 authority exercised in the maintenance of right. 3 judicial proceedings (brought to justice; court of justice). 4 magistrate; judge.  do justice to 1 treat fairly. 2 appreciate properly. Do oneself justice perform at one's best. With justice reasonably. [latin justitia]
+Justice	n. 1 justness, fairness. 2 authority exercised in the maintenance of right. 3 judicial proceedings (brought to justice; court of justice). 4 magistrate; judge.  do justice to 1 treat fairly. 2 appreciate properly. Do oneself justice perform at one's best. With justice reasonably. [latin justitia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

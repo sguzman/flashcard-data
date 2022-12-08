@@ -1,1 +1,6 @@
-Operculum	n. (pl. -cula) 1 fish's gill-cover. 2 any of various other parts covering or closing an aperture in an animal or plant. [latin operio cover (v.)]
+Operculum	n. (pl. -cula) 1 fish's gill-cover. 2 any of various other parts covering or closing an aperture in an animal or plant. [latin operio cover (v.)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

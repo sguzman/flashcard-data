@@ -1,1 +1,6 @@
-Treatment	n. 1 process or manner of behaving towards or dealing with a person or thing. 2 medical care or attention. 3 manner of treating a subject in literature or art. 4 (prec. By the) colloq. The customary way of dealing with a person, situation, etc. (got the full treatment).
+Treatment	n. 1 process or manner of behaving towards or dealing with a person or thing. 2 medical care or attention. 3 manner of treating a subject in literature or art. 4 (prec. By the) colloq. The customary way of dealing with a person, situation, etc. (got the full treatment).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

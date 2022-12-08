@@ -1,1 +1,6 @@
-Gentle	adj. (gentler, gentlest) 1 not rough or severe; mild, kind (a gentle nature). 2 moderate (gentle breeze). 3 (of birth, pursuits, etc.) Honourable, of or fit for gentlefolk. 4 quiet; requiring patience (gentle art).  gentleness n. Gently adv. [latin: related to *gentile]
+Gentle	adj. (gentler, gentlest) 1 not rough or severe; mild, kind (a gentle nature). 2 moderate (gentle breeze). 3 (of birth, pursuits, etc.) Honourable, of or fit for gentlefolk. 4 quiet; requiring patience (gentle art).  gentleness n. Gently adv. [latin: related to *gentile]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

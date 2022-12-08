@@ -1,1 +1,6 @@
-Pitch2	—n. Dark resinous substance from the distillation of tar or turpentine, used for making ships watertight etc. —v. Coat with pitch.  pitchy adj. (-ier, -iest). [latin pix pic-]
+Pitch2	—n. Dark resinous substance from the distillation of tar or turpentine, used for making ships watertight etc. —v. Coat with pitch.  pitchy adj. (-ier, -iest). [latin pix pic-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

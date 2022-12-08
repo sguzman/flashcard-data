@@ -1,1 +1,6 @@
-Crook	—n. 1 hooked staff of a shepherd or bishop. 2 a bend, curve, or hook. B hooked or curved thing. 3 colloq. Rogue; swindler; criminal. —v. Bend, curve. [old norse]
+Crook	—n. 1 hooked staff of a shepherd or bishop. 2 a bend, curve, or hook. B hooked or curved thing. 3 colloq. Rogue; swindler; criminal. —v. Bend, curve. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

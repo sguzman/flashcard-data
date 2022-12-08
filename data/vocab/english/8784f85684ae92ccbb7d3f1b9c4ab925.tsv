@@ -1,1 +1,6 @@
-Tarot	n. (often attrib.) 1 (in sing. Or pl.) A pack of mainly picture cards used in fortune-telling. B any game played with a similar pack of 78 cards. 2 any card from a tarot pack. [french]
+Tarot	n. (often attrib.) 1 (in sing. Or pl.) A pack of mainly picture cards used in fortune-telling. B any game played with a similar pack of 78 cards. 2 any card from a tarot pack. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

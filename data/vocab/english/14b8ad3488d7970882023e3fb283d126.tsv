@@ -1,1 +1,6 @@
-Bluff2	—adj. 1 blunt, frank, hearty. 2 vertical or steep and broad in front. —n. Steep cliff or headland. [origin unknown]
+Bluff2	—adj. 1 blunt, frank, hearty. 2 vertical or steep and broad in front. —n. Steep cliff or headland. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

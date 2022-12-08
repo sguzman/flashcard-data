@@ -1,1 +1,6 @@
-Yodel	—v. (-ll-; us -l-) sing with melodious inarticulate sounds and frequent changes between falsetto and normal voice in the manner of swiss mountain-dwellers. —n. Yodelling cry.  yodeller n. [german]
+Yodel	—v. (-ll-; us -l-) sing with melodious inarticulate sounds and frequent changes between falsetto and normal voice in the manner of swiss mountain-dwellers. —n. Yodelling cry.  yodeller n. [german]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

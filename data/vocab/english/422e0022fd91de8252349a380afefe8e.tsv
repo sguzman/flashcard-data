@@ -1,1 +1,6 @@
-Artificial	adj. 1 not natural (artificial lake). 2 imitating nature (artificial flowers). 3 affected, insincere.  artificiality n. Artificially adv. [latin: related to *artifice]
+Artificial	adj. 1 not natural (artificial lake). 2 imitating nature (artificial flowers). 3 affected, insincere.  artificiality n. Artificially adv. [latin: related to *artifice]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

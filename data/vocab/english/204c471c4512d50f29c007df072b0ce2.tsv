@@ -1,1 +1,6 @@
-Expand	v. 1 increase in size or importance. 2 (often foll. By on) give a fuller account. 3 become more genial. 4 set or write out in full. 5 spread out flat.  expandable adj. [latin pando pans- spread]
+Expand	v. 1 increase in size or importance. 2 (often foll. By on) give a fuller account. 3 become more genial. 4 set or write out in full. 5 spread out flat.  expandable adj. [latin pando pans- spread]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

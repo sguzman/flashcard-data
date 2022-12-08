@@ -1,1 +1,6 @@
-Recipe	n. 1 statement of the ingredients and procedure required for preparing a cooked dish. 2 (foll. By for) certain means to (an outcome) (recipe for disaster). [2nd sing. Imperative of latin recipio *receive]
+Recipe	n. 1 statement of the ingredients and procedure required for preparing a cooked dish. 2 (foll. By for) certain means to (an outcome) (recipe for disaster). [2nd sing. Imperative of latin recipio *receive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

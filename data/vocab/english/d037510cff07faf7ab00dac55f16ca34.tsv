@@ -1,1 +1,6 @@
-Yours	poss. Pron. 1 the one or ones belonging to you (it is yours; yours are over there). 2 your letter (yours of the 10th). 3 introducing a formula ending a letter (yours ever; yours truly).  of yours of or belonging to you (friend of yours).
+Yours	poss. Pron. 1 the one or ones belonging to you (it is yours; yours are over there). 2 your letter (yours of the 10th). 3 introducing a formula ending a letter (yours ever; yours truly).  of yours of or belonging to you (friend of yours).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

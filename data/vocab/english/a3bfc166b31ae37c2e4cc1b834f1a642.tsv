@@ -1,1 +1,6 @@
-Flowing	adj. 1 (of style etc.) Fluent; easy. 2 (of a line, curve, etc.) Smoothly continuous. 3 (of hair etc.) Unconfined.  flowingly adv.
+Flowing	adj. 1 (of style etc.) Fluent; easy. 2 (of a line, curve, etc.) Smoothly continuous. 3 (of hair etc.) Unconfined.  flowingly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

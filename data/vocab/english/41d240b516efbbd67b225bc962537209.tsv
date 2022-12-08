@@ -1,1 +1,6 @@
-Sweat	—n. 1 moisture exuded through the pores, esp. From heat or nervousness. 2 state or period of sweating. 3 colloq. State of anxiety (in a sweat). 4 colloq. A drudgery, effort. B laborious task.
+Sweat	—n. 1 moisture exuded through the pores, esp. From heat or nervousness. 2 state or period of sweating. 3 colloq. State of anxiety (in a sweat). 4 colloq. A drudgery, effort. B laborious task.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

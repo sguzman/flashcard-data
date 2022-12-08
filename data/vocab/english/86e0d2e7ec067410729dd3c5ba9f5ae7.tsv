@@ -1,1 +1,6 @@
-Split second	—n. 1 very brief moment. 2 (of timing) very accurate. —attrib. Adj. (split-second) 1 very rapid. 2 (of timing) very accurate.
+Split second	—n. 1 very brief moment. 2 (of timing) very accurate. —attrib. Adj. (split-second) 1 very rapid. 2 (of timing) very accurate.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

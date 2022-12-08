@@ -1,1 +1,6 @@
-Demure	adj. (demurer, demurest) 1 quiet, reserved; modest. 2 coy.  demurely adv. Demureness n. [french: related to *demur]
+Demure	adj. (demurer, demurest) 1 quiet, reserved; modest. 2 coy.  demurely adv. Demureness n. [french: related to *demur]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

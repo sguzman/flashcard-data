@@ -1,1 +1,6 @@
-Constitute	v. (-ting) 1 be the components or essence of; compose. 2 a amount to (this constitutes a warning). B formally establish (constitutes a precedent). 3 give legal or constitutional form to. [latin constituo establish]
+Constitute	v. (-ting) 1 be the components or essence of; compose. 2 a amount to (this constitutes a warning). B formally establish (constitutes a precedent). 3 give legal or constitutional form to. [latin constituo establish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

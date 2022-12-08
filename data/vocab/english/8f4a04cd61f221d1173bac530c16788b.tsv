@@ -1,1 +1,6 @@
-Wannabe	n. Slang 1 avid fan who tries to emulate the person he or she admires. 2 anybody who would like to be someone else. [corruption of want to be]
+Wannabe	n. Slang 1 avid fan who tries to emulate the person he or she admires. 2 anybody who would like to be someone else. [corruption of want to be]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

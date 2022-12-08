@@ -1,1 +1,6 @@
-Satire	n. 1 ridicule, irony, etc., used to expose folly or vice etc. 2 work using this.  satirical adj. Satirically adv. [latin satira medley]
+Satire	n. 1 ridicule, irony, etc., used to expose folly or vice etc. 2 work using this.  satirical adj. Satirically adv. [latin satira medley]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

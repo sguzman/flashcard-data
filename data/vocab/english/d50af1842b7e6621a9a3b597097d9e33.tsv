@@ -1,1 +1,6 @@
-Trough	n. 1 long narrow open receptacle for water, animal feed, etc. 2 channel or hollow like this. 3 elongated region of low barometric pressure. [old english]
+Trough	n. 1 long narrow open receptacle for water, animal feed, etc. 2 channel or hollow like this. 3 elongated region of low barometric pressure. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

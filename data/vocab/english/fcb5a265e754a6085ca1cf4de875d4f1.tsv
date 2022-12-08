@@ -1,1 +1,6 @@
-Mini	n. (pl. -s) 1 colloq. Miniskirt. 2 (mini) propr. Make of small car. [abbreviation]
+Mini	n. (pl. -s) 1 colloq. Miniskirt. 2 (mini) propr. Make of small car. [abbreviation]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

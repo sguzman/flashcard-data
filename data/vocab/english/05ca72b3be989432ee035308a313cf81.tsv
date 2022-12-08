@@ -1,1 +1,6 @@
-Functional	adj. 1 of or serving a function. 2 practical rather than attractive. 3 affecting the function of a bodily organ but not its structure.  functionally adv.
+Functional	adj. 1 of or serving a function. 2 practical rather than attractive. 3 affecting the function of a bodily organ but not its structure.  functionally adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

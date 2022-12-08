@@ -1,1 +1,6 @@
-Complexion	n. 1 natural colour, texture, and appearance of the skin, esp. Of the face. 2 aspect, character (puts a different complexion on the matter). [latin: related to *complex]
+Complexion	n. 1 natural colour, texture, and appearance of the skin, esp. Of the face. 2 aspect, character (puts a different complexion on the matter). [latin: related to *complex]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

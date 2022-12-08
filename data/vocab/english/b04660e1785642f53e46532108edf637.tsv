@@ -1,1 +1,6 @@
-Ratchet	n. 1 set of teeth on the edge of a bar or wheel with a catch ensuring motion in one direction only. 2 (in full ratchet-wheel) wheel with a rim so toothed. [french rochet lance-head]
+Ratchet	n. 1 set of teeth on the edge of a bar or wheel with a catch ensuring motion in one direction only. 2 (in full ratchet-wheel) wheel with a rim so toothed. [french rochet lance-head]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

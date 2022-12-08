@@ -1,1 +1,6 @@
-Quack2	n. 1  unqualified practitioner, esp. Of medicine; charlatan (often attrib.: quack cure). 2 slang any doctor.  quackery n. [abbreviation of quacksalver from dutch: probably related to *quack1, *salve1]
+Quack2	n. 1  unqualified practitioner, esp. Of medicine; charlatan (often attrib.: quack cure). 2 slang any doctor.  quackery n. [abbreviation of quacksalver from dutch: probably related to *quack1, *salve1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

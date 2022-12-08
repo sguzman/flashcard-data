@@ -1,1 +1,6 @@
-Pro-1	prefix 1 favouring or supporting (pro-government). 2 acting as a substitute or deputy for (proconsul). 3 forwards (produce). 4 forwards and downwards (prostrate). 5 onwards (progress). 6 in front of (protect). [latin pro in front (of)]
+Pro-1	prefix 1 favouring or supporting (pro-government). 2 acting as a substitute or deputy for (proconsul). 3 forwards (produce). 4 forwards and downwards (prostrate). 5 onwards (progress). 6 in front of (protect). [latin pro in front (of)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

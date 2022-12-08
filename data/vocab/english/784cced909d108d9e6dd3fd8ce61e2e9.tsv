@@ -1,1 +1,6 @@
-Colostomy	n. (pl. -ies) operation on the colon to make an opening in the abdominal wall to provide an artificial anus. [from *colon2]
+Colostomy	n. (pl. -ies) operation on the colon to make an opening in the abdominal wall to provide an artificial anus. [from *colon2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

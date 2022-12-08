@@ -1,1 +1,6 @@
-Canvass	—v. 1 solicit votes, esp. From a constituency electorate. 2 a ascertain the opinions of. B seek custom from. 3 propose (an idea or plan etc.). —n. Canvassing, esp. Of electors.  canvasser n. [originally = toss in sheet, from *canvas]
+Canvass	—v. 1 solicit votes, esp. From a constituency electorate. 2 a ascertain the opinions of. B seek custom from. 3 propose (an idea or plan etc.). —n. Canvassing, esp. Of electors.  canvasser n. [originally = toss in sheet, from *canvas]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

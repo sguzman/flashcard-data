@@ -1,1 +1,6 @@
-Railroad	—n. Esp. Us = *railway. —v. (often foll. By into, through, etc.) Coerce; rush (railroaded into agreeing; railroaded through the cabinet).
+Railroad	—n. Esp. Us = *railway. —v. (often foll. By into, through, etc.) Coerce; rush (railroaded into agreeing; railroaded through the cabinet).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

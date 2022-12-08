@@ -1,1 +1,6 @@
-D1	n. (also d) (pl. Ds or d's) 1 fourth letter of the alphabet. 2 mus. Second note of the diatonic scale of c major. 3 (as a roman numeral) 500. 4 = *dee. 5 fourth highest class or category (of academic marks etc.).
+D1	n. (also d) (pl. Ds or d's) 1 fourth letter of the alphabet. 2 mus. Second note of the diatonic scale of c major. 3 (as a roman numeral) 500. 4 = *dee. 5 fourth highest class or category (of academic marks etc.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

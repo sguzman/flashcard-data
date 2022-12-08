@@ -1,1 +1,6 @@
-Harmonium	n. Keyboard instrument in which the notes are produced by air driven through metal reeds by foot-operated bellows. [latin: related to *harmony]
+Harmonium	n. Keyboard instrument in which the notes are produced by air driven through metal reeds by foot-operated bellows. [latin: related to *harmony]		due@2022-12-08 21:26:47
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

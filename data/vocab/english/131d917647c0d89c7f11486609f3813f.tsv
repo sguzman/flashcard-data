@@ -1,1 +1,6 @@
-Chatter	—v. 1 talk quickly, incessantly, trivially, or indiscreetly. 2 (of a bird, monkey, etc.) Emit short quick sounds. 3 (of teeth) click repeatedly together. —n. Chattering talk or sounds. [imitative]
+Chatter	—v. 1 talk quickly, incessantly, trivially, or indiscreetly. 2 (of a bird, monkey, etc.) Emit short quick sounds. 3 (of teeth) click repeatedly together. —n. Chattering talk or sounds. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

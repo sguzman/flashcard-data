@@ -1,1 +1,6 @@
-Slum	—n. 1 house unfit for human habitation. 2 (often in pl.) Overcrowded and squalid district in a city. —v. (-mm-) visit slums, esp. Out of curiosity.  slum it colloq. Put up with conditions less comfortable than usual.  slummy adj. [originally cant] 
+Slum	—n. 1 house unfit for human habitation. 2 (often in pl.) Overcrowded and squalid district in a city. —v. (-mm-) visit slums, esp. Out of curiosity.  slum it colloq. Put up with conditions less comfortable than usual.  slummy adj. [originally cant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

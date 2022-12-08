@@ -1,1 +1,6 @@
-Baker day	n. Colloq. Day set aside for in-service training of teachers. [baker, name of the education secretary responsible for introducing them]
+Baker day	n. Colloq. Day set aside for in-service training of teachers. [baker, name of the education secretary responsible for introducing them]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

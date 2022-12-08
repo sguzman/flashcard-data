@@ -1,1 +1,6 @@
-Chemistry	n. (pl. -ies) 1 branch of science dealing with the elements and the compounds they form and the reactions they undergo. 2 chemical composition and properties of a substance. 3 colloq. Sexual attraction.
+Chemistry	n. (pl. -ies) 1 branch of science dealing with the elements and the compounds they form and the reactions they undergo. 2 chemical composition and properties of a substance. 3 colloq. Sexual attraction.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

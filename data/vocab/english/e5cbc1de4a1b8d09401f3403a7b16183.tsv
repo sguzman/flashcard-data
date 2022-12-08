@@ -1,1 +1,6 @@
-Alien	—adj. 1 (often foll. By to) unfamiliar; unacceptable or repugnant. 2 foreign. 3 of beings from other worlds. —n. 1 foreign-born resident who is not naturalized. 2 being from another world. [latin alius other]
+Alien	—adj. 1 (often foll. By to) unfamiliar; unacceptable or repugnant. 2 foreign. 3 of beings from other worlds. —n. 1 foreign-born resident who is not naturalized. 2 being from another world. [latin alius other]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

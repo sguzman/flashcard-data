@@ -1,1 +1,6 @@
-Cohort	n. 1 ancient roman military unit, one-tenth of a legion. 2 band of warriors. 3 a persons banded together. B group of persons with a common statistical characteristic. [latin]
+Cohort	n. 1 ancient roman military unit, one-tenth of a legion. 2 band of warriors. 3 a persons banded together. B group of persons with a common statistical characteristic. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

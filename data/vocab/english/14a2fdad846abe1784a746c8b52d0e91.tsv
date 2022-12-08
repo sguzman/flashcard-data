@@ -1,1 +1,6 @@
-Tiddler	n. Colloq. 1 small fish, esp. A stickleback or minnow. 2 unusually small thing. [perhaps related to *tiddly2 and tittlebat, a childish form of stickleback]
+Tiddler	n. Colloq. 1 small fish, esp. A stickleback or minnow. 2 unusually small thing. [perhaps related to *tiddly2 and tittlebat, a childish form of stickleback]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Fleck	—n. 1 small patch of colour or light. 2 particle, speck. —v. Mark with flecks. [old norse, or low german or dutch]
+Fleck	—n. 1 small patch of colour or light. 2 particle, speck. —v. Mark with flecks. [old norse, or low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Persian	—n. 1 native or inhabitant of ancient or modern persia (now iran); person of persian descent. 2 language of ancient persia or modern iran. 3 (in full persian cat) cat of a breed with long silky hair. —adj. Of or relating to persia or its people or language.
+Persian	—n. 1 native or inhabitant of ancient or modern persia (now iran); person of persian descent. 2 language of ancient persia or modern iran. 3 (in full persian cat) cat of a breed with long silky hair. —adj. Of or relating to persia or its people or language.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

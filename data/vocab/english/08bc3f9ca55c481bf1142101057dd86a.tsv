@@ -1,1 +1,6 @@
-Satisfaction	n. 1 satisfying or being satisfied (derived great satisfaction). 2 thing that satisfies (is a great satisfaction to me). 3 (foll. By for) atonement; compensation (demanded satisfaction).
+Satisfaction	n. 1 satisfying or being satisfied (derived great satisfaction). 2 thing that satisfies (is a great satisfaction to me). 3 (foll. By for) atonement; compensation (demanded satisfaction).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

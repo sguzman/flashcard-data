@@ -1,1 +1,6 @@
-Pierrot	n. (fem. Pierrette) 1 white-faced entertainer in pier shows etc. With a loose white clown's costume. 2 french pantomime character so dressed. [french, diminutive of pierre peter]
+Pierrot	n. (fem. Pierrette) 1 white-faced entertainer in pier shows etc. With a loose white clown's costume. 2 french pantomime character so dressed. [french, diminutive of pierre peter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

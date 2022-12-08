@@ -1,1 +1,6 @@
-Token	n. 1 thing serving as a symbol, reminder, or mark (as a token of affection; in token of my esteem). 2 voucher. 3 thing equivalent to something else, esp. Money. 4 (attrib.) A perfunctory (token effort). B conducted briefly to demonstrate strength of feeling (token strike). C chosen by tokenism to represent a group (token woman).
+Token	n. 1 thing serving as a symbol, reminder, or mark (as a token of affection; in token of my esteem). 2 voucher. 3 thing equivalent to something else, esp. Money. 4 (attrib.) A perfunctory (token effort). B conducted briefly to demonstrate strength of feeling (token strike). C chosen by tokenism to represent a group (token woman).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

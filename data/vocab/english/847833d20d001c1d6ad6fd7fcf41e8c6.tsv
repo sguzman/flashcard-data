@@ -1,1 +1,6 @@
-Naïve	adj. (also naive) 1 innocent; unaffected. 2 foolishly credulous. 3 (of art) produced in a sophisticated society but lacking conventional expertise.  naïvely adv. Naïvety n. (also naïveté). [latin nativus *native]
+Naïve	adj. (also naive) 1 innocent; unaffected. 2 foolishly credulous. 3 (of art) produced in a sophisticated society but lacking conventional expertise.  naïvely adv. Naïvety n. (also naïveté). [latin nativus *native]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

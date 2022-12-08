@@ -1,1 +1,6 @@
-Encaustic	—adj. (of painting etc.) Using pigments mixed with hot wax, which are burned in as an inlay. —n. 1 art of encaustic painting. 2 product of this. [greek: related to *caustic]
+Encaustic	—adj. (of painting etc.) Using pigments mixed with hot wax, which are burned in as an inlay. —n. 1 art of encaustic painting. 2 product of this. [greek: related to *caustic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

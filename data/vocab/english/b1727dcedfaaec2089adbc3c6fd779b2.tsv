@@ -1,1 +1,6 @@
-Vocation	n. 1 a strong feeling of suitability for a particular career. B this regarded as a divine call to a career in the church. 2 employment, trade, profession.  vocational adj. [latin voco call]
+Vocation	n. 1 a strong feeling of suitability for a particular career. B this regarded as a divine call to a career in the church. 2 employment, trade, profession.  vocational adj. [latin voco call]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

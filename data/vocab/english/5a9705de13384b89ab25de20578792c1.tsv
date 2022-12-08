@@ -1,1 +1,6 @@
-Kit	—n. 1 articles, equipment, etc. For a specific purpose (first-aid kit). 2 specialized, esp. Sports, clothing or uniform (football kit). 3 set of parts needed to assemble furniture, a model, etc. —v. (-tt-) (often foll.
+Kit	—n. 1 articles, equipment, etc. For a specific purpose (first-aid kit). 2 specialized, esp. Sports, clothing or uniform (football kit). 3 set of parts needed to assemble furniture, a model, etc. —v. (-tt-) (often foll.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

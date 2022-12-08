@@ -1,1 +1,6 @@
-Epithelium	n. (pl. -s or -lia) tissue forming the outer layer of the body and lining many hollow structures.  epithelial adj. [greek thele teat]
+Epithelium	n. (pl. -s or -lia) tissue forming the outer layer of the body and lining many hollow structures.  epithelial adj. [greek thele teat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

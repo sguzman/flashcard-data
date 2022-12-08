@@ -1,1 +1,6 @@
-Comprehensive	—adj. 1 including all or nearly all, inclusive. 2 (of motor insurance) providing protection against most risks. —n. (in full comprehensive school) secondary school for children of all abilities.  comprehensively adv. Comprehensiveness n.
+Comprehensive	—adj. 1 including all or nearly all, inclusive. 2 (of motor insurance) providing protection against most risks. —n. (in full comprehensive school) secondary school for children of all abilities.  comprehensively adv. Comprehensiveness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

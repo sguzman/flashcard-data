@@ -1,1 +1,6 @@
-Dialectic	n. 1 art of investigating the truth by discussion and logical argument. 2 process whereby contradictions merge to form a higher truth. 3 any situation or discussion involving the juxtaposition or conflict of opposites. [greek: related to *dialect]
+Dialectic	n. 1 art of investigating the truth by discussion and logical argument. 2 process whereby contradictions merge to form a higher truth. 3 any situation or discussion involving the juxtaposition or conflict of opposites. [greek: related to *dialect]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

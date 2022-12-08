@@ -1,1 +1,6 @@
-Wax1	—n. 1 sticky plastic yellowish substance secreted by bees as the material of honeycomb. 2 this bleached and purified, used for candles, modelling, etc. 3 any similar substance, e.g. The yellow substance secreted by the ear. —v. 1 cover or treat with wax. 2 remove unwanted hair from (legs etc.) Using wax.  waxy adj. (-ier, -iest). [old english]
+Wax1	—n. 1 sticky plastic yellowish substance secreted by bees as the material of honeycomb. 2 this bleached and purified, used for candles, modelling, etc. 3 any similar substance, e.g. The yellow substance secreted by the ear. —v. 1 cover or treat with wax. 2 remove unwanted hair from (legs etc.) Using wax.  waxy adj. (-ier, -iest). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

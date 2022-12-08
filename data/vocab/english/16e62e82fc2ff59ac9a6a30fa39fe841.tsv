@@ -1,1 +1,6 @@
-Amplifier	n. Electronic device for increasing the strength of electrical signals, esp. For conversion into sound.
+Amplifier	n. Electronic device for increasing the strength of electrical signals, esp. For conversion into sound.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Diorama	n. 1 scenic painting lit to simulate sunrise etc. 2 small scene with three-dimensional figures, viewed through a window etc. 3 small-scale model or film-set. [from *dia-, greek horao see]
+Diorama	n. 1 scenic painting lit to simulate sunrise etc. 2 small scene with three-dimensional figures, viewed through a window etc. 3 small-scale model or film-set. [from *dia-, greek horao see]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

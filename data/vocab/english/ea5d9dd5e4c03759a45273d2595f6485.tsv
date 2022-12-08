@@ -1,1 +1,6 @@
-Pinstripe	n. 1 (often attrib.) Narrow stripe in cloth (pinstripe suit). 2 (in sing. Or pl.) Pinstripe suit (came wearing his pinstripes).  pinstriped adj.
+Pinstripe	n. 1 (often attrib.) Narrow stripe in cloth (pinstripe suit). 2 (in sing. Or pl.) Pinstripe suit (came wearing his pinstripes).  pinstriped adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sackcloth	n. 1 coarse fabric of flax or hemp used for sacks. 2 clothing for penance or mourning (esp. Sackcloth and ashes).
+Sackcloth	n. 1 coarse fabric of flax or hemp used for sacks. 2 clothing for penance or mourning (esp. Sackcloth and ashes).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

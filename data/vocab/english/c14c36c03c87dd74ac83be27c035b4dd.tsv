@@ -1,1 +1,6 @@
-Conk1	v. (usu. Foll. By out) colloq. 1 (of a machine etc.) Break down. 2 (of a person) become exhausted and give up; fall asleep; faint; die. [origin unknown]
+Conk1	v. (usu. Foll. By out) colloq. 1 (of a machine etc.) Break down. 2 (of a person) become exhausted and give up; fall asleep; faint; die. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

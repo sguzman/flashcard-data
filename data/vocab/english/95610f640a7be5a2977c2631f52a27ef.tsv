@@ -1,1 +1,6 @@
-Post2	—n. 1 official conveyance of parcels, letters, etc. (send it by post). 2 single collection or delivery of these; the letters etc. Dispatched (has the post arrived?). 3 place where letters etc.
+Post2	—n. 1 official conveyance of parcels, letters, etc. (send it by post). 2 single collection or delivery of these; the letters etc. Dispatched (has the post arrived?). 3 place where letters etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

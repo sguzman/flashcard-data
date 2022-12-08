@@ -1,1 +1,6 @@
-Tonality	n. (pl. -ies) 1 mus. A relationship between the tones of a musical scale. B observance of a single tonic key as the basis of a composition. 2 colour scheme of a picture.
+Tonality	n. (pl. -ies) 1 mus. A relationship between the tones of a musical scale. B observance of a single tonic key as the basis of a composition. 2 colour scheme of a picture.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

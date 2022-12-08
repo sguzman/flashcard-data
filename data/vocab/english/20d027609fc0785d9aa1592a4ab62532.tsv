@@ -1,1 +1,6 @@
-Nurture	—n. 1 bringing up, fostering care. 2 nourishment. —v. (-ring) bring up; rear. [french: related to *nourish]
+Nurture	—n. 1 bringing up, fostering care. 2 nourishment. —v. (-ring) bring up; rear. [french: related to *nourish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

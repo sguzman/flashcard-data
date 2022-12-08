@@ -1,1 +1,6 @@
-Caprice	n. 1 a whim. B tendency to this. 2 lively or fanciful work of art, music, etc. [italian capriccio sudden start]
+Caprice	n. 1 a whim. B tendency to this. 2 lively or fanciful work of art, music, etc. [italian capriccio sudden start]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

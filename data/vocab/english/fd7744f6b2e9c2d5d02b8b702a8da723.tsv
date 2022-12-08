@@ -1,1 +1,6 @@
--ing1	suffix forming nouns from verbs denoting: 1 verbal action or its result (asking). 2 material associated with a process etc. (piping; washing). 3 occupation or event (banking; wedding). [old english]
+-ing1	suffix forming nouns from verbs denoting: 1 verbal action or its result (asking). 2 material associated with a process etc. (piping; washing). 3 occupation or event (banking; wedding). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

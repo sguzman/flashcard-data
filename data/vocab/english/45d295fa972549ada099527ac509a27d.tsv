@@ -1,1 +1,6 @@
-Ecology	n. 1 the study of the relations of organisms to one another and to their surroundings. 2 the study of the interaction of people with their environment.  ecological adj. Ecologically adv. Ecologist n. [greek oikos house]
+Ecology	n. 1 the study of the relations of organisms to one another and to their surroundings. 2 the study of the interaction of people with their environment.  ecological adj. Ecologically adv. Ecologist n. [greek oikos house]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

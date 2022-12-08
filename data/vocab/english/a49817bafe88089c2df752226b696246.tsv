@@ -1,1 +1,6 @@
-Prang	 slang —v. 1 crash (an aircraft or vehicle). 2 damage by impact. 3 bomb (a target) successfully. —n. Act of pranging. [imitative]
+Prang	slang —v. 1 crash (an aircraft or vehicle). 2 damage by impact. 3 bomb (a target) successfully. —n. Act of pranging. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Whittle	v. (-ling) 1 (often foll. By at) pare (wood etc.) With repeated slicing with a knife. 2 (often foll. By away, down) reduce by repeated subtractions. [dial. Thwittle]
+Whittle	v. (-ling) 1 (often foll. By at) pare (wood etc.) With repeated slicing with a knife. 2 (often foll. By away, down) reduce by repeated subtractions. [dial. Thwittle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

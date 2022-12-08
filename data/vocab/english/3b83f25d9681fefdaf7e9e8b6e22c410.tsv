@@ -1,1 +1,6 @@
-Muscat	n. 1 sweet usu. Fortified white wine made from musk-flavoured grapes. 2 this grape. [provençal: related to *musk]
+Muscat	n. 1 sweet usu. Fortified white wine made from musk-flavoured grapes. 2 this grape. [provençal: related to *musk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Vein	n. 1 a any of the tubes conveying blood to the heart. B (in general use) any blood-vessel. 2 rib of an insect's wing or leaf. 3 streak of a different colour in wood, marble, cheese, etc. 4 fissure in rock filled with ore. 5 specified character or tendency; mood (spoke in a sarcastic vein).  veined adj. Veiny adj. (-ier, -iest). [latin vena]
+Vein	n. 1 a any of the tubes conveying blood to the heart. B (in general use) any blood-vessel. 2 rib of an insect's wing or leaf. 3 streak of a different colour in wood, marble, cheese, etc. 4 fissure in rock filled with ore. 5 specified character or tendency; mood (spoke in a sarcastic vein).  veined adj. Veiny adj. (-ier, -iest). [latin vena]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

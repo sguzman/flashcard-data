@@ -1,1 +1,6 @@
-Journey	—n. (pl. -s) 1 act of going from one place to another, esp. At a long distance. 2 time taken for this (a day's journey). —v. (-s, -ed) make a journey. [french jornee day, day's work or travel, from latin diurnus daily]
+Journey	—n. (pl. -s) 1 act of going from one place to another, esp. At a long distance. 2 time taken for this (a day's journey). —v. (-s, -ed) make a journey. [french jornee day, day's work or travel, from latin diurnus daily]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

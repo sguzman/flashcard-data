@@ -1,1 +1,6 @@
-Linen	—n. 1 cloth woven from flax. 2 (collect.) Articles made or orig. Made of linen, as sheets, shirts, underwear, etc. —adj. Made of linen. [old english: related to latin linum flax]
+Linen	—n. 1 cloth woven from flax. 2 (collect.) Articles made or orig. Made of linen, as sheets, shirts, underwear, etc. —adj. Made of linen. [old english: related to latin linum flax]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

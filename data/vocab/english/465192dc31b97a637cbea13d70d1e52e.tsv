@@ -1,1 +1,6 @@
-Mysterious	adj. Full of or wrapped in mystery.  mysteriously adv. [french: related to *mystery]
+Mysterious	adj. Full of or wrapped in mystery.  mysteriously adv. [french: related to *mystery]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

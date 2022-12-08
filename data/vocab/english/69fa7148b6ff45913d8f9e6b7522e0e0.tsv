@@ -1,1 +1,6 @@
-Bill2	—n. 1 bird's beak. 2 narrow promontory. —v. (of doves etc.) Stroke bills.  bill and coo exchange caresses. [old english]
+Bill2	—n. 1 bird's beak. 2 narrow promontory. —v. (of doves etc.) Stroke bills.  bill and coo exchange caresses. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

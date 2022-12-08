@@ -1,1 +1,6 @@
-Inclination	n. 1 disposition or propensity. 2 liking, affection. 3 slope, slant. 4 angle between lines. 5 dip of a magnetic needle. 6 slow nod of the head. [latin: related to *incline]
+Inclination	n. 1 disposition or propensity. 2 liking, affection. 3 slope, slant. 4 angle between lines. 5 dip of a magnetic needle. 6 slow nod of the head. [latin: related to *incline]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Subtle	adj. (subtler, subtlest) 1 elusive, mysterious; hard to grasp. 2 (of scent, colour, etc.) Faint, delicate. 3 a perceptive (subtle intellect). B ingenious (subtle device).  subtlety n. (pl. -ies). Subtly adv. [latin subtilis]
+Subtle	adj. (subtler, subtlest) 1 elusive, mysterious; hard to grasp. 2 (of scent, colour, etc.) Faint, delicate. 3 a perceptive (subtle intellect). B ingenious (subtle device).  subtlety n. (pl. -ies). Subtly adv. [latin subtilis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pornography	n. 1 explicit representation of sexual activity in literature, films, etc., intended to stimulate erotic rather than aesthetic or emotional feelings. 2 literature etc. Containing this.  pornographic adj. [greek porne prostitute]
+Pornography	n. 1 explicit representation of sexual activity in literature, films, etc., intended to stimulate erotic rather than aesthetic or emotional feelings. 2 literature etc. Containing this.  pornographic adj. [greek porne prostitute]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

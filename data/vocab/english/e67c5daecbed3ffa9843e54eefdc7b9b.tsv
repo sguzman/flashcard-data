@@ -1,1 +1,6 @@
-Room	—n. 1 space for, or occupied by, something; capacity (takes up too much room; room for improvement). 2 a part of a building enclosed by walls, floor, and ceiling. B (in pl.) Apartments or lodgings. C people in a room (room fell silent). —v. Us have room(s); lodge, board. [old english]
+Room	—n. 1 space for, or occupied by, something; capacity (takes up too much room; room for improvement). 2 a part of a building enclosed by walls, floor, and ceiling. B (in pl.) Apartments or lodgings. C people in a room (room fell silent). —v. Us have room(s); lodge, board. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Unfledged	adj. 1 (of a person) inexperienced. 2 (of a bird) not yet fledged.
+Unfledged	adj. 1 (of a person) inexperienced. 2 (of a bird) not yet fledged.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gore3	—n. 1 wedge-shaped piece in a garment. 2 triangular or tapering piece in an umbrella etc. —v. (-ring) shape (a garment) with a gore. [old english, = triangle of land]
+Gore3	—n. 1 wedge-shaped piece in a garment. 2 triangular or tapering piece in an umbrella etc. —v. (-ring) shape (a garment) with a gore. [old english, = triangle of land]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

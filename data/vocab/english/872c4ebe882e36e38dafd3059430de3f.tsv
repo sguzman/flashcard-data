@@ -1,1 +1,6 @@
-Flexible	adj. 1 capable of bending without breaking; pliable. 2 manageable. 3 adaptable; variable (works flexible hours).  flexibility n. Flexibly adv. [latin flexibilis: related to *flex1]
+Flexible	adj. 1 capable of bending without breaking; pliable. 2 manageable. 3 adaptable; variable (works flexible hours).  flexibility n. Flexibly adv. [latin flexibilis: related to *flex1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

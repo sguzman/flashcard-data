@@ -1,1 +1,6 @@
-Affirm	v. 1 assert, state as a fact. 2 law make a solemn declaration in place of an oath.  affirmation n. [latin: related to *firm1]
+Affirm	v. 1 assert, state as a fact. 2 law make a solemn declaration in place of an oath.  affirmation n. [latin: related to *firm1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

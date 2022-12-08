@@ -1,1 +1,6 @@
-Sake1	n.  for christ's (or god's or goodness' or heaven's or pete's etc.) Sake expression of impatience, supplication, anger, etc. For the sake of (or for one's sake) out of consideration for; in the interest of; because of; in order to please, honour, get, or keep. [old english]
+Sake1	n.  for christ's (or god's or goodness' or heaven's or pete's etc.) Sake expression of impatience, supplication, anger, etc. For the sake of (or for one's sake) out of consideration for; in the interest of; because of; in order to please, honour, get, or keep. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Stake1	—n. 1 stout sharpened stick driven into the ground as a support, boundary mark, etc. 2 hist. A post to which a condemned person was tied to be burnt alive. B (prec. By the) such death as a punishment. —v. (-king) 1 secure or support with a stake or stakes. 2 (foll. By off, out) mark off (an area) with stakes. 3 establish (a claim).  stake out colloq. Place under surveillance. [old english]
+Stake1	—n. 1 stout sharpened stick driven into the ground as a support, boundary mark, etc. 2 hist. A post to which a condemned person was tied to be burnt alive. B (prec. By the) such death as a punishment. —v. (-king) 1 secure or support with a stake or stakes. 2 (foll. By off, out) mark off (an area) with stakes. 3 establish (a claim).  stake out colloq. Place under surveillance. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

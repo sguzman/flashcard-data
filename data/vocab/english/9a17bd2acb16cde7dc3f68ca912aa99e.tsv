@@ -1,1 +1,6 @@
--ism	suffix forming nouns, esp. Denoting: 1 action or its result (baptism; organism). 2 system or principle (conservatism; jingoism). 3 state or quality (heroism; barbarism). 4 basis of prejudice or discrimination (racism; sexism). 5 peculiarity in language (americanism). [greek -ismos]
+-ism	suffix forming nouns, esp. Denoting: 1 action or its result (baptism; organism). 2 system or principle (conservatism; jingoism). 3 state or quality (heroism; barbarism). 4 basis of prejudice or discrimination (racism; sexism). 5 peculiarity in language (americanism). [greek -ismos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

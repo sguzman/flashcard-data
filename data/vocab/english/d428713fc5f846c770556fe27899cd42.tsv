@@ -1,1 +1,6 @@
-Division	n. 1 dividing or being divided. 2 dividing one number by another. 3 disagreement (division of opinion). 4 parl. Separation of members for counting votes. 5 one of two or more parts into which a thing is divided. 6 unit of administration, esp. A group of army brigades, regiments, or teams in a sporting league.  divisional adj.
+Division	n. 1 dividing or being divided. 2 dividing one number by another. 3 disagreement (division of opinion). 4 parl. Separation of members for counting votes. 5 one of two or more parts into which a thing is divided. 6 unit of administration, esp. A group of army brigades, regiments, or teams in a sporting league.  divisional adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

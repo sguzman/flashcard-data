@@ -1,1 +1,6 @@
-Mover	n. 1 person, animal, or thing that moves or dances, esp. In a specified way. 2 person who moves a proposition. 3 (also prime mover) originator.
+Mover	n. 1 person, animal, or thing that moves or dances, esp. In a specified way. 2 person who moves a proposition. 3 (also prime mover) originator.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

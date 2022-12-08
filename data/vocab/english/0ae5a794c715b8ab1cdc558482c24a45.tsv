@@ -1,1 +1,6 @@
-Rubric	n. 1 heading or passage in red or special lettering. 2 explanatory words. 3 established custom or rule. 4 direction for the conduct of divine service in a liturgical book. [latin ruber red]
+Rubric	n. 1 heading or passage in red or special lettering. 2 explanatory words. 3 established custom or rule. 4 direction for the conduct of divine service in a liturgical book. [latin ruber red]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

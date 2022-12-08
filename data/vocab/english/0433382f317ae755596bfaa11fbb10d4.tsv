@@ -1,1 +1,6 @@
-Borough	n. 1 a town represented in the house of commons. B town or district granted the status of a borough. 2 hist. Town with a municipal corporation conferred by a royal charter. [old english]
+Borough	n. 1 a town represented in the house of commons. B town or district granted the status of a borough. 2 hist. Town with a municipal corporation conferred by a royal charter. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

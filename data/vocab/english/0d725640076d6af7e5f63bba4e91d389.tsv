@@ -1,1 +1,6 @@
-Pupil1	n. Person taught by another, esp. A schoolchild or student. [latin pupillus, -illa diminutives of pupus boy, pupa girl]
+Pupil1	n. Person taught by another, esp. A schoolchild or student. [latin pupillus, -illa diminutives of pupus boy, pupa girl]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

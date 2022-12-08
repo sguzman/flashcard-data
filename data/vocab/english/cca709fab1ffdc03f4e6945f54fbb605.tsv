@@ -1,1 +1,6 @@
-Saddle-bag	n. 1 each of a pair of bags laid across the back of a horse etc. 2 bag attached to a bicycle saddle etc.
+Saddle-bag	n. 1 each of a pair of bags laid across the back of a horse etc. 2 bag attached to a bicycle saddle etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

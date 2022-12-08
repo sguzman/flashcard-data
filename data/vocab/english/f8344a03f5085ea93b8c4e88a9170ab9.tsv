@@ -1,1 +1,6 @@
-Rural	adj. In, of, or suggesting the country (rural seclusion). [latin rus rur- the country]
+Rural	adj. In, of, or suggesting the country (rural seclusion). [latin rus rur- the country]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

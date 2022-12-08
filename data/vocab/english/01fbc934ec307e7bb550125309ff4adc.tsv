@@ -1,1 +1,6 @@
-Cemetery	n. (pl. -ies) burial ground, esp. One not in a churchyard. [greek koimao put to sleep]
+Cemetery	n. (pl. -ies) burial ground, esp. One not in a churchyard. [greek koimao put to sleep]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

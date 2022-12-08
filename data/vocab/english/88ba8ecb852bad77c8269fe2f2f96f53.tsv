@@ -1,1 +1,6 @@
-Buffet2	—v. (-t-) 1 strike repeatedly. 2 contend with (waves etc.). —n. 1 blow, esp. Of the hand. 2 shock. [french diminutive of bufe blow]
+Buffet2	—v. (-t-) 1 strike repeatedly. 2 contend with (waves etc.). —n. 1 blow, esp. Of the hand. 2 shock. [french diminutive of bufe blow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

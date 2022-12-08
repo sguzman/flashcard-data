@@ -1,1 +1,6 @@
-Fitted	adj. 1 made to fit closely or exactly (fitted carpet). 2 provided with built-in fittings etc. (fitted kitchen). 3 built-in (fitted cupboards).
+Fitted	adj. 1 made to fit closely or exactly (fitted carpet). 2 provided with built-in fittings etc. (fitted kitchen). 3 built-in (fitted cupboards).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Incongruous	adj. 1 out of place; absurd. 2 (often foll. By with) out of keeping.  incongruity n. (pl. -ies). Incongruously adv.
+Incongruous	adj. 1 out of place; absurd. 2 (often foll. By with) out of keeping.  incongruity n. (pl. -ies). Incongruously adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

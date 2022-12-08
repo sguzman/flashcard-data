@@ -1,1 +1,6 @@
-Covenant	—n. 1 agreement; contract. 2 law sealed contract, esp. A deed of covenant. 3 (covenant) bibl. Agreement between god and the israelites. —v. Agree, esp. By legal covenant. [french: related to *convene]
+Covenant	—n. 1 agreement; contract. 2 law sealed contract, esp. A deed of covenant. 3 (covenant) bibl. Agreement between god and the israelites. —v. Agree, esp. By legal covenant. [french: related to *convene]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

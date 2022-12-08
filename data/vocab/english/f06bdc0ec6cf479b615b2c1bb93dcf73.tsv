@@ -1,1 +1,6 @@
-Recital	n. 1 reciting or being recited. 2 concert of classical music given by a soloist or small group. 3 (foll. By of) detailed account of (connected things or facts); narrative.
+Recital	n. 1 reciting or being recited. 2 concert of classical music given by a soloist or small group. 3 (foll. By of) detailed account of (connected things or facts); narrative.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

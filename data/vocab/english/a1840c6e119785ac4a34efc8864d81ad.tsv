@@ -1,1 +1,6 @@
-Pleasure	n. 1 feeling of satisfaction or joy. 2 enjoyment. 3 source of pleasure or gratification. 4 one's will or desire (what is your pleasure?). 5 sensual gratification. 6 (attrib.) Done or used for pleasure. [french: related to *please]
+Pleasure	n. 1 feeling of satisfaction or joy. 2 enjoyment. 3 source of pleasure or gratification. 4 one's will or desire (what is your pleasure?). 5 sensual gratification. 6 (attrib.) Done or used for pleasure. [french: related to *please]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Fell4	adj. Poet. Or rhet. Ruthless, destructive.  at (or in) one fell swoop in a single (orig. Deadly) action. [french: related to *felon]
+Fell4	adj. Poet. Or rhet. Ruthless, destructive.  at (or in) one fell swoop in a single (orig. Deadly) action. [french: related to *felon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gargoyle	n. Grotesque carved face or figure, esp. As a spout from the gutter of a building. [french, = throat]
+Gargoyle	n. Grotesque carved face or figure, esp. As a spout from the gutter of a building. [french, = throat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Energy	n. (pl. -ies) 1 capacity for activity, force, vigour. 2 capacity of matter or radiation to do work. [greek ergon work]
+Energy	n. (pl. -ies) 1 capacity for activity, force, vigour. 2 capacity of matter or radiation to do work. [greek ergon work]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

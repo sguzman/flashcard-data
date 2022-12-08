@@ -1,1 +1,6 @@
-Bury	v. (-ies, -ied) 1 place (a corpse) in the earth, a tomb, or the sea. 2 lose by death (buried two sons). 3 a put or hide under ground. B cover up; conceal. 4 consign to obscurity; forget. 5 (refl. Or passive) involve deeply (buried in a book).  bury the hatchet cease to quarrel. [old english]
+Bury	v. (-ies, -ied) 1 place (a corpse) in the earth, a tomb, or the sea. 2 lose by death (buried two sons). 3 a put or hide under ground. B cover up; conceal. 4 consign to obscurity; forget. 5 (refl. Or passive) involve deeply (buried in a book).  bury the hatchet cease to quarrel. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

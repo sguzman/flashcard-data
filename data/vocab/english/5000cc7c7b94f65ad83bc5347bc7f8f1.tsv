@@ -1,1 +1,6 @@
-Drive-in	—attrib. Adj. (of a bank, cinema, etc.) Used while sitting in one's car. —n. Such a bank, cinema, etc.
+Drive-in	—attrib. Adj. (of a bank, cinema, etc.) Used while sitting in one's car. —n. Such a bank, cinema, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

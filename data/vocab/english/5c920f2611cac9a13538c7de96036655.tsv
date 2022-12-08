@@ -1,1 +1,6 @@
-Pussy	n. (pl. -ies) 1 (also pussy-cat) colloq. Cat. 2 coarse slang vulva.
+Pussy	n. (pl. -ies) 1 (also pussy-cat) colloq. Cat. 2 coarse slang vulva.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

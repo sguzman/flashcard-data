@@ -1,1 +1,6 @@
-K2	abbr. (also k.) 1 kelvin(s). 2 king, king's. 3 köchel (catalogue of mozart's works). 4 (also k) (prec. By a numeral) a computing unit of 1,024 (i.e. 210) bytes or bits, or loosely 1,000. B 1,000. [sense 4 as abbreviation of *kilo-]
+K2	abbr. (also k.) 1 kelvin(s). 2 king, king's. 3 köchel (catalogue of mozart's works). 4 (also k) (prec. By a numeral) a computing unit of 1,024 (i.e. 210) bytes or bits, or loosely 1,000. B 1,000. [sense 4 as abbreviation of *kilo-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

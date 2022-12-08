@@ -1,1 +1,6 @@
-Leach	v. 1 make (a liquid) percolate through some material. 2 subject (bark, ore, ash, or soil) to the action of percolating fluid. 3 (foll. By away, out) remove (soluble matter) or be removed in this way. [old english]
+Leach	v. 1 make (a liquid) percolate through some material. 2 subject (bark, ore, ash, or soil) to the action of percolating fluid. 3 (foll. By away, out) remove (soluble matter) or be removed in this way. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

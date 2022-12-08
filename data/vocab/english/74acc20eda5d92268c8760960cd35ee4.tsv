@@ -1,1 +1,6 @@
-Supposition	n. 1 thing supposed. 2 act of supposing.
+Supposition	n. 1 thing supposed. 2 act of supposing.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

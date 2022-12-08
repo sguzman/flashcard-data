@@ -1,1 +1,6 @@
-Gusset	n. 1 piece let into a garment etc. To strengthen or enlarge it. 2 bracket strengthening an angle of a structure. [french]
+Gusset	n. 1 piece let into a garment etc. To strengthen or enlarge it. 2 bracket strengthening an angle of a structure. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

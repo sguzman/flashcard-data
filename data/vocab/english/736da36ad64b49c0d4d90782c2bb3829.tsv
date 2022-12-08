@@ -1,1 +1,6 @@
-Ugly	adj. (-lier, -liest) 1 unpleasant to the eye, ear, or mind etc. (ugly scar; ugly snarl). 2 unpleasantly suggestive; discreditable (ugly rumours). 3 threatening, dangerous (an ugly look). 4 morally repulsive (ugly vices).  ugliness n. [old norse]
+Ugly	adj. (-lier, -liest) 1 unpleasant to the eye, ear, or mind etc. (ugly scar; ugly snarl). 2 unpleasantly suggestive; discreditable (ugly rumours). 3 threatening, dangerous (an ugly look). 4 morally repulsive (ugly vices).  ugliness n. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Bromide	n. 1 any binary compound of bromine. 2 trite remark. 3 reproduction or proof on paper coated with silver bromide emulsion.
+Bromide	n. 1 any binary compound of bromine. 2 trite remark. 3 reproduction or proof on paper coated with silver bromide emulsion.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

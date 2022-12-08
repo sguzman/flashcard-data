@@ -1,1 +1,6 @@
-Hail2	—v. 1 signal to (a taxi etc.) To stop. 2 greet enthusiastically. 3 acclaim (hailed him king). 4 (foll. By from) originate or come (hails from leeds). —int. Archaic or joc. Expressing greeting. —n. Act of hailing. [old norse heill: related to *wassail]
+Hail2	—v. 1 signal to (a taxi etc.) To stop. 2 greet enthusiastically. 3 acclaim (hailed him king). 4 (foll. By from) originate or come (hails from leeds). —int. Archaic or joc. Expressing greeting. —n. Act of hailing. [old norse heill: related to *wassail]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

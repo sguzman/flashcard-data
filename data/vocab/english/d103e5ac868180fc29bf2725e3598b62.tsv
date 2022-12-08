@@ -1,1 +1,6 @@
-Adverb	n. Word indicating manner, degree, circumstance, etc., used to modify an adjective, verb, or other adverb (e.g. Gently, quite, then).  adverbial adj. [latin: related to *ad-, verbum word, *verb]
+Adverb	n. Word indicating manner, degree, circumstance, etc., used to modify an adjective, verb, or other adverb (e.g. Gently, quite, then).  adverbial adj. [latin: related to *ad-, verbum word, *verb]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

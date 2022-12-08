@@ -1,1 +1,6 @@
-Wound1	—n. 1 injury done to living tissue by a deep cut or heavy blow etc. 2 pain inflicted on one's feelings; injury to one's reputation. —v. Inflict a wound on. [old english]
+Wound1	—n. 1 injury done to living tissue by a deep cut or heavy blow etc. 2 pain inflicted on one's feelings; injury to one's reputation. —v. Inflict a wound on. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

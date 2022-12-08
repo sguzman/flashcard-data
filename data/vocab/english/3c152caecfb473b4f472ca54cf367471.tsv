@@ -1,1 +1,6 @@
-Batten1	—n. 1 a long flat strip of squared timber. B horizontal strip of wood to which laths, tiles, etc., are fastened. 2 strip for securing tarpaulin over a ship's hatchway. —v. Strengthen or (often foll. By down) fasten with battens. [french: related to *batter1]
+Batten1	—n. 1 a long flat strip of squared timber. B horizontal strip of wood to which laths, tiles, etc., are fastened. 2 strip for securing tarpaulin over a ship's hatchway. —v. Strengthen or (often foll. By down) fasten with battens. [french: related to *batter1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

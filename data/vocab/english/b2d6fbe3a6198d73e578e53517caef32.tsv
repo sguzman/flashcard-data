@@ -1,1 +1,6 @@
-Wharf	—n. (pl. Wharves or -s) quayside area to which a ship may be moored to load and unload. —v. 1 moor (a ship) at a wharf. 2 store (goods) on a wharf. [old english]
+Wharf	—n. (pl. Wharves or -s) quayside area to which a ship may be moored to load and unload. —v. 1 moor (a ship) at a wharf. 2 store (goods) on a wharf. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

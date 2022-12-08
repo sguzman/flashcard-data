@@ -1,1 +1,6 @@
-Varnish	—n. 1  resinous solution used to give a hard shiny transparent coating. 2 similar preparation (nail varnish). 3 deceptive outward appearance or show. —v. 1 apply varnish to. 2 give a deceptively attractive appearance to. [french vernis, probably ultimately from berenice in cyrenaica]
+Varnish	—n. 1  resinous solution used to give a hard shiny transparent coating. 2 similar preparation (nail varnish). 3 deceptive outward appearance or show. —v. 1 apply varnish to. 2 give a deceptively attractive appearance to. [french vernis, probably ultimately from berenice in cyrenaica]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

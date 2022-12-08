@@ -1,1 +1,6 @@
-Chaconne	n. 1 musical variations over a ground bass. 2 dance performed to this. [french from spanish]
+Chaconne	n. 1 musical variations over a ground bass. 2 dance performed to this. [french from spanish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

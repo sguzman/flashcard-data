@@ -1,1 +1,6 @@
-Conclude	v. (-ding) 1 bring or come to an end. 2 (often foll. By from or that) infer. 3 settle (a treaty etc.). [latin concludo: related to *close1]
+Conclude	v. (-ding) 1 bring or come to an end. 2 (often foll. By from or that) infer. 3 settle (a treaty etc.). [latin concludo: related to *close1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

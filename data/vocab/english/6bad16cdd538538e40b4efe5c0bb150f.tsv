@@ -1,1 +1,6 @@
-Clutch2	n. 1 set of eggs for hatching. 2 brood of chickens. [old norse, = hatch]
+Clutch2	n. 1 set of eggs for hatching. 2 brood of chickens. [old norse, = hatch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

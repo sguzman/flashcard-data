@@ -1,1 +1,6 @@
-Eclipse	—n. 1 obscuring of light from one heavenly body by another. 2 loss of light, importance, or prominence. —v. (-sing) 1 (of a heavenly body) cause the eclipse of (another). 2 intercept (light). 3 outshine, surpass. [greek ekleipsis]
+Eclipse	—n. 1 obscuring of light from one heavenly body by another. 2 loss of light, importance, or prominence. —v. (-sing) 1 (of a heavenly body) cause the eclipse of (another). 2 intercept (light). 3 outshine, surpass. [greek ekleipsis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

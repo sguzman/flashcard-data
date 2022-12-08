@@ -1,1 +1,6 @@
-Conquest	n. 1 conquering or being conquered. 2 a conquered territory. B something won. 3 person whose affection has been won.
+Conquest	n. 1 conquering or being conquered. 2 a conquered territory. B something won. 3 person whose affection has been won.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

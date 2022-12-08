@@ -1,1 +1,6 @@
-Squash1	—v. 1 crush or squeeze, esp. Flat or into pulp. 2 (often foll. By into) colloq. Put or make one's way by squeezing. 3 belittle, bully (a person). 4 suppress (a proposal, allegation, etc.). —n. 1 crowd; crowded state. 2 drink made of crushed fruit. 3 (in full squash rackets) game played with rackets and a small ball in a closed court.
+Squash1	—v. 1 crush or squeeze, esp. Flat or into pulp. 2 (often foll. By into) colloq. Put or make one's way by squeezing. 3 belittle, bully (a person). 4 suppress (a proposal, allegation, etc.). —n. 1 crowd; crowded state. 2 drink made of crushed fruit. 3 (in full squash rackets) game played with rackets and a small ball in a closed court.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Charter	—n. 1 a document granting rights, issued esp. By a sovereign or legislature. B written constitution or description of an organization's functions etc. 2 contract to hire an aircraft, ship, etc., for a special purpose. —v. 1 grant a charter to. 2 hire (an aircraft, ship, etc.). [latin chartula: related to *chart]
+Charter	—n. 1 a document granting rights, issued esp. By a sovereign or legislature. B written constitution or description of an organization's functions etc. 2 contract to hire an aircraft, ship, etc., for a special purpose. —v. 1 grant a charter to. 2 hire (an aircraft, ship, etc.). [latin chartula: related to *chart]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

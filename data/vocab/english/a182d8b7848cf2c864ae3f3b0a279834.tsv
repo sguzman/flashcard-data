@@ -1,1 +1,6 @@
-Cornet	n. 1 brass instrument resembling a trumpet but shorter and wider. 2 conical wafer for holding ice-cream.  cornetist n. (also cornettist). [latin cornu: related to *corn2]
+Cornet	n. 1 brass instrument resembling a trumpet but shorter and wider. 2 conical wafer for holding ice-cream.  cornetist n. (also cornettist). [latin cornu: related to *corn2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

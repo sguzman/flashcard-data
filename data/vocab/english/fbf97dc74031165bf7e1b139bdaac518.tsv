@@ -1,1 +1,6 @@
-Robust	adj. (-er, -est) 1 strong and sturdy, esp. In physique or construction. 2 (of exercise, discipline, etc.) Vigorous, requiring strength. 3 (of mental attitude, argument, etc.) Straightforward, vigorous. 4 (of a statement, reply, etc.) Bold, firm, unyielding.  robustly adv. Robustness n. [latin robur strength]
+Robust	adj. (-er, -est) 1 strong and sturdy, esp. In physique or construction. 2 (of exercise, discipline, etc.) Vigorous, requiring strength. 3 (of mental attitude, argument, etc.) Straightforward, vigorous. 4 (of a statement, reply, etc.) Bold, firm, unyielding.  robustly adv. Robustness n. [latin robur strength]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

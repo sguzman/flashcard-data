@@ -1,1 +1,6 @@
-Reef2	—n. Each of several strips across a sail, for taking it in or rolling it up to reduce its surface area in a high wind. —v. Take in a reef or reefs of (a sail). [dutch from old norse]
+Reef2	—n. Each of several strips across a sail, for taking it in or rolling it up to reduce its surface area in a high wind. —v. Take in a reef or reefs of (a sail). [dutch from old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

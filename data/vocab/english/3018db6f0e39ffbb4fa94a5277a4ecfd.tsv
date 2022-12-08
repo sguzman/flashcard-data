@@ -1,1 +1,6 @@
-Snipe	—n. (pl. Same or -s) wading bird with a long straight bill. —v. (-ping) 1  fire shots from hiding, usu. At long range. 2 (often foll. By at) make a sly critical attack.  sniper n. (in sense 1 of v.). [probably scandinavian]
+Snipe	—n. (pl. Same or -s) wading bird with a long straight bill. —v. (-ping) 1  fire shots from hiding, usu. At long range. 2 (often foll. By at) make a sly critical attack.  sniper n. (in sense 1 of v.). [probably scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

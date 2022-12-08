@@ -1,1 +1,6 @@
-Georgian2	—adj. Of georgia in eastern europe or the us. —n. 1 native or language of georgia in eastern europe. 2 native of georgia in the us.
+Georgian2	—adj. Of georgia in eastern europe or the us. —n. 1 native or language of georgia in eastern europe. 2 native of georgia in the us.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

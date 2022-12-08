@@ -1,1 +1,6 @@
-Night-watchman	n. 1 person employed to keep watch at night. 2 cricket inferior batsman sent in near the close of a day's play.
+Night-watchman	n. 1 person employed to keep watch at night. 2 cricket inferior batsman sent in near the close of a day's play.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

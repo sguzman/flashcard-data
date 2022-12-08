@@ -1,1 +1,6 @@
-Brainstorm	n. 1 sudden mental disturbance. 2 colloq. Mental lapse. 3 us brainwave. 4 pooling of spontaneous ideas about a problem etc.  brainstorming n. (in sense 4).
+Brainstorm	n. 1 sudden mental disturbance. 2 colloq. Mental lapse. 3 us brainwave. 4 pooling of spontaneous ideas about a problem etc.  brainstorming n. (in sense 4).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

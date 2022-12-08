@@ -1,1 +1,6 @@
-Drug	—n. 1 medicinal substance. 2 (esp. Addictive) narcotic, hallucinogen, or stimulant. —v. (-gg-) 1 add a drug to (food or drink). 2 a give a drug to. B stupefy. [french]
+Drug	—n. 1 medicinal substance. 2 (esp. Addictive) narcotic, hallucinogen, or stimulant. —v. (-gg-) 1 add a drug to (food or drink). 2 a give a drug to. B stupefy. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

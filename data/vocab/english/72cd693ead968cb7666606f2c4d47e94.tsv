@@ -1,1 +1,6 @@
-Interactive	adj. 1 reciprocally active. 2 (of a computer or other electronic device) allowing a two-way flow of information between it and a user.  interactively adv.
+Interactive	adj. 1 reciprocally active. 2 (of a computer or other electronic device) allowing a two-way flow of information between it and a user.  interactively adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

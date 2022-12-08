@@ -1,1 +1,6 @@
-Poetry	n. 1 art or work of a poet. 2 poems collectively. 3 poetic or tenderly pleasing quality. [medieval latin: related to *poet]
+Poetry	n. 1 art or work of a poet. 2 poems collectively. 3 poetic or tenderly pleasing quality. [medieval latin: related to *poet]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Torrid	adj. 1 a (of the weather) very hot and dry. B (of land etc.) Parched by such weather. 2 passionate, intense. [latin torreo tost- parch]
+Torrid	adj. 1 a (of the weather) very hot and dry. B (of land etc.) Parched by such weather. 2 passionate, intense. [latin torreo tost- parch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

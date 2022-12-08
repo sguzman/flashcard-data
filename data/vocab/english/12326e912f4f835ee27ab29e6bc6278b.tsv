@@ -1,1 +1,6 @@
-Waylay	v. (past and past part. Waylaid) 1 lie in wait for. 2 stop to talk to or rob.
+Waylay	v. (past and past part. Waylaid) 1 lie in wait for. 2 stop to talk to or rob.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Reception	n. 1 receiving or being received. 2 way in which a person or thing is received (cool reception). 3 social occasion for receiving guests, esp. After a wedding. 4 place where guests or clients etc. Report on arrival at a hotel, office, etc. 5 a receiving of broadcast signals. B quality of this. [latin: related to *receive]
+Reception	n. 1 receiving or being received. 2 way in which a person or thing is received (cool reception). 3 social occasion for receiving guests, esp. After a wedding. 4 place where guests or clients etc. Report on arrival at a hotel, office, etc. 5 a receiving of broadcast signals. B quality of this. [latin: related to *receive]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

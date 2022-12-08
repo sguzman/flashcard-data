@@ -1,1 +1,6 @@
-Pressurize	v. (also -ise) (-zing or -sing) 1 (esp. As pressurized adj.) Maintain normal atmospheric pressure in (an aircraft cabin etc.) At a high altitude. 2 raise to a high pressure. 3 pressure (a person).  pressurization n.
+Pressurize	v. (also -ise) (-zing or -sing) 1 (esp. As pressurized adj.) Maintain normal atmospheric pressure in (an aircraft cabin etc.) At a high altitude. 2 raise to a high pressure. 3 pressure (a person).  pressurization n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sock1	n. 1 knitted covering for the foot and lower leg. 2 insole.  pull one's socks up colloq. Make an effort to improve. Put a sock in it slang be quiet. [old english socc from greek sukkhos slipper]
+Sock1	n. 1 knitted covering for the foot and lower leg. 2 insole.  pull one's socks up colloq. Make an effort to improve. Put a sock in it slang be quiet. [old english socc from greek sukkhos slipper]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

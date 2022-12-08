@@ -1,1 +1,6 @@
-Milk	—n. 1 opaque white fluid secreted by female mammals for the nourishment of their young. 2 milk of cows, goats, or sheep as food. 3 milklike juice of the coconut etc. —v. 1 draw milk from (a cow etc.). 2 exploit (a person or situation) to the utmost. [old english]
+Milk	—n. 1 opaque white fluid secreted by female mammals for the nourishment of their young. 2 milk of cows, goats, or sheep as food. 3 milklike juice of the coconut etc. —v. 1 draw milk from (a cow etc.). 2 exploit (a person or situation) to the utmost. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

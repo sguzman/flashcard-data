@@ -1,1 +1,6 @@
-Fury	n. (pl. -ies) 1 a wild and passionate anger. B fit of rage. 2 violence of a storm, disease, etc. 3 (fury) (usu. In pl.) (in greek mythology) avenging goddess. 4 avenging spirit. 5 angry or malignant woman.  like fury colloq. With great force or effort. [latin furia]
+Fury	n. (pl. -ies) 1 a wild and passionate anger. B fit of rage. 2 violence of a storm, disease, etc. 3 (fury) (usu. In pl.) (in greek mythology) avenging goddess. 4 avenging spirit. 5 angry or malignant woman.  like fury colloq. With great force or effort. [latin furia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

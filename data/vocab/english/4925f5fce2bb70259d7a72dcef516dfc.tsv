@@ -1,1 +1,6 @@
-Spoonfeed	v. (past and past part. -fed) 1 feed with a spoon. 2 give such extensive help etc. To (a person) that he or she need make no effort.
+Spoonfeed	v. (past and past part. -fed) 1 feed with a spoon. 2 give such extensive help etc. To (a person) that he or she need make no effort.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

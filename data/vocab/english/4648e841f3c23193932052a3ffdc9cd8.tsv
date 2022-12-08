@@ -1,1 +1,6 @@
-Tyranny	n. (pl. -ies) 1 cruel and arbitrary use of authority. 2 a rule by a tyrant. B period of this. C state ruled by a tyrant.  tyrannous adj. [greek: related to *tyrant]
+Tyranny	n. (pl. -ies) 1 cruel and arbitrary use of authority. 2 a rule by a tyrant. B period of this. C state ruled by a tyrant.  tyrannous adj. [greek: related to *tyrant]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

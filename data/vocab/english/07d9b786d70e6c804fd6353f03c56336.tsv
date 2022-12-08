@@ -1,1 +1,6 @@
-Silo	n. (pl. -s) 1 pit or airtight barn etc. In which green crops are kept for fodder. 2 pit or tower for storing grain, cement, etc. 3 underground storage chamber for a guided missile. [spanish from latin]
+Silo	n. (pl. -s) 1 pit or airtight barn etc. In which green crops are kept for fodder. 2 pit or tower for storing grain, cement, etc. 3 underground storage chamber for a guided missile. [spanish from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

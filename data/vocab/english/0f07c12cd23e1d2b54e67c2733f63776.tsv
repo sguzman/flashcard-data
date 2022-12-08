@@ -1,1 +1,6 @@
-Distinction	n. 1 discriminating or distinguishing. 2 difference between two things. 3 thing that differentiates or distinguishes. 4 special consideration or honour (treat with distinction). 5 excellence (person of distinction). 6 title or mark of honour. [latin: related to *distinguish]
+Distinction	n. 1 discriminating or distinguishing. 2 difference between two things. 3 thing that differentiates or distinguishes. 4 special consideration or honour (treat with distinction). 5 excellence (person of distinction). 6 title or mark of honour. [latin: related to *distinguish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

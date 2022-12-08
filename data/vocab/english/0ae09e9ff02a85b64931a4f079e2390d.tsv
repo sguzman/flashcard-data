@@ -1,1 +1,6 @@
-Microwave	—n. 1 electromagnetic wave with a wavelength in the range 0.001–0.3m. 2 (in full microwave oven) oven using microwaves to cook or heat food quickly. —v. (-ving) cook in a microwave oven.
+Microwave	—n. 1 electromagnetic wave with a wavelength in the range 0.001–0.3m. 2 (in full microwave oven) oven using microwaves to cook or heat food quickly. —v. (-ving) cook in a microwave oven.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

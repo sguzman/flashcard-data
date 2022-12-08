@@ -1,1 +1,6 @@
-Snag	—n. 1 unexpected obstacle or drawback. 2 jagged projection. 3 tear in material etc. —v. (-gg-) catch or tear on a snag. [probably scandinavian]
+Snag	—n. 1 unexpected obstacle or drawback. 2 jagged projection. 3 tear in material etc. —v. (-gg-) catch or tear on a snag. [probably scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Brigade	n. 1 military unit, usu. Three battalions, as part of a division. 2 group organized for a special purpose. [italian briga strife]
+Brigade	n. 1 military unit, usu. Three battalions, as part of a division. 2 group organized for a special purpose. [italian briga strife]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

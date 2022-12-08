@@ -1,1 +1,6 @@
-Blaze2	—n. 1 white mark on an animal's face. 2 mark cut on a tree, esp. To show a route. —v. (-zing) mark (a tree or a path) with blazes.  blaze a trail show the way for others. [origin uncertain]
+Blaze2	—n. 1 white mark on an animal's face. 2 mark cut on a tree, esp. To show a route. —v. (-zing) mark (a tree or a path) with blazes.  blaze a trail show the way for others. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

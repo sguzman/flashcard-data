@@ -1,1 +1,6 @@
-Colloid	n. 1 substance consisting of ultramicroscopic particles. 2 mixture of such particles dispersed in another substance.  colloidal adj. [greek kolla glue]
+Colloid	n. 1 substance consisting of ultramicroscopic particles. 2 mixture of such particles dispersed in another substance.  colloidal adj. [greek kolla glue]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

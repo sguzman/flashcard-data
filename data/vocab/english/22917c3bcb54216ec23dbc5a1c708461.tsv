@@ -1,1 +1,6 @@
-Magazine	n. 1 illustrated periodical publication containing articles, stories, etc. 2 chamber holding cartridges to be fed automatically to the breech of a gun. 3 similar device in a slide projector etc. 4 military store for arms etc. 5 store for explosives. [arabic makazin]
+Magazine	n. 1 illustrated periodical publication containing articles, stories, etc. 2 chamber holding cartridges to be fed automatically to the breech of a gun. 3 similar device in a slide projector etc. 4 military store for arms etc. 5 store for explosives. [arabic makazin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

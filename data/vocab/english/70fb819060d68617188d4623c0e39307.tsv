@@ -1,1 +1,6 @@
-Mere1	attrib. Adj. (merest) being solely or only what is specified (a mere boy; no mere theory).  merely adv.  [latin merus unmixed]
+Mere1	attrib. Adj. (merest) being solely or only what is specified (a mere boy; no mere theory).  merely adv.  [latin merus unmixed]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Soften	v. 1 make or become soft or softer. 2 (often foll. By up) a make weaker by preliminary attack. B make (a person) more receptive to persuasion.  softener n.
+Soften	v. 1 make or become soft or softer. 2 (often foll. By up) a make weaker by preliminary attack. B make (a person) more receptive to persuasion.  softener n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

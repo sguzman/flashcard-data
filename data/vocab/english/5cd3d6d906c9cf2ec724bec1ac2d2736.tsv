@@ -1,1 +1,6 @@
-Reptile	n. 1 cold-blooded scaly animal of a class including snakes, lizards, crocodiles, turtles, tortoises, etc. 2 mean, grovelling, or repulsive person.  reptilian adj. & n. [latin repo rept- creep]
+Reptile	n. 1 cold-blooded scaly animal of a class including snakes, lizards, crocodiles, turtles, tortoises, etc. 2 mean, grovelling, or repulsive person.  reptilian adj. & n. [latin repo rept- creep]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

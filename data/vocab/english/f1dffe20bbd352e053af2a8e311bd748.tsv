@@ -1,1 +1,6 @@
-Globe	n. 1 a (prec. By the) the earth. B spherical representation of it with a map on the surface. 2 spherical object, e.g. A fish-bowl, lamp, etc. [latin globus]
+Globe	n. 1 a (prec. By the) the earth. B spherical representation of it with a map on the surface. 2 spherical object, e.g. A fish-bowl, lamp, etc. [latin globus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

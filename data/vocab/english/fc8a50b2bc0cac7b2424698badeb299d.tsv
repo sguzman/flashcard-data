@@ -1,1 +1,6 @@
-Testicle	n. Male organ that produces spermatozoa etc., esp. One of a pair in the scrotum in man and most mammals. [latin, diminutive of testis witness]
+Testicle	n. Male organ that produces spermatozoa etc., esp. One of a pair in the scrotum in man and most mammals. [latin, diminutive of testis witness]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Decoration	n. 1 decorating. 2 thing that decorates. 3 medal etc. Worn as an honour. 4 (in pl.) Flags, tinsel, etc., put up on a festive occasion.
+Decoration	n. 1 decorating. 2 thing that decorates. 3 medal etc. Worn as an honour. 4 (in pl.) Flags, tinsel, etc., put up on a festive occasion.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

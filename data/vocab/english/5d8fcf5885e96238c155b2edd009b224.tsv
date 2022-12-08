@@ -1,1 +1,6 @@
-Skeptic	n. (brit. Sceptic) 1 person inclined to doubt accepted opinions. 2 person who doubts the truth of religions. 3 philosopher who questions the possibility of knowledge.  scepticism n. [greek skeptomai observe]
+Skeptic	n. (brit. Sceptic) 1 person inclined to doubt accepted opinions. 2 person who doubts the truth of religions. 3 philosopher who questions the possibility of knowledge.  scepticism n. [greek skeptomai observe]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

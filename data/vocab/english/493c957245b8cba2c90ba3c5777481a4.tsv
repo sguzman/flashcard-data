@@ -1,1 +1,6 @@
-Township	n. 1 s.afr. Urban area set aside for black occupation. 2 us & can. A division of a county. B district six miles square. 3 hist. Small town or village forming part of a large parish. 4 austral. & nz small town.
+Township	n. 1 s.afr. Urban area set aside for black occupation. 2 us & can. A division of a county. B district six miles square. 3 hist. Small town or village forming part of a large parish. 4 austral. & nz small town.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

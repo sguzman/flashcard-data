@@ -1,1 +1,6 @@
-Within	—adv. 1 inside. 2 indoors. 3 in spirit (pure within). —prep. 1 inside. 2 a not beyond or out of. B not transgressing or exceeding. 3 not further off than (within three miles; within ten days).  within one's grasp close enough to be obtained.
+Within	—adv. 1 inside. 2 indoors. 3 in spirit (pure within). —prep. 1 inside. 2 a not beyond or out of. B not transgressing or exceeding. 3 not further off than (within three miles; within ten days).  within one's grasp close enough to be obtained.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

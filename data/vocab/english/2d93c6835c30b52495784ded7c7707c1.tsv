@@ -1,1 +1,6 @@
-Wobble	—v. (-ling) 1 sway from side to side. 2 stand or go unsteadily; stagger. 3 waver, vacillate. —n. State or instance of wobbling. [cf. Low german wabbeln]
+Wobble	—v. (-ling) 1 sway from side to side. 2 stand or go unsteadily; stagger. 3 waver, vacillate. —n. State or instance of wobbling. [cf. Low german wabbeln]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

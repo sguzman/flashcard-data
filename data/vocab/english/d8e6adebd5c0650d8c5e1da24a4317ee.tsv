@@ -1,1 +1,6 @@
-Cobalt	n. 1 silvery-white metallic element. 2 a pigment made from this. B its deep-blue colour. [german, probably = kobold demon in mines]
+Cobalt	n. 1 silvery-white metallic element. 2 a pigment made from this. B its deep-blue colour. [german, probably = kobold demon in mines]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Warble	—v. (-ling) 1 sing in a gentle trilling manner. 2 speak in a warbling manner. —n. Warbled song or utterance. [french werble(r)]
+Warble	—v. (-ling) 1 sing in a gentle trilling manner. 2 speak in a warbling manner. —n. Warbled song or utterance. [french werble(r)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

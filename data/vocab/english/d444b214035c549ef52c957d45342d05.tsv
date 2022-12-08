@@ -1,1 +1,6 @@
-Rarefy	v. (-ies, -ied) 1 make or become less dense or solid. 2 purify or refine (a person's nature etc.). 3 make (an idea etc.) Subtle.  rarefaction n. [french or medieval latin: related to *rare1]
+Rarefy	v. (-ies, -ied) 1 make or become less dense or solid. 2 purify or refine (a person's nature etc.). 3 make (an idea etc.) Subtle.  rarefaction n. [french or medieval latin: related to *rare1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

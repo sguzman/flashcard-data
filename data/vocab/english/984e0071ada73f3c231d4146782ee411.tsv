@@ -1,1 +1,6 @@
-Punk	n. 1 a (in full punk rock) anti-establishment and deliberately outrageous style of rock music. B (in full punk rocker) devotee of this. 2 esp. Us young hooligan or petty criminal; lout. 3 soft crumbly fungus-infested wood used as tinder. [origin unknown]
+Punk	n. 1 a (in full punk rock) anti-establishment and deliberately outrageous style of rock music. B (in full punk rocker) devotee of this. 2 esp. Us young hooligan or petty criminal; lout. 3 soft crumbly fungus-infested wood used as tinder. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

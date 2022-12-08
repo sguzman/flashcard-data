@@ -1,1 +1,6 @@
-Contour	—n. 1 outline. 2 (in full contour line) line on a map joining points of equal altitude. —v. Mark with contour lines. [italian contornare draw in outline]
+Contour	—n. 1 outline. 2 (in full contour line) line on a map joining points of equal altitude. —v. Mark with contour lines. [italian contornare draw in outline]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

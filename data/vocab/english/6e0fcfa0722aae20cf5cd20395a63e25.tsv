@@ -1,1 +1,6 @@
-Dominant	—adj. 1 dominating, prevailing. 2 (of an inherited characteristic) appearing in offspring even when the opposite characteristic is also inherited. —n. Mus. Fifth note of the diatonic scale of any key.  dominance n. Dominantly adv.
+Dominant	—adj. 1 dominating, prevailing. 2 (of an inherited characteristic) appearing in offspring even when the opposite characteristic is also inherited. —n. Mus. Fifth note of the diatonic scale of any key.  dominance n. Dominantly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Rotten	adj. (-er, -est) 1 rotting or rotted; fragile from age or use. 2 morally or politically corrupt. 3 slang a disagreeable, unpleasant, bad (had a rotten time). B worthless (rotten idea). C ill (feel rotten).  rottenly adv. Rottenness n. [old norse: related to *rot]
+Rotten	adj. (-er, -est) 1 rotting or rotted; fragile from age or use. 2 morally or politically corrupt. 3 slang a disagreeable, unpleasant, bad (had a rotten time). B worthless (rotten idea). C ill (feel rotten).  rottenly adv. Rottenness n. [old norse: related to *rot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Irony	n. (pl. -ies) 1 expression of meaning, often humorous or sarcastic, using language of a different or opposite tendency. 2 apparent perversity of an event or circumstance in reversing human intentions. 3 theatr. Use of language with one meaning for a privileged audience and another for those addressed or concerned. [greek eironeia pretended ignorance]
+Irony	n. (pl. -ies) 1 expression of meaning, often humorous or sarcastic, using language of a different or opposite tendency. 2 apparent perversity of an event or circumstance in reversing human intentions. 3 theatr. Use of language with one meaning for a privileged audience and another for those addressed or concerned. [greek eironeia pretended ignorance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

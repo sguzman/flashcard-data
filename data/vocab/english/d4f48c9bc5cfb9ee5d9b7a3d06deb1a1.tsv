@@ -1,1 +1,6 @@
-God	n. 1 a (in many religions) superhuman being or spirit worshipped as having power over nature, human fortunes, etc. B image, idol, etc., symbolizing a god. 2 (god) (in christian and other monotheistic religions) creator and ruler of the universe. 3 adored or greatly admired person. 4 (in pl.) Theatr. Gallery.  god forbid may it not happen! God knows 1 it is beyond all knowledge. 2 i call god to witness that. God willing if providence allows. [old english]
+God	n. 1 a (in many religions) superhuman being or spirit worshipped as having power over nature, human fortunes, etc. B image, idol, etc., symbolizing a god. 2 (god) (in christian and other monotheistic religions) creator and ruler of the universe. 3 adored or greatly admired person. 4 (in pl.) Theatr. Gallery.  god forbid may it not happen! God knows 1 it is beyond all knowledge. 2 i call god to witness that. God willing if providence allows. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

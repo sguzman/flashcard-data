@@ -1,1 +1,6 @@
-Aramaic	—n. Branch of the semitic family of languages, esp. The language of syria used as a lingua franca in the near east from the sixth century bc. —adj. Of or in aramaic. [greek aramaios of aram (hebrew name of syria)]
+Aramaic	—n. Branch of the semitic family of languages, esp. The language of syria used as a lingua franca in the near east from the sixth century bc. —adj. Of or in aramaic. [greek aramaios of aram (hebrew name of syria)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

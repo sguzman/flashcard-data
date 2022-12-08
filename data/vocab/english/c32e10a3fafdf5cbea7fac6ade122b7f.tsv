@@ -1,1 +1,6 @@
-Thermal	—adj. 1 of, for, or producing heat. 2 promoting the retention of heat (thermal underwear). —n. Rising current of warm air (used by gliders etc. To gain height).  thermally adv. [french: related to *therm]
+Thermal	—adj. 1 of, for, or producing heat. 2 promoting the retention of heat (thermal underwear). —n. Rising current of warm air (used by gliders etc. To gain height).  thermally adv. [french: related to *therm]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

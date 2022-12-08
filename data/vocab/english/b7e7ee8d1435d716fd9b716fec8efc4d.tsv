@@ -1,1 +1,6 @@
-Pollard	—n. 1 animal that has lost or cast its horns; ox, sheep, or goat of a hornless breed. 2 tree whose branches have been cut back to encourage the dense growth of young branches. —v. Make (a tree) a pollard. [from *poll]
+Pollard	—n. 1 animal that has lost or cast its horns; ox, sheep, or goat of a hornless breed. 2 tree whose branches have been cut back to encourage the dense growth of young branches. —v. Make (a tree) a pollard. [from *poll]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

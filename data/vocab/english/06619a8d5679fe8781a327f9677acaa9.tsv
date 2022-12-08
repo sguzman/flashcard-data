@@ -1,1 +1,6 @@
-Task force	n. (also task group) armed force or other group organized for a specific operation or task.
+Task force	n. (also task group) armed force or other group organized for a specific operation or task.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

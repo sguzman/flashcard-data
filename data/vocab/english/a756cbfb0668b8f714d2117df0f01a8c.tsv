@@ -1,1 +1,6 @@
-Floruit	—v. Flourished; lived and worked (of a painter, writer, etc., whose exact dates are unknown). —n. Period or date of working etc. [latin, = he or she flourished]
+Floruit	—v. Flourished; lived and worked (of a painter, writer, etc., whose exact dates are unknown). —n. Period or date of working etc. [latin, = he or she flourished]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

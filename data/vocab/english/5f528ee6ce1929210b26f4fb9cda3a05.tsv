@@ -1,1 +1,6 @@
-Trappist	—n. Monk of an order vowed to silence. —adj. Of this order. [la trappe in normandy]
+Trappist	—n. Monk of an order vowed to silence. —adj. Of this order. [la trappe in normandy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

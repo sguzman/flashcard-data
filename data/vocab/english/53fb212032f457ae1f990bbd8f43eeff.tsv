@@ -1,1 +1,6 @@
-Commodore	n. 1 naval officer above captain and below rear-admiral. 2 commander of a squadron or other division of a fleet. 3 president of a yacht-club. [french: related to *commander]
+Commodore	n. 1 naval officer above captain and below rear-admiral. 2 commander of a squadron or other division of a fleet. 3 president of a yacht-club. [french: related to *commander]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

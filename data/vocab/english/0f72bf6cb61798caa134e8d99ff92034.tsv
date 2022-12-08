@@ -1,1 +1,6 @@
-Swede	n. 1 a native or national of sweden. B person of swedish descent. 2 (swede) large yellow-fleshed turnip orig. From sweden. [low german or dutch]
+Swede	n. 1 a native or national of sweden. B person of swedish descent. 2 (swede) large yellow-fleshed turnip orig. From sweden. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

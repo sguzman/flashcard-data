@@ -1,1 +1,6 @@
-Tenable	adj. 1 maintainable or defensible against attack or objection (tenable position). 2 (foll. By for, by) (of an office etc.) That can be held for (a specified period) or by (a specified class of person).  tenability n. [french tenir hold]
+Tenable	adj. 1 maintainable or defensible against attack or objection (tenable position). 2 (foll. By for, by) (of an office etc.) That can be held for (a specified period) or by (a specified class of person).  tenability n. [french tenir hold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

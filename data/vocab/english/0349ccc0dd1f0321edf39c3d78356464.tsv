@@ -1,1 +1,6 @@
-Reproduction	n. 1 reproducing or being reproduced, esp. The production of further members of the same species. 2 copy of a work of art. 3 (attrib.) (of furniture etc.) Imitating an earlier style. 4 quality of reproduced sound. reproductive adj.
+Reproduction	n. 1 reproducing or being reproduced, esp. The production of further members of the same species. 2 copy of a work of art. 3 (attrib.) (of furniture etc.) Imitating an earlier style. 4 quality of reproduced sound. reproductive adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

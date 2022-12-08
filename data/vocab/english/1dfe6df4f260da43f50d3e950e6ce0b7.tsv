@@ -1,1 +1,6 @@
-Pedestal	n. 1 base supporting a column or pillar. 2 stone etc. Base of a statue etc.  put on a pedestal admire disproportionately, idolize. [italian piedestallo, = foot of stall]
+Pedestal	n. 1 base supporting a column or pillar. 2 stone etc. Base of a statue etc.  put on a pedestal admire disproportionately, idolize. [italian piedestallo, = foot of stall]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

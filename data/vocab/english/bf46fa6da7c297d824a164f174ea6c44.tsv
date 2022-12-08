@@ -1,1 +1,6 @@
-Boomerang	—n. 1 flat v-shaped hardwood missile used esp. By australian aboriginals, able to return to its thrower. 2 plan that recoils on its originator. —v. (of a plan etc.) Backfire. [aboriginal]
+Boomerang	—n. 1 flat v-shaped hardwood missile used esp. By australian aboriginals, able to return to its thrower. 2 plan that recoils on its originator. —v. (of a plan etc.) Backfire. [aboriginal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

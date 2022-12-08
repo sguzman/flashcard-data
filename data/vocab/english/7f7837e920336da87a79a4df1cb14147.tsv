@@ -1,1 +1,6 @@
-Baroque	—adj. 1 highly ornate and extravagant in style, esp. Of european art etc. Of the 17th and 18th c. 2 of this period. —n. Baroque style or art. [portuguese, originally = misshapen pearl]
+Baroque	—adj. 1 highly ornate and extravagant in style, esp. Of european art etc. Of the 17th and 18th c. 2 of this period. —n. Baroque style or art. [portuguese, originally = misshapen pearl]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

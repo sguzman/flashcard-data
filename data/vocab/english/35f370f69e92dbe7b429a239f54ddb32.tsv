@@ -1,1 +1,6 @@
-Christmas	n. 1 (also christmas day) annual festival of christ's birth, celebrated on 25 dec. 2 period around this.  christmassy adj. [old english: related to *christ, *mass2]
+Christmas	n. 1 (also christmas day) annual festival of christ's birth, celebrated on 25 dec. 2 period around this.  christmassy adj. [old english: related to *christ, *mass2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

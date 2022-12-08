@@ -1,1 +1,6 @@
-Resurrect	v. 1 colloq. Revive the practice, use, or memory of. 2 raise or rise from the dead. [back-formation from *resurrection]
+Resurrect	v. 1 colloq. Revive the practice, use, or memory of. 2 raise or rise from the dead. [back-formation from *resurrection]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Putrefy	v. (-ies, -ied) 1 become or make putrid; go bad. 2 fester, suppurate. 3 become morally corrupt.  putrefaction n. Putrefactive adj. [latin puter putris rotten]
+Putrefy	v. (-ies, -ied) 1 become or make putrid; go bad. 2 fester, suppurate. 3 become morally corrupt.  putrefaction n. Putrefactive adj. [latin puter putris rotten]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

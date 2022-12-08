@@ -1,1 +1,6 @@
-Alkene	n. Chem. Unsaturated aliphatic hydrocarbon containing a double bond and having the general formula cnh2n, including ethylene.
+Alkene	n. Chem. Unsaturated aliphatic hydrocarbon containing a double bond and having the general formula cnh2n, including ethylene.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

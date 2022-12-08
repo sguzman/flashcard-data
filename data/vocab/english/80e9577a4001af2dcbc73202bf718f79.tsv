@@ -1,1 +1,6 @@
-Sensuous	adj. Of or affecting the senses, esp. Aesthetically.  sensuously adv. Sensuousness n. [latin: related to *sense]
+Sensuous	adj. Of or affecting the senses, esp. Aesthetically.  sensuously adv. Sensuousness n. [latin: related to *sense]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

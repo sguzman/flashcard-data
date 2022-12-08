@@ -1,1 +1,6 @@
-Logbook	n. 1 book containing a detailed record or log. 2 vehicle registration document.
+Logbook	n. 1 book containing a detailed record or log. 2 vehicle registration document.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

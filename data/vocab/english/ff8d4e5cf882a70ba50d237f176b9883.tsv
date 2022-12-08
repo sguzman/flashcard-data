@@ -1,1 +1,6 @@
-Wendy house	n. Children's small houselike tent or structure for playing in. [wendy, name of a character in barrie's peter pan]
+Wendy house	n. Children's small houselike tent or structure for playing in. [wendy, name of a character in barrie's peter pan]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

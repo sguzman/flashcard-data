@@ -1,1 +1,6 @@
-Storage	n. 1 a storing of goods etc. B method of or space for storing. 2 cost of storing. 3 storing of data in a computer etc.
+Storage	n. 1 a storing of goods etc. B method of or space for storing. 2 cost of storing. 3 storing of data in a computer etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

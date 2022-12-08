@@ -1,1 +1,6 @@
-Declination	n. 1 downward bend or turn. 2 angular distance of a star etc. North or south of the celestial equator. 3 deviation of a compass needle from true north.  declinational adj. [latin: related to *decline]
+Declination	n. 1 downward bend or turn. 2 angular distance of a star etc. North or south of the celestial equator. 3 deviation of a compass needle from true north.  declinational adj. [latin: related to *decline]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

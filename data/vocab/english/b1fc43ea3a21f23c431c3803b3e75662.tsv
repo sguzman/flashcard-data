@@ -1,1 +1,6 @@
-Gourd	n. 1 a fleshy usu. Large fruit with a hard skin. B climbing or trailing plant of the cucumber family bearing this. 2 dried skin of the gourd-fruit, used as a drinking-vessel etc. [latin cucurbita]
+Gourd	n. 1 a fleshy usu. Large fruit with a hard skin. B climbing or trailing plant of the cucumber family bearing this. 2 dried skin of the gourd-fruit, used as a drinking-vessel etc. [latin cucurbita]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

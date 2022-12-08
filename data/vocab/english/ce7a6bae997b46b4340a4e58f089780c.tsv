@@ -1,1 +1,6 @@
--ician	suffix forming nouns denoting persons skilled in subjects having nouns usu. Ending in -ic or -ics (magician; politician). [french -icien]
+-ician	suffix forming nouns denoting persons skilled in subjects having nouns usu. Ending in -ic or -ics (magician; politician). [french -icien]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

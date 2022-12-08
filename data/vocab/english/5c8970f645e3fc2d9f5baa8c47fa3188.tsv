@@ -1,1 +1,6 @@
-Imbibe	v. (-bing) 1 drink (esp. Alcohol). 2 a assimilate (ideas etc.). B absorb (moisture etc.). 3 inhale (air etc.). [latin bibo drink]
+Imbibe	v. (-bing) 1 drink (esp. Alcohol). 2 a assimilate (ideas etc.). B absorb (moisture etc.). 3 inhale (air etc.). [latin bibo drink]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Closet	—n. 1 small room. 2 cupboard. 3 = *water-closet. 4 (attrib.) Secret (closet homosexual). —v. (-t-) shut away, esp. In private conference or study. [french diminutive: related to *close2]
+Closet	—n. 1 small room. 2 cupboard. 3 = *water-closet. 4 (attrib.) Secret (closet homosexual). —v. (-t-) shut away, esp. In private conference or study. [french diminutive: related to *close2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

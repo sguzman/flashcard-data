@@ -1,1 +1,6 @@
-Red-hot	adj. 1 heated until red. 2 colloq. Highly exciting. 3 colloq. (of news) fresh; completely new. 4 intensely excited. 5 enraged.
+Red-hot	adj. 1 heated until red. 2 colloq. Highly exciting. 3 colloq. (of news) fresh; completely new. 4 intensely excited. 5 enraged.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

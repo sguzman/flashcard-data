@@ -1,1 +1,6 @@
-Plonk1	—v. 1 set down hurriedly or clumsily. 2 (usu. Foll. By down) set down firmly. —n. Heavy thud. [imitative]
+Plonk1	—v. 1 set down hurriedly or clumsily. 2 (usu. Foll. By down) set down firmly. —n. Heavy thud. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

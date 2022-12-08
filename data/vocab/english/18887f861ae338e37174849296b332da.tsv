@@ -1,1 +1,6 @@
-Cosmopolitan	—adj. 1 of, from, or knowing many parts of the world. 2 free from national limitations or prejudices. —n. Cosmopolitan person.  cosmopolitanism n. [greek polites citizen]
+Cosmopolitan	—adj. 1 of, from, or knowing many parts of the world. 2 free from national limitations or prejudices. —n. Cosmopolitan person.  cosmopolitanism n. [greek polites citizen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

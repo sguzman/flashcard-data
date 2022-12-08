@@ -1,1 +1,6 @@
-Ribbon	n. 1 a narrow strip or band of fabric, used esp. For trimming or decoration. B material in this form. 2 ribbon worn to indicate some honour or membership of a sports team etc. 3 long narrow strip of anything (typewriter ribbon). 4 (in pl.) Ragged strips (torn to ribbons). [var. Of *riband]
+Ribbon	n. 1 a narrow strip or band of fabric, used esp. For trimming or decoration. B material in this form. 2 ribbon worn to indicate some honour or membership of a sports team etc. 3 long narrow strip of anything (typewriter ribbon). 4 (in pl.) Ragged strips (torn to ribbons). [var. Of *riband]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Temperature	n. 1 measured or perceived degree of heat or cold of a thing, region, etc. 2 colloq. Body temperature above the normal (have a temperature). 3 degree of excitement in a discussion etc. [latin: related to *temper]
+Temperature	n. 1 measured or perceived degree of heat or cold of a thing, region, etc. 2 colloq. Body temperature above the normal (have a temperature). 3 degree of excitement in a discussion etc. [latin: related to *temper]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

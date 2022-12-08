@@ -1,1 +1,6 @@
-Halcyon	adj. Calm, peaceful, happy (halcyon days). [greek, = kingfisher, because it was reputed to calm the sea at midwinter]
+Halcyon	adj. Calm, peaceful, happy (halcyon days). [greek, = kingfisher, because it was reputed to calm the sea at midwinter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pictograph	n. (also pictogram) 1 pictorial symbol for a word or phrase. 2 pictorial representation of statistics etc.  pictographic adj. [latin pingo pict- paint]
+Pictograph	n. (also pictogram) 1 pictorial symbol for a word or phrase. 2 pictorial representation of statistics etc.  pictographic adj. [latin pingo pict- paint]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

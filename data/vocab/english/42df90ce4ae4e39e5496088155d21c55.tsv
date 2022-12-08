@@ -1,1 +1,6 @@
-Funicular	—adj. (of a mountain railway) operating by cable with ascending and descending cars counterbalanced. —n. Funicular railway. [latin funiculus diminutive of funis rope]
+Funicular	—adj. (of a mountain railway) operating by cable with ascending and descending cars counterbalanced. —n. Funicular railway. [latin funiculus diminutive of funis rope]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

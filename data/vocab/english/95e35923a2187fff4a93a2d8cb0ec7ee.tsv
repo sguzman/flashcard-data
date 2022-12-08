@@ -1,1 +1,6 @@
-Perform	v. 1 (also absol.) Carry into effect; do. 2 execute (a function, play, piece of music, etc.). 3  act in a play; play music, sing, etc.; execute tricks. 4 function.  performer n. [anglo-french: related to *per-, *furnish]
+Perform	v. 1 (also absol.) Carry into effect; do. 2 execute (a function, play, piece of music, etc.). 3  act in a play; play music, sing, etc.; execute tricks. 4 function.  performer n. [anglo-french: related to *per-, *furnish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

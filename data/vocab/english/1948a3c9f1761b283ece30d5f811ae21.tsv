@@ -1,1 +1,6 @@
-Fellow	n. 1 colloq. Man or boy (poor fellow!). 2 (usu. In pl.) Person in a group etc.; comrade (separated from their fellows). 3 counterpart; one of a pair. 4 equal; peer. 5 a incorporated senior member of a college. B elected graduate paid to do research. 6 member of a learned society. 7 (attrib.) Of the same group etc. (fellow-countryman). [old english from old norse]
+Fellow	n. 1 colloq. Man or boy (poor fellow!). 2 (usu. In pl.) Person in a group etc.; comrade (separated from their fellows). 3 counterpart; one of a pair. 4 equal; peer. 5 a incorporated senior member of a college. B elected graduate paid to do research. 6 member of a learned society. 7 (attrib.) Of the same group etc. (fellow-countryman). [old english from old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

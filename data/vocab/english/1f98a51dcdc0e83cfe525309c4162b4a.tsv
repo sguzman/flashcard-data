@@ -1,1 +1,6 @@
-Sectarian	—adj. 1 of a sect. 2 devoted, esp. Narrow-mindedly, to one's sect. —n. Member of a sect.  sectarianism n. [medieval latin sectarius adherent]
+Sectarian	—adj. 1 of a sect. 2 devoted, esp. Narrow-mindedly, to one's sect. —n. Member of a sect.  sectarianism n. [medieval latin sectarius adherent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

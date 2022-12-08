@@ -1,1 +1,6 @@
-Machinery	n. (pl. -ies) 1 machines. 2 mechanism. 3 (usu. Foll. By of) organized system. 4 (usu. Foll. By for) means devised.
+Machinery	n. (pl. -ies) 1 machines. 2 mechanism. 3 (usu. Foll. By of) organized system. 4 (usu. Foll. By for) means devised.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cache	—n. 1 hiding-place for treasure, stores, guns, etc. 2 things so hidden. —v. (-ching) put in a cache. [french cacher hide]
+Cache	—n. 1 hiding-place for treasure, stores, guns, etc. 2 things so hidden. —v. (-ching) put in a cache. [french cacher hide]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

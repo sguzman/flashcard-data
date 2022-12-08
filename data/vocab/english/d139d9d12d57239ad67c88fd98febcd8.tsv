@@ -1,1 +1,6 @@
-Remind	v. (usu. Foll. By of or to + infin. Or that + clause) cause (a person) to remember or think of (reminds me of her father; reminded them of the time).
+Remind	v. (usu. Foll. By of or to + infin. Or that + clause) cause (a person) to remember or think of (reminds me of her father; reminded them of the time).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

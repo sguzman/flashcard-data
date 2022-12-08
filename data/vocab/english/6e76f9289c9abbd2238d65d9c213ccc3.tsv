@@ -1,1 +1,6 @@
-Blow-hole	n. 1 nostril of a whale. 2 hole (esp. In ice) for breathing or fishing through. 3 vent for air, smoke, etc.
+Blow-hole	n. 1 nostril of a whale. 2 hole (esp. In ice) for breathing or fishing through. 3 vent for air, smoke, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Trek	orig. S.afr. —v. (-kk-) 1 travel or make one's way arduously. 2 esp. Hist. Migrate or journey with one's belongings by ox-wagon. —n. 1 a long or arduous journey or walk (quite a trek to the launderette). B each stage of this. 2 organized migration of a body of people.  trekker n. [dutch, = draw]
+Trek	orig. S.afr. —v. (-kk-) 1 travel or make one's way arduously. 2 esp. Hist. Migrate or journey with one's belongings by ox-wagon. —n. 1 a long or arduous journey or walk (quite a trek to the launderette). B each stage of this. 2 organized migration of a body of people.  trekker n. [dutch, = draw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

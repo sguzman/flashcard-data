@@ -1,1 +1,6 @@
-Urn	n. 1 vase with a foot and usu. A rounded body, used esp. For the ashes of the dead. 2 large vessel with a tap, in which tea or coffee etc. Is made or kept hot. [latin urna]
+Urn	n. 1 vase with a foot and usu. A rounded body, used esp. For the ashes of the dead. 2 large vessel with a tap, in which tea or coffee etc. Is made or kept hot. [latin urna]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

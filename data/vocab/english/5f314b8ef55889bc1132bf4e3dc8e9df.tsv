@@ -1,1 +1,6 @@
-Back-stop	n. 1 cricket etc. A position directly behind the wicket-keeper. B fielder in this position. 2 last resort.
+Back-stop	n. 1 cricket etc. A position directly behind the wicket-keeper. B fielder in this position. 2 last resort.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

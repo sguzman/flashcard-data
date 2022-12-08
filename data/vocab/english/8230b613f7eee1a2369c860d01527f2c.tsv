@@ -1,1 +1,6 @@
-Symbolism	n. 1 a use of symbols. B symbols collectively. 2 artistic and poetic movement or style using symbols to express ideas, emotions, etc.  symbolist n.
+Symbolism	n. 1 a use of symbols. B symbols collectively. 2 artistic and poetic movement or style using symbols to express ideas, emotions, etc.  symbolist n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

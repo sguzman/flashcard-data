@@ -1,1 +1,6 @@
-Illustrate	v. (-ting) 1 a provide (a book etc.) With pictures. B elucidate by drawings, pictures, examples, etc. 2 serve as an example of.  illustrator n. [latin lustro light up]
+Illustrate	v. (-ting) 1 a provide (a book etc.) With pictures. B elucidate by drawings, pictures, examples, etc. 2 serve as an example of.  illustrator n. [latin lustro light up]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

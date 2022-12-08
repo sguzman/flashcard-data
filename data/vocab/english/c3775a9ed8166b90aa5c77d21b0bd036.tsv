@@ -1,1 +1,6 @@
-Twinkle	—v. (-ling) 1 (of a star or light etc.) Shine with rapidly intermittent gleams. 2 (of the eyes) sparkle. 3 (of the feet) move lightly and rapidly. —n. 1 sparkle or gleam of the eyes. 2 twinkling light. 3 light rapid movement.  in a twinkle (or a twinkling or the twinkling of an eye) in an instant.  twinkly adj. [old english]
+Twinkle	—v. (-ling) 1 (of a star or light etc.) Shine with rapidly intermittent gleams. 2 (of the eyes) sparkle. 3 (of the feet) move lightly and rapidly. —n. 1 sparkle or gleam of the eyes. 2 twinkling light. 3 light rapid movement.  in a twinkle (or a twinkling or the twinkling of an eye) in an instant.  twinkly adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

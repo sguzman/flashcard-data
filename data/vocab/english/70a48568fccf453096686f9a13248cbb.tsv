@@ -1,1 +1,6 @@
-Gallant	—adj. 1 brave. 2 fine, stately. 3  very attentive to women. —n. Ladies' man.  gallantly adv. [french galer make merry]
+Gallant	—adj. 1 brave. 2 fine, stately. 3  very attentive to women. —n. Ladies' man.  gallantly adv. [french galer make merry]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Normal	—adj. 1 conforming to a standard; regular, usual, typical. 2 free from mental or emotional disorder. 3 geom. (of a line) at right angles, perpendicular. —n. 1 a normal value of a temperature etc. B usual state, level, etc. 2  line at right angles.  normalcy n. Esp. Us. Normality n. [latin normalis: related to *norm]
+Normal	—adj. 1 conforming to a standard; regular, usual, typical. 2 free from mental or emotional disorder. 3 geom. (of a line) at right angles, perpendicular. —n. 1 a normal value of a temperature etc. B usual state, level, etc. 2  line at right angles.  normalcy n. Esp. Us. Normality n. [latin normalis: related to *norm]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

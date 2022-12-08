@@ -1,1 +1,6 @@
-Drag-net	n. 1 net drawn through a river or across the ground to trap fish or game. 2 systematic hunt for criminals etc.
+Drag-net	n. 1 net drawn through a river or across the ground to trap fish or game. 2 systematic hunt for criminals etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

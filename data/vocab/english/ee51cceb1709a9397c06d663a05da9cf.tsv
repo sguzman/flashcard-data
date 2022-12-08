@@ -1,1 +1,6 @@
-Hopscotch	n. Children's game of hopping over squares marked on the ground to retrieve a stone etc. [from *hop1, *scotch]
+Hopscotch	n. Children's game of hopping over squares marked on the ground to retrieve a stone etc. [from *hop1, *scotch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

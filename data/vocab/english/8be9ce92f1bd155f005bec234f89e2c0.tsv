@@ -1,1 +1,6 @@
-Yellow	—adj. 1 of the colour of buttercups, lemons, egg-yolks, etc. 2 having a yellow skin or complexion. 3 colloq. Cowardly. —n. 1 yellow colour or pigment. 2 yellow clothes or material. —v. Turn yellow.  yellowish adj. Yellowness n. Yellowy adj. [old english: related to *gold]
+Yellow	—adj. 1 of the colour of buttercups, lemons, egg-yolks, etc. 2 having a yellow skin or complexion. 3 colloq. Cowardly. —n. 1 yellow colour or pigment. 2 yellow clothes or material. —v. Turn yellow.  yellowish adj. Yellowness n. Yellowy adj. [old english: related to *gold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

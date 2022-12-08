@@ -1,1 +1,6 @@
-Constructive	adj. 1 a tending to form a basis for ideas. B helpful, positive. 2 derived by inference.  constructively adv.
+Constructive	adj. 1 a tending to form a basis for ideas. B helpful, positive. 2 derived by inference.  constructively adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

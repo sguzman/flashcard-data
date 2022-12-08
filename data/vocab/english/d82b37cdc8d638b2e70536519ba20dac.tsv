@@ -1,1 +1,6 @@
-Data	n.pl. (also treated as sing., although the singular form is strictly datum) 1 known facts used for inference or in reckoning. 2 quantities or characters operated on by a computer etc. [latin data from do give]
+Data	n.pl. (also treated as sing., although the singular form is strictly datum) 1 known facts used for inference or in reckoning. 2 quantities or characters operated on by a computer etc. [latin data from do give]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

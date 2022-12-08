@@ -1,1 +1,6 @@
-Tunnel	—n. 1 underground passage dug through a hill or under a road, river, etc., esp. For a railway or road. 2 underground passage dug by an animal. —v. (-ll-; us -l-) 1 (foll. By through, into, etc.) Make a tunnel through. 2 make (one's way) by tunnelling. [french diminutive of tonne *tun]
+Tunnel	—n. 1 underground passage dug through a hill or under a road, river, etc., esp. For a railway or road. 2 underground passage dug by an animal. —v. (-ll-; us -l-) 1 (foll. By through, into, etc.) Make a tunnel through. 2 make (one's way) by tunnelling. [french diminutive of tonne *tun]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

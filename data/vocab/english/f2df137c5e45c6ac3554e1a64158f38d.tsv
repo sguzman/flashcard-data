@@ -1,1 +1,6 @@
-Demon	n. 1 a evil spirit or devil. B personification of evil passion. 2 (often attrib.) Forceful or skilful performer (demon player). 3 cruel person. 4 (also daemon) supernatural being in ancient greece.  demonic adj. [greek daimon deity]
+Demon	n. 1 a evil spirit or devil. B personification of evil passion. 2 (often attrib.) Forceful or skilful performer (demon player). 3 cruel person. 4 (also daemon) supernatural being in ancient greece.  demonic adj. [greek daimon deity]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

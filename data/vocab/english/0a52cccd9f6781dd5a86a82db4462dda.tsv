@@ -1,1 +1,6 @@
-Popular	adj. 1 liked by many people. 2 a of or for the general public. B prevalent among the general public (popular fallacies). 3 (sometimes derog.) Adapted to the understanding, taste, or means of the people (popular science; the popular press).  popularity n. Popularly adv.
+Popular	adj. 1 liked by many people. 2 a of or for the general public. B prevalent among the general public (popular fallacies). 3 (sometimes derog.) Adapted to the understanding, taste, or means of the people (popular science; the popular press).  popularity n. Popularly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

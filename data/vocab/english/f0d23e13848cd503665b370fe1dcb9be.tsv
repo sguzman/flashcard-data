@@ -1,1 +1,6 @@
-Long-sighted	adj. 1 having long sight. 2 far-sighted.  long-sightedness n.
+Long-sighted	adj. 1 having long sight. 2 far-sighted.  long-sightedness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

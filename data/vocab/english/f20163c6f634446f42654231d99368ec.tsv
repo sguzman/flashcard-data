@@ -1,1 +1,6 @@
-Movable	adj. (also moveable) 1 that can be moved. 2 variable in date from year to year (movable feast). [related to *move]
+Movable	adj. (also moveable) 1 that can be moved. 2 variable in date from year to year (movable feast). [related to *move]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

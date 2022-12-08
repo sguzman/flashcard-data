@@ -1,1 +1,6 @@
-Panda	n. 1 (also giant panda) large bearlike black and white mammal native to china and tibet. 2 (also red panda) reddish-brown himalayan racoon-like mammal. [nepali]
+Panda	n. 1 (also giant panda) large bearlike black and white mammal native to china and tibet. 2 (also red panda) reddish-brown himalayan racoon-like mammal. [nepali]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

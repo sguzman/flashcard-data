@@ -1,1 +1,6 @@
-Reinforce	v. (-cing) strengthen or support, esp. With additional personnel or material or by an increase of numbers or quantity or size etc. [french renforcer]
+Reinforce	v. (-cing) strengthen or support, esp. With additional personnel or material or by an increase of numbers or quantity or size etc. [french renforcer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

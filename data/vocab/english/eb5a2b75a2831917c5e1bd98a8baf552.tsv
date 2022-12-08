@@ -1,1 +1,6 @@
-Coo	—n. Soft murmuring sound as of a dove. —v. (coos, cooed) 1 emit a coo. 2 talk or say in a soft or amorous voice. —int. Slang expressing surprise or disbelief. [imitative]
+Coo	—n. Soft murmuring sound as of a dove. —v. (coos, cooed) 1 emit a coo. 2 talk or say in a soft or amorous voice. —int. Slang expressing surprise or disbelief. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

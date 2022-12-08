@@ -1,1 +1,6 @@
-Copperplate	n. 1 a polished copper plate for engraving or etching. B print made from this. 2 ornate style of handwriting.
+Copperplate	n. 1 a polished copper plate for engraving or etching. B print made from this. 2 ornate style of handwriting.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

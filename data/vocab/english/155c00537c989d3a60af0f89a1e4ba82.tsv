@@ -1,1 +1,6 @@
-Troy	n. (in full troy weight) system of weights used for precious metals and gems, with a pound of 12 ounces or 5,760 grains; 1 oz. Troy = 31.1035 g. [probably troyes in france]
+Troy	n. (in full troy weight) system of weights used for precious metals and gems, with a pound of 12 ounces or 5,760 grains; 1 oz. Troy = 31.1035 g. [probably troyes in france]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

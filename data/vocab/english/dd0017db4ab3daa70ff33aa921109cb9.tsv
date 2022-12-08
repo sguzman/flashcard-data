@@ -1,1 +1,6 @@
-Psalter	n. 1 the book of psalms. 2 (psalter) version or copy of this. [old english and french from greek psalterion stringed instrument]
+Psalter	n. 1 the book of psalms. 2 (psalter) version or copy of this. [old english and french from greek psalterion stringed instrument]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

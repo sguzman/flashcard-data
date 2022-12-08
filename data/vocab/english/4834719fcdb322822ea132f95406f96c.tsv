@@ -1,1 +1,6 @@
-Liturgy	n. (pl. -ies) 1 prescribed form of public worship. 2 (the liturgy) the book of common prayer.  liturgical adj. Liturgically adv. [greek leitourgia public worship]
+Liturgy	n. (pl. -ies) 1 prescribed form of public worship. 2 (the liturgy) the book of common prayer.  liturgical adj. Liturgically adv. [greek leitourgia public worship]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

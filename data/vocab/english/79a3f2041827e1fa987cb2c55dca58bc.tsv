@@ -1,1 +1,6 @@
-Wrinkle	—n. 1 crease in the skin, esp. Caused by age. 2 similar mark in another flexible surface. 3 colloq. Useful tip or clever expedient. —v. (-ling) 1 make wrinkles in. 2 form wrinkles. [probably related to old english gewrinclod sinuous]
+Wrinkle	—n. 1 crease in the skin, esp. Caused by age. 2 similar mark in another flexible surface. 3 colloq. Useful tip or clever expedient. —v. (-ling) 1 make wrinkles in. 2 form wrinkles. [probably related to old english gewrinclod sinuous]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Devolve	v. (-ving) 1 (foll. By on, upon, etc.) Pass (work or duties) or be passed to (a deputy etc.). 2 (foll. By on, to, upon) (of property etc.) Descend to.  devolvement n. [latin volvo volut- roll]
+Devolve	v. (-ving) 1 (foll. By on, upon, etc.) Pass (work or duties) or be passed to (a deputy etc.). 2 (foll. By on, to, upon) (of property etc.) Descend to.  devolvement n. [latin volvo volut- roll]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

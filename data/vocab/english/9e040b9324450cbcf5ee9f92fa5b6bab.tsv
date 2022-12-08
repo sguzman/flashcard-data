@@ -1,1 +1,6 @@
-Juncture	n. 1 critical convergence of events; point of time (at this juncture). 2 joining-point. 3 joining.
+Juncture	n. 1 critical convergence of events; point of time (at this juncture). 2 joining-point. 3 joining.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

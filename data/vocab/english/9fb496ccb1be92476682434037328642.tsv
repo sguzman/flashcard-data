@@ -1,1 +1,6 @@
-Tire1	v. (-ring) 1 make or grow weary. 2 exhaust the patience or interest of; bore. 3 (in passive; foll. By of) have had enough of; be fed up with. [old english]
+Tire1	v. (-ring) 1 make or grow weary. 2 exhaust the patience or interest of; bore. 3 (in passive; foll. By of) have had enough of; be fed up with. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

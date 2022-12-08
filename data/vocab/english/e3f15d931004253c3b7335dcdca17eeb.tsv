@@ -1,1 +1,6 @@
-Aunt sally	n. 1 game in which sticks or balls are thrown at a wooden dummy. 2 target of general abuse.
+Aunt sally	n. 1 game in which sticks or balls are thrown at a wooden dummy. 2 target of general abuse.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

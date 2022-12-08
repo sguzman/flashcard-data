@@ -1,1 +1,6 @@
-Tuxedo	n. (pl. -s or -es) us 1 dinner-jacket. 2 suit of clothes including this. [tuxedo park in us]
+Tuxedo	n. (pl. -s or -es) us 1 dinner-jacket. 2 suit of clothes including this. [tuxedo park in us]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

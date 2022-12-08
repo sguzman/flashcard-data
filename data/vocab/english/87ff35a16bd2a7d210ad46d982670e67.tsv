@@ -1,1 +1,6 @@
-Azimuth	n. Angular distance from a north or south point of the horizon to the intersection with the horizon of a vertical circle passing through a given celestial body.  azimuthal adj. [french from arabic]
+Azimuth	n. Angular distance from a north or south point of the horizon to the intersection with the horizon of a vertical circle passing through a given celestial body.  azimuthal adj. [french from arabic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

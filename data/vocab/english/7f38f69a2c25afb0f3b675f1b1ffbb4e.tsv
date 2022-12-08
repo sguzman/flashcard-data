@@ -1,1 +1,6 @@
-Wreak	v. 1 (usu. Foll. By upon) give play to (vengeance or one's anger etc.). 2 cause (damage etc.) (wreak havoc). [old english, = avenge]
+Wreak	v. 1 (usu. Foll. By upon) give play to (vengeance or one's anger etc.). 2 cause (damage etc.) (wreak havoc). [old english, = avenge]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

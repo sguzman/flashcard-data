@@ -1,1 +1,6 @@
-Albino	n. (pl. -s) 1 person or animal lacking pigment in the skin and hair (which are white), and the eyes (usu. Pink). 2 plant lacking normal colouring.  albinism n. [spanish and portuguese: related to *alb]
+Albino	n. (pl. -s) 1 person or animal lacking pigment in the skin and hair (which are white), and the eyes (usu. Pink). 2 plant lacking normal colouring.  albinism n. [spanish and portuguese: related to *alb]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

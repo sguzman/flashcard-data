@@ -1,1 +1,6 @@
-Ransom	—n. 1 money demanded or paid for the release of a prisoner. 2 liberation of a prisoner in return for this. —v. 1 buy the freedom or restoration of; redeem. 2 = hold to ransom (see *hold1). 3 release for a ransom. [latin: related to *redemption]
+Ransom	—n. 1 money demanded or paid for the release of a prisoner. 2 liberation of a prisoner in return for this. —v. 1 buy the freedom or restoration of; redeem. 2 = hold to ransom (see *hold1). 3 release for a ransom. [latin: related to *redemption]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

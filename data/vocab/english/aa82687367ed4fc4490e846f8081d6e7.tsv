@@ -1,1 +1,6 @@
-Mile	n. 1 (also statute mile) unit of linear measure equal to 1,760 yards (approx. 1.6 kilometres). 2 (in pl.) Colloq. Great distance or amount (miles better). 3 race extending over a mile. [latin mille thousand]
+Mile	n. 1 (also statute mile) unit of linear measure equal to 1,760 yards (approx. 1.6 kilometres). 2 (in pl.) Colloq. Great distance or amount (miles better). 3 race extending over a mile. [latin mille thousand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Prisoner	n. 1 person kept in prison. 2 (in full prisoner at the bar) person in custody on a criminal charge and on trial. 3 person or thing confined by illness, another's grasp, etc. 4 (in full prisoner of war) person captured in war.  take prisoner seize and hold as a prisoner. [anglo-french: related to *prison]
+Prisoner	n. 1 person kept in prison. 2 (in full prisoner at the bar) person in custody on a criminal charge and on trial. 3 person or thing confined by illness, another's grasp, etc. 4 (in full prisoner of war) person captured in war.  take prisoner seize and hold as a prisoner. [anglo-french: related to *prison]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Riddle2	—v. (-ling) (usu. Foll. By with) 1 make many holes in, esp. With gunshot. 2 (in passive) fill; permeate (riddled with errors). 3 pass through a riddle. —n. Coarse sieve. [old english]
+Riddle2	—v. (-ling) (usu. Foll. By with) 1 make many holes in, esp. With gunshot. 2 (in passive) fill; permeate (riddled with errors). 3 pass through a riddle. —n. Coarse sieve. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

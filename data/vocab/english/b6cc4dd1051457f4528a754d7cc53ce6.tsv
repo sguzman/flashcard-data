@@ -1,1 +1,6 @@
-Scrub2	n. 1 a brushwood or stunted forest growth. B land covered with this. 2 (attrib.) Small or dwarf variety (scrub pine).  scrubby adj. [from *shrub]
+Scrub2	n. 1 a brushwood or stunted forest growth. B land covered with this. 2 (attrib.) Small or dwarf variety (scrub pine).  scrubby adj. [from *shrub]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

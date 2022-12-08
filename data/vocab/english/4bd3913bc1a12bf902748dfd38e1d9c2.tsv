@@ -1,1 +1,6 @@
-Prelacy	n. (pl. -ies) 1 church government by prelates. 2 (prec. By the) prelates collectively. 3 office or rank of prelate. [anglo-french from medieval latin: related to *prelate]
+Prelacy	n. (pl. -ies) 1 church government by prelates. 2 (prec. By the) prelates collectively. 3 office or rank of prelate. [anglo-french from medieval latin: related to *prelate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

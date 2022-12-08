@@ -1,1 +1,6 @@
-Serious	adj. 1 thoughtful, earnest. 2 important, demanding consideration. 3 not negligible; dangerous, frightening (serious injury). 4 sincere, in earnest, not frivolous. 5 (of music, literature, etc.) Intellectual in content or appeal; not popular.  seriously adv. Seriousness n. [latin seriosus]
+Serious	adj. 1 thoughtful, earnest. 2 important, demanding consideration. 3 not negligible; dangerous, frightening (serious injury). 4 sincere, in earnest, not frivolous. 5 (of music, literature, etc.) Intellectual in content or appeal; not popular.  seriously adv. Seriousness n. [latin seriosus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

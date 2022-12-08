@@ -1,1 +1,6 @@
-Canker	—n. 1 destructive disease of trees and plants. 2 ulcerous ear disease of animals. 3 corrupting influence. —v. 1 infect with canker. 2 corrupt. 3 (as cankered adj.) Soured, malignant.  cankerous adj. [latin: related to *cancer]
+Canker	—n. 1 destructive disease of trees and plants. 2 ulcerous ear disease of animals. 3 corrupting influence. —v. 1 infect with canker. 2 corrupt. 3 (as cankered adj.) Soured, malignant.  cankerous adj. [latin: related to *cancer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

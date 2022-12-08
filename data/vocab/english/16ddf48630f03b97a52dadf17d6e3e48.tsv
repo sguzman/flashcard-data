@@ -1,1 +1,6 @@
-Limbo1	n. (pl. -s) 1 (in some christian beliefs) supposed abode of the souls of unbaptized infants, and of the just who died before christ. 2 intermediate state or condition of awaiting a decision etc. [latin in limbo: related to *limb2]
+Limbo1	n. (pl. -s) 1 (in some christian beliefs) supposed abode of the souls of unbaptized infants, and of the just who died before christ. 2 intermediate state or condition of awaiting a decision etc. [latin in limbo: related to *limb2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

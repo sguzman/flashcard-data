@@ -1,1 +1,6 @@
-Literature	n. 1 written works, esp. Those valued for form and style. 2 writings of a country or period or on a particular subject. 3 literary production. 4 colloq. Printed matter, leaflets, etc.
+Literature	n. 1 written works, esp. Those valued for form and style. 2 writings of a country or period or on a particular subject. 3 literary production. 4 colloq. Printed matter, leaflets, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

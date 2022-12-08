@@ -1,1 +1,6 @@
-Like2	—v. (-king) 1 find agreeable or enjoyable. 2 a choose to have; prefer (like my tea weak). B wish for or be inclined to (would like a nap; should like to come). —n. (in pl.) Things one likes or prefers. [old english]
+Like2	—v. (-king) 1 find agreeable or enjoyable. 2 a choose to have; prefer (like my tea weak). B wish for or be inclined to (would like a nap; should like to come). —n. (in pl.) Things one likes or prefers. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

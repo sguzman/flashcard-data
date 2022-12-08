@@ -1,1 +1,6 @@
-Delta	n. 1 triangular area of earth, alluvium etc. At the mouth of a river, formed by its diverging outlets. 2 a fourth letter of the greek alphabet (d, d). B fourth-class mark for work etc. [greek]
+Delta	n. 1 triangular area of earth, alluvium etc. At the mouth of a river, formed by its diverging outlets. 2 a fourth letter of the greek alphabet (d, d). B fourth-class mark for work etc. [greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Discipline	—n. 1 a control or order exercised over people or animals, e.g. Over members of an organization. B system of rules for this. 2 training or way of life aimed at self-control and conformity. 3 branch of learning. 4 punishment. —v. (-ning) 1 punish. 2 control by training in obedience. [latin disciplina from disco learn]
+Discipline	—n. 1 a control or order exercised over people or animals, e.g. Over members of an organization. B system of rules for this. 2 training or way of life aimed at self-control and conformity. 3 branch of learning. 4 punishment. —v. (-ning) 1 punish. 2 control by training in obedience. [latin disciplina from disco learn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

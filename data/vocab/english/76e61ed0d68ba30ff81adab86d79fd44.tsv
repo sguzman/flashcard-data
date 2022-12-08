@@ -1,1 +1,6 @@
-Washer	n. 1 person or machine that washes. 2 flat ring inserted at a joint to tighten it and prevent leakage or under the head of a screw etc., or under a nut, to disperse its pressure.
+Washer	n. 1 person or machine that washes. 2 flat ring inserted at a joint to tighten it and prevent leakage or under the head of a screw etc., or under a nut, to disperse its pressure.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

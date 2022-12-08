@@ -1,1 +1,6 @@
-Artefact	n. (also artifact) man-made object, esp. A tool or vessel as an archaeological item. [latin arte by art, facio make]
+Artefact	n. (also artifact) man-made object, esp. A tool or vessel as an archaeological item. [latin arte by art, facio make]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

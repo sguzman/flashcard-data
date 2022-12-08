@@ -1,1 +1,6 @@
-Unfold	v. 1 open the fold or folds of, spread out. 2 reveal (thoughts etc.). 3 become opened out. 4 develop.
+Unfold	v. 1 open the fold or folds of, spread out. 2 reveal (thoughts etc.). 3 become opened out. 4 develop.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

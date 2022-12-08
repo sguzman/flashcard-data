@@ -1,1 +1,6 @@
-Robotics	n.pl. (usu. Treated as sing.) Art, science, or study of robot design and operation.
+Robotics	n.pl. (usu. Treated as sing.) Art, science, or study of robot design and operation.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

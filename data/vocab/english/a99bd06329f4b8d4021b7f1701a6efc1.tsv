@@ -1,1 +1,6 @@
-Abortion	n. 1 natural or (esp.) Induced expulsion of a foetus from the womb before it is able to survive independently. 2 stunted or deformed creature or thing. 3 failed project or action.  abortionist n.
+Abortion	n. 1 natural or (esp.) Induced expulsion of a foetus from the womb before it is able to survive independently. 2 stunted or deformed creature or thing. 3 failed project or action.  abortionist n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

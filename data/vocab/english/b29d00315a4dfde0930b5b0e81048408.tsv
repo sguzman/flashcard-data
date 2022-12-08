@@ -1,1 +1,6 @@
-Demur	—v. (-rr-) 1 (often foll. By to, at) raise objections. 2 law put in a demurrer. —n. (usu. In neg.) Objection; objecting (agreed without demur). [latin moror delay]
+Demur	—v. (-rr-) 1 (often foll. By to, at) raise objections. 2 law put in a demurrer. —n. (usu. In neg.) Objection; objecting (agreed without demur). [latin moror delay]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

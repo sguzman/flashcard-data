@@ -1,1 +1,6 @@
-Jab	—v. (-bb-) 1 a poke roughly. B stab. 2 (foll. By into) thrust (a thing) hard or abruptly. —n. 1 abrupt blow, thrust, or stab. 2 colloq. Hypodermic injection. [var. Of job = prod]
+Jab	—v. (-bb-) 1 a poke roughly. B stab. 2 (foll. By into) thrust (a thing) hard or abruptly. —n. 1 abrupt blow, thrust, or stab. 2 colloq. Hypodermic injection. [var. Of job = prod]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

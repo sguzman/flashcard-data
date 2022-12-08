@@ -1,1 +1,6 @@
-Lint	n. 1 linen or cotton with a raised nap on one side, used for dressing wounds. 2 fluff. [perhaps from french linette from lin flax]
+Lint	n. 1 linen or cotton with a raised nap on one side, used for dressing wounds. 2 fluff. [perhaps from french linette from lin flax]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

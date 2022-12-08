@@ -1,1 +1,6 @@
-Crab2	n. 1 (in full crab-apple) small sour apple. 2 (in full crab tree or crab-apple tree) tree (esp. Uncultivated) bearing this. 3 sour person. [origin unknown]
+Crab2	n. 1 (in full crab-apple) small sour apple. 2 (in full crab tree or crab-apple tree) tree (esp. Uncultivated) bearing this. 3 sour person. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

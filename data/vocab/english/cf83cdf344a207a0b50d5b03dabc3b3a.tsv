@@ -1,1 +1,6 @@
-Enclose	v. (-sing) 1 a surround with a wall, fence, etc. B shut in. 2 put in a receptacle (esp. In an envelope with a letter). 3 (usu. As enclosed adj.) Seclude (a religious community) from the outside world. [latin: related to *include]
+Enclose	v. (-sing) 1 a surround with a wall, fence, etc. B shut in. 2 put in a receptacle (esp. In an envelope with a letter). 3 (usu. As enclosed adj.) Seclude (a religious community) from the outside world. [latin: related to *include]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

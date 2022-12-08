@@ -1,1 +1,6 @@
-Broach	—v. 1 raise for discussion. 2 pierce (a cask) to draw liquor. 3 open and start using. —n. 1 bit for boring. 2 roasting-spit. [latin broccus projecting]
+Broach	—v. 1 raise for discussion. 2 pierce (a cask) to draw liquor. 3 open and start using. —n. 1 bit for boring. 2 roasting-spit. [latin broccus projecting]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

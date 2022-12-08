@@ -1,1 +1,6 @@
-Youth	n. (pl. -s) 1 being young; period between childhood and adult age. 2 vigour, enthusiasm, inexperience, or other characteristic of this period. 3 young man. 4 (as pl.) Young people collectively (the youth of the country). [old english: related to *young]
+Youth	n. (pl. -s) 1 being young; period between childhood and adult age. 2 vigour, enthusiasm, inexperience, or other characteristic of this period. 3 young man. 4 (as pl.) Young people collectively (the youth of the country). [old english: related to *young]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

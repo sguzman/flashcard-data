@@ -1,1 +1,6 @@
-Carib	—n. 1 aboriginal inhabitant of the southern w. Indies or adjacent coasts. 2 their language. —adj. Of the caribs. [spanish from haitian]
+Carib	—n. 1 aboriginal inhabitant of the southern w. Indies or adjacent coasts. 2 their language. —adj. Of the caribs. [spanish from haitian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pungent	adj. 1 sharp or strong in taste or smell, esp. Producing a smarting or pricking sensation. 2 (of remarks) penetrating, biting, caustic. 3 mentally stimulating.  pungency n. [latin: related to *point]
+Pungent	adj. 1 sharp or strong in taste or smell, esp. Producing a smarting or pricking sensation. 2 (of remarks) penetrating, biting, caustic. 3 mentally stimulating.  pungency n. [latin: related to *point]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

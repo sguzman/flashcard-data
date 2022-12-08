@@ -1,1 +1,6 @@
-Wistful	adj. Yearning, mournfully expectant or wishful.  wistfully adv. Wistfulness n. [apparently an assimilation of obsolete wistly ‘intently’ to wishful]
+Wistful	adj. Yearning, mournfully expectant or wishful.  wistfully adv. Wistfulness n. [apparently an assimilation of obsolete wistly ‘intently’ to wishful]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

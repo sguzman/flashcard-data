@@ -1,1 +1,6 @@
-Perpetual motion	n. Motion of a hypothetical machine which once set in motion would run for ever unless subject to an external force or to wear.
+Perpetual motion	n. Motion of a hypothetical machine which once set in motion would run for ever unless subject to an external force or to wear.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

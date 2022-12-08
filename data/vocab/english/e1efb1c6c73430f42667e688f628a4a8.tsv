@@ -1,1 +1,6 @@
-Spontaneous	adj. 1 acting, done, or occurring without external cause. 2 instinctive, automatic, natural. 3 (of style or manner) gracefully natural.  spontaneity n. Spontaneously adv. [latin sponte of one's own accord]
+Spontaneous	adj. 1 acting, done, or occurring without external cause. 2 instinctive, automatic, natural. 3 (of style or manner) gracefully natural.  spontaneity n. Spontaneously adv. [latin sponte of one's own accord]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

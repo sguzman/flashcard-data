@@ -1,1 +1,6 @@
-Ignoble	adj. (-bler, -blest) 1 dishonourable. 2 of low birth, position, or reputation.  ignobly adv. [latin: related to *in-1, *noble]
+Ignoble	adj. (-bler, -blest) 1 dishonourable. 2 of low birth, position, or reputation.  ignobly adv. [latin: related to *in-1, *noble]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

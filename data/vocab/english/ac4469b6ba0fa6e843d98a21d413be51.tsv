@@ -1,1 +1,6 @@
-Trophy	n. (pl. -ies) 1 cup etc. As a prize in a contest. 2 memento or souvenir of success in hunting, war, etc. [greek tropaion]
+Trophy	n. (pl. -ies) 1 cup etc. As a prize in a contest. 2 memento or souvenir of success in hunting, war, etc. [greek tropaion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

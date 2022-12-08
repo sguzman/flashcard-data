@@ -1,1 +1,6 @@
-Fleur-de-lis	n. (also fleur-de-lys) (pl. Fleurs- pronunc. Same) 1 iris flower. 2 heraldry a lily of three petals. B former royal arms of france. [french, = flower of lily]
+Fleur-de-lis	n. (also fleur-de-lys) (pl. Fleurs- pronunc. Same) 1 iris flower. 2 heraldry a lily of three petals. B former royal arms of france. [french, = flower of lily]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

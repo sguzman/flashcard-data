@@ -1,1 +1,6 @@
-Aggregate	—n. 1 sum total, amount assembled. 2 crushed stone etc. Used in making concrete. 3 rock formed of a mass of different particles or minerals. —adj. Combined, collective, total. —v. (-ting) 1 collect, combine into one mass. 2 colloq. Amount to. 3 unite.  in the aggregate as a whole.  aggregation n. Aggregative adj. [latin grex greg- flock]
+Aggregate	—n. 1 sum total, amount assembled. 2 crushed stone etc. Used in making concrete. 3 rock formed of a mass of different particles or minerals. —adj. Combined, collective, total. —v. (-ting) 1 collect, combine into one mass. 2 colloq. Amount to. 3 unite.  in the aggregate as a whole.  aggregation n. Aggregative adj. [latin grex greg- flock]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

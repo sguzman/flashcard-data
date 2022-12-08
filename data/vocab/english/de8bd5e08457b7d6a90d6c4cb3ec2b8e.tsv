@@ -1,1 +1,6 @@
-Attitude	n. 1 opinion or way of thinking; behaviour reflecting this (don't like his attitude). 2 bodily posture; pose. 3 position of an aircraft etc. Relative to given points. [latin aptus fitted]
+Attitude	n. 1 opinion or way of thinking; behaviour reflecting this (don't like his attitude). 2 bodily posture; pose. 3 position of an aircraft etc. Relative to given points. [latin aptus fitted]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

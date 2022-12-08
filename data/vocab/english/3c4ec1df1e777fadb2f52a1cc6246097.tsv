@@ -1,1 +1,6 @@
-Rotisserie	n. 1 restaurant etc. Where meat is roasted or barbecued. 2 rotating spit for roasting or barbecuing meat. [french: related to *roast]
+Rotisserie	n. 1 restaurant etc. Where meat is roasted or barbecued. 2 rotating spit for roasting or barbecuing meat. [french: related to *roast]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

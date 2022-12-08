@@ -1,1 +1,6 @@
-Siege	n. 1 surrounding and blockading of a town, castle, etc. 2 similar operation by police etc. To force an armed person out of a building.  lay siege to conduct the siege of. Raise the siege of abandon, or cause the abandonment of, an attempted siege of. [french sege seat]
+Siege	n. 1 surrounding and blockading of a town, castle, etc. 2 similar operation by police etc. To force an armed person out of a building.  lay siege to conduct the siege of. Raise the siege of abandon, or cause the abandonment of, an attempted siege of. [french sege seat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

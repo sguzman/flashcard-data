@@ -1,1 +1,6 @@
-Launch1	—v. 1 set (a vessel) afloat. 2 hurl or send forth (a weapon, rocket, etc.). 3 start or set in motion (an enterprise, person, etc.). 4 formally introduce (a new product) with publicity etc. 5 (foll. By out, into, etc.) A make a start on (an enterprise etc.). B burst into (strong language etc.). —n. Act of launching. [anglo-norman launcher: related to *lance]
+Launch1	—v. 1 set (a vessel) afloat. 2 hurl or send forth (a weapon, rocket, etc.). 3 start or set in motion (an enterprise, person, etc.). 4 formally introduce (a new product) with publicity etc. 5 (foll. By out, into, etc.) A make a start on (an enterprise etc.). B burst into (strong language etc.). —n. Act of launching. [anglo-norman launcher: related to *lance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

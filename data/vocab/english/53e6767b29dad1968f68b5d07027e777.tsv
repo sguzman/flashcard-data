@@ -1,1 +1,6 @@
-Sumo	n.  Japanese wrestling in which a wrestler is defeated by touching the ground with any part of the body except the soles of the feet or by moving outside the ring. [japanese]
+Sumo	n.  Japanese wrestling in which a wrestler is defeated by touching the ground with any part of the body except the soles of the feet or by moving outside the ring. [japanese]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

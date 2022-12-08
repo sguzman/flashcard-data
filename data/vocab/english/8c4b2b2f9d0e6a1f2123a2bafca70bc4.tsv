@@ -1,1 +1,6 @@
-Horizon	n. 1 line at which the earth and sky appear to meet. 2 limit of mental perception, experience, interest, etc.  on the horizon (of an event) just imminent or becoming apparent. [greek horizo bound]
+Horizon	n. 1 line at which the earth and sky appear to meet. 2 limit of mental perception, experience, interest, etc.  on the horizon (of an event) just imminent or becoming apparent. [greek horizo bound]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Bright	—adj. 1 emitting or reflecting much light; shining. 2 intense, vivid. 3 clever. 4 cheerful. —adv. Esp. Poet. Brightly.  brightly adv. Brightness n. [old english]
+Bright	—adj. 1 emitting or reflecting much light; shining. 2 intense, vivid. 3 clever. 4 cheerful. —adv. Esp. Poet. Brightly.  brightly adv. Brightness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Carnival	n. 1 a annual festivities including a parade through the streets in fancy dress. B festival preceding lent. 2 merrymaking. 3 us funfair or circus. [latin carnem levo put away meat]
+Carnival	n. 1 a annual festivities including a parade through the streets in fancy dress. B festival preceding lent. 2 merrymaking. 3 us funfair or circus. [latin carnem levo put away meat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

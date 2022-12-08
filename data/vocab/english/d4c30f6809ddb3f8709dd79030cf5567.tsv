@@ -1,1 +1,6 @@
-Running	—n. 1 action of runners in a race etc. 2 way a race etc. Proceeds. —adj. 1 continuous (running battle). 2 consecutive (three days running). 3 done with a run (running jump).  in (or out of) the running (of a competitor) with a good (or poor) chance of success. Make (or take up) the running take the lead; set the pace. Take a running jump (esp. As int.) Slang go away.
+Running	—n. 1 action of runners in a race etc. 2 way a race etc. Proceeds. —adj. 1 continuous (running battle). 2 consecutive (three days running). 3 done with a run (running jump).  in (or out of) the running (of a competitor) with a good (or poor) chance of success. Make (or take up) the running take the lead; set the pace. Take a running jump (esp. As int.) Slang go away.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

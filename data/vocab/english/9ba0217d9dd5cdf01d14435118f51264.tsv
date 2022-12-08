@@ -1,1 +1,6 @@
-Never	adv. 1 a at no time; on no occasion; not ever. B colloq. As an emphatic negative (i never heard you come in). 2 not at all (never fear). 3 colloq. (expressing surprise) surely not (you never left the door open!).  well i never! Expressing great surprise. [old english, = not ever]
+Never	adv. 1 a at no time; on no occasion; not ever. B colloq. As an emphatic negative (i never heard you come in). 2 not at all (never fear). 3 colloq. (expressing surprise) surely not (you never left the door open!).  well i never! Expressing great surprise. [old english, = not ever]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

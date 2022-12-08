@@ -1,1 +1,6 @@
-Handball	n. 1 game with a ball thrown by hand among players or against a wall. 2 football intentional touching of the ball, constituting a foul.
+Handball	n. 1 game with a ball thrown by hand among players or against a wall. 2 football intentional touching of the ball, constituting a foul.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

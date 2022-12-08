@@ -1,1 +1,6 @@
-Goof	slang —n. 1 foolish or stupid person. 2 mistake. —v. 1 bungle. 2 blunder. [latin gufus coarse]
+Goof	slang —n. 1 foolish or stupid person. 2 mistake. —v. 1 bungle. 2 blunder. [latin gufus coarse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

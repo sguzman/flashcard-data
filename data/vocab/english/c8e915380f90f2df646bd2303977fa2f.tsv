@@ -1,1 +1,6 @@
-Expectation	n. 1 expecting or anticipation. 2 thing expected. 3 (foll. By of) probability of an event. 4 (in pl.) One's prospects of inheritance.
+Expectation	n. 1 expecting or anticipation. 2 thing expected. 3 (foll. By of) probability of an event. 4 (in pl.) One's prospects of inheritance.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

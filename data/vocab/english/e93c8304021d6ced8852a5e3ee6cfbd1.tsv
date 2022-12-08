@@ -1,1 +1,6 @@
-Vengeance	n. Punishment inflicted for wrong to oneself or one's cause.  with a vengeance to a high or excessive degree (punctuality with a vengeance). [french venger from latin vindico avenge]
+Vengeance	n. Punishment inflicted for wrong to oneself or one's cause.  with a vengeance to a high or excessive degree (punctuality with a vengeance). [french venger from latin vindico avenge]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Vortex	n. (pl. -texes or -tices) 1 whirlpool, whirlwind. 2 whirling motion or mass. 3 thing viewed as destructive or devouring (the vortex of society).  vortical adj. [latin: related to *vertex]
+Vortex	n. (pl. -texes or -tices) 1 whirlpool, whirlwind. 2 whirling motion or mass. 3 thing viewed as destructive or devouring (the vortex of society).  vortical adj. [latin: related to *vertex]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tracer	n. 1 bullet etc. That is visible in flight because of flames etc. Emitted. 2 artificial radioactive isotope which can be followed through the body by the radiation it produces.
+Tracer	n. 1 bullet etc. That is visible in flight because of flames etc. Emitted. 2 artificial radioactive isotope which can be followed through the body by the radiation it produces.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

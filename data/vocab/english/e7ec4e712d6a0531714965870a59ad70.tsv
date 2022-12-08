@@ -1,1 +1,6 @@
-Nanny	n. (pl. -ies) 1 child's nurse. 2 colloq. Grandmother. 3 (in full nanny-goat) female goat. [related to *nancy]
+Nanny	n. (pl. -ies) 1 child's nurse. 2 colloq. Grandmother. 3 (in full nanny-goat) female goat. [related to *nancy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

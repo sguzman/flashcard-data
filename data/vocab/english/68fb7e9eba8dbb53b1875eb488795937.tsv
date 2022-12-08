@@ -1,1 +1,6 @@
-Fermentation	n. 1 breakdown of a substance by yeasts and bacteria etc., esp. Of sugar in making alcohol. 2 agitation, excitement.  fermentative adj. [latin: related to *ferment]
+Fermentation	n. 1 breakdown of a substance by yeasts and bacteria etc., esp. Of sugar in making alcohol. 2 agitation, excitement.  fermentative adj. [latin: related to *ferment]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

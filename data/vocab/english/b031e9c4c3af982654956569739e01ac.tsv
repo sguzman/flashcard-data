@@ -1,1 +1,6 @@
-Desolate	—adj. 1 left alone; solitary. 2 uninhabited, ruined, dreary (desolate moor). 3 forlorn; wretched. —v. (-ting) 1 depopulate, devastate; lay waste. 2 (esp. As desolated adj.) Make wretched.  desolately adv. Desolateness n. [latin solus alone]
+Desolate	—adj. 1 left alone; solitary. 2 uninhabited, ruined, dreary (desolate moor). 3 forlorn; wretched. —v. (-ting) 1 depopulate, devastate; lay waste. 2 (esp. As desolated adj.) Make wretched.  desolately adv. Desolateness n. [latin solus alone]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Dogwatch	n. Either of two short watches on a ship (4–6 or 6–8 p.m.).
+Dogwatch	n. Either of two short watches on a ship (4–6 or 6–8 p.m.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Coagulate	v. (-ting) 1 change from a fluid to a semisolid. 2 clot, curdle.  coagulant n. Coagulation n. [latin coagulum rennet]
+Coagulate	v. (-ting) 1 change from a fluid to a semisolid. 2 clot, curdle.  coagulant n. Coagulation n. [latin coagulum rennet]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cordon	—n. 1 line or circle of police, soldiers, guards, etc., esp. Preventing access. 2 ornamental cord or braid. 3 fruit-tree trained to grow as a single stem. —v. (often foll. By off) enclose or separate with a cordon of police etc. [italian and french: related to *cord]
+Cordon	—n. 1 line or circle of police, soldiers, guards, etc., esp. Preventing access. 2 ornamental cord or braid. 3 fruit-tree trained to grow as a single stem. —v. (often foll. By off) enclose or separate with a cordon of police etc. [italian and french: related to *cord]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

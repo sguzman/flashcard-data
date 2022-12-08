@@ -1,1 +1,6 @@
-Civilization	n. (also -isation) 1 advanced stage or system of social development. 2 peoples of the world that are regarded as having this. 3 a people or nation (esp. Of the past) regarded as an element of social evolution (inca civilization).
+Civilization	n. (also -isation) 1 advanced stage or system of social development. 2 peoples of the world that are regarded as having this. 3 a people or nation (esp. Of the past) regarded as an element of social evolution (inca civilization).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

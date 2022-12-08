@@ -1,1 +1,6 @@
-Eucalyptus	n. (pl. -tuses or -ti) (also eucalypt pl. -s) 1 tall evergreen australasian tree. 2 its oil, used as an antiseptic etc. [from *eu-, greek kaluptos covered]
+Eucalyptus	n. (pl. -tuses or -ti) (also eucalypt pl. -s) 1 tall evergreen australasian tree. 2 its oil, used as an antiseptic etc. [from *eu-, greek kaluptos covered]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

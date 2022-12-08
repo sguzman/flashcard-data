@@ -1,1 +1,6 @@
-Spool	—n. 1 reel for winding magnetic tape, yarn, etc., on. 2 revolving cylinder of an angler's reel. —v. Wind on a spool. [french espole or germanic spole]
+Spool	—n. 1 reel for winding magnetic tape, yarn, etc., on. 2 revolving cylinder of an angler's reel. —v. Wind on a spool. [french espole or germanic spole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

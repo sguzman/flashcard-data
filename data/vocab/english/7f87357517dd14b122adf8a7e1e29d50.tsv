@@ -1,1 +1,6 @@
-Paper	—n. 1 material made in thin sheets from the pulp of wood etc., used for writing, drawing, or printing on, or as wrapping material etc. 2 (attrib.) A made of or using paper. B flimsy like paper. 3 = *newspaper. 4 a printed document. B (in pl.) Identification etc. Documents.
+Paper	—n. 1 material made in thin sheets from the pulp of wood etc., used for writing, drawing, or printing on, or as wrapping material etc. 2 (attrib.) A made of or using paper. B flimsy like paper. 3 = *newspaper. 4 a printed document. B (in pl.) Identification etc. Documents.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

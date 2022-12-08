@@ -1,1 +1,6 @@
-Taper	—n. 1 wick coated with wax etc. For conveying a flame. 2 slender candle. —v. (often foll. By off) 1 diminish or reduce in thickness towards one end. 2 make or become gradually less. [old english]
+Taper	—n. 1 wick coated with wax etc. For conveying a flame. 2 slender candle. —v. (often foll. By off) 1 diminish or reduce in thickness towards one end. 2 make or become gradually less. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

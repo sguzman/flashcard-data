@@ -1,1 +1,6 @@
-Inherit	v. (-t-) 1 receive (property, rank, title, etc.) By legal succession. 2 derive (a characteristic) from one's ancestors. 3 derive (a situation etc.) From a predecessor.  inheritable adj. Inheritor n. [latin heres heir]
+Inherit	v. (-t-) 1 receive (property, rank, title, etc.) By legal succession. 2 derive (a characteristic) from one's ancestors. 3 derive (a situation etc.) From a predecessor.  inheritable adj. Inheritor n. [latin heres heir]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

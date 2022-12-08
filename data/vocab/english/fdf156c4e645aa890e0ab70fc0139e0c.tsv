@@ -1,1 +1,6 @@
-Goodbye	(us goodby) —int. Expressing good wishes on parting, ending a telephone conversation, etc. —n. (pl. -byes or us -bys) parting; farewell. [from god be with you!]
+Goodbye	(us goodby) —int. Expressing good wishes on parting, ending a telephone conversation, etc. —n. (pl. -byes or us -bys) parting; farewell. [from god be with you!]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

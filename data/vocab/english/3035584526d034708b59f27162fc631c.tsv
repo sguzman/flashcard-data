@@ -1,1 +1,6 @@
-Queen-anne	n. (often attrib.) Style of english architecture, furniture, etc., in the early 18th c.
+Queen-anne	n. (often attrib.) Style of english architecture, furniture, etc., in the early 18th c.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

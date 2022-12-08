@@ -1,1 +1,6 @@
-Senior	—adj. 1 more or most advanced in age, standing, or position. 2 (placed after a person's name) senior to a relative of the same name. —n. 1 senior person. 2 one's elder or superior.  seniority n. [latin comparative of senex old]
+Senior	—adj. 1 more or most advanced in age, standing, or position. 2 (placed after a person's name) senior to a relative of the same name. —n. 1 senior person. 2 one's elder or superior.  seniority n. [latin comparative of senex old]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

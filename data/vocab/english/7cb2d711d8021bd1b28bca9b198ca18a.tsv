@@ -1,1 +1,6 @@
-Arch1	—n. 1 curved structure as an opening, as a support for a bridge, floor, etc., or as an ornament. 2 any arch-shaped curve. —v. 1 provide with or form into an arch. 2 span like an arch. 3 form an arch. [latin arcus arc]
+Arch1	—n. 1 curved structure as an opening, as a support for a bridge, floor, etc., or as an ornament. 2 any arch-shaped curve. —v. 1 provide with or form into an arch. 2 span like an arch. 3 form an arch. [latin arcus arc]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

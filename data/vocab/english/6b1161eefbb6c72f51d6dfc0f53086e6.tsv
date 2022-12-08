@@ -1,1 +1,6 @@
-Test1	—n. 1 critical examination or trial of a person's or thing's qualities. 2 means, procedure, or standard for so doing. 3 minor examination, esp. In school (spelling test). 4 colloq. Test match. —v. 1 put to the test. 2 try or tax severely. 3  examine by means of a reagent.  put to the test cause to undergo a test. Test out put to a practical test.  testable adj. [latin testu(m) = testa: related to *test2]
+Test1	—n. 1 critical examination or trial of a person's or thing's qualities. 2 means, procedure, or standard for so doing. 3 minor examination, esp. In school (spelling test). 4 colloq. Test match. —v. 1 put to the test. 2 try or tax severely. 3  examine by means of a reagent.  put to the test cause to undergo a test. Test out put to a practical test.  testable adj. [latin testu(m) = testa: related to *test2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

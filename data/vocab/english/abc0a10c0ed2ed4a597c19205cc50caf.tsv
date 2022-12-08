@@ -1,1 +1,6 @@
-Bile	n. 1 bitter digestive fluid secreted by the liver. 2 bad temper; peevish anger. [latin bilis]
+Bile	n. 1 bitter digestive fluid secreted by the liver. 2 bad temper; peevish anger. [latin bilis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

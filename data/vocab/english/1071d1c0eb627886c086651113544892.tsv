@@ -1,1 +1,6 @@
-Pantomime	n. 1 christmas theatrical entertainment based on a fairy tale. 2 gestures and facial expression conveying meaning, esp. In drama and dance. 3 colloq. Absurd or outrageous piece of behaviour. [greek: related to *pan-, *mime]
+Pantomime	n. 1 christmas theatrical entertainment based on a fairy tale. 2 gestures and facial expression conveying meaning, esp. In drama and dance. 3 colloq. Absurd or outrageous piece of behaviour. [greek: related to *pan-, *mime]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

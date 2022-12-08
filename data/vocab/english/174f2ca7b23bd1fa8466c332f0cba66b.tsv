@@ -1,1 +1,6 @@
-Gauge	(us gage: see also sense 6) —n. 1 standard measure, esp. Of the capacity or contents of a barrel, fineness of a textile, diameter of a bullet, or thickness of sheet metal. 2 instrument for measuring pressure, width, length, thickness, etc. 3 distance between rails or opposite wheels. 4 capacity, extent. 5 criterion, test. 6 (usu. Gage) naut. Position relative to the wind. —v. (-ging) 1 measure exactly. 2 measure the capacity or content of. 3 estimate (a person, situation, etc.). [french]
+Gauge	(us gage: see also sense 6) —n. 1 standard measure, esp. Of the capacity or contents of a barrel, fineness of a textile, diameter of a bullet, or thickness of sheet metal. 2 instrument for measuring pressure, width, length, thickness, etc. 3 distance between rails or opposite wheels. 4 capacity, extent. 5 criterion, test. 6 (usu. Gage) naut. Position relative to the wind. —v. (-ging) 1 measure exactly. 2 measure the capacity or content of. 3 estimate (a person, situation, etc.). [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

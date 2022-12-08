@@ -1,1 +1,6 @@
-Sonar	n. 1 system for the underwater detection of objects by reflected sound. 2 apparatus for this. [sound navigation and ranging]
+Sonar	n. 1 system for the underwater detection of objects by reflected sound. 2 apparatus for this. [sound navigation and ranging]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

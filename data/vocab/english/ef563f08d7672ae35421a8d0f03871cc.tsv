@@ -1,1 +1,6 @@
-Department	n. 1 separate part of a complex whole, esp.: a a branch of administration (housing department). B a division of a school, college, etc., by subject (physics department). C a section of a large store (hardware department). 2 colloq. Area of special expertise. 3 administrative district, esp. In france. [french: related to *depart]
+Department	n. 1 separate part of a complex whole, esp.: a a branch of administration (housing department). B a division of a school, college, etc., by subject (physics department). C a section of a large store (hardware department). 2 colloq. Area of special expertise. 3 administrative district, esp. In france. [french: related to *depart]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Jettison	—v. 1 a throw (esp. Heavy material) overboard to lighten a ship etc. B drop (goods) from an aircraft. 2 abandon; get rid of. —n. Jettisoning. [anglo-french getteson: related to *jet1]
+Jettison	—v. 1 a throw (esp. Heavy material) overboard to lighten a ship etc. B drop (goods) from an aircraft. 2 abandon; get rid of. —n. Jettisoning. [anglo-french getteson: related to *jet1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Round robin	n. 1 petition, esp. With signatures in a circle to conceal the order of writing. 2 us tournament in which each competitor plays every other.
+Round robin	n. 1 petition, esp. With signatures in a circle to conceal the order of writing. 2 us tournament in which each competitor plays every other.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

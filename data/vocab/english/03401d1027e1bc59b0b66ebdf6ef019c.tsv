@@ -1,1 +1,6 @@
-Sack1	—n. 1 a large strong bag for storage or conveyance. B quantity contained in a sack. 2 (prec. By the) colloq. Dismissal from employment. 3 (prec. By the) us slang bed. —v. 1 put into a sack or sacks. 2 colloq. Dismiss from employment. [latin saccus] 
+Sack1	—n. 1 a large strong bag for storage or conveyance. B quantity contained in a sack. 2 (prec. By the) colloq. Dismissal from employment. 3 (prec. By the) us slang bed. —v. 1 put into a sack or sacks. 2 colloq. Dismiss from employment. [latin saccus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

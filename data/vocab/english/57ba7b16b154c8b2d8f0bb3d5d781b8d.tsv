@@ -1,1 +1,6 @@
-Habitual	adj. 1 done constantly or as a habit. 2 regular, usual. 3 given to a (specified) habit (habitual smoker).  habitually adv.
+Habitual	adj. 1 done constantly or as a habit. 2 regular, usual. 3 given to a (specified) habit (habitual smoker).  habitually adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

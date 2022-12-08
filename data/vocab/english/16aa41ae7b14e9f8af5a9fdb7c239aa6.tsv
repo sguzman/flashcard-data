@@ -1,1 +1,6 @@
-Jolly1	—adj. (-ier, -iest) 1 cheerful; merry. 2 festive, jovial. 3 colloq. Pleasant, delightful. —adv. Colloq. Very. —v. (-ies, -ied) (usu. Foll. By along) colloq. Coax or humour in a friendly way. —n. (pl. -ies) colloq. Party or celebration.  jollily adv. Jolliness n. [french jolif gay, pretty: perhaps related to *yule]
+Jolly1	—adj. (-ier, -iest) 1 cheerful; merry. 2 festive, jovial. 3 colloq. Pleasant, delightful. —adv. Colloq. Very. —v. (-ies, -ied) (usu. Foll. By along) colloq. Coax or humour in a friendly way. —n. (pl. -ies) colloq. Party or celebration.  jollily adv. Jolliness n. [french jolif gay, pretty: perhaps related to *yule]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

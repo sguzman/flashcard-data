@@ -1,1 +1,6 @@
-Shield	—n. 1 a piece of armour held in front of the body for protection when fighting. B person or thing giving protection. 2 shield-shaped trophy. 3 protective plate or screen in machinery etc. 4 heraldry stylized representation of a shield for displaying a coat of arms etc. —v. Protect or screen. [old english]
+Shield	—n. 1 a piece of armour held in front of the body for protection when fighting. B person or thing giving protection. 2 shield-shaped trophy. 3 protective plate or screen in machinery etc. 4 heraldry stylized representation of a shield for displaying a coat of arms etc. —v. Protect or screen. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

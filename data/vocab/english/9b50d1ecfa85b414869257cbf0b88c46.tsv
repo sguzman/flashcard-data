@@ -1,1 +1,6 @@
-Imponderable	—adj. 1 not able to be estimated. 2 very light; weightless. —n. (usu. In pl.) Imponderable thing.  imponderability n. Imponderably adv.
+Imponderable	—adj. 1 not able to be estimated. 2 very light; weightless. —n. (usu. In pl.) Imponderable thing.  imponderability n. Imponderably adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

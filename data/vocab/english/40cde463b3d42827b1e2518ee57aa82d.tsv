@@ -1,1 +1,6 @@
-Rhapsody	n. (pl. -ies) 1 enthusiastic or extravagant speech or composition. 2 piece of music in one movement, often based on national, folk, or popular melodies.  rhapsodic adj. [greek rhapto stitch: related to *ode]
+Rhapsody	n. (pl. -ies) 1 enthusiastic or extravagant speech or composition. 2 piece of music in one movement, often based on national, folk, or popular melodies.  rhapsodic adj. [greek rhapto stitch: related to *ode]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

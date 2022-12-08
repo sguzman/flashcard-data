@@ -1,1 +1,6 @@
-Sculpture	—n. 1 art of making three-dimensional or relief forms, by chiselling, carving, modelling, casting, etc. 2 work of sculpture. —v. (-ring) 1 represent in or adorn with sculpture. 2 practise sculpture.  sculptural adj. [latin sculpo sculpt- carve]
+Sculpture	—n. 1 art of making three-dimensional or relief forms, by chiselling, carving, modelling, casting, etc. 2 work of sculpture. —v. (-ring) 1 represent in or adorn with sculpture. 2 practise sculpture.  sculptural adj. [latin sculpo sculpt- carve]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

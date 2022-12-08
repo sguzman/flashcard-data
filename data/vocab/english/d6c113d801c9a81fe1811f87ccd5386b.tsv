@@ -1,1 +1,6 @@
-Railway	n. 1 track or set of tracks of steel rails upon which trains run. 2 such a system worked by a single company. 3 organization and personnel required for its working.
+Railway	n. 1 track or set of tracks of steel rails upon which trains run. 2 such a system worked by a single company. 3 organization and personnel required for its working.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

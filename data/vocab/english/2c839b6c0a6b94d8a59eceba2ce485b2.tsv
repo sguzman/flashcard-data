@@ -1,1 +1,6 @@
-Erase	v. (-sing) 1 rub out; obliterate. 2 remove all traces of. 3 remove recorded material from (magnetic tape or disk). [latin rado ras- scrape]
+Erase	v. (-sing) 1 rub out; obliterate. 2 remove all traces of. 3 remove recorded material from (magnetic tape or disk). [latin rado ras- scrape]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Snoop	colloq. —v. 1 pry into another's affairs. 2 (often foll. By about, around) investigate transgressions of rules, the law, etc. —n. Act of snooping.  snooper n. Snoopy adj. [dutch]
+Snoop	colloq. —v. 1 pry into another's affairs. 2 (often foll. By about, around) investigate transgressions of rules, the law, etc. —n. Act of snooping.  snooper n. Snoopy adj. [dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

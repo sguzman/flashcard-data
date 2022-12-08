@@ -1,1 +1,6 @@
-Coloring	n. (brit. Colour-) 1 appearance as regards colour, esp. Facial complexion. 2 use or application of colour. 3 substance giving colour.
+Coloring	n. (brit. Colour-) 1 appearance as regards colour, esp. Facial complexion. 2 use or application of colour. 3 substance giving colour.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

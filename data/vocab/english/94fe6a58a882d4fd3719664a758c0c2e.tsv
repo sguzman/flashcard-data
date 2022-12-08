@@ -1,1 +1,6 @@
-Crêpe	n. 1 fine gauzy wrinkled fabric. 2 thin pancake with a savoury or sweet filling. 3 hard-wearing wrinkled sheet rubber used for the soles of shoes etc.  crêpey adj. Crêpy adj. [latin: related to *crisp]
+Crêpe	n. 1 fine gauzy wrinkled fabric. 2 thin pancake with a savoury or sweet filling. 3 hard-wearing wrinkled sheet rubber used for the soles of shoes etc.  crêpey adj. Crêpy adj. [latin: related to *crisp]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

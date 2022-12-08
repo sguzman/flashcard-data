@@ -1,1 +1,6 @@
-Thermonuclear	adj. 1 relating to nuclear reactions that occur only at very high temperatures. 2 (of weapons) using thermonuclear reactions.
+Thermonuclear	adj. 1 relating to nuclear reactions that occur only at very high temperatures. 2 (of weapons) using thermonuclear reactions.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

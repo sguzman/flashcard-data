@@ -1,1 +1,6 @@
-Idealism	n. 1 forming or pursuing ideals, esp. Unrealistically. 2 representation of things in ideal form. 3 system of thought in which objects are held to be in some way dependent on the mind.  idealist n. Idealistic adj. Idealistically adv.
+Idealism	n. 1 forming or pursuing ideals, esp. Unrealistically. 2 representation of things in ideal form. 3 system of thought in which objects are held to be in some way dependent on the mind.  idealist n. Idealistic adj. Idealistically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

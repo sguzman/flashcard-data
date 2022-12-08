@@ -1,1 +1,6 @@
-Underwrite	v. (-ting; past -wrote; past part. -written) 1 a sign and accept liability under (an insurance policy, esp. On shipping etc.). B accept (liability) in this way. 2 undertake to finance or support. 3  engage to buy all the unsold stock in (a company etc.).  underwriter n.
+Underwrite	v. (-ting; past -wrote; past part. -written) 1 a sign and accept liability under (an insurance policy, esp. On shipping etc.). B accept (liability) in this way. 2 undertake to finance or support. 3  engage to buy all the unsold stock in (a company etc.).  underwriter n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Optician	n. 1 maker, seller, or prescriber of spectacles and contact lenses etc. 2 person trained in the detection and correction of poor eyesight. [medieval latin: related to *optic]
+Optician	n. 1 maker, seller, or prescriber of spectacles and contact lenses etc. 2 person trained in the detection and correction of poor eyesight. [medieval latin: related to *optic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

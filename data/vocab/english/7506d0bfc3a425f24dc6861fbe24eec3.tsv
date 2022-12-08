@@ -1,1 +1,6 @@
-Excise1	—n. 1 tax on goods produced or sold within the country of origin. 2 tax on certain licences. —v. (-sing) 1 charge excise on. 2 force (a person) to pay excise. [dutch excijs from romanic: related to latin *census tax]
+Excise1	—n. 1 tax on goods produced or sold within the country of origin. 2 tax on certain licences. —v. (-sing) 1 charge excise on. 2 force (a person) to pay excise. [dutch excijs from romanic: related to latin *census tax]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Grave2	—adj. 1 a serious, weighty, important. B dignified, solemn, sombre. 2 extremely serious or threatening. —n. = *grave accent.  gravely adv. [latin gravis heavy]
+Grave2	—adj. 1 a serious, weighty, important. B dignified, solemn, sombre. 2 extremely serious or threatening. —n. = *grave accent.  gravely adv. [latin gravis heavy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

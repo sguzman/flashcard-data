@@ -1,1 +1,6 @@
-Restoration	n. 1 restoring or being restored. 2 model or representation of the supposed original form of a thing. 3 (restoration) hist. A (prec. By the) re-establishment of the british monarchy in 1660. B (often attrib.) Literary period following this (restoration comedy).
+Restoration	n. 1 restoring or being restored. 2 model or representation of the supposed original form of a thing. 3 (restoration) hist. A (prec. By the) re-establishment of the british monarchy in 1660. B (often attrib.) Literary period following this (restoration comedy).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

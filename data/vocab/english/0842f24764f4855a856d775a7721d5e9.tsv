@@ -1,1 +1,6 @@
-Recessive	adj. 1 tending to recede. 2  (of an inherited characteristic) appearing in offspring only when not masked by an inherited dominant characteristic.
+Recessive	adj. 1 tending to recede. 2  (of an inherited characteristic) appearing in offspring only when not masked by an inherited dominant characteristic.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

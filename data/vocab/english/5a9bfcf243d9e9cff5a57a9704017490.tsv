@@ -1,1 +1,6 @@
-Salary	—n. (pl. -ies) fixed regular wages, usu. Monthly or quarterly, esp. For white-collar work. —v. (-ies, -ied) (usu. As salaried adj.) Pay a salary to. [latin salarium money for buying salt]
+Salary	—n. (pl. -ies) fixed regular wages, usu. Monthly or quarterly, esp. For white-collar work. —v. (-ies, -ied) (usu. As salaried adj.) Pay a salary to. [latin salarium money for buying salt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

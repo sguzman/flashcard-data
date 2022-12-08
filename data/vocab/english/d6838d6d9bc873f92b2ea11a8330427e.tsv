@@ -1,1 +1,6 @@
-Worker	n. 1 person who works, esp. For an employer. 2 neuter bee or ant. 3 person who works hard.
+Worker	n. 1 person who works, esp. For an employer. 2 neuter bee or ant. 3 person who works hard.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

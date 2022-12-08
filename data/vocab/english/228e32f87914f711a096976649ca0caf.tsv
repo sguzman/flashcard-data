@@ -1,1 +1,6 @@
-Balsam	n. 1 resin exuded from various trees and shrubs. 2 ointment, esp. Containing oil or turpentine. 3 tree or shrub yielding balsam. 4 any of several flowering plants.  balsamic adj. [latin balsamum]
+Balsam	n. 1 resin exuded from various trees and shrubs. 2 ointment, esp. Containing oil or turpentine. 3 tree or shrub yielding balsam. 4 any of several flowering plants.  balsamic adj. [latin balsamum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

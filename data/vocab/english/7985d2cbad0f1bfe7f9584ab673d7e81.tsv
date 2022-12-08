@@ -1,1 +1,6 @@
-Whisker	n. 1 (usu. In pl.) Hair growing on a man's face, esp. On the cheek. 2 each of the bristles on the face of a cat etc. 3 colloq. Small distance (within a whisker of).  whiskered adj. Whiskery adj. [from *whisk]
+Whisker	n. 1 (usu. In pl.) Hair growing on a man's face, esp. On the cheek. 2 each of the bristles on the face of a cat etc. 3 colloq. Small distance (within a whisker of).  whiskered adj. Whiskery adj. [from *whisk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

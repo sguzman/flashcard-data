@@ -1,1 +1,6 @@
-Coax	v. 1 persuade gradually or by flattery. 2 (foll. By out of) obtain (a thing from a person) thus. 3 manipulate (a thing) carefully or slowly. [obsolete cokes a fool]
+Coax	v. 1 persuade gradually or by flattery. 2 (foll. By out of) obtain (a thing from a person) thus. 3 manipulate (a thing) carefully or slowly. [obsolete cokes a fool]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

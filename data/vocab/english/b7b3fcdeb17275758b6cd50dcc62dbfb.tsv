@@ -1,1 +1,6 @@
-Hackle	n. 1 a (in pl.) Erectile hairs on an animal's neck, rising when it is angry or alarmed. B feather(s) on the neck of a domestic cock etc. 2 steel comb for dressing flax.  make one's hackles rise cause one to be angry or indignant. [old english]
+Hackle	n. 1 a (in pl.) Erectile hairs on an animal's neck, rising when it is angry or alarmed. B feather(s) on the neck of a domestic cock etc. 2 steel comb for dressing flax.  make one's hackles rise cause one to be angry or indignant. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

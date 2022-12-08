@@ -1,1 +1,6 @@
-Obscene	adj. 1 offensively indecent. 2 colloq. Highly offensive. 3 law (of a publication) tending to deprave or corrupt.  obscenely adv. Obscenity n. (pl. -ies). [latin obsc(a)enus abominable]
+Obscene	adj. 1 offensively indecent. 2 colloq. Highly offensive. 3 law (of a publication) tending to deprave or corrupt.  obscenely adv. Obscenity n. (pl. -ies). [latin obsc(a)enus abominable]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

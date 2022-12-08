@@ -1,1 +1,6 @@
-Suffragan	n. 1 bishop assisting a diocesan bishop. 2 bishop in relation to his archbishop or metropolitan. [medieval latin suffraganeus]
+Suffragan	n. 1 bishop assisting a diocesan bishop. 2 bishop in relation to his archbishop or metropolitan. [medieval latin suffraganeus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Archimandrite	n. 1 superior of a large monastery in the orthodox church. 2 honorary title of a monastic priest. [greek arkhi- chief, mandrites monk]
+Archimandrite	n. 1 superior of a large monastery in the orthodox church. 2 honorary title of a monastic priest. [greek arkhi- chief, mandrites monk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

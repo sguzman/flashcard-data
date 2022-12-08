@@ -1,1 +1,6 @@
-Trefoil	n. 1 leguminous plant with leaves of three leaflets, esp. Clover. 2 three-lobed ornamentation, esp. In tracery windows. [anglo-french: related to *tri-, *foil2]
+Trefoil	n. 1 leguminous plant with leaves of three leaflets, esp. Clover. 2 three-lobed ornamentation, esp. In tracery windows. [anglo-french: related to *tri-, *foil2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

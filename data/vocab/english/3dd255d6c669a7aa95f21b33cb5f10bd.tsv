@@ -1,1 +1,6 @@
-Crow2	—v. 1 (past crowed or crew) (of a cock) utter a loud cry. 2 (of a baby) utter happy cries. 3 (usu. Foll. By over) gloat; show glee. —n. Cry of a cock or baby. [old english]
+Crow2	—v. 1 (past crowed or crew) (of a cock) utter a loud cry. 2 (of a baby) utter happy cries. 3 (usu. Foll. By over) gloat; show glee. —n. Cry of a cock or baby. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

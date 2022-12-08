@@ -1,1 +1,6 @@
-Levitate	v. (-ting) 1 rise and float in the air (esp. With reference to spiritualism). 2 cause to do this.  levitation n. [latin levis light, after *gravitate]
+Levitate	v. (-ting) 1 rise and float in the air (esp. With reference to spiritualism). 2 cause to do this.  levitation n. [latin levis light, after *gravitate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

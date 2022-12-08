@@ -1,1 +1,6 @@
-In	—prep. 1 expressing inclusion or position within limits of space, time, circumstance, etc. (in england; in bed; in 1989; in the rain). 2 a within (a certain time) (finished it in two hours).
+In	—prep. 1 expressing inclusion or position within limits of space, time, circumstance, etc. (in england; in bed; in 1989; in the rain). 2 a within (a certain time) (finished it in two hours).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

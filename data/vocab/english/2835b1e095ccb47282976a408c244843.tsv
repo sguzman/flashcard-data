@@ -1,1 +1,6 @@
-Trial	n. 1 judicial examination and determination of issues between parties by a judge with or without a jury. 2 test (will give you a trial). 3 trying thing or person (trials of old age). 4 match held to select players for a team. 5 (often in pl.) Contest involving performance by horses, dogs, motor cycles, etc.  on trial 1 being tried in a court of law. 2 being tested; to be chosen or retained only if suitable. [anglo-french: related to *try]
+Trial	n. 1 judicial examination and determination of issues between parties by a judge with or without a jury. 2 test (will give you a trial). 3 trying thing or person (trials of old age). 4 match held to select players for a team. 5 (often in pl.) Contest involving performance by horses, dogs, motor cycles, etc.  on trial 1 being tried in a court of law. 2 being tested; to be chosen or retained only if suitable. [anglo-french: related to *try]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

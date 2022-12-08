@@ -1,1 +1,6 @@
-Guernsey	n. (pl. -s) 1 one of a breed of dairy cattle from guernsey in the channel islands. 2 (guernsey) type of thick woollen sweater.
+Guernsey	n. (pl. -s) 1 one of a breed of dairy cattle from guernsey in the channel islands. 2 (guernsey) type of thick woollen sweater.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

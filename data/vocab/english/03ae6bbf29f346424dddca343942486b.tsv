@@ -1,1 +1,6 @@
-Evolve	v. (-ving) 1 develop gradually and naturally. 2 devise (a theory, plan, etc.). 3 unfold. 4 give off (gas, heat, etc.). [latin volvo volut- roll]
+Evolve	v. (-ving) 1 develop gradually and naturally. 2 devise (a theory, plan, etc.). 3 unfold. 4 give off (gas, heat, etc.). [latin volvo volut- roll]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Living	—n. 1 being alive (that's what living is all about). 2 livelihood. 3 position held by a clergyman, providing an income. —adj. 1 contemporary; now alive. 2 (of a likeness) exact, lifelike. 3 (of a language) still in vernacular use.  within living memory within the memory of people still alive.
+Living	—n. 1 being alive (that's what living is all about). 2 livelihood. 3 position held by a clergyman, providing an income. —adj. 1 contemporary; now alive. 2 (of a likeness) exact, lifelike. 3 (of a language) still in vernacular use.  within living memory within the memory of people still alive.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

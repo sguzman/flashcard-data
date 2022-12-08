@@ -1,1 +1,6 @@
-Buggy	n. (pl. -ies) 1 small, sturdy, esp. Open, motor vehicle. 2 lightweight push-chair. 3 light, horse-drawn vehicle for one or two people. [origin unknown]
+Buggy	n. (pl. -ies) 1 small, sturdy, esp. Open, motor vehicle. 2 lightweight push-chair. 3 light, horse-drawn vehicle for one or two people. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Penitent	—adj. Repentant. —n. 1 repentant sinner. 2 person doing penance under the direction of a confessor.  penitence n. Penitently adv.  [latin paeniteo repent]
+Penitent	—adj. Repentant. —n. 1 repentant sinner. 2 person doing penance under the direction of a confessor.  penitence n. Penitently adv.  [latin paeniteo repent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

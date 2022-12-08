@@ -1,1 +1,6 @@
-Brahman	n. (also brahman) (pl. -s) 1 (also brahmin) member of the highest or priestly hindu caste. 2 = *brahma 2.  brahmanic adj. Brahmanism n.
+Brahman	n. (also brahman) (pl. -s) 1 (also brahmin) member of the highest or priestly hindu caste. 2 = *brahma 2.  brahmanic adj. Brahmanism n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

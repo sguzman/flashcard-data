@@ -1,1 +1,6 @@
-Vegetable	—n. 1 plant, esp. A herbaceous plant used for food, e.g. A cabbage, potato, or bean. 2 colloq. Derog. A offens. Person who is severely mentally incapacitated, esp. Through brain injury etc. B dull or inactive person. —adj. Of, derived from, or relating to plant life or vegetables as food. [latin: related to *vegetate]
+Vegetable	—n. 1 plant, esp. A herbaceous plant used for food, e.g. A cabbage, potato, or bean. 2 colloq. Derog. A offens. Person who is severely mentally incapacitated, esp. Through brain injury etc. B dull or inactive person. —adj. Of, derived from, or relating to plant life or vegetables as food. [latin: related to *vegetate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Violet	—n. 1 sweet-scented plant with usu. Purple, blue, or white flowers. 2 bluish-purple colour at the end of the spectrum opposite red. 3 pigment or clothes or material of this colour. —adj. Of this colour. [french diminutive of viole *viola2]
+Violet	—n. 1 sweet-scented plant with usu. Purple, blue, or white flowers. 2 bluish-purple colour at the end of the spectrum opposite red. 3 pigment or clothes or material of this colour. —adj. Of this colour. [french diminutive of viole *viola2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

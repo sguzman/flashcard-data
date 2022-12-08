@@ -1,1 +1,6 @@
-Aggression	n. 1 unprovoked attacking or attack. 2 hostile or destructive behaviour. [latin gradior gress- walk]
+Aggression	n. 1 unprovoked attacking or attack. 2 hostile or destructive behaviour. [latin gradior gress- walk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

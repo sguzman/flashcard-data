@@ -1,1 +1,6 @@
-Widely	adv. 1 to a wide extent; far apart. 2 extensively. 3 by many people (it is widely thought that). 4 considerably; to a large degree (holds a widely different view).
+Widely	adv. 1 to a wide extent; far apart. 2 extensively. 3 by many people (it is widely thought that). 4 considerably; to a large degree (holds a widely different view).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

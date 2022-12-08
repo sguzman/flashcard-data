@@ -1,1 +1,6 @@
-Meaning	—n. 1 what is meant. 2 significance. 3 importance. —adj. Expressive, significant (meaning glance).  meaningly adv.
+Meaning	—n. 1 what is meant. 2 significance. 3 importance. —adj. Expressive, significant (meaning glance).  meaningly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

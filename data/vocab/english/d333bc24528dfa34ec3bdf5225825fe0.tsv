@@ -1,1 +1,6 @@
-Emulsion	n. 1 fine dispersion of one liquid in another, esp. As paint, medicine, etc. 2 mixture of a silver compound in gelatin etc. For coating photographic plate or film. 3 emulsion paint. [latin mulgeo milk]
+Emulsion	n. 1 fine dispersion of one liquid in another, esp. As paint, medicine, etc. 2 mixture of a silver compound in gelatin etc. For coating photographic plate or film. 3 emulsion paint. [latin mulgeo milk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

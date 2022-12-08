@@ -1,1 +1,6 @@
-Phlegm	n. 1 thick viscous substance secreted by the mucous membranes of the respiratory passages, discharged by coughing. 2 a calmness. B sluggishness. 3 hist. Phlegm regarded as one of the four bodily humours. [greek phlegma]
+Phlegm	n. 1 thick viscous substance secreted by the mucous membranes of the respiratory passages, discharged by coughing. 2 a calmness. B sluggishness. 3 hist. Phlegm regarded as one of the four bodily humours. [greek phlegma]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

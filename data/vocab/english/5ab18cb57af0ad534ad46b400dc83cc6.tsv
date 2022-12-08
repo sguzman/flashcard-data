@@ -1,1 +1,6 @@
-Glare	—v. (-ring) 1 look fiercely or fixedly. 2 shine dazzlingly or oppressively. —n. 1 a strong fierce light, esp. Sunshine. B oppressive public attention (glare of publicity). 2 fierce or fixed look. 3 tawdry brilliance. [low german or dutch]
+Glare	—v. (-ring) 1 look fiercely or fixedly. 2 shine dazzlingly or oppressively. —n. 1 a strong fierce light, esp. Sunshine. B oppressive public attention (glare of publicity). 2 fierce or fixed look. 3 tawdry brilliance. [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

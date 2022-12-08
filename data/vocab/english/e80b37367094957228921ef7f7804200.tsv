@@ -1,1 +1,6 @@
-Quintet	n. 1 mus. A composition for five performers. B the performers. 2 any group of five. [latin quintus]
+Quintet	n. 1 mus. A composition for five performers. B the performers. 2 any group of five. [latin quintus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

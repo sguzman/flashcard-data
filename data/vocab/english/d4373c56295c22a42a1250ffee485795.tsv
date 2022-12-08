@@ -1,1 +1,6 @@
-Backhander	n. 1 a backhand stroke. B backhanded blow. 2 slang bribe.
+Backhander	n. 1 a backhand stroke. B backhanded blow. 2 slang bribe.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

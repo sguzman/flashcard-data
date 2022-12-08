@@ -1,1 +1,6 @@
-Hermaphrodite	—n. Person, animal, or plant having both male and female reproductive organs. —adj. Combining both sexes.  hermaphroditic adj. [from hermaphroditus, son of hermes and aphrodite who became joined in one body to a nymph]
+Hermaphrodite	—n. Person, animal, or plant having both male and female reproductive organs. —adj. Combining both sexes.  hermaphroditic adj. [from hermaphroditus, son of hermes and aphrodite who became joined in one body to a nymph]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

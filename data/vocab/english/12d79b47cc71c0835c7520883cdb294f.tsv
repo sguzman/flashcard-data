@@ -1,1 +1,6 @@
-Bollard	n. 1 short post in the road, esp. On a traffic island. 2 short post on a quay or ship for securing a rope. [perhaps related to *bole]
+Bollard	n. 1 short post in the road, esp. On a traffic island. 2 short post on a quay or ship for securing a rope. [perhaps related to *bole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

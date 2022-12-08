@@ -1,1 +1,6 @@
-Parole	—n. 1 temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour. 2 such a promise. —v. (-ling) put (a prisoner) on parole. [french, = word: related to *parlance]
+Parole	—n. 1 temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour. 2 such a promise. —v. (-ling) put (a prisoner) on parole. [french, = word: related to *parlance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

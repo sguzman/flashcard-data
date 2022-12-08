@@ -1,1 +1,6 @@
-Panic	—n. 1 sudden uncontrollable fear. 2 infectious fright, esp. In commercial dealings. —v. (-ck-) (often foll. By into) affect or be affected with panic (was panicked into buying).  panicky adj. [greek pan, rural god]
+Panic	—n. 1 sudden uncontrollable fear. 2 infectious fright, esp. In commercial dealings. —v. (-ck-) (often foll. By into) affect or be affected with panic (was panicked into buying).  panicky adj. [greek pan, rural god]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

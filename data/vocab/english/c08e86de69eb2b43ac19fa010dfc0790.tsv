@@ -1,1 +1,6 @@
-Me1	pron. 1 objective case of *i2 (he saw me). 2 colloq. = *i2 (it's me all right; is taller than me). [old english accusative and dative of *i2]
+Me1	pron. 1 objective case of *i2 (he saw me). 2 colloq. = *i2 (it's me all right; is taller than me). [old english accusative and dative of *i2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

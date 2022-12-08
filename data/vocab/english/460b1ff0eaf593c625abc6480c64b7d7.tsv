@@ -1,1 +1,6 @@
-Bridge1	—n. 1 a structure providing a way across a river, road, railway, etc. B thing joining or connecting. 2  operational superstructure on a ship. 3 upper bony part of the nose. 4 piece of wood on a violin etc. Over which the strings are stretched. 5 = *bridgework. —v. (-ging) 1 be or make a bridge over. 2 reduce (a gap, deficiency, etc.). [old english]
+Bridge1	—n. 1 a structure providing a way across a river, road, railway, etc. B thing joining or connecting. 2  operational superstructure on a ship. 3 upper bony part of the nose. 4 piece of wood on a violin etc. Over which the strings are stretched. 5 = *bridgework. —v. (-ging) 1 be or make a bridge over. 2 reduce (a gap, deficiency, etc.). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

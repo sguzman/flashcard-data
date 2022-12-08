@@ -1,1 +1,6 @@
-Succeed	v. 1 a (often foll. By in) have success. B be successful. 2 follow; come next after. 3 (often foll. By to) come into an inheritance, office, title, or property (succeeded to the throne). [latin succedo -cess- come after]
+Succeed	v. 1 a (often foll. By in) have success. B be successful. 2 follow; come next after. 3 (often foll. By to) come into an inheritance, office, title, or property (succeeded to the throne). [latin succedo -cess- come after]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

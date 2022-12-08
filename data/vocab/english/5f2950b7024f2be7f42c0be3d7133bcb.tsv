@@ -1,1 +1,6 @@
-Grower	n. 1 (often in comb.) Person growing produce (fruit-grower). 2 plant that grows in a specified way (fast grower).
+Grower	n. 1 (often in comb.) Person growing produce (fruit-grower). 2 plant that grows in a specified way (fast grower).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

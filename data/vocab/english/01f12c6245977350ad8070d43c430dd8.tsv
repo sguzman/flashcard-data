@@ -1,1 +1,6 @@
-Infinite	—adj. 1 boundless, endless. 2 very great or many. —n. 1 (the infinite) god. 2 (the infinite) infinite space.  infinitely adv. [latin: related to *in-1, *finite]
+Infinite	—adj. 1 boundless, endless. 2 very great or many. —n. 1 (the infinite) god. 2 (the infinite) infinite space.  infinitely adv. [latin: related to *in-1, *finite]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Earwig	n. Small insect with pincers at its rear end. [from *ear1, because they were once thought to enter the head through the ear]
+Earwig	n. Small insect with pincers at its rear end. [from *ear1, because they were once thought to enter the head through the ear]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Supply	—v. (-ies, -ied) 1 provide (a thing needed). 2 (often foll. By with) provide (a person etc. With a thing). 3 meet or make up for (a deficiency or need etc.). —n. (pl. -ies) 1 providing of what is needed. 2 stock, store, amount, etc., of something provided or obtainable. 3 (in pl.) Provisions and equipment for an army, expedition, etc. 4 (often attrib.) Schoolteacher etc. Acting as a temporary substitute for another.  in short supply scarce. Supply and demand econ. Quantities available and required, as factors regulating price.
+Supply	—v. (-ies, -ied) 1 provide (a thing needed). 2 (often foll. By with) provide (a person etc. With a thing). 3 meet or make up for (a deficiency or need etc.). —n. (pl. -ies) 1 providing of what is needed. 2 stock, store, amount, etc., of something provided or obtainable. 3 (in pl.) Provisions and equipment for an army, expedition, etc. 4 (often attrib.) Schoolteacher etc. Acting as a temporary substitute for another.  in short supply scarce. Supply and demand econ. Quantities available and required, as factors regulating price.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

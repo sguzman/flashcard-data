@@ -1,1 +1,6 @@
-Russian	—n. 1 a native or national of russia or (loosely) the former soviet union. B person of russian descent. 2 language of russia. —adj. 1 of russia or (loosely) the former soviet union or its people. 2 of or in russian.
+Russian	—n. 1 a native or national of russia or (loosely) the former soviet union. B person of russian descent. 2 language of russia. —adj. 1 of russia or (loosely) the former soviet union or its people. 2 of or in russian.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

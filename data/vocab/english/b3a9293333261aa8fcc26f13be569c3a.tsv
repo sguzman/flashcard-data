@@ -1,1 +1,6 @@
-Personal property	n. Law all one's property except land and those interests in land that pass to one's heirs.
+Personal property	n. Law all one's property except land and those interests in land that pass to one's heirs.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

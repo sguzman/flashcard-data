@@ -1,1 +1,6 @@
-Messianic	adj. 1 of the messiah. 2 inspired by hope or belief in a messiah. [french: related to *messiah]
+Messianic	adj. 1 of the messiah. 2 inspired by hope or belief in a messiah. [french: related to *messiah]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Chisel	—n. Hand tool with a squared bevelled blade for shaping wood, stone, or metal. —v. 1 (-ll-; us -l-) cut or shape with a chisel. 2 (as chiselled adj.) (of facial features) clear-cut, fine. 3 slang cheat. [latin caedo cut]
+Chisel	—n. Hand tool with a squared bevelled blade for shaping wood, stone, or metal. —v. 1 (-ll-; us -l-) cut or shape with a chisel. 2 (as chiselled adj.) (of facial features) clear-cut, fine. 3 slang cheat. [latin caedo cut]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

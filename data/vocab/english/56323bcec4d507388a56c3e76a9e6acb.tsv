@@ -1,1 +1,6 @@
-Commentary	n. (pl. -ies) 1 descriptive spoken esp. Broadcast account of an event or performance as it happens. 2 set of explanatory notes on a text etc. [latin]
+Commentary	n. (pl. -ies) 1 descriptive spoken esp. Broadcast account of an event or performance as it happens. 2 set of explanatory notes on a text etc. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

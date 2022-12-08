@@ -1,1 +1,6 @@
-Ballot	—n. 1 occasion or system of voting, in writing and usu. Secret. 2 total of such votes. 3 paper etc. Used in voting. —v. (-t-) 1 (usu. Foll. By for) a hold a ballot; give a vote. B draw lots for precedence etc. 2 take a ballot of (balloted the members). [italian ballotta: related to *balloon]
+Ballot	—n. 1 occasion or system of voting, in writing and usu. Secret. 2 total of such votes. 3 paper etc. Used in voting. —v. (-t-) 1 (usu. Foll. By for) a hold a ballot; give a vote. B draw lots for precedence etc. 2 take a ballot of (balloted the members). [italian ballotta: related to *balloon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

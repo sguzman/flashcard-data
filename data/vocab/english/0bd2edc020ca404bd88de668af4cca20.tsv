@@ -1,1 +1,6 @@
-Vermilion	—n. 1 cinnabar. 2 a brilliant red pigment made esp. From this. B colour of this. —adj. Of this colour. [latin vermiculus diminutive of vermis worm]
+Vermilion	—n. 1 cinnabar. 2 a brilliant red pigment made esp. From this. B colour of this. —adj. Of this colour. [latin vermiculus diminutive of vermis worm]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

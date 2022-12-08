@@ -1,1 +1,6 @@
-Purlieu	n. (pl. -s) 1 person's bounds, limits, or usual haunts. 2 hist. Tract on the border of a forest. 3 (in pl.) Outskirts, outlying region. [anglo-french puralé from aller go]
+Purlieu	n. (pl. -s) 1 person's bounds, limits, or usual haunts. 2 hist. Tract on the border of a forest. 3 (in pl.) Outskirts, outlying region. [anglo-french puralé from aller go]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tempo	n. (pl. -s or -pi) 1 speed at which music is or should be played. 2 speed or pace. [latin tempus -por- time]
+Tempo	n. (pl. -s or -pi) 1 speed at which music is or should be played. 2 speed or pace. [latin tempus -por- time]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Noviciate	n. (also novitiate) 1 period of being a novice. 2 religious novice. 3 novices' quarters. [medieval latin: related to *novice]
+Noviciate	n. (also novitiate) 1 period of being a novice. 2 religious novice. 3 novices' quarters. [medieval latin: related to *novice]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

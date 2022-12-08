@@ -1,1 +1,6 @@
-Dazzle	—v. (-ling) 1 blind or confuse temporarily with a sudden bright light. 2 impress or overpower with knowledge, ability, etc. —n. Bright confusing light.  dazzling adj. Dazzlingly adv. [from *daze]
+Dazzle	—v. (-ling) 1 blind or confuse temporarily with a sudden bright light. 2 impress or overpower with knowledge, ability, etc. —n. Bright confusing light.  dazzling adj. Dazzlingly adv. [from *daze]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

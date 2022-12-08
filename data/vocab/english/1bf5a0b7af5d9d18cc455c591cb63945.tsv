@@ -1,1 +1,6 @@
-Dis-	prefix forming nouns, adjectives, and verbs implying: 1 negation or direct opposite (dishonest; discourteous). 2 reversal (disengage; disorientate). 3 removal of a thing or quality (dismember; disable). 4 separation (distinguish). 5 completeness or intensification (disgruntled). 6 expulsion from (disbar). [french des- or latin dis-]
+Dis-	prefix forming nouns, adjectives, and verbs implying: 1 negation or direct opposite (dishonest; discourteous). 2 reversal (disengage; disorientate). 3 removal of a thing or quality (dismember; disable). 4 separation (distinguish). 5 completeness or intensification (disgruntled). 6 expulsion from (disbar). [french des- or latin dis-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

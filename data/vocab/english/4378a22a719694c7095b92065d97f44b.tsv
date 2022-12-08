@@ -1,1 +1,6 @@
-Corpuscle	n. Minute body or cell in an organism, esp. (in pl.) The red or white cells in the blood of vertebrates.  corpuscular adj. [latin diminutive of *corpus]
+Corpuscle	n. Minute body or cell in an organism, esp. (in pl.) The red or white cells in the blood of vertebrates.  corpuscular adj. [latin diminutive of *corpus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

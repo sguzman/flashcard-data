@@ -1,1 +1,6 @@
-Augustan	adj. 1 of the reign of augustus, esp. As a flourishing literary period. 2 (of literature) refined and classical in style. [latin: see *august]
+Augustan	adj. 1 of the reign of augustus, esp. As a flourishing literary period. 2 (of literature) refined and classical in style. [latin: see *august]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

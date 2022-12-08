@@ -1,1 +1,6 @@
-Cove1	—n. 1 small bay or creek. 2 sheltered recess. 3 moulding, esp. At the junction of a wall and a ceiling. —v. (-ving) 1 provide (a room etc.) With a cove. 2 slope (the sides of a fireplace) inwards. [old english]
+Cove1	—n. 1 small bay or creek. 2 sheltered recess. 3 moulding, esp. At the junction of a wall and a ceiling. —v. (-ving) 1 provide (a room etc.) With a cove. 2 slope (the sides of a fireplace) inwards. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

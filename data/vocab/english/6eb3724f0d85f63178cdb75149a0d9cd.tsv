@@ -1,1 +1,6 @@
-Inverse proportion	n. (also inverse ratio) relation between two quantities such that one increases in proportion as the other decreases.
+Inverse proportion	n. (also inverse ratio) relation between two quantities such that one increases in proportion as the other decreases.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Prefer	v. (-rr-) 1 (often foll. By to, or to + infin.) Like better (prefers coffee to tea). 2 submit (information, an accusation, etc.) For consideration. 3 promote or advance (a person). [latin praefero -lat-]
+Prefer	v. (-rr-) 1 (often foll. By to, or to + infin.) Like better (prefers coffee to tea). 2 submit (information, an accusation, etc.) For consideration. 3 promote or advance (a person). [latin praefero -lat-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

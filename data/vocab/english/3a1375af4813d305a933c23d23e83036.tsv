@@ -1,1 +1,6 @@
-Tom, dick, and harry	n. (also tom, dick, or harry) (usu. Prec. By any or every) person taken at random (any tom, dick, or harry can walk in).
+Tom, dick, and harry	n. (also tom, dick, or harry) (usu. Prec. By any or every) person taken at random (any tom, dick, or harry can walk in).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

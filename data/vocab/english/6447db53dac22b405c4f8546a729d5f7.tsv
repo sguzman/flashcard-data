@@ -1,1 +1,6 @@
-Oxonian	—adj. Of oxford or oxford university. —n. 1 member of oxford university. 2 native or inhabitant of oxford. [oxonia latinized name of ox(en)ford]
+Oxonian	—adj. Of oxford or oxford university. —n. 1 member of oxford university. 2 native or inhabitant of oxford. [oxonia latinized name of ox(en)ford]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

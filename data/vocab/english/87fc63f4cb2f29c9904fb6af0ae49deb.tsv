@@ -1,1 +1,6 @@
-Flake	—n. 1 small thin light piece of snow etc. 2 thin broad piece peeled or split off. 3 dogfish etc. As food. —v. (-king) (often foll. By away, off) 1 take off or come away in flakes. 2 sprinkle with or fall in flakes.  flake out colloq. Fall asleep or drop from exhaustion; faint. [origin unknown]
+Flake	—n. 1 small thin light piece of snow etc. 2 thin broad piece peeled or split off. 3 dogfish etc. As food. —v. (-king) (often foll. By away, off) 1 take off or come away in flakes. 2 sprinkle with or fall in flakes.  flake out colloq. Fall asleep or drop from exhaustion; faint. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

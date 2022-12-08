@@ -1,1 +1,6 @@
-Coupon	n. 1 form etc. As an application for a purchase etc. 2 entry form for a football pool or other competition. 3 discount voucher given with a purchase. [french couper cut]
+Coupon	n. 1 form etc. As an application for a purchase etc. 2 entry form for a football pool or other competition. 3 discount voucher given with a purchase. [french couper cut]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

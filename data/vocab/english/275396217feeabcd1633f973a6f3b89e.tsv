@@ -1,1 +1,6 @@
-Boast	—v. 1 declare one's virtues, wealth, etc. With excessive pride. 2 own or have with pride (hotel boasts a ballroom). —n. 1 act of boasting. 2 thing one is proud of. [anglo-french]
+Boast	—v. 1 declare one's virtues, wealth, etc. With excessive pride. 2 own or have with pride (hotel boasts a ballroom). —n. 1 act of boasting. 2 thing one is proud of. [anglo-french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

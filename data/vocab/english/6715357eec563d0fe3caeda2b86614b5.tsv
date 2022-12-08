@@ -1,1 +1,6 @@
-Intake	n. 1 action of taking in. 2 a number (of people etc.), or amount, taken in or received. B such people etc. (this year's intake). 3 place where water is taken into a pipe, or fuel or air enters an engine etc.
+Intake	n. 1 action of taking in. 2 a number (of people etc.), or amount, taken in or received. B such people etc. (this year's intake). 3 place where water is taken into a pipe, or fuel or air enters an engine etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

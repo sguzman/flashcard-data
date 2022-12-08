@@ -1,1 +1,6 @@
-Sunday	—n. 1 first day of the week, a christian holiday and day of worship. 2 colloq. Newspaper published on sundays. —adv. Colloq. 1 on sunday. 2 (sundays) on sundays; each sunday. [old english]
+Sunday	—n. 1 first day of the week, a christian holiday and day of worship. 2 colloq. Newspaper published on sundays. —adv. Colloq. 1 on sunday. 2 (sundays) on sundays; each sunday. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

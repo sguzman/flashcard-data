@@ -1,1 +1,6 @@
-Pristine	adj. 1 in its original condition; unspoilt. 2 spotless; fresh as if new. 3 ancient, primitive. [latin pristinus former]
+Pristine	adj. 1 in its original condition; unspoilt. 2 spotless; fresh as if new. 3 ancient, primitive. [latin pristinus former]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

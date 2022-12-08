@@ -1,1 +1,6 @@
-Due	—adj. 1 owing or payable. 2 (often foll. By to) merited; appropriate. 3 (foll. By to) that ought to be given or ascribed to (a person, cause, etc.) (first place is due to milton; difficulty due to ignorance). 4 (often foll.
+Due	—adj. 1 owing or payable. 2 (often foll. By to) merited; appropriate. 3 (foll. By to) that ought to be given or ascribed to (a person, cause, etc.) (first place is due to milton; difficulty due to ignorance). 4 (often foll.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

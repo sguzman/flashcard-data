@@ -1,1 +1,6 @@
-Stay2	n. 1 naut. Rope or guy supporting a mast, flagstaff, etc. 2 supporting cable on an aircraft etc. [old english from germanic]
+Stay2	n. 1 naut. Rope or guy supporting a mast, flagstaff, etc. 2 supporting cable on an aircraft etc. [old english from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

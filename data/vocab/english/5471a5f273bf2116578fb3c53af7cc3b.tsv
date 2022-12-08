@@ -1,1 +1,6 @@
-Bus-stop	n. 1 regular stopping-place of a bus. 2 sign marking this.
+Bus-stop	n. 1 regular stopping-place of a bus. 2 sign marking this.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

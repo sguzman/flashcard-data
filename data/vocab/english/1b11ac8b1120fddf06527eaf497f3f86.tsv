@@ -1,1 +1,6 @@
-Osmosis	n. 1 passage of a solvent through a semi-permeable partition into another solution. 2 process by which something is acquired by absorption.  osmotic adj. [greek osmos push]
+Osmosis	n. 1 passage of a solvent through a semi-permeable partition into another solution. 2 process by which something is acquired by absorption.  osmotic adj. [greek osmos push]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

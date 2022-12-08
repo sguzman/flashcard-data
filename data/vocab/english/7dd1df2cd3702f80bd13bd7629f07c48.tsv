@@ -1,1 +1,6 @@
-Obstetrics	n.pl. (treated as sing.) Branch of medicine and surgery dealing with childbirth.  obstetric adj. [latin obstetrix midwife, from obsto be present]
+Obstetrics	n.pl. (treated as sing.) Branch of medicine and surgery dealing with childbirth.  obstetric adj. [latin obstetrix midwife, from obsto be present]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

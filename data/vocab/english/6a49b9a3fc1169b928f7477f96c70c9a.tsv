@@ -1,1 +1,6 @@
-Light heavyweight	n. 1 weight in certain sports between middleweight and heavyweight, in amateur boxing 75–81 kg: also called *cruiserweight. 2 sportsman of this weight.
+Light heavyweight	n. 1 weight in certain sports between middleweight and heavyweight, in amateur boxing 75–81 kg: also called *cruiserweight. 2 sportsman of this weight.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

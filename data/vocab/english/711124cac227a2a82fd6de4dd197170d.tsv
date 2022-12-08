@@ -1,1 +1,6 @@
-Surround	—v. Come or be all round; encircle, enclose. —n. 1 border or edging, esp. An area of floor between the walls and carpet of a room. 2 surrounding area or substance. [latin: related to *sur-1, unda wave]
+Surround	—v. Come or be all round; encircle, enclose. —n. 1 border or edging, esp. An area of floor between the walls and carpet of a room. 2 surrounding area or substance. [latin: related to *sur-1, unda wave]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

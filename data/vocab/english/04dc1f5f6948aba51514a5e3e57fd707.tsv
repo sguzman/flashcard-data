@@ -1,1 +1,6 @@
-Carpenter	—n. Person skilled in woodwork. —v. 1 make or construct in wood. 2 construct; fit together.  carpentry n. [latin carpentum wagon]
+Carpenter	—n. Person skilled in woodwork. —v. 1 make or construct in wood. 2 construct; fit together.  carpentry n. [latin carpentum wagon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

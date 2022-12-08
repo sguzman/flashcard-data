@@ -1,1 +1,6 @@
-Brass	—n. 1 yellow alloy of copper and zinc. 2 brass objects collectively. 3 brass wind instruments. 4 slang money. 5 brass memorial tablet. 6 colloq. Effrontery. —adj. Made of brass.  brassed off slang fed up. [old english]
+Brass	—n. 1 yellow alloy of copper and zinc. 2 brass objects collectively. 3 brass wind instruments. 4 slang money. 5 brass memorial tablet. 6 colloq. Effrontery. —adj. Made of brass.  brassed off slang fed up. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

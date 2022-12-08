@@ -1,1 +1,6 @@
-Truce	n. Temporary agreement to cease hostilities. [originally trewes pl.: old english, = covenant: related to *true]
+Truce	n. Temporary agreement to cease hostilities. [originally trewes pl.: old english, = covenant: related to *true]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

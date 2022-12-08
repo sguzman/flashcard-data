@@ -1,1 +1,6 @@
-Orientation	n. 1 orienting or being oriented. 2 a relative position. B person's attitude or adjustment in relation to circumstances. 3 introduction to a subject or situation; briefing.  orientational adj.
+Orientation	n. 1 orienting or being oriented. 2 a relative position. B person's attitude or adjustment in relation to circumstances. 3 introduction to a subject or situation; briefing.  orientational adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

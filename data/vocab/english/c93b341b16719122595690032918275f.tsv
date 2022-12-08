@@ -1,1 +1,6 @@
-Parka	n. 1 long usu. Green anorak with fur round the hood. 2 hooded skin jacket worn by eskimos. [aleutian]
+Parka	n. 1 long usu. Green anorak with fur round the hood. 2 hooded skin jacket worn by eskimos. [aleutian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

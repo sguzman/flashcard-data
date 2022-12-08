@@ -1,1 +1,6 @@
-Binaural	adj. 1 of or used with both ears. 2 (of sound) recorded using two microphones and usu. Transmitted separately to the two ears. [from *bi-, *aural]
+Binaural	adj. 1 of or used with both ears. 2 (of sound) recorded using two microphones and usu. Transmitted separately to the two ears. [from *bi-, *aural]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

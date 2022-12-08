@@ -1,1 +1,6 @@
-Card2	—n. Wire brush etc. For raising a nap on cloth etc. —v. Brush or comb with a card. [latin caro card (v.)]
+Card2	—n. Wire brush etc. For raising a nap on cloth etc. —v. Brush or comb with a card. [latin caro card (v.)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

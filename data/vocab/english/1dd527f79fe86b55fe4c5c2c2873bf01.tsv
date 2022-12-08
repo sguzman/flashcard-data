@@ -1,1 +1,6 @@
-Prude	n. Excessively (often affectedly) squeamish or sexually modest person.  prudery n. Prudish adj. Prudishly adv. Prudishness n. [french: related to *proud]
+Prude	n. Excessively (often affectedly) squeamish or sexually modest person.  prudery n. Prudish adj. Prudishly adv. Prudishness n. [french: related to *proud]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

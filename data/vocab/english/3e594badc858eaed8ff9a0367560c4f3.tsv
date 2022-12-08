@@ -1,1 +1,6 @@
-Impersonal	adj. 1 without personal reference; objective, impartial. 2 without human attributes; cold, unfeeling. 3 gram. A (of a verb) used esp. With it as a subject (e.g. It is snowing). B (of a pronoun) = *indefinite.  impersonality n. Impersonally adv.
+Impersonal	adj. 1 without personal reference; objective, impartial. 2 without human attributes; cold, unfeeling. 3 gram. A (of a verb) used esp. With it as a subject (e.g. It is snowing). B (of a pronoun) = *indefinite.  impersonality n. Impersonally adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

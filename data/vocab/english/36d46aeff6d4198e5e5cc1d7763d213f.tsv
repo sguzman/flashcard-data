@@ -1,1 +1,6 @@
-Weak	adj. 1 deficient in strength, power, vigour, resolution, or number. 2 unconvincing. 3 gram. (of a verb) forming inflections by the addition of a suffix to the stem.  weakish adj. [old norse]
+Weak	adj. 1 deficient in strength, power, vigour, resolution, or number. 2 unconvincing. 3 gram. (of a verb) forming inflections by the addition of a suffix to the stem.  weakish adj. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

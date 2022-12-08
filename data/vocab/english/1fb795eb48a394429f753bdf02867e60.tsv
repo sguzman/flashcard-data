@@ -1,1 +1,6 @@
-Profane	—adj. 1 a irreverent, blasphemous. B (of language) obscene. 2 not sacred or biblical; secular. —v. (-ning) 1 treat (esp. A sacred thing) irreverently; disregard. 2 violate or pollute.  profanation n. [latin fanum temple]
+Profane	—adj. 1 a irreverent, blasphemous. B (of language) obscene. 2 not sacred or biblical; secular. —v. (-ning) 1 treat (esp. A sacred thing) irreverently; disregard. 2 violate or pollute.  profanation n. [latin fanum temple]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

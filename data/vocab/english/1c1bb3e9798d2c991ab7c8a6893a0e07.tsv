@@ -1,1 +1,6 @@
-Skid	—v. (-dd-) 1 (of a vehicle etc.) Slide on slippery ground, esp. Sideways or obliquely. 2 cause (a vehicle) to skid. —n. 1 act of skidding. 2 runner beneath an aircraft for use when landing.  on the skids colloq. About to be discarded or defeated. Put the skids under colloq. Hasten the downfall or failure of. [origin unknown]
+Skid	—v. (-dd-) 1 (of a vehicle etc.) Slide on slippery ground, esp. Sideways or obliquely. 2 cause (a vehicle) to skid. —n. 1 act of skidding. 2 runner beneath an aircraft for use when landing.  on the skids colloq. About to be discarded or defeated. Put the skids under colloq. Hasten the downfall or failure of. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

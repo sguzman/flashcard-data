@@ -1,1 +1,6 @@
-Goth	n. 1 member of a germanic tribe that invaded the roman empire in the 3rd–5th c. 2 uncivilized or ignorant person. [old english gota and greek gothoi]
+Goth	n. 1 member of a germanic tribe that invaded the roman empire in the 3rd–5th c. 2 uncivilized or ignorant person. [old english gota and greek gothoi]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

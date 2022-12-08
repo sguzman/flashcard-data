@@ -1,1 +1,6 @@
-Careful	adj. 1 painstaking, thorough. 2 cautious. 3 taking care; not neglecting (careful to remind them).  carefully adv. Carefulness n.
+Careful	adj. 1 painstaking, thorough. 2 cautious. 3 taking care; not neglecting (careful to remind them).  carefully adv. Carefulness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

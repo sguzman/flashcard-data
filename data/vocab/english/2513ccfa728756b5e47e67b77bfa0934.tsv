@@ -1,1 +1,6 @@
-Spoiler	n. 1 retarding device on an aircraft, interrupting the air flow. 2 similar device on a vehicle to increase contact with the ground at speed.
+Spoiler	n. 1 retarding device on an aircraft, interrupting the air flow. 2 similar device on a vehicle to increase contact with the ground at speed.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

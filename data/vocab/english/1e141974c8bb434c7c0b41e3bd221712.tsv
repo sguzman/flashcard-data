@@ -1,1 +1,6 @@
-Optative	gram. —adj. (esp. Of a mood in greek) expressing a wish. —n. Optative mood or form. [latin: related to *opt]
+Optative	gram. —adj. (esp. Of a mood in greek) expressing a wish. —n. Optative mood or form. [latin: related to *opt]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Norman	—n. 1 native or inhabitant of medieval normandy. 2 descendant of the people of mixed scandinavian and frankish origin established there in the 10th c. 3 norman french. 4  style of architecture found in britain under the normans. —adj. 1 of the normans. 2 of the norman style of architecture. [old norse, = *northman]
+Norman	—n. 1 native or inhabitant of medieval normandy. 2 descendant of the people of mixed scandinavian and frankish origin established there in the 10th c. 3 norman french. 4  style of architecture found in britain under the normans. —adj. 1 of the normans. 2 of the norman style of architecture. [old norse, = *northman]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

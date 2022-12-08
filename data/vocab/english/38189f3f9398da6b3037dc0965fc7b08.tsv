@@ -1,1 +1,6 @@
-Spurt	—v. 1 (cause to) gush out in a jet or stream. 2 make a sudden effort. —n. 1 sudden gushing out, jet. 2 short burst of speed, growth, etc. [origin unknown]
+Spurt	—v. 1 (cause to) gush out in a jet or stream. 2 make a sudden effort. —n. 1 sudden gushing out, jet. 2 short burst of speed, growth, etc. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

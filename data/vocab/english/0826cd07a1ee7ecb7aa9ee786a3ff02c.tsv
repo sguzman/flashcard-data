@@ -1,1 +1,6 @@
-Votary	n. (pl. -ies; fem. Votaress) (usu. Foll. By of) 1 person dedicated to the service of a god or cult. 2 devotee of a person, occupation, etc. [latin: related to *vote]
+Votary	n. (pl. -ies; fem. Votaress) (usu. Foll. By of) 1 person dedicated to the service of a god or cult. 2 devotee of a person, occupation, etc. [latin: related to *vote]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

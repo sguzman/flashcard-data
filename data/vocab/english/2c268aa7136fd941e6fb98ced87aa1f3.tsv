@@ -1,1 +1,6 @@
-Legerdemain	n. 1 sleight of hand. 2 trickery, sophistry. [french, = light of hand]
+Legerdemain	n. 1 sleight of hand. 2 trickery, sophistry. [french, = light of hand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

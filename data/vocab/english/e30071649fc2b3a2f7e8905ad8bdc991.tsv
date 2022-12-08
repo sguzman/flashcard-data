@@ -1,1 +1,6 @@
-Speech	n. 1 faculty, act, or manner of speaking. 2 formal public address. 3 language of a nation, group, etc. [old english: related to *speak]
+Speech	n. 1 faculty, act, or manner of speaking. 2 formal public address. 3 language of a nation, group, etc. [old english: related to *speak]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

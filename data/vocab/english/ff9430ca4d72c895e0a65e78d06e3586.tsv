@@ -1,1 +1,6 @@
-Spark	—n. 1 fiery particle thrown from a fire, alight in ashes, or produced by a flint, match, etc. 2 (often foll. By of) small amount (spark of interest). 3  a flash of light between electric conductors etc. B this serving to ignite the explosive mixture in an internal-combustion engine. 4 a flash of wit etc. B (also bright spark) witty or lively person. —v. 1 emit a spark or sparks. 2 (often foll. By off) stir into activity; initiate.  sparky adj. [old english]
+Spark	—n. 1 fiery particle thrown from a fire, alight in ashes, or produced by a flint, match, etc. 2 (often foll. By of) small amount (spark of interest). 3  a flash of light between electric conductors etc. B this serving to ignite the explosive mixture in an internal-combustion engine. 4 a flash of wit etc. B (also bright spark) witty or lively person. —v. 1 emit a spark or sparks. 2 (often foll. By off) stir into activity; initiate.  sparky adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

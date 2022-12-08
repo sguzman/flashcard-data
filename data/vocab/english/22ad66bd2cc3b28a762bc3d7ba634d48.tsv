@@ -1,1 +1,6 @@
-Sacred	adj. 1 a (often foll. By to) dedicated to a god. B connected with religion (sacred music). 2 safeguarded or required esp. By tradition; inviolable. [latin sacer holy]
+Sacred	adj. 1 a (often foll. By to) dedicated to a god. B connected with religion (sacred music). 2 safeguarded or required esp. By tradition; inviolable. [latin sacer holy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

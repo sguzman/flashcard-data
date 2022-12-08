@@ -1,1 +1,6 @@
-Myth	n. 1 traditional story usu. Involving supernatural or imaginary persons and embodying popular ideas on natural or social phenomena etc. 2 such narratives collectively. 3 widely held but false notion. 4 fictitious person, thing, or idea. 5 allegory (platonic myth).  mythical adj. Mythically adv. [greek muthos]
+Myth	n. 1 traditional story usu. Involving supernatural or imaginary persons and embodying popular ideas on natural or social phenomena etc. 2 such narratives collectively. 3 widely held but false notion. 4 fictitious person, thing, or idea. 5 allegory (platonic myth).  mythical adj. Mythically adv. [greek muthos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

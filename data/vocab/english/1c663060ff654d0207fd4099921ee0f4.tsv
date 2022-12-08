@@ -1,1 +1,6 @@
-Mimic	—v. (-ck-) 1 imitate (a person, gesture, etc.) Esp. To entertain or ridicule. 2 copy minutely or servilely. 3 resemble closely. —n. Person skilled in imitation.  mimicry n. [greek mimikos: related to *mime]
+Mimic	—v. (-ck-) 1 imitate (a person, gesture, etc.) Esp. To entertain or ridicule. 2 copy minutely or servilely. 3 resemble closely. —n. Person skilled in imitation.  mimicry n. [greek mimikos: related to *mime]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

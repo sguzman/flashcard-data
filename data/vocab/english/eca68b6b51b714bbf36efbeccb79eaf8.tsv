@@ -1,1 +1,6 @@
-Ferry	—n. (pl. -ies) 1 boat or aircraft etc. For esp. Regular transport, esp. Across water. 2 place or service of ferrying. —v. (-ies, -ied) 1 convey or go in a ferry. 2 (of a boat etc.) Cross water regularly. 3 transport, esp. Regularly, from place to place.  ferryman n. [old norse]
+Ferry	—n. (pl. -ies) 1 boat or aircraft etc. For esp. Regular transport, esp. Across water. 2 place or service of ferrying. —v. (-ies, -ied) 1 convey or go in a ferry. 2 (of a boat etc.) Cross water regularly. 3 transport, esp. Regularly, from place to place.  ferryman n. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

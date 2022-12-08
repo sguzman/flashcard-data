@@ -1,1 +1,6 @@
-Leash	—n. Strap for holding a dog etc.; lead. —v. 1 put a leash on. 2 restrain.  straining at the leash eager to begin. [french lesse: related to *lease]
+Leash	—n. Strap for holding a dog etc.; lead. —v. 1 put a leash on. 2 restrain.  straining at the leash eager to begin. [french lesse: related to *lease]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Dan	n. 1 grade of proficiency in judo. 2 holder of such a grade. [japanese]
+Dan	n. 1 grade of proficiency in judo. 2 holder of such a grade. [japanese]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

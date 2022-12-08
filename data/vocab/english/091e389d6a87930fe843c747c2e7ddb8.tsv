@@ -1,1 +1,6 @@
-Crash-dive	—v. 1 a (of a submarine or its pilot) dive hastily in an emergency. B (of an aircraft or airman) dive and crash. 2 cause to crash-dive. —n. Such a dive.
+Crash-dive	—v. 1 a (of a submarine or its pilot) dive hastily in an emergency. B (of an aircraft or airman) dive and crash. 2 cause to crash-dive. —n. Such a dive.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

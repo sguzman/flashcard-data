@@ -1,1 +1,6 @@
-Neurotic	—adj. 1 caused by or relating to neurosis. 2 suffering from neurosis. 3 colloq. Abnormally sensitive or obsessive. —n. Neurotic person.  neurotically adv.
+Neurotic	—adj. 1 caused by or relating to neurosis. 2 suffering from neurosis. 3 colloq. Abnormally sensitive or obsessive. —n. Neurotic person.  neurotically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

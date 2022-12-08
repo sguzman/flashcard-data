@@ -1,1 +1,6 @@
-Microcosm	n. (often foll. By of) miniature representation, e.g. Mankind or a community seen as a small-scale model of the universe; epitome.  microcosmic adj. [from *micro-, *cosmos]
+Microcosm	n. (often foll. By of) miniature representation, e.g. Mankind or a community seen as a small-scale model of the universe; epitome.  microcosmic adj. [from *micro-, *cosmos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

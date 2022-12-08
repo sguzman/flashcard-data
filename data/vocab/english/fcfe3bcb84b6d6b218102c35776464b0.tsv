@@ -1,1 +1,6 @@
-Chordate	—n. Animal having a cartilaginous skeletal rod at some stage of its development. —adj. Of chordates. [latin chorda *chord2 after vertebrata etc.]
+Chordate	—n. Animal having a cartilaginous skeletal rod at some stage of its development. —adj. Of chordates. [latin chorda *chord2 after vertebrata etc.]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

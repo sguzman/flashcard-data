@@ -1,1 +1,6 @@
-Bypass	—n. 1 main road passing round a town or its centre. 2 a secondary channel or pipe etc. Used in emergencies. B alternative passage for the circulation of blood through the heart. —v. Avoid, go round (a town, difficulty, etc.).
+Bypass	—n. 1 main road passing round a town or its centre. 2 a secondary channel or pipe etc. Used in emergencies. B alternative passage for the circulation of blood through the heart. —v. Avoid, go round (a town, difficulty, etc.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

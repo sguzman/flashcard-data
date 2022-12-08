@@ -1,1 +1,6 @@
-Usage	sense 1 is now the usual sense, but it is considered inappropriate by some people. This word should not be used to mean ‘defeat utterly’.
+Usage	sense 1 is now the usual sense, but it is considered inappropriate by some people. This word should not be used to mean ‘defeat utterly’.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

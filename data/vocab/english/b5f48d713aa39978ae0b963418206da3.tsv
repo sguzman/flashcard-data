@@ -1,1 +1,6 @@
-Chronology	n. (pl. -ies) 1 science of determining dates. 2 a arrangement of events etc. In order of occurrence. B table or document displaying this. [greek khronos time, *-logy]
+Chronology	n. (pl. -ies) 1 science of determining dates. 2 a arrangement of events etc. In order of occurrence. B table or document displaying this. [greek khronos time, *-logy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

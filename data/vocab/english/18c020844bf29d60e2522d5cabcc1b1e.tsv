@@ -1,1 +1,6 @@
-Holiday	—n. 1 (often in pl.) Extended period of recreation, esp. Spent away from home or travelling; break from work. 2 day of festivity or recreation when no work is done, esp. A religious festival etc. —v. Spend a holiday. [old english: related to *holy, *day]
+Holiday	—n. 1 (often in pl.) Extended period of recreation, esp. Spent away from home or travelling; break from work. 2 day of festivity or recreation when no work is done, esp. A religious festival etc. —v. Spend a holiday. [old english: related to *holy, *day]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

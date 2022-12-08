@@ -1,1 +1,6 @@
-Absence	n. 1 being away. 2 time of this. 3 (foll. By of) lack of.  absence of mind inattentiveness. [latin absentia]
+Absence	n. 1 being away. 2 time of this. 3 (foll. By of) lack of.  absence of mind inattentiveness. [latin absentia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

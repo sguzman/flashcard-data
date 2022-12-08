@@ -1,1 +1,6 @@
-Veto	—n. (pl. -es) 1 right to reject a measure, resolution, etc. Unilaterally. 2 rejection, prohibition. —v. (-oes, -oed) 1 reject (a measure etc.). 2 forbid, prohibit. [latin, = i forbid]
+Veto	—n. (pl. -es) 1 right to reject a measure, resolution, etc. Unilaterally. 2 rejection, prohibition. —v. (-oes, -oed) 1 reject (a measure etc.). 2 forbid, prohibit. [latin, = i forbid]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

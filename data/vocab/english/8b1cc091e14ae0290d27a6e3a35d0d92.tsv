@@ -1,1 +1,6 @@
-Autobiography	n. (pl. -ies) 1 written account of one's own life. 2 this as a literary genre.  autobiographer n. Autobiographical adj.
+Autobiography	n. (pl. -ies) 1 written account of one's own life. 2 this as a literary genre.  autobiographer n. Autobiographical adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

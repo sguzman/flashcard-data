@@ -1,1 +1,6 @@
-Sixty	adj. & n. (pl. -ies) 1 six times ten. 2 symbol for this (60, lx, lx). 3 (in pl.) Numbers from 60 to 69, esp. The years of a century or of a person's life.  sixtieth adj. & n. [old english]
+Sixty	adj. & n. (pl. -ies) 1 six times ten. 2 symbol for this (60, lx, lx). 3 (in pl.) Numbers from 60 to 69, esp. The years of a century or of a person's life.  sixtieth adj. & n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

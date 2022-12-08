@@ -1,1 +1,6 @@
-Offside	—adj. (of a player in a field game) in a position where he or she may not play the ball. —n. (often attrib.) Right side of a vehicle, animal, etc.
+Offside	—adj. (of a player in a field game) in a position where he or she may not play the ball. —n. (often attrib.) Right side of a vehicle, animal, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

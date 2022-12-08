@@ -1,1 +1,6 @@
-Overheat	v. 1 make or become too hot. 2 cause inflation (in) by placing excessive pressure on resources at a time of expanding demand. 3 (as overheated adj.) Overexcited.
+Overheat	v. 1 make or become too hot. 2 cause inflation (in) by placing excessive pressure on resources at a time of expanding demand. 3 (as overheated adj.) Overexcited.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

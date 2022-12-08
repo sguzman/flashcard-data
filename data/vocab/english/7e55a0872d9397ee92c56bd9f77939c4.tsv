@@ -1,1 +1,6 @@
-Tariff	n. 1 table of fixed charges (hotel tariff). 2 a duty on a particular class of goods. B list of duties or customs due. [arabic, = notification]
+Tariff	n. 1 table of fixed charges (hotel tariff). 2 a duty on a particular class of goods. B list of duties or customs due. [arabic, = notification]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

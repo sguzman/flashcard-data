@@ -1,1 +1,6 @@
-Compromise	—n. 1 settlement of a dispute by mutual concession. 2 (often foll. By between) intermediate state between conflicting opinions, actions, etc. —v. (-sing) 1 a settle a dispute by mutual concession. B modify one's opinions, demands, etc. 2 bring into disrepute or danger by indiscretion. [latin: related to *promise]
+Compromise	—n. 1 settlement of a dispute by mutual concession. 2 (often foll. By between) intermediate state between conflicting opinions, actions, etc. —v. (-sing) 1 a settle a dispute by mutual concession. B modify one's opinions, demands, etc. 2 bring into disrepute or danger by indiscretion. [latin: related to *promise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

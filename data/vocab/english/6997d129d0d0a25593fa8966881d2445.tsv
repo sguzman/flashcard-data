@@ -1,1 +1,6 @@
-Point-blank	—adj. 1 a (of a shot) aimed or fired at very close range. B (of a range) very close. 2 (of a remark etc.) Blunt, direct. —adv. 1 at very close range. 2 directly, bluntly.
+Point-blank	—adj. 1 a (of a shot) aimed or fired at very close range. B (of a range) very close. 2 (of a remark etc.) Blunt, direct. —adv. 1 at very close range. 2 directly, bluntly.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

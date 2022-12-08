@@ -1,1 +1,6 @@
-Fledge	v. (-ging) 1 provide or deck (an arrow etc.) With feathers. 2 bring up (a young bird) until it can fly. 3 (as fledged adj.) A able to fly. B independent; mature. [obsolete adj. Fledge fit to fly]
+Fledge	v. (-ging) 1 provide or deck (an arrow etc.) With feathers. 2 bring up (a young bird) until it can fly. 3 (as fledged adj.) A able to fly. B independent; mature. [obsolete adj. Fledge fit to fly]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

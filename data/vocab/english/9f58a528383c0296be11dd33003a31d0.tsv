@@ -1,1 +1,6 @@
-Turf	—n. (pl. -s or turves) 1 a layer of grass etc. With earth and matted roots as the surface of grassland. B piece of this cut from the ground. 2 slab of peat for fuel. 3 (prec. By the) a horse-racing generally. B general term for racecourses. —v. 1 cover (ground) with turf. 2 (foll. By out) colloq. Expel or eject (a person or thing).  turfy adj. [old english]
+Turf	—n. (pl. -s or turves) 1 a layer of grass etc. With earth and matted roots as the surface of grassland. B piece of this cut from the ground. 2 slab of peat for fuel. 3 (prec. By the) a horse-racing generally. B general term for racecourses. —v. 1 cover (ground) with turf. 2 (foll. By out) colloq. Expel or eject (a person or thing).  turfy adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

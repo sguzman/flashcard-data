@@ -1,1 +1,6 @@
-Meticulous	adj. 1 giving great attention to detail. 2 very careful and precise.  meticulously adv. Meticulousness n. [latin metus fear]
+Meticulous	adj. 1 giving great attention to detail. 2 very careful and precise.  meticulously adv. Meticulousness n. [latin metus fear]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

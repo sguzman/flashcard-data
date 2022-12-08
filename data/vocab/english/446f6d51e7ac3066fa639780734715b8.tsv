@@ -1,1 +1,6 @@
-Terminal	—adj. 1 a (of a condition or disease) fatal. B (of a patient) dying. 2 of or forming a limit or terminus (terminal station). —n. 1 terminating thing; extremity. 2 terminus for trains or long-distance buses. 3 = *air terminal.
+Terminal	—adj. 1 a (of a condition or disease) fatal. B (of a patient) dying. 2 of or forming a limit or terminus (terminal station). —n. 1 terminating thing; extremity. 2 terminus for trains or long-distance buses. 3 = *air terminal.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Intercept	v. 1 seize, catch, or stop (a person or thing) going from one place to another. 2 (usu. Foll. By from) cut off (light etc.).  interception n. Interceptive adj. Interceptor n. [latin intercipio -cept- from capio take]
+Intercept	v. 1 seize, catch, or stop (a person or thing) going from one place to another. 2 (usu. Foll. By from) cut off (light etc.).  interception n. Interceptive adj. Interceptor n. [latin intercipio -cept- from capio take]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

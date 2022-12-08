@@ -1,1 +1,6 @@
-Panorama	n. 1 unbroken view of a surrounding region. 2 complete survey of a subject, series of events, etc. 3 picture or photograph containing a wide view. 4 continuous passing scene.  panoramic adj. [greek horama view]
+Panorama	n. 1 unbroken view of a surrounding region. 2 complete survey of a subject, series of events, etc. 3 picture or photograph containing a wide view. 4 continuous passing scene.  panoramic adj. [greek horama view]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

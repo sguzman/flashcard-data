@@ -1,1 +1,6 @@
-Secretary of state	n. 1 head of a major government department. 2 us = *foreign minister.
+Secretary of state	n. 1 head of a major government department. 2 us = *foreign minister.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

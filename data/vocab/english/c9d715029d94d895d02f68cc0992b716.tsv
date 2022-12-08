@@ -1,1 +1,6 @@
-Greeting	n. 1 act or instance of welcoming etc. 2 words, gestures, etc., used to greet a person. 3 (often in pl.) Expression of goodwill.
+Greeting	n. 1 act or instance of welcoming etc. 2 words, gestures, etc., used to greet a person. 3 (often in pl.) Expression of goodwill.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

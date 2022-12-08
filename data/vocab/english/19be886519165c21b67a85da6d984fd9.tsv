@@ -1,1 +1,6 @@
-Deep-freeze	—n. Cabinet for freezing and keeping food for long periods. —v. Freeze or store in a deep-freeze.
+Deep-freeze	—n. Cabinet for freezing and keeping food for long periods. —v. Freeze or store in a deep-freeze.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

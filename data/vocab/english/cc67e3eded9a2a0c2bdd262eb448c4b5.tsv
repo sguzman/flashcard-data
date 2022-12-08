@@ -1,1 +1,6 @@
-Loyalist	n. 1 person who remains loyal to the legitimate sovereign etc. 2 (loyalist) (esp. Extremist) supporter of union between great britain and northern ireland.  loyalism n.
+Loyalist	n. 1 person who remains loyal to the legitimate sovereign etc. 2 (loyalist) (esp. Extremist) supporter of union between great britain and northern ireland.  loyalism n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Euthanasia	n. Bringing about of a gentle death in the case of incurable and painful disease. [greek thanatos death]
+Euthanasia	n. Bringing about of a gentle death in the case of incurable and painful disease. [greek thanatos death]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

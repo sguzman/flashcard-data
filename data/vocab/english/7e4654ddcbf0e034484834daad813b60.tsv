@@ -1,1 +1,6 @@
-Incrustation	n. 1 encrusting. 2 crust or hard coating. 3 deposit on a surface. [latin: related to *crust]
+Incrustation	n. 1 encrusting. 2 crust or hard coating. 3 deposit on a surface. [latin: related to *crust]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

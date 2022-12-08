@@ -1,1 +1,6 @@
-Pinhole	n. 1 hole made by a pin. 2 hole into which a peg fits.
+Pinhole	n. 1 hole made by a pin. 2 hole into which a peg fits.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

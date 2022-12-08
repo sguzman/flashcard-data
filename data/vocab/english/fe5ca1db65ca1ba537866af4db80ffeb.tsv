@@ -1,1 +1,6 @@
-Tenfold	adj. & adv. 1 ten times as much or as many. 2 consisting of ten parts.
+Tenfold	adj. & adv. 1 ten times as much or as many. 2 consisting of ten parts.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gravity	n. 1 a force that attracts a body to the centre of the earth etc. B degree of intensity of this. C gravitational force. 2 property of having weight. 3 a importance, seriousness. B solemnity. [latin: related to *grave2]
+Gravity	n. 1 a force that attracts a body to the centre of the earth etc. B degree of intensity of this. C gravitational force. 2 property of having weight. 3 a importance, seriousness. B solemnity. [latin: related to *grave2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

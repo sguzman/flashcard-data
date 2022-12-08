@@ -1,1 +1,6 @@
-Build-up	n. 1 favourable advance publicity. 2 gradual approach to a climax. 3 accumulation or increase.
+Build-up	n. 1 favourable advance publicity. 2 gradual approach to a climax. 3 accumulation or increase.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

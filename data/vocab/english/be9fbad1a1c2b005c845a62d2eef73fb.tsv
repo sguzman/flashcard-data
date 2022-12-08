@@ -1,1 +1,6 @@
-Canalize	v. (also -ise) (-zing or -sing) 1 provide with or convert into a canal or canals. 2 channel.  canalization n. [french: related to *canal]
+Canalize	v. (also -ise) (-zing or -sing) 1 provide with or convert into a canal or canals. 2 channel.  canalization n. [french: related to *canal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

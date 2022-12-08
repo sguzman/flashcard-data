@@ -1,1 +1,6 @@
-Prototype	n. 1 original as a pattern for imitations, improved forms, representations, etc. 2 trial model or preliminary version of a vehicle, machine, etc.  prototypic adj. Prototypical adj.  [greek: related to *proto-]
+Prototype	n. 1 original as a pattern for imitations, improved forms, representations, etc. 2 trial model or preliminary version of a vehicle, machine, etc.  prototypic adj. Prototypical adj.  [greek: related to *proto-]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

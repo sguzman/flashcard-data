@@ -1,1 +1,6 @@
-Grunt	—n. 1 low guttural sound made by a pig. 2 similar sound. —v. 1 make a grunt. 2 make a similar sound, esp. To express discontent. 3 utter with a grunt. [old english, imitative]
+Grunt	—n. 1 low guttural sound made by a pig. 2 similar sound. —v. 1 make a grunt. 2 make a similar sound, esp. To express discontent. 3 utter with a grunt. [old english, imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

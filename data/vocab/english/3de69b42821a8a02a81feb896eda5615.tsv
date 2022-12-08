@@ -1,1 +1,6 @@
-Boiling point	n. 1 temperature at which a liquid begins to boil. 2 great excitement.
+Boiling point	n. 1 temperature at which a liquid begins to boil. 2 great excitement.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

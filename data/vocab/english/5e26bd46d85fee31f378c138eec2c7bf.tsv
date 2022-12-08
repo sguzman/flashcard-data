@@ -1,1 +1,6 @@
-Momentum	n. (pl. Momenta) 1  quantity of motion of a moving body, the product of its mass and velocity. 2 impetus gained by movement. 3 strength or continuity derived from an initial effort. [latin moveo move]
+Momentum	n. (pl. Momenta) 1  quantity of motion of a moving body, the product of its mass and velocity. 2 impetus gained by movement. 3 strength or continuity derived from an initial effort. [latin moveo move]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

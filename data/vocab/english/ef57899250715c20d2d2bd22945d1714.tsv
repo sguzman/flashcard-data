@@ -1,1 +1,6 @@
-Scum	—n. 1 layer of dirt, froth, etc. At the top of liquid. 2 derog. Worst part, person, or group (scum of the earth). —v. (-mm-) 1 remove scum from. 2 form a scum (on).  scummy adj. (-ier, -iest). [low german or dutch]
+Scum	—n. 1 layer of dirt, froth, etc. At the top of liquid. 2 derog. Worst part, person, or group (scum of the earth). —v. (-mm-) 1 remove scum from. 2 form a scum (on).  scummy adj. (-ier, -iest). [low german or dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

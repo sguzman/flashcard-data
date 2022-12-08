@@ -1,1 +1,6 @@
-Immobile	adj. 1 not moving. 2 unable to move or be moved.  immobility n.
+Immobile	adj. 1 not moving. 2 unable to move or be moved.  immobility n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

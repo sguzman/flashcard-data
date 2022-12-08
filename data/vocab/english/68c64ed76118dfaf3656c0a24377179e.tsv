@@ -1,1 +1,6 @@
-Uncial	—adj. Of or written in rounded unjoined letters similar to capitals, found in manuscripts of the 4th–8th c. —n. Uncial letter, style, or ms. [latin uncia inch]
+Uncial	—adj. Of or written in rounded unjoined letters similar to capitals, found in manuscripts of the 4th–8th c. —n. Uncial letter, style, or ms. [latin uncia inch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

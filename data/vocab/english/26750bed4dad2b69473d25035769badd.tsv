@@ -1,1 +1,6 @@
-Soda	n. 1 compound of sodium in common use. 2 (in full soda water) effervescent water used esp. With spirits etc. As a drink. [perhaps from latin sodanum from arabic]
+Soda	n. 1 compound of sodium in common use. 2 (in full soda water) effervescent water used esp. With spirits etc. As a drink. [perhaps from latin sodanum from arabic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gestation	n. 1 a process of carrying or being carried in the uterus between conception and birth. B this period. 2 development of a plan, idea, etc.  gestate v. (-ting). [latin gesto carry]
+Gestation	n. 1 a process of carrying or being carried in the uterus between conception and birth. B this period. 2 development of a plan, idea, etc.  gestate v. (-ting). [latin gesto carry]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

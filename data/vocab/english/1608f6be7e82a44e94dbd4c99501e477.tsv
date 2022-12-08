@@ -1,1 +1,6 @@
-Attain	v. 1 reach, gain, accomplish (a goal etc.). 2 (foll. By to) arrive at by effort or development. [latin attingo reach]
+Attain	v. 1 reach, gain, accomplish (a goal etc.). 2 (foll. By to) arrive at by effort or development. [latin attingo reach]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

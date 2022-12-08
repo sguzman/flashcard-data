@@ -1,1 +1,6 @@
-Cringe	v. (-ging) 1 shrink in fear; cower. 2 (often foll. By to) behave obsequiously. [related to *crank]
+Cringe	v. (-ging) 1 shrink in fear; cower. 2 (often foll. By to) behave obsequiously. [related to *crank]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

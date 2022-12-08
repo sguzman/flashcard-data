@@ -1,1 +1,6 @@
-Motto	n. (pl. -es) 1 maxim adopted as a rule of conduct. 2 phrase or sentence accompanying a coat of arms. 3 appropriate inscription. 4 joke, maxim, etc. In a paper cracker.  [italian: related to *mot]
+Motto	n. (pl. -es) 1 maxim adopted as a rule of conduct. 2 phrase or sentence accompanying a coat of arms. 3 appropriate inscription. 4 joke, maxim, etc. In a paper cracker.  [italian: related to *mot]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

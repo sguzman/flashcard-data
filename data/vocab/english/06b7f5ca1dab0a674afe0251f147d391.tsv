@@ -1,1 +1,6 @@
-Burr	—n. 1 a whirring sound. B rough sounding of the letter r. 2 (also bur) a rough edge on metal or paper. B surgeon's or dentist's small drill. 3 var. Of *bur 1, 2. —v. Make a burr. [imitative]
+Burr	—n. 1 a whirring sound. B rough sounding of the letter r. 2 (also bur) a rough edge on metal or paper. B surgeon's or dentist's small drill. 3 var. Of *bur 1, 2. —v. Make a burr. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

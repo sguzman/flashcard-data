@@ -1,1 +1,6 @@
-Maiolica	n. (also majolica) white tin-glazed earthenware decorated with metallic colours or enamelled. [italian, from the former name of majorca]
+Maiolica	n. (also majolica) white tin-glazed earthenware decorated with metallic colours or enamelled. [italian, from the former name of majorca]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

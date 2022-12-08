@@ -1,1 +1,6 @@
-Batter1	v. 1 a strike hard and repeatedly. B (often foll. By against, at, etc.) Pound insistently (batter at the door). 2 (often in passive) a subject to long-term violence (battered baby, wife). B criticize severely.  batterer n. [french battre beat: related to *battle]
+Batter1	v. 1 a strike hard and repeatedly. B (often foll. By against, at, etc.) Pound insistently (batter at the door). 2 (often in passive) a subject to long-term violence (battered baby, wife). B criticize severely.  batterer n. [french battre beat: related to *battle]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

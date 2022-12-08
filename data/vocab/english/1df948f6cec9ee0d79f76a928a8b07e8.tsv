@@ -1,1 +1,6 @@
-Stabilizer	n. (also -iser) 1 device used to keep esp. A ship, aircraft, or (in pl.) Child's bicycle stable. 2 food additive for preserving texture.
+Stabilizer	n. (also -iser) 1 device used to keep esp. A ship, aircraft, or (in pl.) Child's bicycle stable. 2 food additive for preserving texture.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

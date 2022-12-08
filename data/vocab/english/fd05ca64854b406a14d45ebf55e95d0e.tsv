@@ -1,1 +1,6 @@
-Whisky	n. (ir. & us whiskey) (pl. -ies or -eys) spirit distilled esp. From malted grain, esp. Barley or rye. [abbreviation of usquebaugh from gaelic, = water of life]
+Whisky	n. (ir. & us whiskey) (pl. -ies or -eys) spirit distilled esp. From malted grain, esp. Barley or rye. [abbreviation of usquebaugh from gaelic, = water of life]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cross-dressing	n. Practice of dressing in the clothes of the opposite sex.  cross-dress v.
+Cross-dressing	n. Practice of dressing in the clothes of the opposite sex.  cross-dress v.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

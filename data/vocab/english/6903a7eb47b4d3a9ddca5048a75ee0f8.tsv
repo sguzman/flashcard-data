@@ -1,1 +1,6 @@
-Alternative	—adj. 1 available as another choice (alternative route). 2 unconventional (alternative medicine). —n. 1 any of two or more possibilities. 2 choice (had no alternative but to go).  alternatively adv.
+Alternative	—adj. 1 available as another choice (alternative route). 2 unconventional (alternative medicine). —n. 1 any of two or more possibilities. 2 choice (had no alternative but to go).  alternatively adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

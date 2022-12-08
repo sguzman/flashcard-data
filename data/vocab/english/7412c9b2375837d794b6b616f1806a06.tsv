@@ -1,1 +1,6 @@
-Usher	—n. 1 person who shows people to their seats in a cinema, church, etc. 2 doorkeeper at a court etc. —v. 1 act as usher to. 2 (usu. Foll. By in) announce, herald, or show in. [latin ostium door]
+Usher	—n. 1 person who shows people to their seats in a cinema, church, etc. 2 doorkeeper at a court etc. —v. 1 act as usher to. 2 (usu. Foll. By in) announce, herald, or show in. [latin ostium door]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

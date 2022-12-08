@@ -1,1 +1,6 @@
-Cosmetic	—adj. 1 beautifying, enhancing. 2 superficially improving or beneficial. 3 (of surgery or a prosthesis) imitating, restoring, or enhancing normal appearance. —n. Cosmetic preparation, esp. For the face.  cosmetically adv. [greek, = ornament]
+Cosmetic	—adj. 1 beautifying, enhancing. 2 superficially improving or beneficial. 3 (of surgery or a prosthesis) imitating, restoring, or enhancing normal appearance. —n. Cosmetic preparation, esp. For the face.  cosmetically adv. [greek, = ornament]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

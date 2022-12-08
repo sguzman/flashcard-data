@@ -1,1 +1,6 @@
-Glamor	n. (brit. Glamour) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm.  glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]
+Glamor	n. (brit. Glamour) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm.  glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

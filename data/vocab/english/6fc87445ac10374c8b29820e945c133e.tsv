@@ -1,1 +1,6 @@
-Iraqi	—adj. Of iraq. —n. (pl. -s) 1 a native or national of iraq. B person of iraqi descent. 2 the form of arabic spoken in iraq.
+Iraqi	—adj. Of iraq. —n. (pl. -s) 1 a native or national of iraq. B person of iraqi descent. 2 the form of arabic spoken in iraq.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

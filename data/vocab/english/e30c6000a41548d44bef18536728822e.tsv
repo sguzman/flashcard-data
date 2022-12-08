@@ -1,1 +1,6 @@
-Statute	n. 1 written law passed by a legislative body. 2 rule of a corporation, founder, etc., intended to be permanent. [latin statutum from statuo set up]
+Statute	n. 1 written law passed by a legislative body. 2 rule of a corporation, founder, etc., intended to be permanent. [latin statutum from statuo set up]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

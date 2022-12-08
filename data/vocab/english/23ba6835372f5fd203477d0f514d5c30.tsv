@@ -1,1 +1,6 @@
-Vampire	n. 1 supposed ghost or reanimated corpse sucking the blood of sleeping persons. 2 person who preys ruthlessly on others. 3 (in full vampire bat) tropical (esp. South american) bloodsucking bat. [french or german from magyar]
+Vampire	n. 1 supposed ghost or reanimated corpse sucking the blood of sleeping persons. 2 person who preys ruthlessly on others. 3 (in full vampire bat) tropical (esp. South american) bloodsucking bat. [french or german from magyar]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

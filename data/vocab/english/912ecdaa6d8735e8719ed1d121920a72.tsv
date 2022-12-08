@@ -1,1 +1,6 @@
-Steep1	—adj. 1 sloping sharply. 2 (of a rise or fall) rapid. 3 (predic.) Colloq. A exorbitant; unreasonable. B exaggerated; incredible. —n. Steep slope; precipice.  steepen v. Steepish adj. Steeply adv. Steepness n. [old english]
+Steep1	—adj. 1 sloping sharply. 2 (of a rise or fall) rapid. 3 (predic.) Colloq. A exorbitant; unreasonable. B exaggerated; incredible. —n. Steep slope; precipice.  steepen v. Steepish adj. Steeply adv. Steepness n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

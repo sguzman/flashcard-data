@@ -1,1 +1,6 @@
-Florid	adj. 1 ruddy (florid complexion). 2 elaborately ornate; showy.  floridly adv. Floridness n. [latin: related to *flower]
+Florid	adj. 1 ruddy (florid complexion). 2 elaborately ornate; showy.  floridly adv. Floridness n. [latin: related to *flower]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

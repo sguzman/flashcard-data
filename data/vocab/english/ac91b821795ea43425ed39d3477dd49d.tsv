@@ -1,1 +1,6 @@
-Harrow	—n. Heavy frame with iron teeth dragged over ploughed land to break up clods etc. —v. 1 draw a harrow over (land). 2 (usu. As harrowing adj.) Distress greatly. [old norse hervi]
+Harrow	—n. Heavy frame with iron teeth dragged over ploughed land to break up clods etc. —v. 1 draw a harrow over (land). 2 (usu. As harrowing adj.) Distress greatly. [old norse hervi]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Artery	n. (pl. -ies) 1 any of the blood-vessels carrying blood from the heart. 2 main road or railway line. [greek, probably from airo raise]
+Artery	n. (pl. -ies) 1 any of the blood-vessels carrying blood from the heart. 2 main road or railway line. [greek, probably from airo raise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Suicide	n. 1 a intentional killing of oneself. B person who commits suicide. 2 self-destructive action or course (political suicide). [latin sui of oneself, *-cide]
+Suicide	n. 1 a intentional killing of oneself. B person who commits suicide. 2 self-destructive action or course (political suicide). [latin sui of oneself, *-cide]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

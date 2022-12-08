@@ -1,1 +1,6 @@
-Era	n. 1 system of chronology reckoning from a noteworthy event (christian era). 2 large period, esp. Regarded historically. 3 date at which an era begins. 4 major division of geological time. [latin, = number (pl. Of aes money)]
+Era	n. 1 system of chronology reckoning from a noteworthy event (christian era). 2 large period, esp. Regarded historically. 3 date at which an era begins. 4 major division of geological time. [latin, = number (pl. Of aes money)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

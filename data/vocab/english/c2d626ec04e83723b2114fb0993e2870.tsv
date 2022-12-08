@@ -1,1 +1,6 @@
-Derivative	—adj. Derived; not original (his music is derivative). —n. 1 derived word or thing. 2 math. Quantity measuring the rate of change of another.
+Derivative	—adj. Derived; not original (his music is derivative). —n. 1 derived word or thing. 2 math. Quantity measuring the rate of change of another.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

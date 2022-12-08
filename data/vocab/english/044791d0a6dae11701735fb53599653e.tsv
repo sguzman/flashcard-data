@@ -1,1 +1,6 @@
-Sinew	n. 1 tough fibrous tissue uniting muscle to bone; a tendon. 2 (in pl.) Muscles; bodily strength. 3 (in pl.) Strength or framework of a thing.  sinewy adj. [old english]
+Sinew	n. 1 tough fibrous tissue uniting muscle to bone; a tendon. 2 (in pl.) Muscles; bodily strength. 3 (in pl.) Strength or framework of a thing.  sinewy adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

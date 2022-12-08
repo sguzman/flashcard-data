@@ -1,1 +1,6 @@
-Contort	v. Twist or force out of its normal shape.  contortion n. [latin torqueo tort- twist]
+Contort	v. Twist or force out of its normal shape.  contortion n. [latin torqueo tort- twist]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

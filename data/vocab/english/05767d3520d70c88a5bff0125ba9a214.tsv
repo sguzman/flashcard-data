@@ -1,1 +1,6 @@
-Contempt	n. 1 feeling that a person or thing deserves scorn or extreme reproach. 2 condition of being held in contempt. 3 (in full contempt of court) disobedience to or disrespect for a court of law. [latin temno tempt- despise]
+Contempt	n. 1 feeling that a person or thing deserves scorn or extreme reproach. 2 condition of being held in contempt. 3 (in full contempt of court) disobedience to or disrespect for a court of law. [latin temno tempt- despise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

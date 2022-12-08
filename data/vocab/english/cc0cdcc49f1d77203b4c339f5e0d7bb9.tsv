@@ -1,1 +1,6 @@
-Primula	n. Cultivated plant bearing primrose-like flowers in a wide variety of colours. [latin diminutive: related to *prime1]
+Primula	n. Cultivated plant bearing primrose-like flowers in a wide variety of colours. [latin diminutive: related to *prime1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

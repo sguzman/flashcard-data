@@ -1,1 +1,6 @@
-Ascendant	—adj. 1 rising. 2 astron. Rising towards the zenith. 3 astrol. Just above the eastern horizon. 4 predominant. —n. Astrol. Ascendant point of the sun's apparent path.  in the ascendant gaining or having power or authority.
+Ascendant	—adj. 1 rising. 2 astron. Rising towards the zenith. 3 astrol. Just above the eastern horizon. 4 predominant. —n. Astrol. Ascendant point of the sun's apparent path.  in the ascendant gaining or having power or authority.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

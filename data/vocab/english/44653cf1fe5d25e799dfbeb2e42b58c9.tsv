@@ -1,1 +1,6 @@
-Adventure	—n. 1 unusual and exciting experience. 2 enterprise (spirit of adventure). —v. (-ring) dare, venture; engage in adventure. [latin: related to *advent]
+Adventure	—n. 1 unusual and exciting experience. 2 enterprise (spirit of adventure). —v. (-ring) dare, venture; engage in adventure. [latin: related to *advent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

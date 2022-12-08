@@ -1,1 +1,6 @@
-Bandy2	v. (-ies, -ied) 1 (often foll. By about) a pass (a story, rumour, etc.) To and fro. B discuss disparagingly (bandied her name about). 2 (often foll. By with) exchange (blows, insults, etc.). [perhaps from french]
+Bandy2	v. (-ies, -ied) 1 (often foll. By about) a pass (a story, rumour, etc.) To and fro. B discuss disparagingly (bandied her name about). 2 (often foll. By with) exchange (blows, insults, etc.). [perhaps from french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

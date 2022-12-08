@@ -1,1 +1,6 @@
-Inaugurate	v. (-ting) 1 admit formally to office. 2 begin (an undertaking) or initiate the public use of (a building etc.), with a ceremony. 3 begin, introduce.  inauguration n. Inaugurator n.
+Inaugurate	v. (-ting) 1 admit formally to office. 2 begin (an undertaking) or initiate the public use of (a building etc.), with a ceremony. 3 begin, introduce.  inauguration n. Inaugurator n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

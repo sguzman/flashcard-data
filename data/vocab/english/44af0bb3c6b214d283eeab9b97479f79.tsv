@@ -1,1 +1,6 @@
-Chestnut	—n. 1 a glossy hard brown edible nut. B tree bearing it. 2 = *horse chestnut. 3 wood of any chestnut. 4 horse of a reddish-brown colour. 5 colloq. Stale joke etc. 6 reddish-brown. —adj. Reddish-brown. [greek kastanea nut]
+Chestnut	—n. 1 a glossy hard brown edible nut. B tree bearing it. 2 = *horse chestnut. 3 wood of any chestnut. 4 horse of a reddish-brown colour. 5 colloq. Stale joke etc. 6 reddish-brown. —adj. Reddish-brown. [greek kastanea nut]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

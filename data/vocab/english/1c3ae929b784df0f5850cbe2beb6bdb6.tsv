@@ -1,1 +1,6 @@
-M.i.5	abbr. Uk department of military intelligence concerned with state security.
+M.i.5	abbr. Uk department of military intelligence concerned with state security.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

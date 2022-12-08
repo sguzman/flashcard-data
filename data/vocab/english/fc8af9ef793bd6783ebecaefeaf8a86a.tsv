@@ -1,1 +1,6 @@
-Polymer	n. Compound of one or more large molecules formed from repeated units of smaller molecules.  polymeric adj. Polymerize v. (also -ise) (-zing or -sing). Polymerization n. [greek polumeros having many parts]
+Polymer	n. Compound of one or more large molecules formed from repeated units of smaller molecules.  polymeric adj. Polymerize v. (also -ise) (-zing or -sing). Polymerization n. [greek polumeros having many parts]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

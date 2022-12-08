@@ -1,1 +1,6 @@
-Laurel	n. 1 = *bay2. 2 (in sing. Or pl.) Wreath of bay-leaves as an emblem of victory or poetic merit. 3 any of various plants with dark-green glossy leaves.  look to one's laurels beware of losing one's pre-eminence. Rest on one's laurels see *rest1. [latin laurus bay]
+Laurel	n. 1 = *bay2. 2 (in sing. Or pl.) Wreath of bay-leaves as an emblem of victory or poetic merit. 3 any of various plants with dark-green glossy leaves.  look to one's laurels beware of losing one's pre-eminence. Rest on one's laurels see *rest1. [latin laurus bay]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

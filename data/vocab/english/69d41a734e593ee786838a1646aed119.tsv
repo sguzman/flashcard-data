@@ -1,1 +1,6 @@
-Pedigree	n. 1 (often attrib.) Recorded line of descent (esp. A distinguished one) of a person or pure-bred animal. 2 genealogical table. 3 colloq. ‘life history’ of a person, thing, idea, etc.  pedigreed adj. [pedegru from french pie de grue (unrecorded) crane's foot, a mark denoting succession in pedigrees]
+Pedigree	n. 1 (often attrib.) Recorded line of descent (esp. A distinguished one) of a person or pure-bred animal. 2 genealogical table. 3 colloq. ‘life history’ of a person, thing, idea, etc.  pedigreed adj. [pedegru from french pie de grue (unrecorded) crane's foot, a mark denoting succession in pedigrees]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

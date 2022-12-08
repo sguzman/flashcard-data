@@ -1,1 +1,6 @@
-Logic	n. 1 a science of reasoning. B particular system or method of reasoning. 2 a chain of reasoning (regarded as sound or unsound). B use of or ability in argument. 3 inexorable force, compulsion, or consequence (the logic of events). 4 a principles used in designing a computer etc. B circuits using this.  logician n. [related to *-logic]
+Logic	n. 1 a science of reasoning. B particular system or method of reasoning. 2 a chain of reasoning (regarded as sound or unsound). B use of or ability in argument. 3 inexorable force, compulsion, or consequence (the logic of events). 4 a principles used in designing a computer etc. B circuits using this.  logician n. [related to *-logic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

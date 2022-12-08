@@ -1,1 +1,6 @@
-Slave	—n. 1 person who is owned by and has to serve another. 2 drudge, hard worker. 3 (foll. By of, to) obsessive devotee (slave of fashion). 4 machine, or part of one, directly controlled by another. —v. (-ving) (often foll. By at, over) work very hard. [french esclave from latin sclavus *slav (captive)]
+Slave	—n. 1 person who is owned by and has to serve another. 2 drudge, hard worker. 3 (foll. By of, to) obsessive devotee (slave of fashion). 4 machine, or part of one, directly controlled by another. —v. (-ving) (often foll. By at, over) work very hard. [french esclave from latin sclavus *slav (captive)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

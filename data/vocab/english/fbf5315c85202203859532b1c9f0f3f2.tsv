@@ -1,1 +1,6 @@
-Catharsis	n. (pl. Catharses) 1 emotional release in drama or art. 2 psychol. Freeing and elimination of repressed emotion. 3 emptying of the bowels. [greek katharos clean]
+Catharsis	n. (pl. Catharses) 1 emotional release in drama or art. 2 psychol. Freeing and elimination of repressed emotion. 3 emptying of the bowels. [greek katharos clean]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

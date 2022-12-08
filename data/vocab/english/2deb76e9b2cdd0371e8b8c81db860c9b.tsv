@@ -1,1 +1,6 @@
-Soil1	n. 1 upper layer of earth in which plants grow. 2 ground belonging to a nation; territory (on french soil). [latin solium seat, solum ground]
+Soil1	n. 1 upper layer of earth in which plants grow. 2 ground belonging to a nation; territory (on french soil). [latin solium seat, solum ground]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

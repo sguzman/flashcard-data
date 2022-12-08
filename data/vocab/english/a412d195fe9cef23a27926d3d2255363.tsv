@@ -1,1 +1,6 @@
-Apocalypse	n. 1 violent or destructive event. 2 (the apocalypse) revelation, the last book of the new testament. 3 revelation, esp. About the end of the world.  apocalyptic adj. [greek apokalupto reveal]
+Apocalypse	n. 1 violent or destructive event. 2 (the apocalypse) revelation, the last book of the new testament. 3 revelation, esp. About the end of the world.  apocalyptic adj. [greek apokalupto reveal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

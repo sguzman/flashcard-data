@@ -1,1 +1,6 @@
-Jostle	—v. (-ling) 1 (often foll. By away, from, against, etc.) Push against; elbow, esp. Roughly or in a crowd. 2 (foll. By with) struggle roughly. —n. Jostling. [from *joust]
+Jostle	—v. (-ling) 1 (often foll. By away, from, against, etc.) Push against; elbow, esp. Roughly or in a crowd. 2 (foll. By with) struggle roughly. —n. Jostling. [from *joust]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

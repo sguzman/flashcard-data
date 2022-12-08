@@ -1,1 +1,6 @@
-Loaf1	n. (pl. Loaves) 1 unit of baked bread, usu. Of a standard size or shape. 2 other food made in the shape of a loaf and cooked. 3 slang head as the seat of common sense. [old english]
+Loaf1	n. (pl. Loaves) 1 unit of baked bread, usu. Of a standard size or shape. 2 other food made in the shape of a loaf and cooked. 3 slang head as the seat of common sense. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

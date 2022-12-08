@@ -1,1 +1,6 @@
-Woolly	—adj. (-ier, -iest) 1 bearing wool. 2 like wool. 3 woollen (a woolly cardigan). 4 (of a sound) indistinct. 5 (of thought) vague or confused. —n. (pl. -ies) colloq. Woollen garment, esp. A pullover.  woolliness n.
+Woolly	—adj. (-ier, -iest) 1 bearing wool. 2 like wool. 3 woollen (a woolly cardigan). 4 (of a sound) indistinct. 5 (of thought) vague or confused. —n. (pl. -ies) colloq. Woollen garment, esp. A pullover.  woolliness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

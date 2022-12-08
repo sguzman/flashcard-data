@@ -1,1 +1,6 @@
-Usage	when ever is used with a question word for emphasis it is written separately (see sense 2). When used with a relative pronoun or adverb to give it indefinite or general force, ever is written as one word with the relative pronoun or adverb, e.g. However it's done, it's difficult.
+Usage	when ever is used with a question word for emphasis it is written separately (see sense 2). When used with a relative pronoun or adverb to give it indefinite or general force, ever is written as one word with the relative pronoun or adverb, e.g. However it's done, it's difficult.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

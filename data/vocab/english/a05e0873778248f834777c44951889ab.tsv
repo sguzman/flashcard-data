@@ -1,1 +1,6 @@
-Sober	—adj. (soberer, soberest) 1 not drunk. 2 not given to drink. 3 moderate, tranquil, sedate, serious. 4 not exaggerated. 5 (of a colour etc.) Quiet; dull. —v. (often foll. By down, up) make or become sober.  soberly adv. [french from latin]
+Sober	—adj. (soberer, soberest) 1 not drunk. 2 not given to drink. 3 moderate, tranquil, sedate, serious. 4 not exaggerated. 5 (of a colour etc.) Quiet; dull. —v. (often foll. By down, up) make or become sober.  soberly adv. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lech	colloq. —v. (often foll. By after) lust. —n. 1 lecherous man. 2 lust. [back-formation from *lecher]
+Lech	colloq. —v. (often foll. By after) lust. —n. 1 lecherous man. 2 lust. [back-formation from *lecher]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

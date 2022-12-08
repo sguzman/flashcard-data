@@ -1,1 +1,6 @@
-Overstrung	adj. 1  (of a person, nerves, etc.) Too highly strung. 2  (of a piano) with strings in sets crossing each other obliquely.
+Overstrung	adj. 1  (of a person, nerves, etc.) Too highly strung. 2  (of a piano) with strings in sets crossing each other obliquely.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

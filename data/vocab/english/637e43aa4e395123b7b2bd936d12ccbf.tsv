@@ -1,1 +1,6 @@
-Ken	—n. Range of knowledge or sight (beyond my ken). —v. (-nn-; past and past part. Kenned or kent) scot. & n.engl. 1 recognize at sight. 2 know. [old english, = make known: related to *can1]
+Ken	—n. Range of knowledge or sight (beyond my ken). —v. (-nn-; past and past part. Kenned or kent) scot. & n.engl. 1 recognize at sight. 2 know. [old english, = make known: related to *can1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

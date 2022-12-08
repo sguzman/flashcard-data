@@ -1,1 +1,6 @@
-Plurality	n. (pl. -ies) 1 state of being plural. 2 = *pluralism 2. 3 large number. 4 us majority that is not absolute.
+Plurality	n. (pl. -ies) 1 state of being plural. 2 = *pluralism 2. 3 large number. 4 us majority that is not absolute.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

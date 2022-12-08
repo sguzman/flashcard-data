@@ -1,1 +1,6 @@
-Gallon	n. 1 measure of capacity equal to eight pints (4.5 litres; for wine, or us, 3.8 litres). 2 (in pl.) Colloq. Large amount. [french]
+Gallon	n. 1 measure of capacity equal to eight pints (4.5 litres; for wine, or us, 3.8 litres). 2 (in pl.) Colloq. Large amount. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

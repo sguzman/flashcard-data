@@ -1,1 +1,6 @@
-Them	—pron. 1 objective case of *they. 2 colloq. They (it's them again). —demons. Adj. Slang or dial. Those. [old norse]
+Them	—pron. 1 objective case of *they. 2 colloq. They (it's them again). —demons. Adj. Slang or dial. Those. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lithuanian	—n. 1 a native or national of lithuania in eastern europe. B person of lithuanian descent. 2 language of lithuania. —adj. Of lithuania, its people, or language.
+Lithuanian	—n. 1 a native or national of lithuania in eastern europe. B person of lithuanian descent. 2 language of lithuania. —adj. Of lithuania, its people, or language.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

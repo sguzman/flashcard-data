@@ -1,1 +1,6 @@
-Tessellated	adj. 1 of or resembling a mosaic. 2  regularly chequered. [latin tessella diminutive of *tessera]
+Tessellated	adj. 1 of or resembling a mosaic. 2  regularly chequered. [latin tessella diminutive of *tessera]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

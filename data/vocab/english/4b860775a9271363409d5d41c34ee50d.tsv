@@ -1,1 +1,6 @@
--ize	suffix (also -ise) forming verbs, meaning: 1 make or become such (americanize; realize). 2 treat in such a way (monopolize; pasteurize). 3 a follow a special practice (economize). B have a specified feeling (sympathize).  -ization suffix forming nouns. [greek -izo]
+-ize	suffix (also -ise) forming verbs, meaning: 1 make or become such (americanize; realize). 2 treat in such a way (monopolize; pasteurize). 3 a follow a special practice (economize). B have a specified feeling (sympathize).  -ization suffix forming nouns. [greek -izo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

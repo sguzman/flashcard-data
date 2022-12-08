@@ -1,1 +1,6 @@
-Soundtrack	n. 1 the sound element of a film or videotape. 2 recording of this made available separately. 3 any single track in a multi-track recording.
+Soundtrack	n. 1 the sound element of a film or videotape. 2 recording of this made available separately. 3 any single track in a multi-track recording.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

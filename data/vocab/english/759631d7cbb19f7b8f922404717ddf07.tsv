@@ -1,1 +1,6 @@
-Intramural	adj. 1 situated or done within the walls of an institution etc. 2 forming part of normal university etc. Studies.  intramurally adv. [latin murus wall]
+Intramural	adj. 1 situated or done within the walls of an institution etc. 2 forming part of normal university etc. Studies.  intramurally adv. [latin murus wall]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

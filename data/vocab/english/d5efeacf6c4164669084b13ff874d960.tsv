@@ -1,1 +1,6 @@
-Ocean	n. 1 large expanse of sea, esp. Each of the main areas called the atlantic, pacific, indian, arctic, and antarctic oceans. 2 (often in pl.) Colloq. Very large expanse or quantity.  oceanic adj. [greek okeanos]
+Ocean	n. 1 large expanse of sea, esp. Each of the main areas called the atlantic, pacific, indian, arctic, and antarctic oceans. 2 (often in pl.) Colloq. Very large expanse or quantity.  oceanic adj. [greek okeanos]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

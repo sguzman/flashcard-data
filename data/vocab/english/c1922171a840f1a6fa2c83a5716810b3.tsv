@@ -1,1 +1,6 @@
-Business	n. 1 one's regular occupation or profession. 2 one's own concern. 3 task or duty. 4 serious work or activity. 5 (difficult or unpleasant) matter or affair. 6 thing(s) needing attention or discussion. 7 buying and selling; trade. 8 commercial firm.  mind one's own business not meddle. [old english: related to *busy]
+Business	n. 1 one's regular occupation or profession. 2 one's own concern. 3 task or duty. 4 serious work or activity. 5 (difficult or unpleasant) matter or affair. 6 thing(s) needing attention or discussion. 7 buying and selling; trade. 8 commercial firm.  mind one's own business not meddle. [old english: related to *busy]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

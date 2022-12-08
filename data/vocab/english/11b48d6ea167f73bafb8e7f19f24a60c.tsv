@@ -1,1 +1,6 @@
-De facto	—adv. In fact (whether by right or not). —adj. Existing or so in fact (a de facto ruler). [latin]
+De facto	—adv. In fact (whether by right or not). —adj. Existing or so in fact (a de facto ruler). [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

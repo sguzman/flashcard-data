@@ -1,1 +1,6 @@
-Bog	—n. 1 a wet spongy ground. B stretch of this. 2 slang lavatory. —v. (-gg-) (foll. By down; usu. In passive) impede (bogged down by snow).  boggy adj. (-ier, -iest). [irish or gaelic bogach]
+Bog	—n. 1 a wet spongy ground. B stretch of this. 2 slang lavatory. —v. (-gg-) (foll. By down; usu. In passive) impede (bogged down by snow).  boggy adj. (-ier, -iest). [irish or gaelic bogach]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

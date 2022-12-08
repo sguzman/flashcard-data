@@ -1,1 +1,6 @@
-Plate tectonics	n.pl. (usu. Treated as sing.) The study of the earth's surface based on the concept of moving ‘plates’ (see sense 11 of *plate) forming its structure.
+Plate tectonics	n.pl. (usu. Treated as sing.) The study of the earth's surface based on the concept of moving ‘plates’ (see sense 11 of *plate) forming its structure.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

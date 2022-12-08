@@ -1,1 +1,6 @@
-Flyer	n. (also flier) colloq. 1 airman or airwoman. 2 thing that flies in a specified way (poor flyer). 3 fast-moving animal or vehicle. 4 ambitious or outstanding person. 5 small handbill.
+Flyer	n. (also flier) colloq. 1 airman or airwoman. 2 thing that flies in a specified way (poor flyer). 3 fast-moving animal or vehicle. 4 ambitious or outstanding person. 5 small handbill.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

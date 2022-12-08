@@ -1,1 +1,6 @@
-Public relations	n.pl. (usu. Treated as sing.) Professional promotion of a favourable public image, esp. By a company, famous person, etc.
+Public relations	n.pl. (usu. Treated as sing.) Professional promotion of a favourable public image, esp. By a company, famous person, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

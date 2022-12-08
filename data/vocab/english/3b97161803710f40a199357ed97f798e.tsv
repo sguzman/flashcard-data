@@ -1,1 +1,6 @@
-Adjunct	n. 1 (foll. By to, of) subordinate or incidental thing. 2 gram. Word or phrase used to explain or amplify the predicate, subject, etc. [latin: related to *adjoin]
+Adjunct	n. 1 (foll. By to, of) subordinate or incidental thing. 2 gram. Word or phrase used to explain or amplify the predicate, subject, etc. [latin: related to *adjoin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

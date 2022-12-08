@@ -1,1 +1,6 @@
-Cartridge	n. 1 case containing an explosive charge or bullet for firearms or blasting. 2 sealed container of film etc. 3 component carrying the stylus on a record-player. 4 ink-container for insertion in a pen. [french: related to *cartoon]
+Cartridge	n. 1 case containing an explosive charge or bullet for firearms or blasting. 2 sealed container of film etc. 3 component carrying the stylus on a record-player. 4 ink-container for insertion in a pen. [french: related to *cartoon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

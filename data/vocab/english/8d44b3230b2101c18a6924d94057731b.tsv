@@ -1,1 +1,6 @@
-Race2	n. 1 each of the major divisions of humankind, each having distinct physical characteristics. 2 fact or concept of division into races. 3 genus, species, breed, or variety of animals or plants. 4 group of persons, animals, or plants connected by common descent. 5 any great division of living creatures (the human race). [italian razza]
+Race2	n. 1 each of the major divisions of humankind, each having distinct physical characteristics. 2 fact or concept of division into races. 3 genus, species, breed, or variety of animals or plants. 4 group of persons, animals, or plants connected by common descent. 5 any great division of living creatures (the human race). [italian razza]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

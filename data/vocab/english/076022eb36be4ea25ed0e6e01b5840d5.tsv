@@ -1,1 +1,6 @@
-Compatible	adj. 1 a able to coexist; well-suited. B (often foll. By with) consistent. 2 (of equipment etc.) Able to be used in combination.  compatibility n. [medieval latin: related to *passion]
+Compatible	adj. 1 a able to coexist; well-suited. B (often foll. By with) consistent. 2 (of equipment etc.) Able to be used in combination.  compatibility n. [medieval latin: related to *passion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cynic	n. 1 person with a pessimistic view of human nature. 2 (cynic) one of a school of ancient greek philosophers showing contempt for ease and pleasure.  cynical adj. Cynically adv. Cynicism n. [greek kuon dog]
+Cynic	n. 1 person with a pessimistic view of human nature. 2 (cynic) one of a school of ancient greek philosophers showing contempt for ease and pleasure.  cynical adj. Cynically adv. Cynicism n. [greek kuon dog]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

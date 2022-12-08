@@ -1,1 +1,6 @@
-Desert1	v. 1 leave without intending to return. 2 (esp. As deserted adj.) Forsake, abandon. 3 run away (esp. From military service).  deserter n. (in sense 3). Desertion n. [latin desero -sert- leave]
+Desert1	v. 1 leave without intending to return. 2 (esp. As deserted adj.) Forsake, abandon. 3 run away (esp. From military service).  deserter n. (in sense 3). Desertion n. [latin desero -sert- leave]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

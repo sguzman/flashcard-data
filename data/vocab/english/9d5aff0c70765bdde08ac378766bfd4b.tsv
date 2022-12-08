@@ -1,1 +1,6 @@
-Boy	—n. 1 male child, son. 2 young man. 3 male servant etc. —int. Expressing pleasure, surprise, etc.  boyhood n. Boyish adj. [origin uncertain]
+Boy	—n. 1 male child, son. 2 young man. 3 male servant etc. —int. Expressing pleasure, surprise, etc.  boyhood n. Boyish adj. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Catastrophe	n. 1 great and usu. Sudden disaster. 2 denouement of a drama.  catastrophic adj. Catastrophically adv. [greek strepho turn]
+Catastrophe	n. 1 great and usu. Sudden disaster. 2 denouement of a drama.  catastrophic adj. Catastrophically adv. [greek strepho turn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

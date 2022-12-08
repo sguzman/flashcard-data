@@ -1,1 +1,6 @@
-Vinaigrette	n. 1 salad dressing of oil, wine vinegar, and seasoning. 2 small bottle for smelling-salts. [french, diminutive: related to *vinegar]
+Vinaigrette	n. 1 salad dressing of oil, wine vinegar, and seasoning. 2 small bottle for smelling-salts. [french, diminutive: related to *vinegar]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

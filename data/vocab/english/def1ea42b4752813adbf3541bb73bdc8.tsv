@@ -1,1 +1,6 @@
-Thug	n. 1 violent ruffian. 2 (thug) hist. Member of a religious organization of robbers and assassins in india.  thuggery n. Thuggish adj. [hindi]
+Thug	n. 1 violent ruffian. 2 (thug) hist. Member of a religious organization of robbers and assassins in india.  thuggery n. Thuggish adj. [hindi]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

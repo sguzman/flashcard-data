@@ -1,1 +1,6 @@
-Portage	—n. 1 carrying of boats or goods overland between two navigable waters. 2 place where this is necessary. —v. (-ging) convey (a boat or goods) over a portage. [latin porto carry]
+Portage	—n. 1 carrying of boats or goods overland between two navigable waters. 2 place where this is necessary. —v. (-ging) convey (a boat or goods) over a portage. [latin porto carry]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Face-lift	n. 1 (also face-lifting) cosmetic surgery to remove wrinkles etc. 2 improvement to appearance, efficiency, etc.
+Face-lift	n. 1 (also face-lifting) cosmetic surgery to remove wrinkles etc. 2 improvement to appearance, efficiency, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

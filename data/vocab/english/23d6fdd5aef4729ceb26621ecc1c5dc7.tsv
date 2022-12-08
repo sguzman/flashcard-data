@@ -1,1 +1,6 @@
-Intent	—n. Intention; purpose (with intent to defraud). —adj. 1 (usu. Foll. By on) a resolved, determined. B attentively occupied. 2 (esp. Of a look) earnest; eager.  to all intents and purposes practically; virtually.  intently adv. Intentness n. [latin intentus]
+Intent	—n. Intention; purpose (with intent to defraud). —adj. 1 (usu. Foll. By on) a resolved, determined. B attentively occupied. 2 (esp. Of a look) earnest; eager.  to all intents and purposes practically; virtually.  intently adv. Intentness n. [latin intentus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

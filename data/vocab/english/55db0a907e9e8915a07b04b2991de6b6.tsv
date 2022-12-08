@@ -1,1 +1,6 @@
-Ivory	n. (pl. -ies) 1 hard substance of the tusks of an elephant etc. 2 creamy-white colour of this. 3 (usu. In pl.) A article made of ivory. B slang thing made of or resembling ivory, esp. A piano key or a tooth. [latin ebur]
+Ivory	n. (pl. -ies) 1 hard substance of the tusks of an elephant etc. 2 creamy-white colour of this. 3 (usu. In pl.) A article made of ivory. B slang thing made of or resembling ivory, esp. A piano key or a tooth. [latin ebur]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

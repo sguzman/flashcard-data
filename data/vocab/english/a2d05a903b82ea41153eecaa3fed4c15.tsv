@@ -1,1 +1,6 @@
-Suede	n. (often attrib.) 1 leather with the flesh side rubbed to a nap. 2 cloth imitating it. [french, = sweden]
+Suede	n. (often attrib.) 1 leather with the flesh side rubbed to a nap. 2 cloth imitating it. [french, = sweden]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

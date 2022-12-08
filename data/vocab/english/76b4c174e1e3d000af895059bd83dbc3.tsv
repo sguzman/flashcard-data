@@ -1,1 +1,6 @@
-Swag	n. 1 slang booty of burglars etc. 2 austral. & nz traveller's bundle. 3 festoon of flowers, foliage, drapery, etc.  swagged adj. [probably scandinavian]
+Swag	n. 1 slang booty of burglars etc. 2 austral. & nz traveller's bundle. 3 festoon of flowers, foliage, drapery, etc.  swagged adj. [probably scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

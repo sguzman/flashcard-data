@@ -1,1 +1,6 @@
-Gravitation	n. Physics 1 force of attraction between any particle of matter in the universe and any other. 2 effect of this, esp. The falling of bodies to the earth.  gravitational adj.
+Gravitation	n. Physics 1 force of attraction between any particle of matter in the universe and any other. 2 effect of this, esp. The falling of bodies to the earth.  gravitational adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

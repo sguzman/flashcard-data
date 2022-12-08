@@ -1,1 +1,6 @@
-Hoarding	n. 1 large, usu. Wooden, structure used to carry advertisements etc. 2 temporary fence round a building site etc. [obsolete hoard from french: hourd]
+Hoarding	n. 1 large, usu. Wooden, structure used to carry advertisements etc. 2 temporary fence round a building site etc. [obsolete hoard from french: hourd]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

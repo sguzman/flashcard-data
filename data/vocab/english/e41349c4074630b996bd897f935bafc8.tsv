@@ -1,1 +1,6 @@
-Tabard	n. 1 herald's official coat emblazoned with royal arms. 2 woman's or girl's sleeveless jerkin. 3 hist. Knight's short emblazoned garment worn over armour. [french]
+Tabard	n. 1 herald's official coat emblazoned with royal arms. 2 woman's or girl's sleeveless jerkin. 3 hist. Knight's short emblazoned garment worn over armour. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

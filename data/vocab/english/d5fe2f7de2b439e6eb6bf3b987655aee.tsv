@@ -1,1 +1,6 @@
-Encore	—n. 1 audience's demand for the repetition of an item, or for a further item. 2 such an item. —v. (-ring) 1 call for the repetition of (an item). 2 call back (a performer) for this. —int. Again, once more. [french, = once again]
+Encore	—n. 1 audience's demand for the repetition of an item, or for a further item. 2 such an item. —v. (-ring) 1 call for the repetition of (an item). 2 call back (a performer) for this. —int. Again, once more. [french, = once again]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

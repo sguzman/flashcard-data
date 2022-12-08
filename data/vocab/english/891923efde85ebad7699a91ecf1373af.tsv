@@ -1,1 +1,6 @@
-Couch2	n. (in full couch grass) a grass with long creeping roots. [var. Of *quitch]
+Couch2	n. (in full couch grass) a grass with long creeping roots. [var. Of *quitch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

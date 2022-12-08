@@ -1,1 +1,6 @@
-Secretary	n. (pl. -ies) 1 employee who assists with correspondence, records, making appointments, etc. 2 official of a society or company who writes letters, organizes business, etc. 3 principal assistant of a government minister, ambassador, etc.  secretarial adj. Secretaryship n. [latin secretarius: related to *secret]
+Secretary	n. (pl. -ies) 1 employee who assists with correspondence, records, making appointments, etc. 2 official of a society or company who writes letters, organizes business, etc. 3 principal assistant of a government minister, ambassador, etc.  secretarial adj. Secretaryship n. [latin secretarius: related to *secret]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Tribe	n. 1 group of (esp. Primitive) families or communities, linked by social, religious, or blood ties, and usu. Having a common culture and dialect and a recognized leader. 2 any similar natural or political division. 3 usu. Derog. Set or number of persons, esp. Of one profession etc. Or family.  tribal adj. Tribalism n. [latin tribus]
+Tribe	n. 1 group of (esp. Primitive) families or communities, linked by social, religious, or blood ties, and usu. Having a common culture and dialect and a recognized leader. 2 any similar natural or political division. 3 usu. Derog. Set or number of persons, esp. Of one profession etc. Or family.  tribal adj. Tribalism n. [latin tribus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

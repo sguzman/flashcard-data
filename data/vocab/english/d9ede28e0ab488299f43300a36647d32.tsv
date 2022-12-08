@@ -1,1 +1,6 @@
-Toggle	n. 1 fastener for a garment consisting of a crosspiece which passes through a hole or loop. 2 computing switch action that is operated the same way but with opposite effect on successive occasions. [origin unknown]
+Toggle	n. 1 fastener for a garment consisting of a crosspiece which passes through a hole or loop. 2 computing switch action that is operated the same way but with opposite effect on successive occasions. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

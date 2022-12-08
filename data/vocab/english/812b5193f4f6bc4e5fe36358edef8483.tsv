@@ -1,1 +1,6 @@
-Formality	n. (pl. -ies) 1 a formal, esp. Meaningless, act, regulation, or custom. B thing done simply to comply with a rule. 2 rigid observance of rules or convention.
+Formality	n. (pl. -ies) 1 a formal, esp. Meaningless, act, regulation, or custom. B thing done simply to comply with a rule. 2 rigid observance of rules or convention.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

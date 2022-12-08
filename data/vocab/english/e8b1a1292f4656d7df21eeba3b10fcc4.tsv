@@ -1,1 +1,6 @@
-Prismatic	adj. 1 of, like, or using a prism. 2 (of colours) distributed (as if) by a transparent prism. [greek: related to *prism]
+Prismatic	adj. 1 of, like, or using a prism. 2 (of colours) distributed (as if) by a transparent prism. [greek: related to *prism]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

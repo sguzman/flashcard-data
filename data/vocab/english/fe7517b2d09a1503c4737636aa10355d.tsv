@@ -1,1 +1,6 @@
-Unite	v. (-ting) 1 join together; combine, esp. For a common purpose or action (united in their struggle). 2 join in marriage. 3 (cause to) form a physical or chemical whole (oil will not unite with water). [latin unio -it- from unus one]
+Unite	v. (-ting) 1 join together; combine, esp. For a common purpose or action (united in their struggle). 2 join in marriage. 3 (cause to) form a physical or chemical whole (oil will not unite with water). [latin unio -it- from unus one]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

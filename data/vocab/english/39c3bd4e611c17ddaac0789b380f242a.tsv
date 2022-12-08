@@ -1,1 +1,6 @@
-Mask	—n. 1 covering for all or part of the face as a disguise or for protection against infection etc. 2 respirator. 3 likeness of a person's face, esp. One from a mould (death-mask).
+Mask	—n. 1 covering for all or part of the face as a disguise or for protection against infection etc. 2 respirator. 3 likeness of a person's face, esp. One from a mould (death-mask).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

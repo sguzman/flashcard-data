@@ -1,1 +1,6 @@
-Sift	v. 1 put through a sieve. 2 (usu. Foll. By from, out) separate (finer or coarser parts) from material. 3 sprinkle (esp. Sugar) from a perforated container. 4 examine (evidence, facts, etc.). 5 (of snow, light, etc.) Fall as if from a sieve. [old english]
+Sift	v. 1 put through a sieve. 2 (usu. Foll. By from, out) separate (finer or coarser parts) from material. 3 sprinkle (esp. Sugar) from a perforated container. 4 examine (evidence, facts, etc.). 5 (of snow, light, etc.) Fall as if from a sieve. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

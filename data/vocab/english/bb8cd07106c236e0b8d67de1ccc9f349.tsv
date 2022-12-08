@@ -1,1 +1,6 @@
-Texture	—n. 1 feel or appearance of a surface or substance. 2 arrangement of threads etc. In textile fabric. —v. (-ring) (usu. As textured adj.) 1 provide with a texture. 2 (of vegetable protein) provide with a texture resembling meat.  textural adj. [latin: related to *text]
+Texture	—n. 1 feel or appearance of a surface or substance. 2 arrangement of threads etc. In textile fabric. —v. (-ring) (usu. As textured adj.) 1 provide with a texture. 2 (of vegetable protein) provide with a texture resembling meat.  textural adj. [latin: related to *text]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

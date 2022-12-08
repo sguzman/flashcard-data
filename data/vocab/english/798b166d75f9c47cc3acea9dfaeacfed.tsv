@@ -1,1 +1,6 @@
-Remembrance	n. 1 remembering or being remembered. 2 a memory or recollection. 3 keepsake, souvenir. 4 (in pl.) Greetings conveyed through a third person. [french: related to *remember]
+Remembrance	n. 1 remembering or being remembered. 2 a memory or recollection. 3 keepsake, souvenir. 4 (in pl.) Greetings conveyed through a third person. [french: related to *remember]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

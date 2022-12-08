@@ -1,1 +1,6 @@
-Civil	adj. 1 of or belonging to citizens. 2 of ordinary citizens; non-military. 3 polite, obliging, not rude. 4 law concerning private rights and not criminal offences. 5 (of the length of a day, year, etc.) Fixed by custom or law, not natural or astronomical.  civilly adv. [latin civilis: related to *civic]
+Civil	adj. 1 of or belonging to citizens. 2 of ordinary citizens; non-military. 3 polite, obliging, not rude. 4 law concerning private rights and not criminal offences. 5 (of the length of a day, year, etc.) Fixed by custom or law, not natural or astronomical.  civilly adv. [latin civilis: related to *civic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

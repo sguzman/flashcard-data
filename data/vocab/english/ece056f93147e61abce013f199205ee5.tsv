@@ -1,1 +1,6 @@
-H.	Abbr. (also h) 1 hecto-. 2 (also h) height. 3 hot. 4 hour(s).
+H.	Abbr. (also h) 1 hecto-. 2 (also h) height. 3 hot. 4 hour(s).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

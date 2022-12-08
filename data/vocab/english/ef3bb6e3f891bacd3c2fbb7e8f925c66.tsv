@@ -1,1 +1,6 @@
-Prima donna	n. (pl. Prima donnas) 1 chief female singer in an opera. 2 temperamentally self-important person.  prima donna-ish adj. [italian]
+Prima donna	n. (pl. Prima donnas) 1 chief female singer in an opera. 2 temperamentally self-important person.  prima donna-ish adj. [italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Perpetuate	v. (-ting) 1 make perpetual. 2 preserve from oblivion.  perpetuation n. Perpetuator n. [latin perpetuo]
+Perpetuate	v. (-ting) 1 make perpetual. 2 preserve from oblivion.  perpetuation n. Perpetuator n. [latin perpetuo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Isinglass	n. 1 gelatin obtained from fish, esp. Sturgeon, and used in making jellies, glue, etc. 2 mica. [dutch huisenblas sturgeon's bladder]
+Isinglass	n. 1 gelatin obtained from fish, esp. Sturgeon, and used in making jellies, glue, etc. 2 mica. [dutch huisenblas sturgeon's bladder]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

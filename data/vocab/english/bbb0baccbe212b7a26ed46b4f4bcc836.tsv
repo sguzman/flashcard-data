@@ -1,1 +1,6 @@
-Delivery	n. (pl. -ies) 1 delivering or being delivered. 2 regular distribution of letters etc. (two deliveries a day). 3 thing delivered. 4 childbirth. 5 deliverance. 6 style of throwing a ball, delivering a speech, etc. [anglo-french: related to *deliver]
+Delivery	n. (pl. -ies) 1 delivering or being delivered. 2 regular distribution of letters etc. (two deliveries a day). 3 thing delivered. 4 childbirth. 5 deliverance. 6 style of throwing a ball, delivering a speech, etc. [anglo-french: related to *deliver]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

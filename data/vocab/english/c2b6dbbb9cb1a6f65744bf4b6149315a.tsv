@@ -1,1 +1,6 @@
-Octave	n. 1 mus. A interval between (and including) two notes, one having twice or half the frequency of vibration of the other. B eight notes occupying this interval. C each of the two notes at the extremes of this interval. 2 eight-line stanza. [latin octavus eighth]
+Octave	n. 1 mus. A interval between (and including) two notes, one having twice or half the frequency of vibration of the other. B eight notes occupying this interval. C each of the two notes at the extremes of this interval. 2 eight-line stanza. [latin octavus eighth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

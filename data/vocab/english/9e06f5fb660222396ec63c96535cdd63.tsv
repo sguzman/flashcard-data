@@ -1,1 +1,6 @@
-Latter	adj. 1 a second-mentioned of two, or last-mentioned of three or more. B (prec. By the; usu. Absol.) The second- or last-mentioned person or thing. 2 nearer the end (latter part of the year). 3 recent. 4 of the end of a period, the world, etc. [old english, = later]
+Latter	adj. 1 a second-mentioned of two, or last-mentioned of three or more. B (prec. By the; usu. Absol.) The second- or last-mentioned person or thing. 2 nearer the end (latter part of the year). 3 recent. 4 of the end of a period, the world, etc. [old english, = later]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

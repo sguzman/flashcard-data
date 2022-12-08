@@ -1,1 +1,6 @@
-Trade name	n. 1 name by which a thing is called in a trade. 2 name given to a product. 3 name under which a business trades.
+Trade name	n. 1 name by which a thing is called in a trade. 2 name given to a product. 3 name under which a business trades.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

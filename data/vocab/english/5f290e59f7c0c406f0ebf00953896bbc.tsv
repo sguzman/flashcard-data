@@ -1,1 +1,6 @@
-Intone	v. (-ning) 1 recite (prayers etc.) With prolonged sounds, esp. In a monotone. 2 utter with a particular tone. [medieval latin: related to *in-2]
+Intone	v. (-ning) 1 recite (prayers etc.) With prolonged sounds, esp. In a monotone. 2 utter with a particular tone. [medieval latin: related to *in-2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

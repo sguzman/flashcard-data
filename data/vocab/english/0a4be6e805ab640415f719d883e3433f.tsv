@@ -1,1 +1,6 @@
-Commissioner	n. 1 person appointed by a commission to perform a specific task, e.g. The head of the london police etc. 2 member of a government commission. 3 representative of government in a district, department, etc. [medieval latin: related to *commission]
+Commissioner	n. 1 person appointed by a commission to perform a specific task, e.g. The head of the london police etc. 2 member of a government commission. 3 representative of government in a district, department, etc. [medieval latin: related to *commission]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

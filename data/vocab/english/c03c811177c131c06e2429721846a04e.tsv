@@ -1,1 +1,6 @@
-Collect1	—v. 1 bring or come together; assemble, accumulate. 2 systematically seek and acquire, esp. As a hobby. 3 obtain (contributions etc.) From a number of people. 4 call for; fetch. 5 a refl. Regain control of oneself. B concentrate (one's thoughts etc.). C (as collected adj.) Not perturbed or distracted. —adj. & adv. Us (of a telephone call, parcel, etc.) To be paid for by the receiver. [latin lego lect- pick]
+Collect1	—v. 1 bring or come together; assemble, accumulate. 2 systematically seek and acquire, esp. As a hobby. 3 obtain (contributions etc.) From a number of people. 4 call for; fetch. 5 a refl. Regain control of oneself. B concentrate (one's thoughts etc.). C (as collected adj.) Not perturbed or distracted. —adj. & adv. Us (of a telephone call, parcel, etc.) To be paid for by the receiver. [latin lego lect- pick]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

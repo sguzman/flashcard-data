@@ -1,1 +1,6 @@
-Cupful	n. (pl. -s) 1 amount held by a cup, esp. Us a half-pint or 8-ounce measure. 2 full cup.
+Cupful	n. (pl. -s) 1 amount held by a cup, esp. Us a half-pint or 8-ounce measure. 2 full cup.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

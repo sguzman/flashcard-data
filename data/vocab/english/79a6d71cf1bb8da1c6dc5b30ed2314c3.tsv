@@ -1,1 +1,6 @@
-Glimpse	—n. (often foll. By of, at) 1 brief view or look. 2 faint transient appearance (glimpses of the truth). —v. (-sing) have a brief view of (glimpsed his face in the crowd). [related to *glimmer]
+Glimpse	—n. (often foll. By of, at) 1 brief view or look. 2 faint transient appearance (glimpses of the truth). —v. (-sing) have a brief view of (glimpsed his face in the crowd). [related to *glimmer]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

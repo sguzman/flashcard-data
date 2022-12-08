@@ -1,1 +1,6 @@
-Cedilla	n. 1 mark written under c, esp. In french, to show it is sibilant (as in façade). 2 similar mark under s in turkish etc. [spanish diminutive of zeda z]
+Cedilla	n. 1 mark written under c, esp. In french, to show it is sibilant (as in façade). 2 similar mark under s in turkish etc. [spanish diminutive of zeda z]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

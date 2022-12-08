@@ -1,1 +1,6 @@
-Authorship	n. 1 origin of a book etc. 2 profession of an author.
+Authorship	n. 1 origin of a book etc. 2 profession of an author.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

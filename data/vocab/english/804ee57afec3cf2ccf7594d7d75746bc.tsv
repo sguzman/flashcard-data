@@ -1,1 +1,6 @@
-Hysteresis	n. Phenomenon whereby changes in an effect lag behind changes in its cause. [greek husteros coming after]
+Hysteresis	n. Phenomenon whereby changes in an effect lag behind changes in its cause. [greek husteros coming after]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

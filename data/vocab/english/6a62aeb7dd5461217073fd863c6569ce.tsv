@@ -1,1 +1,6 @@
-Exert	v. 1 bring to bear, use (a quality, force, influence, etc.). 2 refl. (often foll. By for, or to + infin.) Use one's efforts or endeavours; strive.  exertion n. [latin exsero exsert- put forth]
+Exert	v. 1 bring to bear, use (a quality, force, influence, etc.). 2 refl. (often foll. By for, or to + infin.) Use one's efforts or endeavours; strive.  exertion n. [latin exsero exsert- put forth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cooler	n. 1 vessel in which a thing is cooled. 2 us refrigerator. 3 slang prison cell.
+Cooler	n. 1 vessel in which a thing is cooled. 2 us refrigerator. 3 slang prison cell.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pandemonium	n. 1 uproar; utter confusion. 2 scene of this. [place in hell in milton's paradise lost: related to *pan-, *demon]
+Pandemonium	n. 1 uproar; utter confusion. 2 scene of this. [place in hell in milton's paradise lost: related to *pan-, *demon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

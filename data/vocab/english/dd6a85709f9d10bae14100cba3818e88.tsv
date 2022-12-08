@@ -1,1 +1,6 @@
-Ensign	n. 1 banner or flag, esp. The military or naval flag of a nation. 2 standard-bearer. 3 a hist. Lowest commissioned infantry officer. B us lowest commissioned naval officer. [french: related to *insignia]
+Ensign	n. 1 banner or flag, esp. The military or naval flag of a nation. 2 standard-bearer. 3 a hist. Lowest commissioned infantry officer. B us lowest commissioned naval officer. [french: related to *insignia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

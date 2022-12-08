@@ -1,1 +1,6 @@
-Bit3	n. 1 metal mouthpiece of a bridle. 2 tool or piece for boring or drilling. 3 cutting or gripping part of a plane, pincers, etc. [old english]
+Bit3	n. 1 metal mouthpiece of a bridle. 2 tool or piece for boring or drilling. 3 cutting or gripping part of a plane, pincers, etc. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

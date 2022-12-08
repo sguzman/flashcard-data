@@ -1,1 +1,6 @@
-Lemon	n. 1 a yellow oval citrus fruit with acidic juice. B tree bearing it. 2 pale yellow colour. 3 colloq. Person or thing regarded as a failure.  lemony adj. [arabic laimun]
+Lemon	n. 1 a yellow oval citrus fruit with acidic juice. B tree bearing it. 2 pale yellow colour. 3 colloq. Person or thing regarded as a failure.  lemony adj. [arabic laimun]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

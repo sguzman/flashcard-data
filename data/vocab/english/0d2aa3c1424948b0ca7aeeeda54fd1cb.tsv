@@ -1,1 +1,6 @@
-Primrose	n. 1 a wild plant bearing pale yellow spring flowers. B its flower. 2 pale yellow colour. [french and medieval latin, = first rose]
+Primrose	n. 1 a wild plant bearing pale yellow spring flowers. B its flower. 2 pale yellow colour. [french and medieval latin, = first rose]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Fixture	n. 1 a something fixed in position. B colloq. Seemingly immovable person or thing (seems to be a fixture). 2 a sporting event, esp. A match, race, etc. B date agreed for this. 3 (in pl.) Articles attached to a house or land and regarded as legally part of it.
+Fixture	n. 1 a something fixed in position. B colloq. Seemingly immovable person or thing (seems to be a fixture). 2 a sporting event, esp. A match, race, etc. B date agreed for this. 3 (in pl.) Articles attached to a house or land and regarded as legally part of it.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

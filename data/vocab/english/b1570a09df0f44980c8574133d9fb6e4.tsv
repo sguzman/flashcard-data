@@ -1,1 +1,6 @@
-Kick-start	—n. (also kick-starter) device to start the engine of a motor cycle etc. By the downward thrust of a pedal. —v. Start (a motor cycle etc.) In this way.
+Kick-start	—n. (also kick-starter) device to start the engine of a motor cycle etc. By the downward thrust of a pedal. —v. Start (a motor cycle etc.) In this way.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

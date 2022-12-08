@@ -1,1 +1,6 @@
-Debouch	v. 1 (of troops or a stream) come out into open ground. 2 (often foll. By into) (of a river, road, etc.) Merge into a larger body or area.  debouchment n. [french bouche mouth]
+Debouch	v. 1 (of troops or a stream) come out into open ground. 2 (often foll. By into) (of a river, road, etc.) Merge into a larger body or area.  debouchment n. [french bouche mouth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gypsy	n. (also gipsy) (pl. -ies) member of a nomadic people of europe and n. America, of hindu origin with dark skin and hair. [from *egyptian]
+Gypsy	n. (also gipsy) (pl. -ies) member of a nomadic people of europe and n. America, of hindu origin with dark skin and hair. [from *egyptian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Cave	—n. Large hollow in the side of a cliff, hill, etc., or underground. —v. (-ving) explore caves.  cave in 1 (cause to) subside or collapse. 2 yield, give up. [latin cavus hollow]
+Cave	—n. Large hollow in the side of a cliff, hill, etc., or underground. —v. (-ving) explore caves.  cave in 1 (cause to) subside or collapse. 2 yield, give up. [latin cavus hollow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

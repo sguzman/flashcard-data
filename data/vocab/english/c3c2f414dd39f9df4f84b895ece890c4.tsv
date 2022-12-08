@@ -1,1 +1,6 @@
-Kindness	n. 1 being kind. 2 kind act.
+Kindness	n. 1 being kind. 2 kind act.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

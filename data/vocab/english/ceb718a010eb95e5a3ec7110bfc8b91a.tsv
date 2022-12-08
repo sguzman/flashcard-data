@@ -1,1 +1,6 @@
-Indictable	adj. 1 (of an offence) making the doer liable to be charged with a crime. 2 (of a person) so liable.
+Indictable	adj. 1 (of an offence) making the doer liable to be charged with a crime. 2 (of a person) so liable.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

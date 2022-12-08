@@ -1,1 +1,6 @@
-Canvas	—n. 1 strong coarse cloth used for sails and tents etc. And for oil-painting. 2 a painting on canvas, esp. In oils. —v. (-ss-; us -s-) cover with canvas.  under canvas 1 in tents. 2 with sails spread. [latin: related to *cannabis]
+Canvas	—n. 1 strong coarse cloth used for sails and tents etc. And for oil-painting. 2 a painting on canvas, esp. In oils. —v. (-ss-; us -s-) cover with canvas.  under canvas 1 in tents. 2 with sails spread. [latin: related to *cannabis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

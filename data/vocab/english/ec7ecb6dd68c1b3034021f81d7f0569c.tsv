@@ -1,1 +1,6 @@
-Executive	—n. 1 person or body with managerial or administrative responsibility. 2 branch of a government etc. Concerned with executing laws, agreements, etc. —adj. Concerned with executing laws, agreements, etc., or with other administration or management. [medieval latin: related to *execute]
+Executive	—n. 1 person or body with managerial or administrative responsibility. 2 branch of a government etc. Concerned with executing laws, agreements, etc. —adj. Concerned with executing laws, agreements, etc., or with other administration or management. [medieval latin: related to *execute]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

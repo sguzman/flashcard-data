@@ -1,1 +1,6 @@
-Safe conduct	n. 1 immunity given from arrest or harm. 2 document securing this.
+Safe conduct	n. 1 immunity given from arrest or harm. 2 document securing this.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

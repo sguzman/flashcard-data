@@ -1,1 +1,6 @@
-Safety-valve	n. 1 (in a steam boiler) automatic valve relieving excess pressure. 2 means of venting excitement etc. Harmlessly.
+Safety-valve	n. 1 (in a steam boiler) automatic valve relieving excess pressure. 2 means of venting excitement etc. Harmlessly.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

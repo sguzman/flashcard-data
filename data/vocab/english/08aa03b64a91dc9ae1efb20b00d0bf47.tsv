@@ -1,1 +1,6 @@
-Apt	adj. 1 appropriate, suitable. 2 tending (apt to break down). 3 clever; quick to learn. [latin aptus fitted]
+Apt	adj. 1 appropriate, suitable. 2 tending (apt to break down). 3 clever; quick to learn. [latin aptus fitted]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

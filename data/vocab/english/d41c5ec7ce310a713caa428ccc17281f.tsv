@@ -1,1 +1,6 @@
-S.	Abbr. 1 second(s). 2 hist. Shilling(s). 3 son. [sense 2 originally from latin solidus]
+S.	Abbr. 1 second(s). 2 hist. Shilling(s). 3 son. [sense 2 originally from latin solidus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

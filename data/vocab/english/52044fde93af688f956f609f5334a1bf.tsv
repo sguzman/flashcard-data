@@ -1,1 +1,6 @@
-Tithe	—n. 1 one-tenth of the annual produce of land or labour, formerly taken as a tax for the church. 2 tenth part. —v. (-thing) 1 subject to tithes. 2 pay tithes. [old english, = tenth]
+Tithe	—n. 1 one-tenth of the annual produce of land or labour, formerly taken as a tax for the church. 2 tenth part. —v. (-thing) 1 subject to tithes. 2 pay tithes. [old english, = tenth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

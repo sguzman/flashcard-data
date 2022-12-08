@@ -1,1 +1,6 @@
-Velvet	—n. 1 soft fabric with a thick short pile on one side. 2 furry skin on a growing antler. —adj. Of, like, or soft as velvet.  on velvet in an advantageous or prosperous position.  velvety adj. [latin villus tuft, down]
+Velvet	—n. 1 soft fabric with a thick short pile on one side. 2 furry skin on a growing antler. —adj. Of, like, or soft as velvet.  on velvet in an advantageous or prosperous position.  velvety adj. [latin villus tuft, down]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

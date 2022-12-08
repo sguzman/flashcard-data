@@ -1,1 +1,6 @@
-Ballast	—n. 1 heavy material stabilizing a ship, the car of a balloon, etc. 2 coarse stone etc. As the bed of a railway track or road. 3 mixture of coarse and fine aggregate for making concrete. —v. Provide with ballast. [low german or scandinavian]
+Ballast	—n. 1 heavy material stabilizing a ship, the car of a balloon, etc. 2 coarse stone etc. As the bed of a railway track or road. 3 mixture of coarse and fine aggregate for making concrete. —v. Provide with ballast. [low german or scandinavian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

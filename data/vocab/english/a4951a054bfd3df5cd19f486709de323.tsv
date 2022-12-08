@@ -1,1 +1,6 @@
-Omnibus	—n. 1 formal bus. 2 volume containing several literary works previously published separately. —adj. 1 serving several purposes at once. 2 comprising several items. [latin, = for all]
+Omnibus	—n. 1 formal bus. 2 volume containing several literary works previously published separately. —adj. 1 serving several purposes at once. 2 comprising several items. [latin, = for all]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

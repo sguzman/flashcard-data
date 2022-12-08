@@ -1,1 +1,6 @@
-Caper1	—v. Jump or run playfully. —n. 1 playful leap. 2 a prank. B slang illicit activity.  cut a caper frolic. [abbreviation of *capriole]
+Caper1	—v. Jump or run playfully. —n. 1 playful leap. 2 a prank. B slang illicit activity.  cut a caper frolic. [abbreviation of *capriole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

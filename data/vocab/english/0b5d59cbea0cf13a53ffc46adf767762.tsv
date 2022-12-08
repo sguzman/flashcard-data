@@ -1,1 +1,6 @@
-Jackknife	—n. 1 large clasp-knife. 2 dive in which the body is bent and then straightened. —v. (-fing) (of an articulated vehicle) fold against itself in an accident.
+Jackknife	—n. 1 large clasp-knife. 2 dive in which the body is bent and then straightened. —v. (-fing) (of an articulated vehicle) fold against itself in an accident.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

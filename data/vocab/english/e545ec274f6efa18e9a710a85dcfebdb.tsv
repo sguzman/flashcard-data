@@ -1,1 +1,6 @@
-Diaphragm	n. 1 muscular partition between the thorax and abdomen in mammals. 2 = *dutch cap. 3 a photog. Plate or disc pierced with a circular hole to cut off marginal beams of light. B vibrating disc in a microphone, telephone, loudspeaker, etc. 4 device for varying the lens aperture in a camera etc. 5 thin sheet as a partition etc. [greek phragma fence]
+Diaphragm	n. 1 muscular partition between the thorax and abdomen in mammals. 2 = *dutch cap. 3 a photog. Plate or disc pierced with a circular hole to cut off marginal beams of light. B vibrating disc in a microphone, telephone, loudspeaker, etc. 4 device for varying the lens aperture in a camera etc. 5 thin sheet as a partition etc. [greek phragma fence]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

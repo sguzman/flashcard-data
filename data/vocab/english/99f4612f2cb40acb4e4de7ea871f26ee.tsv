@@ -1,1 +1,6 @@
-Simper	—v. 1 smile in a silly or affected way. 2 express by or with simpering. —n. Such a smile. [origin unknown]
+Simper	—v. 1 smile in a silly or affected way. 2 express by or with simpering. —n. Such a smile. [origin unknown]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

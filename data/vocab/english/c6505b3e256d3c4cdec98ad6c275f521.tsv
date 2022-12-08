@@ -1,1 +1,6 @@
-Umbrella	n. 1 collapsible cloth canopy on a central stick, used against rain, strong sun, etc. 2 protection, patronage. 3 (often attrib.) Coordinating agency (umbrella organization). [italian diminutive: related to *umbra]
+Umbrella	n. 1 collapsible cloth canopy on a central stick, used against rain, strong sun, etc. 2 protection, patronage. 3 (often attrib.) Coordinating agency (umbrella organization). [italian diminutive: related to *umbra]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

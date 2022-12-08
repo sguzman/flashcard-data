@@ -1,1 +1,6 @@
-Attack	—v. 1 try to hurt or defeat using force. 2 criticize adversely. 3 act harmfully upon (rust attacks metal). 4 vigorously apply oneself to. 5 sport try to gain ground or score (against). —n. 1 act of attacking. 2 offensive operation. 3 sudden onset of an illness.  attacker n. [french from italian]
+Attack	—v. 1 try to hurt or defeat using force. 2 criticize adversely. 3 act harmfully upon (rust attacks metal). 4 vigorously apply oneself to. 5 sport try to gain ground or score (against). —n. 1 act of attacking. 2 offensive operation. 3 sudden onset of an illness.  attacker n. [french from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

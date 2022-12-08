@@ -1,1 +1,6 @@
-Profile	—n. 1 a outline, esp. Of a human face, as seen from one side. B representation of this. 2 short biographical or character sketch. —v. (-ling) represent or describe by a profile.  keep a low profile remain inconspicuous. [italian profilare draw in outline]
+Profile	—n. 1 a outline, esp. Of a human face, as seen from one side. B representation of this. 2 short biographical or character sketch. —v. (-ling) represent or describe by a profile.  keep a low profile remain inconspicuous. [italian profilare draw in outline]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

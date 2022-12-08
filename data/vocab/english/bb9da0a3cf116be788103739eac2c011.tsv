@@ -1,1 +1,6 @@
-Alloy	—n. 1 mixture of two or more metals. 2 inferior metal mixed esp. With gold or silver. —v. 1 mix (metals). 2 debase by admixture. 3 moderate (pleasure alloyed with pain). [french: related to *ally]
+Alloy	—n. 1 mixture of two or more metals. 2 inferior metal mixed esp. With gold or silver. —v. 1 mix (metals). 2 debase by admixture. 3 moderate (pleasure alloyed with pain). [french: related to *ally]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

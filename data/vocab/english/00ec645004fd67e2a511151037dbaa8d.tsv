@@ -1,1 +1,6 @@
-Budge	v. (-ging) (usu. With neg.) 1 move slightly. 2 (cause to) change an opinion.  budge up (or over) make room for another person by moving. [french bouger]
+Budge	v. (-ging) (usu. With neg.) 1 move slightly. 2 (cause to) change an opinion.  budge up (or over) make room for another person by moving. [french bouger]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

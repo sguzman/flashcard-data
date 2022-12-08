@@ -1,1 +1,6 @@
-Nipple	n. 1 small projection in which the mammary ducts of either sex of mammals terminate and from which in females milk is secreted for the young. 2 teat of a feeding-bottle. 3 device like a nipple in function. 4 nipple-like protuberance. [perhaps from neb tip]
+Nipple	n. 1 small projection in which the mammary ducts of either sex of mammals terminate and from which in females milk is secreted for the young. 2 teat of a feeding-bottle. 3 device like a nipple in function. 4 nipple-like protuberance. [perhaps from neb tip]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

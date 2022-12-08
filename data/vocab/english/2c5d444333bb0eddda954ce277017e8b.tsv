@@ -1,1 +1,6 @@
-Award	—v. Give or order to be given as a payment or prize. —n. 1 thing or amount awarded. 2 judicial decision. [french]
+Award	—v. Give or order to be given as a payment or prize. —n. 1 thing or amount awarded. 2 judicial decision. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

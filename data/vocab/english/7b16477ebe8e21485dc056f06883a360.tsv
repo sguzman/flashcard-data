@@ -1,1 +1,6 @@
-Hardy	adj. (-ier, -iest) 1 robust; capable of enduring difficult conditions. 2 (of a plant) able to grow in the open air all year.  hardiness n. [french hardi made bold]
+Hardy	adj. (-ier, -iest) 1 robust; capable of enduring difficult conditions. 2 (of a plant) able to grow in the open air all year.  hardiness n. [french hardi made bold]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

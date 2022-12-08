@@ -1,1 +1,6 @@
-Fourth	adj. & n. 1 next after third. 2 any of four equal parts of a thing.  fourthly adv. [old english: related to *four]
+Fourth	adj. & n. 1 next after third. 2 any of four equal parts of a thing.  fourthly adv. [old english: related to *four]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

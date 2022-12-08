@@ -1,1 +1,6 @@
-Monochrome	—n. Photograph or picture done in one colour or different tones of this, or in black and white only. —adj. Having or using only one colour or in black and white only. [from *mono-, greek khroma colour]
+Monochrome	—n. Photograph or picture done in one colour or different tones of this, or in black and white only. —adj. Having or using only one colour or in black and white only. [from *mono-, greek khroma colour]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

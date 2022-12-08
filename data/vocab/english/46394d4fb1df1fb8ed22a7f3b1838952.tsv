@@ -1,1 +1,6 @@
-Set square	n. Right-angled triangular plate for drawing lines, esp. At 90°, 45°, 60°, or 30°.
+Set square	n. Right-angled triangular plate for drawing lines, esp. At 90°, 45°, 60°, or 30°.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

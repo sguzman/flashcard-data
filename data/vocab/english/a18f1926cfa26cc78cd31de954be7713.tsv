@@ -1,1 +1,6 @@
-Rain check	n. Esp. Us ticket given for later use when an outdoor event is interrupted or postponed by rain.  take a rain check on reserve the right not to take up (an offer) until convenient.
+Rain check	n. Esp. Us ticket given for later use when an outdoor event is interrupted or postponed by rain.  take a rain check on reserve the right not to take up (an offer) until convenient.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

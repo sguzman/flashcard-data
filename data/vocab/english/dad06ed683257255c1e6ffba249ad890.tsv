@@ -1,1 +1,6 @@
-Davenport	n. 1 small writing-desk with a sloping top. 2 us large sofa. [name of the maker]
+Davenport	n. 1 small writing-desk with a sloping top. 2 us large sofa. [name of the maker]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

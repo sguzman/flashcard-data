@@ -1,1 +1,6 @@
-Condense	v. (-sing) 1 make denser or more concentrated. 2 express in fewer words. 3 reduce or be reduced from a gas or vapour to a liquid. [latin: related to *dense]
+Condense	v. (-sing) 1 make denser or more concentrated. 2 express in fewer words. 3 reduce or be reduced from a gas or vapour to a liquid. [latin: related to *dense]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

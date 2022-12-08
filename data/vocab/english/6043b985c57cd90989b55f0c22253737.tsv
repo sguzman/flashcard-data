@@ -1,1 +1,6 @@
-Redound	v. 1 (foll. By to) make a great contribution to (one's credit or advantage etc.). 2 (foll. By upon, on) come back or recoil upon. [latin unda wave]
+Redound	v. 1 (foll. By to) make a great contribution to (one's credit or advantage etc.). 2 (foll. By upon, on) come back or recoil upon. [latin unda wave]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

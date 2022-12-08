@@ -1,1 +1,6 @@
-Ooze1	—v. (-zing) 1 trickle or leak slowly out. 2 (of a substance) exude fluid. 3 (often foll. By with) exude (a feeling) freely (oozed (with) charm). —n. Sluggish flow.  oozy adj. [old english]
+Ooze1	—v. (-zing) 1 trickle or leak slowly out. 2 (of a substance) exude fluid. 3 (often foll. By with) exude (a feeling) freely (oozed (with) charm). —n. Sluggish flow.  oozy adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

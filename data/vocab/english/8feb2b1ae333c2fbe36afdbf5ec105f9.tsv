@@ -1,1 +1,6 @@
-Pubescence	n. 1 beginning of puberty. 2  soft down on plants, or on animals, esp. Insects.  pubescent adj. [latin: related to *pubes1]
+Pubescence	n. 1 beginning of puberty. 2  soft down on plants, or on animals, esp. Insects.  pubescent adj. [latin: related to *pubes1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

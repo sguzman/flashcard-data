@@ -1,1 +1,6 @@
-Hem1	—n. Border of cloth where the edge is turned under and sewn down. —v. (-mm-) turn down and sew in the edge of (cloth etc.).  hem in confine; restrict the movement of. [old english]
+Hem1	—n. Border of cloth where the edge is turned under and sewn down. —v. (-mm-) turn down and sew in the edge of (cloth etc.).  hem in confine; restrict the movement of. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

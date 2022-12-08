@@ -1,1 +1,6 @@
-Amplify	v. (-ies, -ied) 1 increase the strength of (sound, electrical signals, etc.). 2 add detail to, expand (a story etc.).  amplification n. [latin: related to *ample]
+Amplify	v. (-ies, -ied) 1 increase the strength of (sound, electrical signals, etc.). 2 add detail to, expand (a story etc.).  amplification n. [latin: related to *ample]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Post-impressionism	n. Art intending to express the individual artist's conception of the objects represented.  post-impressionist n. & adj.
+Post-impressionism	n. Art intending to express the individual artist's conception of the objects represented.  post-impressionist n. & adj.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

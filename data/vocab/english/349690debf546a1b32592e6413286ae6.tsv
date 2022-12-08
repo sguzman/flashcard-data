@@ -1,1 +1,6 @@
-Treasure	—n. 1 a precious metals or gems. B hoard of these. C accumulated wealth. 2 thing valued for its rarity, workmanship, associations, etc. (art treasures). 3 colloq. Much loved or highly valued person. —v. (-ring) 1 value highly. 2 (often foll. By up) store up as valuable. [greek thesauros]
+Treasure	—n. 1 a precious metals or gems. B hoard of these. C accumulated wealth. 2 thing valued for its rarity, workmanship, associations, etc. (art treasures). 3 colloq. Much loved or highly valued person. —v. (-ring) 1 value highly. 2 (often foll. By up) store up as valuable. [greek thesauros]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Caveat	n. 1 warning, proviso. 2 law process in court to suspend proceedings. [latin, = let him beware]
+Caveat	n. 1 warning, proviso. 2 law process in court to suspend proceedings. [latin, = let him beware]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

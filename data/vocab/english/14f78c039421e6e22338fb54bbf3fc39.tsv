@@ -1,1 +1,6 @@
-Puppy	n. (pl. -ies) 1 young dog. 2 conceited or arrogant young man. [french: related to *poppet]
+Puppy	n. (pl. -ies) 1 young dog. 2 conceited or arrogant young man. [french: related to *poppet]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

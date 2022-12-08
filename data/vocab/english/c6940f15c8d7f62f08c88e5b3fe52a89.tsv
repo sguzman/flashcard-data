@@ -1,1 +1,6 @@
-Monstrous	adj. 1 like a monster; abnormally formed. 2 huge. 3 a outrageously wrong or absurd. B atrocious.  monstrously adv. Monstrousness n. [latin: related to *monster]
+Monstrous	adj. 1 like a monster; abnormally formed. 2 huge. 3 a outrageously wrong or absurd. B atrocious.  monstrously adv. Monstrousness n. [latin: related to *monster]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

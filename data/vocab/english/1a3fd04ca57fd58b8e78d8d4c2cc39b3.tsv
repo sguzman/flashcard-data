@@ -1,1 +1,6 @@
-Pharaoh	n. 1 ruler of ancient egypt. 2 title of this ruler. [old english from church latin pharao, ultimately from egyptian]
+Pharaoh	n. 1 ruler of ancient egypt. 2 title of this ruler. [old english from church latin pharao, ultimately from egyptian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Moot	—adj. Debatable, undecided (moot point). —v. Raise (a question) for discussion. —n. Hist. Assembly. [old english]
+Moot	—adj. Debatable, undecided (moot point). —v. Raise (a question) for discussion. —n. Hist. Assembly. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

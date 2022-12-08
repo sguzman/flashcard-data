@@ -1,1 +1,6 @@
-Harmony	n. (pl. -ies) 1 combination of simultaneously sounded musical notes to produce chords and chord progressions, esp. As creating a pleasing effect. 2 a apt or aesthetic arrangement of parts. B pleasing effect of this. 3 agreement, concord.  in harmony 1 in agreement. 2 (of singing etc.) Producing chords; not discordant. [greek harmonia joining]
+Harmony	n. (pl. -ies) 1 combination of simultaneously sounded musical notes to produce chords and chord progressions, esp. As creating a pleasing effect. 2 a apt or aesthetic arrangement of parts. B pleasing effect of this. 3 agreement, concord.  in harmony 1 in agreement. 2 (of singing etc.) Producing chords; not discordant. [greek harmonia joining]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

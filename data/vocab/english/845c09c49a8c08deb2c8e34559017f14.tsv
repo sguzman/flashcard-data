@@ -1,1 +1,6 @@
-Harmonious	adj. 1 sweet-sounding; tuneful. 2 forming a pleasing or consistent whole. 3 free from disagreement or dissent.  harmoniously adv.
+Harmonious	adj. 1 sweet-sounding; tuneful. 2 forming a pleasing or consistent whole. 3 free from disagreement or dissent.  harmoniously adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

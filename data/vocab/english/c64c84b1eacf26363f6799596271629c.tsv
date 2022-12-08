@@ -1,1 +1,6 @@
-Carbon dating	n. Determination of the age of an organic object from the ratio of isotopes, which changes as carbon-14 decays.
+Carbon dating	n. Determination of the age of an organic object from the ratio of isotopes, which changes as carbon-14 decays.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

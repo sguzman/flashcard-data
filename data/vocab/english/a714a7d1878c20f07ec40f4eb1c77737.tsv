@@ -1,1 +1,6 @@
-Pitta	n. (also pita) flat hollow unleavened bread which can be split and filled. [modern greek, = a kind of cake]
+Pitta	n. (also pita) flat hollow unleavened bread which can be split and filled. [modern greek, = a kind of cake]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

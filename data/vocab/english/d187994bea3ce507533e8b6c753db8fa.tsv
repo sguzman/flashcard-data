@@ -1,1 +1,6 @@
-Supine	—adj. 1 lying face upwards. 2 inert, indolent. —n. Latin verbal noun used only in the accusative and ablative. [latin]
+Supine	—adj. 1 lying face upwards. 2 inert, indolent. —n. Latin verbal noun used only in the accusative and ablative. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Bezel	n. 1 sloped edge of a chisel. 2 oblique faces of a cut gem. 3 groove holding a watch-glass or gem. [french]
+Bezel	n. 1 sloped edge of a chisel. 2 oblique faces of a cut gem. 3 groove holding a watch-glass or gem. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

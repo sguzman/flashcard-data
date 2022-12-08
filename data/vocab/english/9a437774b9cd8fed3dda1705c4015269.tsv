@@ -1,1 +1,6 @@
-Synthetic	—adj. 1 made by chemical synthesis, esp. To imitate a natural product. 2 affected, insincere. —n. Synthetic substance.  synthetically adv.
+Synthetic	—adj. 1 made by chemical synthesis, esp. To imitate a natural product. 2 affected, insincere. —n. Synthetic substance.  synthetically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lyric	—adj. 1 (of poetry) expressing the writer's emotions, usu. Briefly and in stanzas. 2 (of a poet) writing in this manner. 3 meant or fit to be sung, songlike. —n. 1 lyric poem. 2 (in pl.) Words of a song. [latin: related to *lyre]
+Lyric	—adj. 1 (of poetry) expressing the writer's emotions, usu. Briefly and in stanzas. 2 (of a poet) writing in this manner. 3 meant or fit to be sung, songlike. —n. 1 lyric poem. 2 (in pl.) Words of a song. [latin: related to *lyre]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

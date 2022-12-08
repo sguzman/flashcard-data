@@ -1,1 +1,6 @@
-Employ	—v. 1 use the services of (a person) in return for payment. 2 use (a thing, time, energy, etc.) To good effect. 3 keep (a person) occupied. —n. (in phr. In the employ of) employed by.  employable adj. Employer n. [latin implicor be involved]
+Employ	—v. 1 use the services of (a person) in return for payment. 2 use (a thing, time, energy, etc.) To good effect. 3 keep (a person) occupied. —n. (in phr. In the employ of) employed by.  employable adj. Employer n. [latin implicor be involved]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Towards	prep. 1 in the direction of (set out towards town). 2 as regards; in relation to (attitude towards death). 3 as a contribution to; for (put it towards her holiday). 4 near (towards the end of our journey). [old english, = future: related to *to, *-ward]
+Towards	prep. 1 in the direction of (set out towards town). 2 as regards; in relation to (attitude towards death). 3 as a contribution to; for (put it towards her holiday). 4 near (towards the end of our journey). [old english, = future: related to *to, *-ward]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

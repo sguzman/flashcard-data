@@ -1,1 +1,6 @@
-Confederate	—adj. Esp. Polit. Allied. —n. 1 ally, esp. (in a bad sense) accomplice. 2 (confederate) supporter of the confederate states. —v. (-ting) (often foll. By with) bring or come into alliance. [latin: related to *federal]
+Confederate	—adj. Esp. Polit. Allied. —n. 1 ally, esp. (in a bad sense) accomplice. 2 (confederate) supporter of the confederate states. —v. (-ting) (often foll. By with) bring or come into alliance. [latin: related to *federal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

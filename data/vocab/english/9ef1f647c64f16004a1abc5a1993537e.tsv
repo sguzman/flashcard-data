@@ -1,1 +1,6 @@
-Lieutenant	n. 1 a army officer next in rank below captain. B naval officer next in rank below lieutenant commander. 2 deputy.  lieutenancy n. (pl. -ies). [french: related to *lieu place, *tenant holder]
+Lieutenant	n. 1 a army officer next in rank below captain. B naval officer next in rank below lieutenant commander. 2 deputy.  lieutenancy n. (pl. -ies). [french: related to *lieu place, *tenant holder]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

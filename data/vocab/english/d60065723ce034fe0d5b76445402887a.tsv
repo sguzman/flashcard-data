@@ -1,1 +1,6 @@
-Ski	—n. (pl. -s) 1 each of a pair of long narrow pieces of wood etc., fastened under the feet for travelling over snow. 2 similar device under a vehicle or aircraft. —v. (skis, ski'd or skied, skiing) travel on skis.  skier n. [norwegian from old norse] 
+Ski	—n. (pl. -s) 1 each of a pair of long narrow pieces of wood etc., fastened under the feet for travelling over snow. 2 similar device under a vehicle or aircraft. —v. (skis, ski'd or skied, skiing) travel on skis.  skier n. [norwegian from old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sniffle	—v. (-ling) sniff slightly or repeatedly. —n. 1 act of sniffling. 2 (in sing. Or pl.) Cold in the head causing sniffling. [imitative: cf. *snivel]
+Sniffle	—v. (-ling) sniff slightly or repeatedly. —n. 1 act of sniffling. 2 (in sing. Or pl.) Cold in the head causing sniffling. [imitative: cf. *snivel]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

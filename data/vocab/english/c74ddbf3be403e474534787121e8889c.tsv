@@ -1,1 +1,6 @@
-Palace	n. 1 official residence of a sovereign, president, archbishop, or bishop. 2 splendid or spacious building. [latin palatium]
+Palace	n. 1 official residence of a sovereign, president, archbishop, or bishop. 2 splendid or spacious building. [latin palatium]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

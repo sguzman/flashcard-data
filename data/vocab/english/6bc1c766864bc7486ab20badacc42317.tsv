@@ -1,1 +1,6 @@
-Parliament	n. 1 (parliament) a (in the uk) highest legislature, consisting of the sovereign, the house of lords, and the house of commons. B members of this for a particular period, esp. Between elections. 2 similar legislature in other states. [french: related to *parlance]
+Parliament	n. 1 (parliament) a (in the uk) highest legislature, consisting of the sovereign, the house of lords, and the house of commons. B members of this for a particular period, esp. Between elections. 2 similar legislature in other states. [french: related to *parlance]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

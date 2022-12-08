@@ -1,1 +1,6 @@
-Honeydew	n. 1 sweet sticky substance excreted by aphids on leaves and stems. 2 variety of melon.
+Honeydew	n. 1 sweet sticky substance excreted by aphids on leaves and stems. 2 variety of melon.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

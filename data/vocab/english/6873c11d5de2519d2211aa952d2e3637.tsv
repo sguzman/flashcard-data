@@ -1,1 +1,6 @@
-Bake	v. (-king) 1 cook or become cooked by dry heat, esp. In an oven. 2 colloq. (usu. As be baking) (of weather, a person, etc.) Be very hot. 3 harden by heat. [old english]
+Bake	v. (-king) 1 cook or become cooked by dry heat, esp. In an oven. 2 colloq. (usu. As be baking) (of weather, a person, etc.) Be very hot. 3 harden by heat. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Summit	n. 1 highest point, top. 2 highest degree of power, ambition, etc. 3 (in full summit meeting, talks, etc.) Conference of heads of government. [latin summus highest]
+Summit	n. 1 highest point, top. 2 highest degree of power, ambition, etc. 3 (in full summit meeting, talks, etc.) Conference of heads of government. [latin summus highest]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

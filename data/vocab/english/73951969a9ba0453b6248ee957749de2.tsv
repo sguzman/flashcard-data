@@ -1,1 +1,6 @@
-Oak	n. 1 acorn-bearing tree with lobed leaves. 2 its durable wood. 3 (attrib.) Of oak. 4 (the oaks) (treated as sing.) Annual race at epsom for fillies. [old english]
+Oak	n. 1 acorn-bearing tree with lobed leaves. 2 its durable wood. 3 (attrib.) Of oak. 4 (the oaks) (treated as sing.) Annual race at epsom for fillies. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

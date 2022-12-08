@@ -1,1 +1,6 @@
-Testament	n. 1 will (esp. Last will and testament). 2 (usu. Foll. By to) evidence, proof (is testament to his loyalty). 3 bibl. A covenant, dispensation. B (testament) division of the bible (see *old testament, *new testament). [latin testamentum will: related to *testate]
+Testament	n. 1 will (esp. Last will and testament). 2 (usu. Foll. By to) evidence, proof (is testament to his loyalty). 3 bibl. A covenant, dispensation. B (testament) division of the bible (see *old testament, *new testament). [latin testamentum will: related to *testate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

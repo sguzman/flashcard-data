@@ -1,1 +1,6 @@
-Guardian	n. 1 protector, keeper. 2 person having legal custody of another, esp. A minor.  guardianship n. [french: related to *ward, *warden]
+Guardian	n. 1 protector, keeper. 2 person having legal custody of another, esp. A minor.  guardianship n. [french: related to *ward, *warden]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

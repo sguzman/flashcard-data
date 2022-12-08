@@ -1,1 +1,6 @@
-Thorn	n. 1 sharp-pointed projection on a plant. 2 thorn-bearing shrub or tree.  thorn in one's flesh (or side) constant nuisance.  thornless adj. [old english]
+Thorn	n. 1 sharp-pointed projection on a plant. 2 thorn-bearing shrub or tree.  thorn in one's flesh (or side) constant nuisance.  thornless adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

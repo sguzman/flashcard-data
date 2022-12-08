@@ -1,1 +1,6 @@
-Commissary	n. (pl. -ies) 1 deputy, delegate. 2 us mil. Store for supplies of food etc. [latin: related to *commit]
+Commissary	n. (pl. -ies) 1 deputy, delegate. 2 us mil. Store for supplies of food etc. [latin: related to *commit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

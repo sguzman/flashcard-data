@@ -1,1 +1,6 @@
-Min.	Abbr. 1 minute(s). 2 minimum. 3 minim (fluid measure).
+Min.	Abbr. 1 minute(s). 2 minimum. 3 minim (fluid measure).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

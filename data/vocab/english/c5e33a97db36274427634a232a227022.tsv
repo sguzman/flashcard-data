@@ -1,1 +1,6 @@
-Fudge	—n. 1 soft toffee-like sweet made of milk, sugar, butter, etc. 2 piece of dishonesty or faking. —v. (-ging) make or do clumsily or dishonestly; fake (fudge the results). [origin uncertain]
+Fudge	—n. 1 soft toffee-like sweet made of milk, sugar, butter, etc. 2 piece of dishonesty or faking. —v. (-ging) make or do clumsily or dishonestly; fake (fudge the results). [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

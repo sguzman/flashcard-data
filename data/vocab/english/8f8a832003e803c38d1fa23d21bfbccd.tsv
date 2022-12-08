@@ -1,1 +1,6 @@
-Pestilent	adj. 1 deadly. 2 harmful or morally destructive. 3 colloq. Troublesome, annoying.
+Pestilent	adj. 1 deadly. 2 harmful or morally destructive. 3 colloq. Troublesome, annoying.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

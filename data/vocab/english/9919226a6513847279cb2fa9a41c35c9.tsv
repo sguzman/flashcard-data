@@ -1,1 +1,6 @@
-Undress	—v. 1 take off one's clothes. 2 take the clothes off (a person). —n. 1 ordinary or casual dress, esp. As opposed to full dress or uniform. 2 naked or scantily clad state.
+Undress	—v. 1 take off one's clothes. 2 take the clothes off (a person). —n. 1 ordinary or casual dress, esp. As opposed to full dress or uniform. 2 naked or scantily clad state.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

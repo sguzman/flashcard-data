@@ -1,1 +1,6 @@
-Shoal2	—n. 1 a area of shallow water. B submerged sandbank visible at low water. 2 (esp. In pl.) Hidden danger. —v. (of water) get shallower. [old english]
+Shoal2	—n. 1 a area of shallow water. B submerged sandbank visible at low water. 2 (esp. In pl.) Hidden danger. —v. (of water) get shallower. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

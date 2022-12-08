@@ -1,1 +1,6 @@
-Poetic licence	n. Writer's or artist's transgression of established rules for effect.
+Poetic licence	n. Writer's or artist's transgression of established rules for effect.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

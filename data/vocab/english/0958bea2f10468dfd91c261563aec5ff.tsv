@@ -1,1 +1,6 @@
-Loganberry	n. (pl. -ies) dark red fruit, hybrid of a blackberry and a raspberry. [logan, name of a horticulturalist]
+Loganberry	n. (pl. -ies) dark red fruit, hybrid of a blackberry and a raspberry. [logan, name of a horticulturalist]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Murky	adj. (-ier, -iest) 1 dark, gloomy. 2 (of darkness, liquid, etc.) Thick, dirty. 3 suspiciously obscure (murky past).  murkily adv. Murkiness n.
+Murky	adj. (-ier, -iest) 1 dark, gloomy. 2 (of darkness, liquid, etc.) Thick, dirty. 3 suspiciously obscure (murky past).  murkily adv. Murkiness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Lumber	—n. 1 disused and cumbersome articles. 2 partly prepared timber. —v. 1 (usu. Foll. By with) leave (a person etc.) With something unwanted or unpleasant. 2 (usu. Foll. By up) obstruct, fill inconveniently. 3 cut and prepare forest timber. 4 move in a slow clumsy way. [origin uncertain]
+Lumber	—n. 1 disused and cumbersome articles. 2 partly prepared timber. —v. 1 (usu. Foll. By with) leave (a person etc.) With something unwanted or unpleasant. 2 (usu. Foll. By up) obstruct, fill inconveniently. 3 cut and prepare forest timber. 4 move in a slow clumsy way. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

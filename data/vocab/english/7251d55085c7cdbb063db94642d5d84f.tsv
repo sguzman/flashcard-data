@@ -1,1 +1,6 @@
-Coloratura	n. 1 elaborate ornamentation of a vocal melody. 2 soprano skilled in this. [italian: related to *colour]
+Coloratura	n. 1 elaborate ornamentation of a vocal melody. 2 soprano skilled in this. [italian: related to *colour]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

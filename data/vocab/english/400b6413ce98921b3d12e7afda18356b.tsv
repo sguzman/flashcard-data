@@ -1,1 +1,6 @@
-Pressing	—adj. 1 urgent. 2 urging strongly (pressing invitation). —n. 1 thing made by pressing, e.g. A gramophone record. 2 series of these made at one time. 3 act of pressing (all at one pressing).  pressingly adv.
+Pressing	—adj. 1 urgent. 2 urging strongly (pressing invitation). —n. 1 thing made by pressing, e.g. A gramophone record. 2 series of these made at one time. 3 act of pressing (all at one pressing).  pressingly adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

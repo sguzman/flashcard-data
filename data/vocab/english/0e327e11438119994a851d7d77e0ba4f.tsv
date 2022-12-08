@@ -1,1 +1,6 @@
-Woo	v. (woos, wooed) 1 court; seek the hand or love of. 2 try to win (fame, fortune, etc.). 3 seek the favour or support of. 4 coax or importune.  wooer n. [old english]
+Woo	v. (woos, wooed) 1 court; seek the hand or love of. 2 try to win (fame, fortune, etc.). 3 seek the favour or support of. 4 coax or importune.  wooer n. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

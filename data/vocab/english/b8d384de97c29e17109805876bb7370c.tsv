@@ -1,1 +1,6 @@
-Tannic acid	n. Natural yellowish organic compound used as a mordant and astringent.
+Tannic acid	n. Natural yellowish organic compound used as a mordant and astringent.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

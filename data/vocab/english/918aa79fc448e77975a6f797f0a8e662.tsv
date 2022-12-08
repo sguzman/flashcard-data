@@ -1,1 +1,6 @@
-Probate	n. 1 official proving of a will. 2 verified copy of a will with a certificate as handed to executors. [latin probo *prove]
+Probate	n. 1 official proving of a will. 2 verified copy of a will with a certificate as handed to executors. [latin probo *prove]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

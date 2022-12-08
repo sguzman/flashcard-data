@@ -1,1 +1,6 @@
-Loafer	n. 1 idle person. 2 (loafer) propr. Flat soft-soled leather shoe. [origin uncertain]
+Loafer	n. 1 idle person. 2 (loafer) propr. Flat soft-soled leather shoe. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

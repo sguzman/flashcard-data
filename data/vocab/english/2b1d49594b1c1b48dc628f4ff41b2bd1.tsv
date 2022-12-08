@@ -1,1 +1,6 @@
-Septum	n. (pl. Septa) partition such as that between the nostrils or the chambers of a poppy-fruit or of a shell. [latin s(a)eptum from saepio enclose]
+Septum	n. (pl. Septa) partition such as that between the nostrils or the chambers of a poppy-fruit or of a shell. [latin s(a)eptum from saepio enclose]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

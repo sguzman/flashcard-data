@@ -1,1 +1,6 @@
-Varicolored	adj. (brit. Varicoloured) 1 variegated in colour. 2 of various colours. [latin varius *various]
+Varicolored	adj. (brit. Varicoloured) 1 variegated in colour. 2 of various colours. [latin varius *various]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

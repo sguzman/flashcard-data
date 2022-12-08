@@ -1,1 +1,6 @@
-Bare	—adj. 1 unclothed or uncovered. 2 leafless; unfurnished; empty. 3 plain, unadorned (the bare truth; bare facts). 4 (attrib.) Scanty, just sufficient (a bare majority; bare necessities). —v. (-ring) uncover, reveal (bared his teeth; bared his soul). [old english]
+Bare	—adj. 1 unclothed or uncovered. 2 leafless; unfurnished; empty. 3 plain, unadorned (the bare truth; bare facts). 4 (attrib.) Scanty, just sufficient (a bare majority; bare necessities). —v. (-ring) uncover, reveal (bared his teeth; bared his soul). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

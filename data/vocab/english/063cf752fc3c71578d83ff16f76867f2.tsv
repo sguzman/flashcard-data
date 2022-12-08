@@ -1,1 +1,6 @@
-Bard	n. 1 poet. Poet. 2 a hist. Celtic minstrel. B prizewinner at an eisteddfod.  bardic adj. [celtic]
+Bard	n. 1 poet. Poet. 2 a hist. Celtic minstrel. B prizewinner at an eisteddfod.  bardic adj. [celtic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

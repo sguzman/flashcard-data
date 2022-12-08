@@ -1,1 +1,6 @@
-Year	n. 1 time occupied by the earth in one revolution round the sun, approx. 3651/4 days. 2 = *calendar year. 3 period of twelve months, starting at any point (four years ago; tax year). 4 (in pl.) Age, time of life (young for his years). 5 (usu. In pl.) Colloq. Very long time. 6 group of students entering college etc. In the same academic year. [old english]
+Year	n. 1 time occupied by the earth in one revolution round the sun, approx. 3651/4 days. 2 = *calendar year. 3 period of twelve months, starting at any point (four years ago; tax year). 4 (in pl.) Age, time of life (young for his years). 5 (usu. In pl.) Colloq. Very long time. 6 group of students entering college etc. In the same academic year. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

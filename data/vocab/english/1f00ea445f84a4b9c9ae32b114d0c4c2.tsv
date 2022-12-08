@@ -1,1 +1,6 @@
-Styrene	n. Liquid hydrocarbon easily polymerized and used in making plastics etc. [greek sturax a resin]
+Styrene	n. Liquid hydrocarbon easily polymerized and used in making plastics etc. [greek sturax a resin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

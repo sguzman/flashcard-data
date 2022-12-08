@@ -1,1 +1,6 @@
-Plump2	—v. 1 (foll. By for) decide on, choose. 2 (often foll. By down) drop or fall abruptly. —n. Abrupt or heavy fall. —adv. Colloq. With a plump. [low german or dutch plompen, imitative]
+Plump2	—v. 1 (foll. By for) decide on, choose. 2 (often foll. By down) drop or fall abruptly. —n. Abrupt or heavy fall. —adv. Colloq. With a plump. [low german or dutch plompen, imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

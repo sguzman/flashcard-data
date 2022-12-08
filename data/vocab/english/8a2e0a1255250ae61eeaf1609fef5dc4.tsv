@@ -1,1 +1,6 @@
-Robot	n. 1 machine resembling or functioning like a human. 2 machine automatically completing a mechanical process. 3 person who acts mechanically.  robotic adj. Robotize v. (also -ise) (-zing or -sing). [czech]
+Robot	n. 1 machine resembling or functioning like a human. 2 machine automatically completing a mechanical process. 3 person who acts mechanically.  robotic adj. Robotize v. (also -ise) (-zing or -sing). [czech]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

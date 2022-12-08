@@ -1,1 +1,6 @@
-Carriage	n. 1 railway passenger vehicle. 2 wheeled horse-drawn passenger vehicle. 3 a conveying of goods. B cost of this. 4 carrying part of a machine (e.g. A typewriter). 5 gun-carriage. 6 bearing, deportment. [french: related to *carry]
+Carriage	n. 1 railway passenger vehicle. 2 wheeled horse-drawn passenger vehicle. 3 a conveying of goods. B cost of this. 4 carrying part of a machine (e.g. A typewriter). 5 gun-carriage. 6 bearing, deportment. [french: related to *carry]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

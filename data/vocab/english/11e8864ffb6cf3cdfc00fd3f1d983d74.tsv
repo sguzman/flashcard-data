@@ -1,1 +1,6 @@
-Drivel	—n. Silly talk; nonsense. —v. (-ll-; us -l-, -ling) 1 talk drivel. 2 run at the mouth or nose. [old english]
+Drivel	—n. Silly talk; nonsense. —v. (-ll-; us -l-, -ling) 1 talk drivel. 2 run at the mouth or nose. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

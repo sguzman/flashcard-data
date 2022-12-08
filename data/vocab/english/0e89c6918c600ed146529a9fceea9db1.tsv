@@ -1,1 +1,6 @@
-Itinerary	n. (pl. -ies) 1 detailed route. 2 record of travel. 3 guidebook.
+Itinerary	n. (pl. -ies) 1 detailed route. 2 record of travel. 3 guidebook.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

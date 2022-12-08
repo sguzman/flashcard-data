@@ -1,1 +1,6 @@
-Lightning-conductor	n. (also lightning-rod) metal rod or wire fixed to an exposed part of a building or to a mast to divert lightning into the earth or sea.
+Lightning-conductor	n. (also lightning-rod) metal rod or wire fixed to an exposed part of a building or to a mast to divert lightning into the earth or sea.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

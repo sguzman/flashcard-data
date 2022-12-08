@@ -1,1 +1,6 @@
-Astrakhan	n. 1 dark curly fleece of young astrakhan lambs. 2 cloth imitating this. [astrakhan in russia]
+Astrakhan	n. 1 dark curly fleece of young astrakhan lambs. 2 cloth imitating this. [astrakhan in russia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

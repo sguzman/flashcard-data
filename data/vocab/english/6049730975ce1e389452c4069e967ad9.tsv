@@ -1,1 +1,6 @@
-Punctilious	adj. 1 attentive to formality or etiquette. 2 precise in behaviour.  punctiliously adv. Punctiliousness n. [italian: related to *punctilio]
+Punctilious	adj. 1 attentive to formality or etiquette. 2 precise in behaviour.  punctiliously adv. Punctiliousness n. [italian: related to *punctilio]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

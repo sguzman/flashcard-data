@@ -1,1 +1,6 @@
-Dwarf	—n. (pl. -s or dwarves) 1 person, animal, or plant much below normal size. 2 small mythological being with magical powers. 3 small usu. Dense star. —v. 1 stunt in growth. 2 make seem small.  dwarfish adj. [old english]
+Dwarf	—n. (pl. -s or dwarves) 1 person, animal, or plant much below normal size. 2 small mythological being with magical powers. 3 small usu. Dense star. —v. 1 stunt in growth. 2 make seem small.  dwarfish adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

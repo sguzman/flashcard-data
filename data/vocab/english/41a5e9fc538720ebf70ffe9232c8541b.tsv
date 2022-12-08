@@ -1,1 +1,6 @@
-Political	adj. 1 a of or concerning the state or its government, or public affairs generally. B of or engaged in politics. 2 taking or belonging to a side in politics. 3 concerned with seeking power, status, etc. (political decision).  politically adv. [latin: related to *politic]
+Political	adj. 1 a of or concerning the state or its government, or public affairs generally. B of or engaged in politics. 2 taking or belonging to a side in politics. 3 concerned with seeking power, status, etc. (political decision).  politically adv. [latin: related to *politic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

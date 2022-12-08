@@ -1,1 +1,6 @@
-Quid1	n. (pl. Same) slang one pound sterling.  quids in slang in a position of profit. [probably from latin quid what]
+Quid1	n. (pl. Same) slang one pound sterling.  quids in slang in a position of profit. [probably from latin quid what]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

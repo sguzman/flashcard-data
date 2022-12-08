@@ -1,1 +1,6 @@
-Neuter	—adj. 1 neither masculine nor feminine. 2 (of a plant) having neither pistils nor stamen. 3 (of an insect) sexually undeveloped. —n. 1 neuter gender or word. 2 a non-fertile insect, esp. A worker bee or ant. B castrated animal. —v. Castrate or spay. [latin]
+Neuter	—adj. 1 neither masculine nor feminine. 2 (of a plant) having neither pistils nor stamen. 3 (of an insect) sexually undeveloped. —n. 1 neuter gender or word. 2 a non-fertile insect, esp. A worker bee or ant. B castrated animal. —v. Castrate or spay. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

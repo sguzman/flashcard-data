@@ -1,1 +1,6 @@
-Reminder	n. 1 thing that reminds, esp. A repeat letter or bill. 2 (often foll. By of) memento.
+Reminder	n. 1 thing that reminds, esp. A repeat letter or bill. 2 (often foll. By of) memento.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

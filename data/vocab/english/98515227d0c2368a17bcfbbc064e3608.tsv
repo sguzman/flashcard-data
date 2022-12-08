@@ -1,1 +1,6 @@
-Harbour	(us harbor) —n. 1 place of shelter for ships. 2 shelter; refuge. —v. 1 give shelter to (esp. A criminal). 2 keep in one's mind (esp. Resentment etc.). [old english, = army shelter]
+Harbour	(us harbor) —n. 1 place of shelter for ships. 2 shelter; refuge. —v. 1 give shelter to (esp. A criminal). 2 keep in one's mind (esp. Resentment etc.). [old english, = army shelter]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

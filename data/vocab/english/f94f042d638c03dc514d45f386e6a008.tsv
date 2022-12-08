@@ -1,1 +1,6 @@
-Dado	n. (pl. -s) 1 lower, differently decorated, part of an interior wall. 2 plinth of a column. 3 cube of a pedestal between the base and the cornice. [italian: related to *die2]
+Dado	n. (pl. -s) 1 lower, differently decorated, part of an interior wall. 2 plinth of a column. 3 cube of a pedestal between the base and the cornice. [italian: related to *die2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

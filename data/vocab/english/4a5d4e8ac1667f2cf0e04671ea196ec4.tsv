@@ -1,1 +1,6 @@
-Multiple	—adj. 1 having several parts, elements, or components. 2 many and various. —n. Number that contains another without a remainder (56 is a multiple of 7). [latin multiplus: related to *multiplex]
+Multiple	—adj. 1 having several parts, elements, or components. 2 many and various. —n. Number that contains another without a remainder (56 is a multiple of 7). [latin multiplus: related to *multiplex]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Pizza	n. Italian dish of a layer of dough baked with a topping of tomatoes, cheese, etc. [italian, = pie]
+Pizza	n. Italian dish of a layer of dough baked with a topping of tomatoes, cheese, etc. [italian, = pie]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

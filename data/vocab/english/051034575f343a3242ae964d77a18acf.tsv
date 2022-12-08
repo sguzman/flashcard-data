@@ -1,1 +1,6 @@
-Standing	—n. 1 esteem or repute, esp. High; status. 2 duration (of long standing). —adj. 1 that stands, upright. 2 established, permanent (a standing rule; a standing army). 3 (of a jump, start, etc.) Performed with no run-up. 4 (of water) stagnant.
+Standing	—n. 1 esteem or repute, esp. High; status. 2 duration (of long standing). —adj. 1 that stands, upright. 2 established, permanent (a standing rule; a standing army). 3 (of a jump, start, etc.) Performed with no run-up. 4 (of water) stagnant.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Sea anemone	n. Marine animal with tube-shaped body and petal-like tentacles.
+Sea anemone	n. Marine animal with tube-shaped body and petal-like tentacles.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

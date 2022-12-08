@@ -1,1 +1,6 @@
-Switched-on	adj. Colloq. 1 up to date; aware of what is going on. 2 excited; under the influence of drugs.
+Switched-on	adj. Colloq. 1 up to date; aware of what is going on. 2 excited; under the influence of drugs.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

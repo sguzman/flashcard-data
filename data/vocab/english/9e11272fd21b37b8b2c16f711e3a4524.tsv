@@ -1,1 +1,6 @@
-Refractory	adj. 1 stubborn, unmanageable, rebellious. 2 (of a wound, disease, etc.) Not yielding to treatment. 3 (of a substance) hard to fuse or work. [latin: related to *refract]
+Refractory	adj. 1 stubborn, unmanageable, rebellious. 2 (of a wound, disease, etc.) Not yielding to treatment. 3 (of a substance) hard to fuse or work. [latin: related to *refract]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

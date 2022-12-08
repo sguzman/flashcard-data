@@ -1,1 +1,6 @@
-Magnetic	adj. 1 a having the properties of a magnet. B produced or acting by magnetism. 2 capable of being attracted by or acquiring the properties of a magnet. 3 strongly attractive (magnetic personality).  magnetically adv.
+Magnetic	adj. 1 a having the properties of a magnet. B produced or acting by magnetism. 2 capable of being attracted by or acquiring the properties of a magnet. 3 strongly attractive (magnetic personality).  magnetically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

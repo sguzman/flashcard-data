@@ -1,1 +1,6 @@
-Schism	n. Division of a group (esp. Religious) into sects etc., usu. Over doctrine.  schismatic adj. & n. [greek skhizo to split]
+Schism	n. Division of a group (esp. Religious) into sects etc., usu. Over doctrine.  schismatic adj. & n. [greek skhizo to split]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

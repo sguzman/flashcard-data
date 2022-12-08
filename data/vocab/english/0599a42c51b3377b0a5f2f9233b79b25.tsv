@@ -1,1 +1,6 @@
-Logical	adj. 1 of or according to logic (the logical conclusion). 2 correctly reasoned. 3 defensible or explicable on the ground of consistency. 4 capable of correct reasoning.  logicality n. Logically adv. [greek logos word, reason]
+Logical	adj. 1 of or according to logic (the logical conclusion). 2 correctly reasoned. 3 defensible or explicable on the ground of consistency. 4 capable of correct reasoning.  logicality n. Logically adv. [greek logos word, reason]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

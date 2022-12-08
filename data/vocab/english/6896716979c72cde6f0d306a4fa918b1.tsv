@@ -1,1 +1,6 @@
-Frizzle1	v. (-ling) 1 fry or cook with a sizzling noise. 2 (often foll. By up) burn or shrivel. [obsolete frizz: related to *fry1, with imitative ending]
+Frizzle1	v. (-ling) 1 fry or cook with a sizzling noise. 2 (often foll. By up) burn or shrivel. [obsolete frizz: related to *fry1, with imitative ending]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

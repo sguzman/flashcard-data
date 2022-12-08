@@ -1,1 +1,6 @@
-Peripheral	—adj. 1 of minor importance; marginal. 2 of the periphery. —n. Any input, output, or storage device that can be controlled by a computer's central processing unit, e.g. A floppy disk or printer.
+Peripheral	—adj. 1 of minor importance; marginal. 2 of the periphery. —n. Any input, output, or storage device that can be controlled by a computer's central processing unit, e.g. A floppy disk or printer.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

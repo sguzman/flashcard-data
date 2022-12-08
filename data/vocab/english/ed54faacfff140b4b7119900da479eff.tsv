@@ -1,1 +1,6 @@
-Allegiance	n. 1 loyalty (to a person or cause etc.). 2 the duty of a subject. [french: related to *liege]
+Allegiance	n. 1 loyalty (to a person or cause etc.). 2 the duty of a subject. [french: related to *liege]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

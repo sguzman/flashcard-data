@@ -1,1 +1,6 @@
-Brussels sprout	n. 1 brassica with small cabbage-like buds on a stem. 2 such a bud. [brussels in belgium]
+Brussels sprout	n. 1 brassica with small cabbage-like buds on a stem. 2 such a bud. [brussels in belgium]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

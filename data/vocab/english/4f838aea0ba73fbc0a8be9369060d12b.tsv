@@ -1,1 +1,6 @@
-Cloth	n. 1 woven or felted material. 2 piece of this, esp. For a particular purpose; tablecloth, dishcloth, etc. 3 fabric for clothes. 4 a status, esp. Of the clergy, as shown by clothes. B (prec. By the) the clergy. [old english]
+Cloth	n. 1 woven or felted material. 2 piece of this, esp. For a particular purpose; tablecloth, dishcloth, etc. 3 fabric for clothes. 4 a status, esp. Of the clergy, as shown by clothes. B (prec. By the) the clergy. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Decimal	—adj. 1 (of a system of numbers, weights, measures, etc.) Based on the number ten. 2 of tenths or ten; reckoning or proceeding by tens. —n. Decimal fraction. [latin decem ten]
+Decimal	—adj. 1 (of a system of numbers, weights, measures, etc.) Based on the number ten. 2 of tenths or ten; reckoning or proceeding by tens. —n. Decimal fraction. [latin decem ten]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

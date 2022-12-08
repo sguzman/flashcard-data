@@ -1,1 +1,6 @@
-Jersey	n. (pl. -s) 1 a knitted usu. Woollen pullover. B plain-knitted (orig. Woollen) fabric. 2 (jersey) light brown dairy cow from jersey. [jersey in the channel islands]
+Jersey	n. (pl. -s) 1 a knitted usu. Woollen pullover. B plain-knitted (orig. Woollen) fabric. 2 (jersey) light brown dairy cow from jersey. [jersey in the channel islands]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

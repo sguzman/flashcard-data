@@ -1,1 +1,6 @@
-Scroll	—n. 1 roll of parchment or paper, esp. Written on. 2 book in the ancient roll form. 3 ornamental design imitating a roll of parchment. —v. (often foll. By down, up) move (a display on a vdu screen) to view earlier or later material. [originally (sc)rowle *roll]
+Scroll	—n. 1 roll of parchment or paper, esp. Written on. 2 book in the ancient roll form. 3 ornamental design imitating a roll of parchment. —v. (often foll. By down, up) move (a display on a vdu screen) to view earlier or later material. [originally (sc)rowle *roll]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

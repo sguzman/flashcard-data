@@ -1,1 +1,6 @@
-Giggle	—v. (-ling) laugh in half-suppressed spasms. —n. 1 such a laugh. 2 colloq. Amusing person or thing; joke (did it for a giggle).  giggly adj. (-ier, -iest). [imitative]
+Giggle	—v. (-ling) laugh in half-suppressed spasms. —n. 1 such a laugh. 2 colloq. Amusing person or thing; joke (did it for a giggle).  giggly adj. (-ier, -iest). [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

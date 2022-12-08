@@ -1,1 +1,6 @@
-Kitten	—n. Young cat, ferret, etc. —v. (of a cat etc.) Give birth (to).  have kittens colloq. Be very upset or anxious. [anglo-french diminutive of chat *cat]
+Kitten	—n. Young cat, ferret, etc. —v. (of a cat etc.) Give birth (to).  have kittens colloq. Be very upset or anxious. [anglo-french diminutive of chat *cat]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

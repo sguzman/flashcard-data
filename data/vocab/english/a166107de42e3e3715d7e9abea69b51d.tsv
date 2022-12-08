@@ -1,1 +1,6 @@
-Obtrude	v. (-ding) 1 be or become obtrusive. 2 (often foll. By on, upon) thrust (oneself, a matter, etc.) Importunately forward.  obtrusion n. [latin obtrudo thrust against]
+Obtrude	v. (-ding) 1 be or become obtrusive. 2 (often foll. By on, upon) thrust (oneself, a matter, etc.) Importunately forward.  obtrusion n. [latin obtrudo thrust against]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

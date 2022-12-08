@@ -1,1 +1,6 @@
-Should	v.aux. (3rd sing. Should) past of *shall, used esp.: 1 in reported speech (i said i should be home soon). 2 a to express obligation or likelihood (i should tell you; you should have read it; they should have arrived by now). B to express a tentative suggestion (i should like to add). 3 a expressing the conditional mood in the 1st person (i should have been killed if i had gone). B forming a conditional clause (if you should see him).
+Should	v.aux. (3rd sing. Should) past of *shall, used esp.: 1 in reported speech (i said i should be home soon). 2 a to express obligation or likelihood (i should tell you; you should have read it; they should have arrived by now). B to express a tentative suggestion (i should like to add). 3 a expressing the conditional mood in the 1st person (i should have been killed if i had gone). B forming a conditional clause (if you should see him).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

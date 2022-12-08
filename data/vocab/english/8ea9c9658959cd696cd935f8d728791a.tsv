@@ -1,1 +1,6 @@
-Paracetamol	n. 1 drug used to relieve pain and reduce fever. 2 tablet of this. [from para-acetylaminophenol]
+Paracetamol	n. 1 drug used to relieve pain and reduce fever. 2 tablet of this. [from para-acetylaminophenol]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

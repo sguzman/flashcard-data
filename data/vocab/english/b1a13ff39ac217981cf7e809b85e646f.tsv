@@ -1,1 +1,6 @@
-B1	n. (pl. Bs or b's) 1 (also b) second letter of the alphabet. 2 mus. Seventh note of the diatonic scale of c major. 3 second hypothetical person or example. 4 second highest category (of roads, academic marks, etc.). 5 (usu. B) algebra second known quantity.
+B1	n. (pl. Bs or b's) 1 (also b) second letter of the alphabet. 2 mus. Seventh note of the diatonic scale of c major. 3 second hypothetical person or example. 4 second highest category (of roads, academic marks, etc.). 5 (usu. B) algebra second known quantity.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

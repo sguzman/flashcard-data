@@ -1,1 +1,6 @@
-Tensile	adj. 1 of tension. 2 capable of being stretched.  tensility n. [medieval latin: related to *tense1]
+Tensile	adj. 1 of tension. 2 capable of being stretched.  tensility n. [medieval latin: related to *tense1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

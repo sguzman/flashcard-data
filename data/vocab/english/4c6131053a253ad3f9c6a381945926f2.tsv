@@ -1,1 +1,6 @@
-Inflame	v. (-ming) 1 provoke to strong feeling, esp. Anger. 2 cause inflammation in; make hot. 3 aggravate. 4 catch or set on fire. 5 light up with or as with flames.
+Inflame	v. (-ming) 1 provoke to strong feeling, esp. Anger. 2 cause inflammation in; make hot. 3 aggravate. 4 catch or set on fire. 5 light up with or as with flames.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

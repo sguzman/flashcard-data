@@ -1,1 +1,6 @@
-Perpetuity	n. (pl. -ies) 1 state or quality of being perpetual. 2 perpetual annuity. 3 perpetual possession or position.  in perpetuity for ever. [latin: related to *perpetual]
+Perpetuity	n. (pl. -ies) 1 state or quality of being perpetual. 2 perpetual annuity. 3 perpetual possession or position.  in perpetuity for ever. [latin: related to *perpetual]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

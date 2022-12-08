@@ -1,1 +1,6 @@
-Penalty area	n. Football ground in front of the goal in which a foul by defenders involves the award of a penalty kick.
+Penalty area	n. Football ground in front of the goal in which a foul by defenders involves the award of a penalty kick.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Watt-hour	n. Energy used when one watt is applied for one hour.
+Watt-hour	n. Energy used when one watt is applied for one hour.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

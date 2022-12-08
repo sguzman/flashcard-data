@@ -1,1 +1,6 @@
-Telescope	—n. 1 optical instrument using lenses or mirrors to magnify distant objects. 2 = *radio telescope. —v. (-ping) 1 press or drive (sections of a tube, colliding vehicles, etc.) Together so that one slides into another. 2 close or be capable of closing in this way. 3 compress so as to occupy less space or time.
+Telescope	—n. 1 optical instrument using lenses or mirrors to magnify distant objects. 2 = *radio telescope. —v. (-ping) 1 press or drive (sections of a tube, colliding vehicles, etc.) Together so that one slides into another. 2 close or be capable of closing in this way. 3 compress so as to occupy less space or time.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

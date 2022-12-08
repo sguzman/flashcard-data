@@ -1,1 +1,6 @@
-Morning	n. 1 early part of the day, ending at noon or lunch-time (this morning; during the morning). 2 attrib. Taken, occurring, or appearing during the morning (morning coffee).  in the morning colloq. Tomorrow morning. [from *morn]
+Morning	n. 1 early part of the day, ending at noon or lunch-time (this morning; during the morning). 2 attrib. Taken, occurring, or appearing during the morning (morning coffee).  in the morning colloq. Tomorrow morning. [from *morn]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

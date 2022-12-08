@@ -1,1 +1,6 @@
-Fang	n. 1 canine tooth, esp. Of a dog or wolf. 2 tooth of a venomous snake. 3 root of a tooth or its prong. [old english]
+Fang	n. 1 canine tooth, esp. Of a dog or wolf. 2 tooth of a venomous snake. 3 root of a tooth or its prong. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

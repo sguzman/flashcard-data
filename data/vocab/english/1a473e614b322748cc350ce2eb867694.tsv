@@ -1,1 +1,6 @@
-Valentine	n. 1 card sent, often anonymously, as a mark of love on st valentine's day (14 feb.). 2 sweetheart chosen on this day. [valentine, name of two saints]
+Valentine	n. 1 card sent, often anonymously, as a mark of love on st valentine's day (14 feb.). 2 sweetheart chosen on this day. [valentine, name of two saints]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

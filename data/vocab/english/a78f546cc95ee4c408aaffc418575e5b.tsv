@@ -1,1 +1,6 @@
-Owe	v. (owing) 1 a be under obligation (to a person etc.) To pay or repay (money, gratitude, etc.). B (usu. Foll. By for) be in debt. 2 have a duty to render (owe allegiance). 3 (usu. Foll. By to) be indebted to a person or thing for (we owe our success to the weather). [old english]
+Owe	v. (owing) 1 a be under obligation (to a person etc.) To pay or repay (money, gratitude, etc.). B (usu. Foll. By for) be in debt. 2 have a duty to render (owe allegiance). 3 (usu. Foll. By to) be indebted to a person or thing for (we owe our success to the weather). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

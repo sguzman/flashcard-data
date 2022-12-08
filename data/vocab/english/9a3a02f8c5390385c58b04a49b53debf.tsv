@@ -1,1 +1,6 @@
-Sector	n. 1 distinct part of an enterprise, society, the economy, etc. 2 military subdivision of an area. 3 plane figure enclosed by two radii of a circle, ellipse, etc., and the arc between them. [latin: related to *section]
+Sector	n. 1 distinct part of an enterprise, society, the economy, etc. 2 military subdivision of an area. 3 plane figure enclosed by two radii of a circle, ellipse, etc., and the arc between them. [latin: related to *section]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

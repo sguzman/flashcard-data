@@ -1,1 +1,6 @@
-Dine	v. (-ning) 1 a eat dinner. B (foll. By on, upon) eat for dinner. 2 (esp. In phr. Wine and dine) entertain with food.  dine out dine away from home. [french diner as *dis-, latin jejunus fasting]
+Dine	v. (-ning) 1 a eat dinner. B (foll. By on, upon) eat for dinner. 2 (esp. In phr. Wine and dine) entertain with food.  dine out dine away from home. [french diner as *dis-, latin jejunus fasting]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

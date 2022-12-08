@@ -1,1 +1,6 @@
-Grandiose	adj. 1 producing or meant to produce an imposing effect. 2 planned on an ambitious scale.  grandiosity n. [italian: related to *grand]
+Grandiose	adj. 1 producing or meant to produce an imposing effect. 2 planned on an ambitious scale.  grandiosity n. [italian: related to *grand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

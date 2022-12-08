@@ -1,1 +1,6 @@
-Distinguish	v. 1 (often foll. By from, between) differentiate; see or draw distinctions. 2 be a mark or property of; characterize. 3 discover by listening, looking, etc. 4 (usu. Refl.; often foll. By by) make prominent (distinguished himself by winning).  distinguishable adj. [latin: related to *dis-, stinguo stinct- extinguish]
+Distinguish	v. 1 (often foll. By from, between) differentiate; see or draw distinctions. 2 be a mark or property of; characterize. 3 discover by listening, looking, etc. 4 (usu. Refl.; often foll. By by) make prominent (distinguished himself by winning).  distinguishable adj. [latin: related to *dis-, stinguo stinct- extinguish]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

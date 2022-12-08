@@ -1,1 +1,6 @@
-Entropy	n. 1 physics measure of the disorganization or degradation of the universe, resulting in a decrease in available energy. 2 physics measure of the unavailability of a system's thermal energy for conversion into mechanical work. [greek: related to *en-2, trope transformation]
+Entropy	n. 1 physics measure of the disorganization or degradation of the universe, resulting in a decrease in available energy. 2 physics measure of the unavailability of a system's thermal energy for conversion into mechanical work. [greek: related to *en-2, trope transformation]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

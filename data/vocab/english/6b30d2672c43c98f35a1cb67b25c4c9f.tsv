@@ -1,1 +1,6 @@
-Label	—n. 1 piece of paper etc. Attached to an object to give information about it. 2 short classifying phrase applied to a person etc. 3 logo, title, or trademark of a company. —v. (-ll-; us -l-) 1 attach a label to. 2 (usu. Foll. By as) assign to a category. 3 replace (an atom) by an atom of a usu. Radioactive isotope as a means of identification. [french]
+Label	—n. 1 piece of paper etc. Attached to an object to give information about it. 2 short classifying phrase applied to a person etc. 3 logo, title, or trademark of a company. —v. (-ll-; us -l-) 1 attach a label to. 2 (usu. Foll. By as) assign to a category. 3 replace (an atom) by an atom of a usu. Radioactive isotope as a means of identification. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Flip1	—v. (-pp-) 1 flick or toss (a coin, pellet, etc.) So that it spins in the air. 2 turn (a small object) over; flick. 3 slang = flip one's lid. —n. 1 act of flipping. 2 colloq. Short trip. —adj. Colloq. Glib; flippant.  flip one's lid slang lose self-control; go mad. Flip through = flick through. [probably from *fillip]
+Flip1	—v. (-pp-) 1 flick or toss (a coin, pellet, etc.) So that it spins in the air. 2 turn (a small object) over; flick. 3 slang = flip one's lid. —n. 1 act of flipping. 2 colloq. Short trip. —adj. Colloq. Glib; flippant.  flip one's lid slang lose self-control; go mad. Flip through = flick through. [probably from *fillip]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

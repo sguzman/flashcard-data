@@ -1,1 +1,6 @@
-Strategy	n. (pl. -ies) 1 long-term plan or policy (economic strategy). 2 art of war. 3 art of moving troops, ships, aircraft, etc. Into favourable positions.  strategist n.
+Strategy	n. (pl. -ies) 1 long-term plan or policy (economic strategy). 2 art of war. 3 art of moving troops, ships, aircraft, etc. Into favourable positions.  strategist n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

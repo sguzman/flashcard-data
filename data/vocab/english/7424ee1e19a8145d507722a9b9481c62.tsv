@@ -1,1 +1,6 @@
-Redress	—v. 1 remedy or rectify (a wrong or grievance etc.). 2 readjust, set straight again. —n. 1 reparation for a wrong. 2 (foll. By of) redressing (a grievance etc.).  redress the balance restore equality. [french: related to *dress]
+Redress	—v. 1 remedy or rectify (a wrong or grievance etc.). 2 readjust, set straight again. —n. 1 reparation for a wrong. 2 (foll. By of) redressing (a grievance etc.).  redress the balance restore equality. [french: related to *dress]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Than	conj. Introducing a comparison (plays better than he did before; more bread than meat in these sausages; cost more than £100; you are older than he). [old english, originally = *then]
+Than	conj. Introducing a comparison (plays better than he did before; more bread than meat in these sausages; cost more than £100; you are older than he). [old english, originally = *then]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

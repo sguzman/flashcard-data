@@ -1,1 +1,6 @@
-Incubate	v. (-ting) 1 hatch (eggs) by sitting on them or by artificial heat. 2 cause (micro-organisms) to develop. 3 develop slowly. [latin cubo lie]
+Incubate	v. (-ting) 1 hatch (eggs) by sitting on them or by artificial heat. 2 cause (micro-organisms) to develop. 3 develop slowly. [latin cubo lie]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Wassail	archaic —n. Festive occasion; drinking-bout. —v. Make merry. [old norse ves heill be in health: related to *whole]
+Wassail	archaic —n. Festive occasion; drinking-bout. —v. Make merry. [old norse ves heill be in health: related to *whole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

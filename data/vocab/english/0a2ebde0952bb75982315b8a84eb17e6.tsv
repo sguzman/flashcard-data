@@ -1,1 +1,6 @@
-Dishonour	(us dishonor) —n. 1 loss of honour or respect; disgrace. 2 thing causing this. —v. 1 disgrace (dishonoured his name). 2 refuse to accept or pay (a cheque etc.).
+Dishonour	(us dishonor) —n. 1 loss of honour or respect; disgrace. 2 thing causing this. —v. 1 disgrace (dishonoured his name). 2 refuse to accept or pay (a cheque etc.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

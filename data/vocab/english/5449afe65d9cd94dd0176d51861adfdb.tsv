@@ -1,1 +1,6 @@
-Really	adv. 1 in reality. 2 very (really useful). 3 indeed, i assure you. 4 expression of mild protest or surprise.
+Really	adv. 1 in reality. 2 very (really useful). 3 indeed, i assure you. 4 expression of mild protest or surprise.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

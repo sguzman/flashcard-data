@@ -1,1 +1,6 @@
-Provincial	—adj. 1 of a province or provinces. 2 unsophisticated or uncultured. —n. 1 inhabitant of a province or the provinces. 2 unsophisticated or uncultured person.  provincialism n.
+Provincial	—adj. 1 of a province or provinces. 2 unsophisticated or uncultured. —n. 1 inhabitant of a province or the provinces. 2 unsophisticated or uncultured person.  provincialism n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

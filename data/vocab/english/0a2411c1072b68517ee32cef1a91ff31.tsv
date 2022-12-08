@@ -1,1 +1,6 @@
-Midland	—n. 1 (the midlands) inland counties of central england. 2 middle part of a country. —adj. Of or in the midland or midlands.
+Midland	—n. 1 (the midlands) inland counties of central england. 2 middle part of a country. —adj. Of or in the midland or midlands.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

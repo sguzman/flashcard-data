@@ -1,1 +1,6 @@
-Spar1	n. 1 stout pole, esp. As a ship's mast etc. 2 main longitudinal beam of an aeroplane wing. [old norse sperra or french esparre]
+Spar1	n. 1 stout pole, esp. As a ship's mast etc. 2 main longitudinal beam of an aeroplane wing. [old norse sperra or french esparre]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

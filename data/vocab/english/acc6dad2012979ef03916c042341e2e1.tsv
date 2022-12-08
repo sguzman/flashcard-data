@@ -1,1 +1,6 @@
-Cleave1	v. (-ving; past clove or cleft or cleaved; past part. Cloven or cleft or cleaved) literary 1 chop or break apart; split, esp. Along the grain or line of cleavage. 2 make one's way through (air or water). [old english]
+Cleave1	v. (-ving; past clove or cleft or cleaved; past part. Cloven or cleft or cleaved) literary 1 chop or break apart; split, esp. Along the grain or line of cleavage. 2 make one's way through (air or water). [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

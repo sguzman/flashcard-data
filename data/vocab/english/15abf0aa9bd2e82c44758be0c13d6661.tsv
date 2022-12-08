@@ -1,1 +1,6 @@
-One	—adj. 1 single and integral in number. 2 (with a noun implied) a single person or thing of the kind expressed or implied (one of the best; a nasty one). 3 particular but undefined, esp. As contrasted with another (that is one view; one night last week). 4 only such (the one man who can do it). 5 forming a unity (one and undivided). 6 identical; the same (of one opinion). —n. 1 a lowest cardinal number. B thing numbered with it. 2 unity; a unit (one is half of two; came in ones and twos).
+One	—adj. 1 single and integral in number. 2 (with a noun implied) a single person or thing of the kind expressed or implied (one of the best; a nasty one). 3 particular but undefined, esp. As contrasted with another (that is one view; one night last week). 4 only such (the one man who can do it). 5 forming a unity (one and undivided). 6 identical; the same (of one opinion). —n. 1 a lowest cardinal number. B thing numbered with it. 2 unity; a unit (one is half of two; came in ones and twos).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

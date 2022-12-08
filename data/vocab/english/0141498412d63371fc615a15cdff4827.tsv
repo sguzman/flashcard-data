@@ -1,1 +1,6 @@
-Sou'wester	n. 1 waterproof hat with a broad flap covering the neck. 2 south-west wind. [from *southwester]
+Sou'wester	n. 1 waterproof hat with a broad flap covering the neck. 2 south-west wind. [from *southwester]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

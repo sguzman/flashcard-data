@@ -1,1 +1,6 @@
-Prodigy	n. (pl. -ies) 1 exceptionally gifted or able person, esp. A precocious child. 2 marvellous, esp. Extraordinary, thing. 3 (foll. By of) wonderful example (of a quality). [latin prodigium portent]
+Prodigy	n. (pl. -ies) 1 exceptionally gifted or able person, esp. A precocious child. 2 marvellous, esp. Extraordinary, thing. 3 (foll. By of) wonderful example (of a quality). [latin prodigium portent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

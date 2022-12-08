@@ -1,1 +1,6 @@
-Indirect object	n. Gram. Person or thing affected by a verbal action but not primarily acted on (e.g. Him in give him the book).
+Indirect object	n. Gram. Person or thing affected by a verbal action but not primarily acted on (e.g. Him in give him the book).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

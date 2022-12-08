@@ -1,1 +1,6 @@
-Commander-in-chief	n. (pl. Commanders-in-chief) supreme commander, esp. Of a nation's forces.
+Commander-in-chief	n. (pl. Commanders-in-chief) supreme commander, esp. Of a nation's forces.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

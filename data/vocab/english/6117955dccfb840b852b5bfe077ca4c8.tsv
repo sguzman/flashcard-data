@@ -1,1 +1,6 @@
-Overall	—attrib. Adj. 1 total, inclusive of all (overall cost). 2 taking everything into account, general (overall improvement). —adv. 1 including everything (cost £50 overall). 2 on the whole, generally (did well overall). —n. 1 protective outer garment. 2 (in pl.) Protective outer trousers or suit.
+Overall	—attrib. Adj. 1 total, inclusive of all (overall cost). 2 taking everything into account, general (overall improvement). —adv. 1 including everything (cost £50 overall). 2 on the whole, generally (did well overall). —n. 1 protective outer garment. 2 (in pl.) Protective outer trousers or suit.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

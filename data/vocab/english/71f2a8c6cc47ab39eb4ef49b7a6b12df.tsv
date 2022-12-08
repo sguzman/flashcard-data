@@ -1,1 +1,6 @@
-Jingle	—n. 1 mixed ringing or clinking noise. 2 a repetition of sounds in a phrase etc. B short catchy verse or song in advertising etc. —v. (-ling) 1 (cause to) make a jingling sound. 2 (of writing) be full of alliteration, rhymes, etc. [imitative]
+Jingle	—n. 1 mixed ringing or clinking noise. 2 a repetition of sounds in a phrase etc. B short catchy verse or song in advertising etc. —v. (-ling) 1 (cause to) make a jingling sound. 2 (of writing) be full of alliteration, rhymes, etc. [imitative]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

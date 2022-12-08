@@ -1,1 +1,6 @@
-Oval	—adj. 1 egg-shaped, ellipsoidal. 2 having the outline of an egg, elliptical. —n. 1 egg-shaped or elliptical closed curve. 2 thing with an oval outline. [latin: related to *ovum]
+Oval	—adj. 1 egg-shaped, ellipsoidal. 2 having the outline of an egg, elliptical. —n. 1 egg-shaped or elliptical closed curve. 2 thing with an oval outline. [latin: related to *ovum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

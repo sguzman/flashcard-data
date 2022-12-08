@@ -1,1 +1,6 @@
-Daylight	n. 1 light of day. 2 dawn. 3 visible gap, e.g. Between boats in a race. 4 (usu. In pl.) Slang life or consciousness (scared the daylights out of me; beat the living daylights out of them).
+Daylight	n. 1 light of day. 2 dawn. 3 visible gap, e.g. Between boats in a race. 4 (usu. In pl.) Slang life or consciousness (scared the daylights out of me; beat the living daylights out of them).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

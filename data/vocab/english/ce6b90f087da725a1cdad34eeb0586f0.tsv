@@ -1,1 +1,6 @@
-Wrecker	n. 1 person or thing that wrecks or destroys. 2 esp. Us person employed in demolition or breaking up damaged vehicles. 3 esp. Hist. Person on the shore who tries to bring about a shipwreck for plunder or profit.
+Wrecker	n. 1 person or thing that wrecks or destroys. 2 esp. Us person employed in demolition or breaking up damaged vehicles. 3 esp. Hist. Person on the shore who tries to bring about a shipwreck for plunder or profit.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

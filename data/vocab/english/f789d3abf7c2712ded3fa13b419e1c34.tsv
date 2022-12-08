@@ -1,1 +1,6 @@
-Verdict	n. 1 decision of a jury in a civil or criminal case. 2 decision; judgement. [anglo-french verdit from ver true, dit saying]
+Verdict	n. 1 decision of a jury in a civil or criminal case. 2 decision; judgement. [anglo-french verdit from ver true, dit saying]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Stream	—n. 1 flowing body of water, esp. A small river. 2 flow of a fluid or of a mass of people. 3 current or direction in which things are moving or tending (against the stream). 4  group of schoolchildren of similar ability taught together. —v. 1 move as a stream. 2 run with liquid. 3 be blown in the wind. 4 emit a stream of (blood etc.). 5  arrange (schoolchildren) in streams.  on stream in operation or production.
+Stream	—n. 1 flowing body of water, esp. A small river. 2 flow of a fluid or of a mass of people. 3 current or direction in which things are moving or tending (against the stream). 4  group of schoolchildren of similar ability taught together. —v. 1 move as a stream. 2 run with liquid. 3 be blown in the wind. 4 emit a stream of (blood etc.). 5  arrange (schoolchildren) in streams.  on stream in operation or production.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

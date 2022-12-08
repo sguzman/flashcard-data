@@ -1,1 +1,6 @@
-Lingua franca	n. (pl. Lingua francas) 1 language used in common by speakers with different native languages. 2 system for mutual understanding. [italian, = frankish tongue]
+Lingua franca	n. (pl. Lingua francas) 1 language used in common by speakers with different native languages. 2 system for mutual understanding. [italian, = frankish tongue]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Brilliant	—adj. 1 very bright; sparkling. 2 outstandingly talented. 3 showy. 4 colloq. Excellent. —n. Diamond of the finest cut with many facets.  brilliance n. Brilliantly adv. [french briller shine, from italian]
+Brilliant	—adj. 1 very bright; sparkling. 2 outstandingly talented. 3 showy. 4 colloq. Excellent. —n. Diamond of the finest cut with many facets.  brilliance n. Brilliantly adv. [french briller shine, from italian]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

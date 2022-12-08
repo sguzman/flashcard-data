@@ -1,1 +1,6 @@
-Portion	—n. 1 part or share. 2 amount of food allotted to one person. 3 one's destiny or lot. —v. 1 divide (a thing) into portions. 2 (foll. By out) distribute. [latin portio]
+Portion	—n. 1 part or share. 2 amount of food allotted to one person. 3 one's destiny or lot. —v. 1 divide (a thing) into portions. 2 (foll. By out) distribute. [latin portio]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Palindrome	n. Word or phrase reading the same backwards as forwards (e.g. Nurses run).  palindromic adj. [greek palindromos running back: related to *palimpsest, drom- run]
+Palindrome	n. Word or phrase reading the same backwards as forwards (e.g. Nurses run).  palindromic adj. [greek palindromos running back: related to *palimpsest, drom- run]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

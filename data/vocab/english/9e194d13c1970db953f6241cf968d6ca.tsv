@@ -1,1 +1,6 @@
-Rickshaw	n. (also ricksha) light two-wheeled hooded vehicle drawn by one or more persons. [abbreviation of jinrickshaw from japanese]
+Rickshaw	n. (also ricksha) light two-wheeled hooded vehicle drawn by one or more persons. [abbreviation of jinrickshaw from japanese]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

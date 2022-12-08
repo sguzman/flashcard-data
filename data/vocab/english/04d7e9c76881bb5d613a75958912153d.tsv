@@ -1,1 +1,6 @@
-Recur	v. (-rr-) 1 occur again; be repeated. 2 (foll. By to) go back in thought or speech. 3 (as recurring adj.) (of a decimal fraction) with the same figure(s) repeated indefinitely (1.66 recurring). [latin curro run]
+Recur	v. (-rr-) 1 occur again; be repeated. 2 (foll. By to) go back in thought or speech. 3 (as recurring adj.) (of a decimal fraction) with the same figure(s) repeated indefinitely (1.66 recurring). [latin curro run]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Transcendent	adj. 1 excelling, surpassing. 2 transcending human experience. 3 (esp. Of god) existing apart from, not subject to the limitations of, the material universe.  transcendence n. Transcendency n.
+Transcendent	adj. 1 excelling, surpassing. 2 transcending human experience. 3 (esp. Of god) existing apart from, not subject to the limitations of, the material universe.  transcendence n. Transcendency n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

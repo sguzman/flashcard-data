@@ -1,1 +1,6 @@
-Opportunism	n. Adaptation of one's policy or judgement to circumstances or opportunity, esp. Regardless of principle.  opportunist n. Opportunistic adj. Opportunistically adv.
+Opportunism	n. Adaptation of one's policy or judgement to circumstances or opportunity, esp. Regardless of principle.  opportunist n. Opportunistic adj. Opportunistically adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Chiltern hundreds	n.pl. Crown manor, whose administration is a nominal office for which an mp applies as a way of resigning from the house of commons. [chiltern hills in s. England]
+Chiltern hundreds	n.pl. Crown manor, whose administration is a nominal office for which an mp applies as a way of resigning from the house of commons. [chiltern hills in s. England]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

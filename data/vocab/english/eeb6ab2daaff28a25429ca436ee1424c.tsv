@@ -1,1 +1,6 @@
-Reign	—v. 1 be king or queen. 2 prevail (confusion reigns). 3 (as reigning attrib. Adj.) (of a winner, champion, etc.) Currently holding the title etc. —n. 1 sovereignty, rule. 2 period during which a sovereign rules.
+Reign	—v. 1 be king or queen. 2 prevail (confusion reigns). 3 (as reigning attrib. Adj.) (of a winner, champion, etc.) Currently holding the title etc. —n. 1 sovereignty, rule. 2 period during which a sovereign rules.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

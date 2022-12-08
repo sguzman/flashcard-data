@@ -1,1 +1,6 @@
-Stalk2	—v. 1 pursue (game or an enemy) stealthily. 2 stride, walk in a haughty manner. 3 formal or rhet. Move silently or threateningly through (a place) (fear stalked the land). —n. 1 stalking of game. 2 haughty gait. [old english: related to *steal]
+Stalk2	—v. 1 pursue (game or an enemy) stealthily. 2 stride, walk in a haughty manner. 3 formal or rhet. Move silently or threateningly through (a place) (fear stalked the land). —n. 1 stalking of game. 2 haughty gait. [old english: related to *steal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Health	n. 1 state of being well in body or mind. 2 person's mental or physical condition. 3 soundness, esp. Financial or moral. [old english: related to *whole]
+Health	n. 1 state of being well in body or mind. 2 person's mental or physical condition. 3 soundness, esp. Financial or moral. [old english: related to *whole]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

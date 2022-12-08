@@ -1,1 +1,6 @@
-Irradiate	v. (-ting) 1 subject to radiation. 2 shine upon; light up. 3 throw light on (a subject).  irradiation n. [latin irradio shine on, from radius ray]
+Irradiate	v. (-ting) 1 subject to radiation. 2 shine upon; light up. 3 throw light on (a subject).  irradiation n. [latin irradio shine on, from radius ray]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

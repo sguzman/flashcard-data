@@ -1,1 +1,6 @@
-Gel	—n. 1 semi-solid jelly-like colloid. 2 jelly-like substance used for setting the hair. —v. (-ll-) 1 form a gel. 2 = *jell 2. [from *gelatin]
+Gel	—n. 1 semi-solid jelly-like colloid. 2 jelly-like substance used for setting the hair. —v. (-ll-) 1 form a gel. 2 = *jell 2. [from *gelatin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

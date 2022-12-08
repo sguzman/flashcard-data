@@ -1,1 +1,6 @@
-Night safe	n. Safe with access from the outer wall of a bank for the deposit of money etc. When the bank is closed.
+Night safe	n. Safe with access from the outer wall of a bank for the deposit of money etc. When the bank is closed.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

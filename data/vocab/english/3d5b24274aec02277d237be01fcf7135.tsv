@@ -1,1 +1,6 @@
-Toady	—n. (pl. -ies) sycophant. —v. (foll. By to) (-ies, -ied) behave servilely to; fawn upon.  toadyism n. [contraction of toad-eater]
+Toady	—n. (pl. -ies) sycophant. —v. (foll. By to) (-ies, -ied) behave servilely to; fawn upon.  toadyism n. [contraction of toad-eater]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

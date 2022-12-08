@@ -1,1 +1,6 @@
-Evil	—adj. 1 morally bad; wicked. 2 harmful. 3 disagreeable (evil temper). —n. 1 evil thing. 2 wickedness.  evilly adv. [old english]
+Evil	—adj. 1 morally bad; wicked. 2 harmful. 3 disagreeable (evil temper). —n. 1 evil thing. 2 wickedness.  evilly adv. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

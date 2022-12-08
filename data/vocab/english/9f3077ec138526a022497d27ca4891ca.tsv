@@ -1,1 +1,6 @@
-Device	n. 1 thing made or adapted for a special purpose. 2 plan, scheme, or trick. 3 design, esp. Heraldic.  leave a person to his or her own devices leave a person to do as he or she wishes. [french: related to *devise]
+Device	n. 1 thing made or adapted for a special purpose. 2 plan, scheme, or trick. 3 design, esp. Heraldic.  leave a person to his or her own devices leave a person to do as he or she wishes. [french: related to *devise]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

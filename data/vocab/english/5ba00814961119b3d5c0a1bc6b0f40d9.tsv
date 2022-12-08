@@ -1,1 +1,6 @@
-Idol	n. 1 image of a deity etc. As an object of worship. 2 object of excessive or supreme adulation. [greek eidolon image, phantom]
+Idol	n. 1 image of a deity etc. As an object of worship. 2 object of excessive or supreme adulation. [greek eidolon image, phantom]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

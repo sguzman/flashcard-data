@@ -1,1 +1,6 @@
-Presbyopia	n. Long-sightedness caused by loss of elasticity of the eye lens, occurring esp. In middle and old age.  presbyopic adj. [greek presbus old man, ops eye]
+Presbyopia	n. Long-sightedness caused by loss of elasticity of the eye lens, occurring esp. In middle and old age.  presbyopic adj. [greek presbus old man, ops eye]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

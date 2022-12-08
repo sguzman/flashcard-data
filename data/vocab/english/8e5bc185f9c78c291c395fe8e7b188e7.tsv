@@ -1,1 +1,6 @@
-Hearing	n. 1 faculty of perceiving sounds. 2 range within which sounds may be heard (within hearing). 3 opportunity to state one's case (a fair hearing). 4 trial of a case before a court.
+Hearing	n. 1 faculty of perceiving sounds. 2 range within which sounds may be heard (within hearing). 3 opportunity to state one's case (a fair hearing). 4 trial of a case before a court.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

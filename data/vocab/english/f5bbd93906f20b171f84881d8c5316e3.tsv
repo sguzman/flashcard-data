@@ -1,1 +1,6 @@
-Vindicate	v. (-ting) 1 clear of blame or suspicion. 2 establish the existence, merits, or justice of (something disputed etc.). 3 justify by evidence or argument.  vindication n. Vindicator n. Vindicatory adj. [latin vindico claim]
+Vindicate	v. (-ting) 1 clear of blame or suspicion. 2 establish the existence, merits, or justice of (something disputed etc.). 3 justify by evidence or argument.  vindication n. Vindicator n. Vindicatory adj. [latin vindico claim]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

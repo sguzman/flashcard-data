@@ -1,1 +1,6 @@
-Harvest	—n. 1 a process of gathering in crops etc. B season of this. 2 season's yield. 3 product of any action. —v. Gather as harvest, reap. [old english]
+Harvest	—n. 1 a process of gathering in crops etc. B season of this. 2 season's yield. 3 product of any action. —v. Gather as harvest, reap. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

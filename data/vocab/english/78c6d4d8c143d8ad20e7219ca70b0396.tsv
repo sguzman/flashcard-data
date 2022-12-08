@@ -1,1 +1,6 @@
-Pitchfork	—n. Long-handled two-pronged fork for pitching hay etc. —v. 1 throw with or as if with a pitchfork. 2 (usu. Foll. By into) thrust (a person) forcibly into a position, office, etc.
+Pitchfork	—n. Long-handled two-pronged fork for pitching hay etc. —v. 1 throw with or as if with a pitchfork. 2 (usu. Foll. By into) thrust (a person) forcibly into a position, office, etc.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

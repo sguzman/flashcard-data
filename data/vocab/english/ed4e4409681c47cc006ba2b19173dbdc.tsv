@@ -1,1 +1,6 @@
-Elevation	n. 1 a elevating or being elevated. B angle with the horizontal. C height above sea level etc. D high position. 2 drawing or diagram showing one side of a building.
+Elevation	n. 1 a elevating or being elevated. B angle with the horizontal. C height above sea level etc. D high position. 2 drawing or diagram showing one side of a building.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Genealogy	n. (pl. -ies) 1 descent traced continuously from an ancestor, pedigree. 2 study of pedigrees. 3 organism's line of development from earlier forms.  genealogical adj. Genealogically adv. Genealogist n. [greek genea race]
+Genealogy	n. (pl. -ies) 1 descent traced continuously from an ancestor, pedigree. 2 study of pedigrees. 3 organism's line of development from earlier forms.  genealogical adj. Genealogically adv. Genealogist n. [greek genea race]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

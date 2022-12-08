@@ -1,1 +1,6 @@
-Kid2	v. (also refl.) (-dd-) colloq. Deceive, trick, tease (don't kid yourself; only kidding).  no kidding slang that is the truth. [origin uncertain]
+Kid2	v. (also refl.) (-dd-) colloq. Deceive, trick, tease (don't kid yourself; only kidding).  no kidding slang that is the truth. [origin uncertain]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

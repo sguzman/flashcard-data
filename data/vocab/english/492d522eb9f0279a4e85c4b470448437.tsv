@@ -1,1 +1,6 @@
-Classic	—adj. 1 first-class; of lasting value and importance. 2 very typical (a classic case). 3 a of ancient greek and latin literature, art, etc. B (of style) simple, harmonious. 4 famous because long-established. —n. 1 classic writer, artist, work, or example. 2 (in pl.) Ancient greek and latin. [latin classicus: related to *class]
+Classic	—adj. 1 first-class; of lasting value and importance. 2 very typical (a classic case). 3 a of ancient greek and latin literature, art, etc. B (of style) simple, harmonious. 4 famous because long-established. —n. 1 classic writer, artist, work, or example. 2 (in pl.) Ancient greek and latin. [latin classicus: related to *class]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

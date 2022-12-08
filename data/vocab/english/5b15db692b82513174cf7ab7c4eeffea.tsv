@@ -1,1 +1,6 @@
-Fray1	v. 1 wear through or become worn; esp. (of woven material) unravel at the edge. 2 (of nerves, temper, etc.) Become strained. [latin frico rub]
+Fray1	v. 1 wear through or become worn; esp. (of woven material) unravel at the edge. 2 (of nerves, temper, etc.) Become strained. [latin frico rub]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

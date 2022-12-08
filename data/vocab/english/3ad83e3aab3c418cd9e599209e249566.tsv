@@ -1,1 +1,6 @@
-Effluence	n. 1 flowing out of light, electricity, etc. 2 that which flows out. [latin fluo flux- flow]
+Effluence	n. 1 flowing out of light, electricity, etc. 2 that which flows out. [latin fluo flux- flow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

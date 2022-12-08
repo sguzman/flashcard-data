@@ -1,1 +1,6 @@
-Usage	in sense 3 of the adverb, the word ‘past’ is often omitted in colloquial usage, e.g. Came at half two. In some parts of scotland and ireland this means ‘half past one’.
+Usage	in sense 3 of the adverb, the word ‘past’ is often omitted in colloquial usage, e.g. Came at half two. In some parts of scotland and ireland this means ‘half past one’.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

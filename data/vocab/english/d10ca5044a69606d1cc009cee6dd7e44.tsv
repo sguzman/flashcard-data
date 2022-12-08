@@ -1,1 +1,6 @@
-Constant	—adj. 1 continuous (constant attention). 2 occurring frequently (constant complaints). 3 unchanging, faithful, dependable. —n. 1 anything that does not vary. 2 math. & physics quantity or number that remains the same.  constantly adv. [latin sto stand]
+Constant	—adj. 1 continuous (constant attention). 2 occurring frequently (constant complaints). 3 unchanging, faithful, dependable. —n. 1 anything that does not vary. 2 math. & physics quantity or number that remains the same.  constantly adv. [latin sto stand]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

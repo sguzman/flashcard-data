@@ -1,1 +1,6 @@
-Frequent	—adj. 1 occurring often or in close succession. 2 habitual, constant. —v. Attend or go to habitually.  frequently adv. [latin frequens -ent- crowded]
+Frequent	—adj. 1 occurring often or in close succession. 2 habitual, constant. —v. Attend or go to habitually.  frequently adv. [latin frequens -ent- crowded]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

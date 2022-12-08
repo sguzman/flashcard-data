@@ -1,1 +1,6 @@
-Legion	—n. 1 division of 3,000–6,000 men in the ancient roman army. 2 large organized body. —predic. Adj. Great in number (his good works were legion). [latin legio -onis]
+Legion	—n. 1 division of 3,000–6,000 men in the ancient roman army. 2 large organized body. —predic. Adj. Great in number (his good works were legion). [latin legio -onis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

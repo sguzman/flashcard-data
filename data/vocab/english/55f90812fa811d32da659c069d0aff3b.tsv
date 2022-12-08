@@ -1,1 +1,6 @@
-Civic	adj. 1 of a city. 2 of citizens or citizenship.  civically adv. [latin civis citizen]
+Civic	adj. 1 of a city. 2 of citizens or citizenship.  civically adv. [latin civis citizen]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

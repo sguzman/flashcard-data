@@ -1,1 +1,6 @@
-Copper1	—n. 1 malleable red-brown metallic element. 2 bronze coin. 3 large metal vessel for boiling esp. Laundry. —adj. Made of or coloured like copper. —v. Cover with copper. [latin cuprum]
+Copper1	—n. 1 malleable red-brown metallic element. 2 bronze coin. 3 large metal vessel for boiling esp. Laundry. —adj. Made of or coloured like copper. —v. Cover with copper. [latin cuprum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

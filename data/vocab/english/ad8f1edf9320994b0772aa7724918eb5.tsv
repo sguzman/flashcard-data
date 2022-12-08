@@ -1,1 +1,6 @@
-Shibboleth	n. Long-standing formula, doctrine, or phrase, etc., held to be true by a party or sect. [hebrew (judg. 12:6)]
+Shibboleth	n. Long-standing formula, doctrine, or phrase, etc., held to be true by a party or sect. [hebrew (judg. 12:6)]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

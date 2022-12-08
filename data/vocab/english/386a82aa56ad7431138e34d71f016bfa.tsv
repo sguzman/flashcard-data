@@ -1,1 +1,6 @@
-Blinker	—n. 1 (usu. In pl.) Each of two screens on a bridle preventing lateral vision. 2 device that blinks. —v. 1 obscure with blinkers. 2 (as blinkered adj.) Having narrow and prejudiced views.
+Blinker	—n. 1 (usu. In pl.) Each of two screens on a bridle preventing lateral vision. 2 device that blinks. —v. 1 obscure with blinkers. 2 (as blinkered adj.) Having narrow and prejudiced views.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

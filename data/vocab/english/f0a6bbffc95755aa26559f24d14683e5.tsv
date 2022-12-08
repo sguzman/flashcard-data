@@ -1,1 +1,6 @@
-Glory	—n. (pl. -ies) 1 renown, fame; honour. 2 adoring praise. 3 resplendent majesty, beauty, etc. 4 thing that brings renown, distinction, or pride. 5 heavenly bliss and splendour. 6 colloq. State of exaltation, prosperity, etc. 7 halo of a saint etc. —v. (-ies, -ied) (often foll. By in) pride oneself. [latin gloria]
+Glory	—n. (pl. -ies) 1 renown, fame; honour. 2 adoring praise. 3 resplendent majesty, beauty, etc. 4 thing that brings renown, distinction, or pride. 5 heavenly bliss and splendour. 6 colloq. State of exaltation, prosperity, etc. 7 halo of a saint etc. —v. (-ies, -ied) (often foll. By in) pride oneself. [latin gloria]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

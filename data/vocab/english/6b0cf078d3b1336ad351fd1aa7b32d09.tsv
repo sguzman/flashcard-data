@@ -1,1 +1,6 @@
-Longshore	attrib. Adj. 1 existing on or frequenting the shore. 2 directed along the shore. [from along shore]
+Longshore	attrib. Adj. 1 existing on or frequenting the shore. 2 directed along the shore. [from along shore]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

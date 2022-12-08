@@ -1,1 +1,6 @@
--ance	suffix forming nouns expressing: 1 quality or state or an instance of one (arrogance; resemblance). 2 action (assistance). [french -ance, latin -antia]
+-ance	suffix forming nouns expressing: 1 quality or state or an instance of one (arrogance; resemblance). 2 action (assistance). [french -ance, latin -antia]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

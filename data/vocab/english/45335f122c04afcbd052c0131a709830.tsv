@@ -1,1 +1,6 @@
-Cat	n. 1 small soft-furred four-legged domesticated animal. 2 wild animal of the same family, e.g. Lion, tiger. 3 colloq. Malicious or spiteful woman. 4 = *cat-o'-nine-tails.  the cat's whiskers colloq. Excellent person or thing. Let the cat out of the bag reveal a secret. Like a cat on hot bricks very agitated. Put (or set) the cat among the pigeons cause trouble. Rain cats and dogs rain hard. [latin cattus]
+Cat	n. 1 small soft-furred four-legged domesticated animal. 2 wild animal of the same family, e.g. Lion, tiger. 3 colloq. Malicious or spiteful woman. 4 = *cat-o'-nine-tails.  the cat's whiskers colloq. Excellent person or thing. Let the cat out of the bag reveal a secret. Like a cat on hot bricks very agitated. Put (or set) the cat among the pigeons cause trouble. Rain cats and dogs rain hard. [latin cattus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

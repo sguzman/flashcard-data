@@ -1,1 +1,6 @@
-Portfolio	n. (pl. -s) 1 a folder for loose sheets of paper, drawings, etc. B samples of an artist's work. 2 range of investments held by a person, company, etc. 3 office of a minister of state (cf. *minister without portfolio). [italian portafogli sheet-carrier]
+Portfolio	n. (pl. -s) 1 a folder for loose sheets of paper, drawings, etc. B samples of an artist's work. 2 range of investments held by a person, company, etc. 3 office of a minister of state (cf. *minister without portfolio). [italian portafogli sheet-carrier]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

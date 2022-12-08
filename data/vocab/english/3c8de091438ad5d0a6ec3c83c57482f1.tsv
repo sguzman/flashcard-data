@@ -1,1 +1,6 @@
-Violent	adj. 1 involving or using great physical force (violent person; violent storm). 2 a intense, vehement (violent pain; violent dislike). B lurid (violent colours). 3 (of death) resulting from violence or poison.  violently adv. [french from latin] 
+Violent	adj. 1 involving or using great physical force (violent person; violent storm). 2 a intense, vehement (violent pain; violent dislike). B lurid (violent colours). 3 (of death) resulting from violence or poison.  violently adv. [french from latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

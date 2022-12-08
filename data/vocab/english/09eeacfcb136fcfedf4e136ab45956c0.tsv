@@ -1,1 +1,6 @@
-Speculum	n. (pl. -la) 1 instrument for dilating orifices of the body. 2 mirror of polished metal in a telescope. [latin, = mirror]
+Speculum	n. (pl. -la) 1 instrument for dilating orifices of the body. 2 mirror of polished metal in a telescope. [latin, = mirror]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

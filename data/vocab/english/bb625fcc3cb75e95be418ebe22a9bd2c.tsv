@@ -1,1 +1,6 @@
-C	v. (-ting; past wrote; past part. Written) 1 mark paper or some other surface with symbols, letters, or words. 2 form or mark (such symbols etc.).
+C	v. (-ting; past wrote; past part. Written) 1 mark paper or some other surface with symbols, letters, or words. 2 form or mark (such symbols etc.).		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

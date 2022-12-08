@@ -1,1 +1,6 @@
-Maturation	n. 1 maturing or being matured. 2 formation of pus. [french or medieval latin: related to *mature]
+Maturation	n. 1 maturing or being matured. 2 formation of pus. [french or medieval latin: related to *mature]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

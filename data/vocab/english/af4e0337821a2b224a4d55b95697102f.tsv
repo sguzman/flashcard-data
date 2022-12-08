@@ -1,1 +1,6 @@
-Talc	n. 1 talcum powder. 2 magnesium silicate formed as soft flat plates, used as a lubricator etc. [arabic from persian talk]
+Talc	n. 1 talcum powder. 2 magnesium silicate formed as soft flat plates, used as a lubricator etc. [arabic from persian talk]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

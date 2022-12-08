@@ -1,1 +1,6 @@
-Eyrie	n. 1 nest of a bird of prey, esp. An eagle, built high up. 2 house etc. Perched high up. [french aire lair, from latin agrum piece of ground]
+Eyrie	n. 1 nest of a bird of prey, esp. An eagle, built high up. 2 house etc. Perched high up. [french aire lair, from latin agrum piece of ground]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

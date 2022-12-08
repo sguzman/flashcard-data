@@ -1,1 +1,6 @@
-Inlet	n. 1 small arm of the sea, a lake, or a river. 2 piece inserted. 3 way of entry. [from *in, *let1]
+Inlet	n. 1 small arm of the sea, a lake, or a river. 2 piece inserted. 3 way of entry. [from *in, *let1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

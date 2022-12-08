@@ -1,1 +1,6 @@
-Hush	—v. Make or become silent or quiet. —int. Calling for silence. —n. Expectant stillness or silence.  hush up suppress public mention of (an affair). [husht, an obsolete exclamation, taken as a past part.]
+Hush	—v. Make or become silent or quiet. —int. Calling for silence. —n. Expectant stillness or silence.  hush up suppress public mention of (an affair). [husht, an obsolete exclamation, taken as a past part.]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

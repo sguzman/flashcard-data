@@ -1,1 +1,6 @@
-Treacherous	adj. 1 guilty of or involving treachery. 2 (of the weather, ice, the memory, etc.) Likely to fail or give way.  treacherously adv. [french from trichier cheat: related to *trick]
+Treacherous	adj. 1 guilty of or involving treachery. 2 (of the weather, ice, the memory, etc.) Likely to fail or give way.  treacherously adv. [french from trichier cheat: related to *trick]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

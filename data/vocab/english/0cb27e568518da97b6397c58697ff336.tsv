@@ -1,1 +1,6 @@
-Determinant	—adj. Determining. —n. 1 determining factor etc. 2 quantity obtained by the addition of products of the elements of a square matrix according to a given rule. [latin: related to *determine]
+Determinant	—adj. Determining. —n. 1 determining factor etc. 2 quantity obtained by the addition of products of the elements of a square matrix according to a given rule. [latin: related to *determine]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

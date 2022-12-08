@@ -1,1 +1,6 @@
-Premise	n. 1 logic = *premiss. 2 (in pl.) A house or other building with its grounds, outbuildings, etc. B law houses, lands, or tenements previously specified in a document etc.  on the premises in the building etc. Concerned. [latin praemissa set in front]
+Premise	n. 1 logic = *premiss. 2 (in pl.) A house or other building with its grounds, outbuildings, etc. B law houses, lands, or tenements previously specified in a document etc.  on the premises in the building etc. Concerned. [latin praemissa set in front]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

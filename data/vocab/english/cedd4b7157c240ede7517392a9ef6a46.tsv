@@ -1,1 +1,6 @@
-Bilingual	—adj. 1 able to speak two languages. 2 spoken or written in two languages. —n. Bilingual person.  bilingualism n. [latin lingua tongue]
+Bilingual	—adj. 1 able to speak two languages. 2 spoken or written in two languages. —n. Bilingual person.  bilingualism n. [latin lingua tongue]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

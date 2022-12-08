@@ -1,1 +1,6 @@
-Severe	adj. 1 rigorous and harsh (severe critic). 2 serious (severe shortage). 3 forceful (severe storm). 4 extreme (severe winter). 5 exacting (severe competition). 6 plain in style.  severely adv. Severity n. [latin severus]
+Severe	adj. 1 rigorous and harsh (severe critic). 2 serious (severe shortage). 3 forceful (severe storm). 4 extreme (severe winter). 5 exacting (severe competition). 6 plain in style.  severely adv. Severity n. [latin severus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Palisade	—n. 1 fence of pales or iron railings. 2 strong pointed wooden stake. —v. (-ding) enclose or provide with a palisade. [french: related to *pale2]
+Palisade	—n. 1 fence of pales or iron railings. 2 strong pointed wooden stake. —v. (-ding) enclose or provide with a palisade. [french: related to *pale2]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

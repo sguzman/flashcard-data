@@ -1,1 +1,6 @@
-Tabulator	n. 1 person or thing that tabulates. 2 device on a typewriter etc. For advancing to a sequence of set positions in tabular work.
+Tabulator	n. 1 person or thing that tabulates. 2 device on a typewriter etc. For advancing to a sequence of set positions in tabular work.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

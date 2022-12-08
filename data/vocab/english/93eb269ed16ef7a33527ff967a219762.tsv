@@ -1,1 +1,6 @@
-Partake	v. (-king; past partook; past part. Partaken) 1 (foll. By of, in) take a share or part. 2 (foll. By of) eat or drink some or colloq. All (of a thing). [back-formation from partaker = part-taker]
+Partake	v. (-king; past partook; past part. Partaken) 1 (foll. By of, in) take a share or part. 2 (foll. By of) eat or drink some or colloq. All (of a thing). [back-formation from partaker = part-taker]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

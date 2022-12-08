@@ -1,1 +1,6 @@
-Bogey2	n. (also bogy) (pl. -eys or -ies) 1 evil or mischievous spirit; devil. 2 awkward thing. 3 slang piece of dried nasal mucus. [originally (old) bogey the devil]
+Bogey2	n. (also bogy) (pl. -eys or -ies) 1 evil or mischievous spirit; devil. 2 awkward thing. 3 slang piece of dried nasal mucus. [originally (old) bogey the devil]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

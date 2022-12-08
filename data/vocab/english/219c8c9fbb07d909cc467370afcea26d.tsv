@@ -1,1 +1,6 @@
-Relish	—n. 1 (often foll. By for) great liking or enjoyment. 2 a appetizing flavour. B attractive quality. 3 condiment eaten with plainer food to add flavour. 4 (foll. By of) distinctive taste or tinge. —v. 1 get pleasure out of; enjoy greatly. 2 anticipate with pleasure.
+Relish	—n. 1 (often foll. By for) great liking or enjoyment. 2 a appetizing flavour. B attractive quality. 3 condiment eaten with plainer food to add flavour. 4 (foll. By of) distinctive taste or tinge. —v. 1 get pleasure out of; enjoy greatly. 2 anticipate with pleasure.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

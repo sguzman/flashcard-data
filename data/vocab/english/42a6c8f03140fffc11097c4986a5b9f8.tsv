@@ -1,1 +1,6 @@
-Generic	adj. 1 characteristic of or relating to a class; general, not specific or special. 2 biol. Characteristic of or belonging to a genus.  generically adv. [latin: related to *genus]
+Generic	adj. 1 characteristic of or relating to a class; general, not specific or special. 2 biol. Characteristic of or belonging to a genus.  generically adv. [latin: related to *genus]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

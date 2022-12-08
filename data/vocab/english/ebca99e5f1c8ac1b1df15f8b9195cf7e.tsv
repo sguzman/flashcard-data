@@ -1,1 +1,6 @@
-Assignment	n. 1 task or mission. 2 assigning or being assigned. 3 legal transfer.
+Assignment	n. 1 task or mission. 2 assigning or being assigned. 3 legal transfer.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

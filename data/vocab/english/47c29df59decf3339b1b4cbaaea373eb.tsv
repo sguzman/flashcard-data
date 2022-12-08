@@ -1,1 +1,6 @@
-Shepherd	—n. 1 (fem. Shepherdess) person employed to tend sheep. 2 member of the clergy in charge of a congregation. —v. 1 a tend (sheep etc.). B guide (followers etc.). 2 marshal or drive (a crowd etc.) Like sheep. [old english: related to *sheep, *herd]
+Shepherd	—n. 1 (fem. Shepherdess) person employed to tend sheep. 2 member of the clergy in charge of a congregation. —v. 1 a tend (sheep etc.). B guide (followers etc.). 2 marshal or drive (a crowd etc.) Like sheep. [old english: related to *sheep, *herd]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

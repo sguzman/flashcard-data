@@ -1,1 +1,6 @@
-Bungee jumping	n. Sport of jumping from a height while secured by a bungee from the ankles or a harness.
+Bungee jumping	n. Sport of jumping from a height while secured by a bungee from the ankles or a harness.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

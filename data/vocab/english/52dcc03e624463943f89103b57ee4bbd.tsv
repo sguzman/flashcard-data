@@ -1,1 +1,6 @@
-Selfish	adj. Concerned chiefly with one's own interests or pleasure; actuated by or appealing to self-interest.  selfishly adv. Selfishness n.
+Selfish	adj. Concerned chiefly with one's own interests or pleasure; actuated by or appealing to self-interest.  selfishly adv. Selfishness n.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

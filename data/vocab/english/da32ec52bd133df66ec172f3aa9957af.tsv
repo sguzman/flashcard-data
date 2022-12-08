@@ -1,1 +1,6 @@
-Traditional	adj. 1 of, based on, or obtained by tradition. 2 (of jazz) in the style of the early 20th c.  traditionally adv.
+Traditional	adj. 1 of, based on, or obtained by tradition. 2 (of jazz) in the style of the early 20th c.  traditionally adv.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Wart	n. 1 small hard round growth on the skin. 2 protuberance on the skin of an animal, surface of a plant, etc.  warts and all colloq. With no attempt to conceal blemishes.  warty adj. [old english]
+Wart	n. 1 small hard round growth on the skin. 2 protuberance on the skin of an animal, surface of a plant, etc.  warts and all colloq. With no attempt to conceal blemishes.  warty adj. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

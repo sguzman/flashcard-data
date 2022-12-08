@@ -1,1 +1,6 @@
-Agnostic	—n. Person who believes that the existence of god is not provable. —adj. Of agnosticism.  agnosticism n. [from *a-, *gnostic]
+Agnostic	—n. Person who believes that the existence of god is not provable. —adj. Of agnosticism.  agnosticism n. [from *a-, *gnostic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

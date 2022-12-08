@@ -1,1 +1,6 @@
-First class	—n. 1 best group or category. 2 best accommodation in a train, ship, etc. 3 mail given priority. 4 highest division in an examination. —adj. & adv. (first-class) 1 of or by the first class. 2 excellent.
+First class	—n. 1 best group or category. 2 best accommodation in a train, ship, etc. 3 mail given priority. 4 highest division in an examination. —adj. & adv. (first-class) 1 of or by the first class. 2 excellent.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

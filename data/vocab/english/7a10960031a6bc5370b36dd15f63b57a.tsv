@@ -1,1 +1,6 @@
-Psalm	n. 1 (also psalm) sacred song, esp. From the book of psalms, esp. Metrically chanted in a service. 2 (the psalms or the book of psalms) old testament book containing the psalms. [latin psalmus from greek]
+Psalm	n. 1 (also psalm) sacred song, esp. From the book of psalms, esp. Metrically chanted in a service. 2 (the psalms or the book of psalms) old testament book containing the psalms. [latin psalmus from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

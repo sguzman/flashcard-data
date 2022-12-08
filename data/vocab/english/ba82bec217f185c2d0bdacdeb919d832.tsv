@@ -1,1 +1,6 @@
-Clone	—n. 1 a group of organisms produced asexually from one stock or ancestor. B one such organism. 2 colloq. Person or thing regarded as identical to another. —v. (-ning) propagate as a clone.  clonal adj. [greek klon twig]
+Clone	—n. 1 a group of organisms produced asexually from one stock or ancestor. B one such organism. 2 colloq. Person or thing regarded as identical to another. —v. (-ning) propagate as a clone.  clonal adj. [greek klon twig]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

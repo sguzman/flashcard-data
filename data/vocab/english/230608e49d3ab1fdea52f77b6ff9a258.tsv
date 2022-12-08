@@ -1,1 +1,6 @@
-Pigment	—n. 1 colouring-matter used as paint or dye. 2 natural colouring-matter of animal or plant tissue. —v. Colour with or as if with pigment.  pigmentary adj. [latin pingo paint]
+Pigment	—n. 1 colouring-matter used as paint or dye. 2 natural colouring-matter of animal or plant tissue. —v. Colour with or as if with pigment.  pigmentary adj. [latin pingo paint]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

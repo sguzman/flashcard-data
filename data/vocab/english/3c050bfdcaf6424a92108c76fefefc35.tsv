@@ -1,1 +1,6 @@
-Smokescreen	n. 1 cloud of smoke concealing (esp. Military) operations. 2 ruse for disguising one's activities.
+Smokescreen	n. 1 cloud of smoke concealing (esp. Military) operations. 2 ruse for disguising one's activities.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

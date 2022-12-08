@@ -1,1 +1,6 @@
-Making	n. (in pl.) 1 earnings; profit. 2 essential qualities or ingredients (has the makings of a pilot).  be the making of ensure the success of. In the making in the course of being made or formed. [old english: related to *make]
+Making	n. (in pl.) 1 earnings; profit. 2 essential qualities or ingredients (has the makings of a pilot).  be the making of ensure the success of. In the making in the course of being made or formed. [old english: related to *make]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

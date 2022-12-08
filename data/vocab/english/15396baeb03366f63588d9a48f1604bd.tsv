@@ -1,1 +1,6 @@
-Eternity	n. (pl. -ies) 1 infinite (esp. Future) time. 2 endless life after death. 3 being eternal. 4 colloq. (often prec. By an) a very long time. [latin: related to *eternal]
+Eternity	n. (pl. -ies) 1 infinite (esp. Future) time. 2 endless life after death. 3 being eternal. 4 colloq. (often prec. By an) a very long time. [latin: related to *eternal]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

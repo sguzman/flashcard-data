@@ -1,1 +1,6 @@
-Butter	—n. 1 solidified churned cream, used as a spread and in cooking. 2 substance of similar texture (peanut butter). —v. Spread, cook, or serve with butter.  butter up colloq. Flatter. [greek bouturon]
+Butter	—n. 1 solidified churned cream, used as a spread and in cooking. 2 substance of similar texture (peanut butter). —v. Spread, cook, or serve with butter.  butter up colloq. Flatter. [greek bouturon]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

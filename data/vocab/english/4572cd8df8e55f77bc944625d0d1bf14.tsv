@@ -1,1 +1,6 @@
-Blaspheme	v. (-ming) 1 use religious names irreverently; treat a religious or sacred subject irreverently. 2 talk irreverently about; use blasphemy against. [greek blasphemeo]
+Blaspheme	v. (-ming) 1 use religious names irreverently; treat a religious or sacred subject irreverently. 2 talk irreverently about; use blasphemy against. [greek blasphemeo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

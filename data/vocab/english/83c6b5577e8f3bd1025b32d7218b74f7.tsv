@@ -1,1 +1,6 @@
-Stout	—adj. 1 rather fat, corpulent, bulky. 2 thick or strong. 3 brave, resolute. —n. Strong dark beer.  stoutly adv. Stoutness n. [anglo-french from germanic]
+Stout	—adj. 1 rather fat, corpulent, bulky. 2 thick or strong. 3 brave, resolute. —n. Strong dark beer.  stoutly adv. Stoutness n. [anglo-french from germanic]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

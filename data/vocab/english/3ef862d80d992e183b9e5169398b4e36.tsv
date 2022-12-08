@@ -1,1 +1,6 @@
-Infant	n. 1 a child during the earliest period of its life. B schoolchild below the age of seven years. 2 (esp. Attrib.) Thing in an early stage of its development. 3 law person under 18.  infancy n. [latin infans unable to speak]
+Infant	n. 1 a child during the earliest period of its life. B schoolchild below the age of seven years. 2 (esp. Attrib.) Thing in an early stage of its development. 3 law person under 18.  infancy n. [latin infans unable to speak]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Agitate	v. (-ting) 1 disturb or excite (a person or feelings). 2 (often foll. By for, against) campaign, esp. Politically (agitated for tax reform). 3 shake briskly.  agitation n. Agitator n. [latin agito: related to *act]
+Agitate	v. (-ting) 1 disturb or excite (a person or feelings). 2 (often foll. By for, against) campaign, esp. Politically (agitated for tax reform). 3 shake briskly.  agitation n. Agitator n. [latin agito: related to *act]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

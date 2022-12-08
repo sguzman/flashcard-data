@@ -1,1 +1,6 @@
-Picnic	—n. 1 outing including an outdoor meal. 2 meal eaten out of doors. 3 (usu. With neg.) Colloq. Something agreeable or easily accomplished etc. —v. (-ck-) take part in a picnic. [french pique-nique]
+Picnic	—n. 1 outing including an outdoor meal. 2 meal eaten out of doors. 3 (usu. With neg.) Colloq. Something agreeable or easily accomplished etc. —v. (-ck-) take part in a picnic. [french pique-nique]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

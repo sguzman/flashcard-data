@@ -1,1 +1,6 @@
-Theorem	n. Esp. Math. 1 general proposition that is not self-evident but is proved by reasoning. 2 rule in algebra etc., esp. One expressed by symbols or formulae. [greek theoreo look at]
+Theorem	n. Esp. Math. 1 general proposition that is not self-evident but is proved by reasoning. 2 rule in algebra etc., esp. One expressed by symbols or formulae. [greek theoreo look at]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

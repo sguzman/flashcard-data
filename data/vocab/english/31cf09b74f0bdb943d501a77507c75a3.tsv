@@ -1,1 +1,6 @@
-Distract	v. 1 (often foll. By from) draw away the attention of. 2 bewilder, perplex. 3 (as distracted adj.) Confused, mad, or angry. 4 amuse, esp. To divert from pain etc. [latin: related to *dis-, traho tract- draw]
+Distract	v. 1 (often foll. By from) draw away the attention of. 2 bewilder, perplex. 3 (as distracted adj.) Confused, mad, or angry. 4 amuse, esp. To divert from pain etc. [latin: related to *dis-, traho tract- draw]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Waltz	—n. 1 ballroom dance in triple time performed by couples revolving with sliding steps. 2 music for this. —v. 1 dance a waltz. 2 (often foll. By in, out, round, etc.) Colloq. Move easily, lightly, casually, etc.  waltz off with colloq. 1 steal. 2 win easily. [german walzer from walzen revolve]
+Waltz	—n. 1 ballroom dance in triple time performed by couples revolving with sliding steps. 2 music for this. —v. 1 dance a waltz. 2 (often foll. By in, out, round, etc.) Colloq. Move easily, lightly, casually, etc.  waltz off with colloq. 1 steal. 2 win easily. [german walzer from walzen revolve]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

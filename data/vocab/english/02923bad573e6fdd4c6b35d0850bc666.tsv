@@ -1,1 +1,6 @@
-Disease	n. 1 unhealthy condition of the body or mind, plants, society, etc. 2 particular kind of disease.  diseased adj. [french: related to *dis-, *ease]
+Disease	n. 1 unhealthy condition of the body or mind, plants, society, etc. 2 particular kind of disease.  diseased adj. [french: related to *dis-, *ease]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

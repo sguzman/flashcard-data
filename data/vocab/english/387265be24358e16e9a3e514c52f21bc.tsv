@@ -1,1 +1,6 @@
-Conjunction	n. 1 joining; connection. 2 gram. Word used to connect clauses or sentences or words in the same clause (e.g. And, but, if). 3 combination (of events or circumstances). 4 apparent proximity to each other of two bodies in the solar system.
+Conjunction	n. 1 joining; connection. 2 gram. Word used to connect clauses or sentences or words in the same clause (e.g. And, but, if). 3 combination (of events or circumstances). 4 apparent proximity to each other of two bodies in the solar system.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

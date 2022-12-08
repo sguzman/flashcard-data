@@ -1,1 +1,6 @@
-Fabricate	v. (-ting) 1 construct, esp. From components. 2 invent (a story etc.). 3 forge (a document).  fabrication n. Fabricator n. [latin: related to *fabric]
+Fabricate	v. (-ting) 1 construct, esp. From components. 2 invent (a story etc.). 3 forge (a document).  fabrication n. Fabricator n. [latin: related to *fabric]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

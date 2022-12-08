@@ -1,1 +1,6 @@
-Recusant	—n. Person who refuses submission to an authority or compliance with a regulation, esp. Hist. One who refused to attend services of the church of england. —adj. Of or being a recusant.  recusancy n. [latin recuso refuse]
+Recusant	—n. Person who refuses submission to an authority or compliance with a regulation, esp. Hist. One who refused to attend services of the church of england. —adj. Of or being a recusant.  recusancy n. [latin recuso refuse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

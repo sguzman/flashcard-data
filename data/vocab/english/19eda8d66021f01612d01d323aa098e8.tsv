@@ -1,1 +1,6 @@
-Resurrection	n. 1 rising from the dead. 2 (resurrection) christ's rising from the dead. 3 revival after disuse, inactivity, or decay. [latin: related to *resurgent]
+Resurrection	n. 1 rising from the dead. 2 (resurrection) christ's rising from the dead. 3 revival after disuse, inactivity, or decay. [latin: related to *resurgent]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

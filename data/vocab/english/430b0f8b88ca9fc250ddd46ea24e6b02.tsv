@@ -1,1 +1,6 @@
-Se	abbr. 1 south-east. 2 south-eastern.
+Se	abbr. 1 south-east. 2 south-eastern.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

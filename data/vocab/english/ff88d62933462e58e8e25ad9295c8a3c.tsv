@@ -1,1 +1,6 @@
-Spout	—n. 1 projecting tube or lip used for pouring from a teapot, kettle, jug, etc., or on a fountain, roof-gutter, etc. 2 jet or column of liquid etc. —v. 1 discharge or issue forcibly in a jet. 2 utter or speak at length or pompously.  up the spout slang 1 useless, ruined, broken down. 2 pregnant. [dutch]
+Spout	—n. 1 projecting tube or lip used for pouring from a teapot, kettle, jug, etc., or on a fountain, roof-gutter, etc. 2 jet or column of liquid etc. —v. 1 discharge or issue forcibly in a jet. 2 utter or speak at length or pompously.  up the spout slang 1 useless, ruined, broken down. 2 pregnant. [dutch]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

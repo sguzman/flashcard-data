@@ -1,1 +1,6 @@
-Prognostic	—n. 1 (often foll. By of) advance indication, esp. Of the course of a disease. 2 prediction, forecast. —adj. (often foll. By of) foretelling, predictive. [latin: related to *prognosis]
+Prognostic	—n. 1 (often foll. By of) advance indication, esp. Of the course of a disease. 2 prediction, forecast. —adj. (often foll. By of) foretelling, predictive. [latin: related to *prognosis]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Gnome	n. 1 a dwarfish legendary spirit or goblin living underground. B figure of this as a garden ornament. 2 (esp. In pl.) Colloq. Person with sinister influence, esp. Financial (gnomes of zurich).  gnomish adj. [french]
+Gnome	n. 1 a dwarfish legendary spirit or goblin living underground. B figure of this as a garden ornament. 2 (esp. In pl.) Colloq. Person with sinister influence, esp. Financial (gnomes of zurich).  gnomish adj. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

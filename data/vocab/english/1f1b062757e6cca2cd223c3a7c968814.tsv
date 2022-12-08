@@ -1,1 +1,6 @@
-Angel	n. 1  a attendant or messenger of god. B representation of this in human form with wings. 2 virtuous or obliging person. 3 slang financial backer of a play etc. [greek aggelos messenger]
+Angel	n. 1  a attendant or messenger of god. B representation of this in human form with wings. 2 virtuous or obliging person. 3 slang financial backer of a play etc. [greek aggelos messenger]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

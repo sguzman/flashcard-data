@@ -1,1 +1,6 @@
-Aftermath	n. 1 consequences, esp. Unpleasant (aftermath of war). 2 new grass growing after mowing. [from *after, math mowing]
+Aftermath	n. 1 consequences, esp. Unpleasant (aftermath of war). 2 new grass growing after mowing. [from *after, math mowing]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

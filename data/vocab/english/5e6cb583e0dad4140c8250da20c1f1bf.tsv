@@ -1,1 +1,6 @@
-Evaluate	v. (-ting) 1 assess, appraise. 2 find or state the number or amount of.  evaluation n. [french: related to *value]
+Evaluate	v. (-ting) 1 assess, appraise. 2 find or state the number or amount of.  evaluation n. [french: related to *value]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

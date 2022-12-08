@@ -1,1 +1,6 @@
-Knell	—n. 1 sound of a bell, esp. For a death or funeral. 2 announcement, event, etc., regarded as an ill omen. —v. 1 ring a knell. 2 proclaim by or as by a knell. [old english]
+Knell	—n. 1 sound of a bell, esp. For a death or funeral. 2 announcement, event, etc., regarded as an ill omen. —v. 1 ring a knell. 2 proclaim by or as by a knell. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

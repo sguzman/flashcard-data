@@ -1,1 +1,6 @@
-Trillion	n. (pl. Same) 1 a million million (1012). 2 (now less often) a million million million (1018).  trillionth adj. & n. [french or italian: related to *tri-, *million, after billion]
+Trillion	n. (pl. Same) 1 a million million (1012). 2 (now less often) a million million million (1018).  trillionth adj. & n. [french or italian: related to *tri-, *million, after billion]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Verdant	adj. 1 (of grass, a field, etc.) Green, lush. 2 (of a person) unsophisticated, green.  verdancy n. [perhaps from french verdeant from viridis green]
+Verdant	adj. 1 (of grass, a field, etc.) Green, lush. 2 (of a person) unsophisticated, green.  verdancy n. [perhaps from french verdeant from viridis green]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

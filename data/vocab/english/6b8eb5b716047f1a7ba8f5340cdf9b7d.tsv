@@ -1,1 +1,6 @@
-Vivarium	n. (pl. -ria or -s) 1 glass bowl etc. For keeping animals for scientific study. 2 enclosure for keeping animals in (nearly) their natural state. [latin]
+Vivarium	n. (pl. -ria or -s) 1 glass bowl etc. For keeping animals for scientific study. 2 enclosure for keeping animals in (nearly) their natural state. [latin]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

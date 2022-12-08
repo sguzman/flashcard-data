@@ -1,1 +1,6 @@
-Grudge	—n. Persistent feeling of ill will or resentment. —v. (-ging) 1 be resentfully unwilling to give or allow. 2 (foll. By verbal noun or to + infin.) Be reluctant to do. [french]
+Grudge	—n. Persistent feeling of ill will or resentment. —v. (-ging) 1 be resentfully unwilling to give or allow. 2 (foll. By verbal noun or to + infin.) Be reluctant to do. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

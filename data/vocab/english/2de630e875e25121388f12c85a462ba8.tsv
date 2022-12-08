@@ -1,1 +1,6 @@
-Hobble	—v. (-ling) 1 walk lamely; limp. 2 tie together the legs of (a horse etc.) To prevent it from straying. —n. 1 uneven or infirm gait. 2 rope etc. For hobbling a horse etc. [probably low german]
+Hobble	—v. (-ling) 1 walk lamely; limp. 2 tie together the legs of (a horse etc.) To prevent it from straying. —n. 1 uneven or infirm gait. 2 rope etc. For hobbling a horse etc. [probably low german]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

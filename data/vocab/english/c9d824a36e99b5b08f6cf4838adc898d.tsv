@@ -1,1 +1,6 @@
-Vicuña	n. 1 s. American mammal like a llama, with fine silky wool. 2 a cloth from its wool. B imitation of this. [spanish from quechua]
+Vicuña	n. 1 s. American mammal like a llama, with fine silky wool. 2 a cloth from its wool. B imitation of this. [spanish from quechua]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

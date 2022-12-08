@@ -1,1 +1,6 @@
-Fatigue	—n. 1 extreme tiredness. 2 weakness in metals etc. Caused by repeated stress. 3 a non-military army duty. B (in pl.) Clothing worn for this. —v. (-gues, -gued, -guing) cause fatigue in. [latin fatigo exhaust]
+Fatigue	—n. 1 extreme tiredness. 2 weakness in metals etc. Caused by repeated stress. 3 a non-military army duty. B (in pl.) Clothing worn for this. —v. (-gues, -gued, -guing) cause fatigue in. [latin fatigo exhaust]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Execute	v. (-ting) 1 carry out, perform (a plan, duty etc.). 2 carry out a design for (a product of art or skill). 3 carry out a death sentence on. 4 make (a legal instrument) valid by signing, sealing, etc. [latin sequor follow]
+Execute	v. (-ting) 1 carry out, perform (a plan, duty etc.). 2 carry out a design for (a product of art or skill). 3 carry out a death sentence on. 4 make (a legal instrument) valid by signing, sealing, etc. [latin sequor follow]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Secant	n. Math. 1 ratio of the hypotenuse to the shorter side adjacent to an acute angle (in a right-angled triangle). 2 line cutting a curve at one or more points. [french]
+Secant	n. Math. 1 ratio of the hypotenuse to the shorter side adjacent to an acute angle (in a right-angled triangle). 2 line cutting a curve at one or more points. [french]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

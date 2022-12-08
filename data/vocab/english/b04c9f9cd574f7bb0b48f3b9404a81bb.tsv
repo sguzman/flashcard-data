@@ -1,1 +1,6 @@
-Cranium	n. (pl. -s or -nia) 1 skull. 2 part of the skeleton enclosing the brain.  cranial adj. Craniology n. [medieval latin from greek]
+Cranium	n. (pl. -s or -nia) 1 skull. 2 part of the skeleton enclosing the brain.  cranial adj. Craniology n. [medieval latin from greek]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

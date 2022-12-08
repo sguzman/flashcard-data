@@ -1,1 +1,6 @@
-Urge	—v. (-ging) 1 (often foll. By on) drive forcibly; hasten. 2 encourage or entreat earnestly or persistently. 3 (often foll. By on, upon) advocate (an action or argument etc.) Emphatically (to a person). —n. 1 urging impulse or tendency. 2 strong desire. [latin urgeo]
+Urge	—v. (-ging) 1 (often foll. By on) drive forcibly; hasten. 2 encourage or entreat earnestly or persistently. 3 (often foll. By on, upon) advocate (an action or argument etc.) Emphatically (to a person). —n. 1 urging impulse or tendency. 2 strong desire. [latin urgeo]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

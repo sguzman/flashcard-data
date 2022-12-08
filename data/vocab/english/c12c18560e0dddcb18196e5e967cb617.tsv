@@ -1,1 +1,6 @@
-Police	—n. (as pl.) 1 (usu. Prec. By the) the civil force responsible for maintaining public order. 2 its members. 3 force with similar functions (military police). —v. (-cing) 1 keep (a place or people) in order by means of police or a similar body. 2 provide with police. 3 keep in order, administer, control (problem of policing the new law). [latin: related to *policy1]
+Police	—n. (as pl.) 1 (usu. Prec. By the) the civil force responsible for maintaining public order. 2 its members. 3 force with similar functions (military police). —v. (-cing) 1 keep (a place or people) in order by means of police or a similar body. 2 provide with police. 3 keep in order, administer, control (problem of policing the new law). [latin: related to *policy1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

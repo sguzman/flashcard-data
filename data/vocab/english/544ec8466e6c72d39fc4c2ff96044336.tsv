@@ -1,1 +1,6 @@
-Drape	—v. (-ping) 1 hang or cover loosely, adorn with cloth etc. 2 arrange (hangings etc.) Esp. In folds. —n. (in pl.) Us curtains. [latin drappus cloth]
+Drape	—v. (-ping) 1 hang or cover loosely, adorn with cloth etc. 2 arrange (hangings etc.) Esp. In folds. —n. (in pl.) Us curtains. [latin drappus cloth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

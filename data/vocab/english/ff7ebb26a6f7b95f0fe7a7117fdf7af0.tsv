@@ -1,1 +1,6 @@
-Rink	n. 1 area of ice for skating or curling etc. 2 enclosed area for roller-skating. 3 building containing either of these. 4 strip of bowling-green. 5 team in bowls or curling. [apparently from french renc *rank1]
+Rink	n. 1 area of ice for skating or curling etc. 2 enclosed area for roller-skating. 3 building containing either of these. 4 strip of bowling-green. 5 team in bowls or curling. [apparently from french renc *rank1]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

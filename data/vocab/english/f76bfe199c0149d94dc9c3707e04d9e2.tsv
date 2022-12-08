@@ -1,1 +1,6 @@
-Pastel	n. 1 (often attrib.) Light shade of a colour (pastel blue). 2 crayon of powdered pigments bound with a gum solution. 3 drawing in pastel. [french pastel, or italian pastello diminutive of *pasta]
+Pastel	n. 1 (often attrib.) Light shade of a colour (pastel blue). 2 crayon of powdered pigments bound with a gum solution. 3 drawing in pastel. [french pastel, or italian pastello diminutive of *pasta]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

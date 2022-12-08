@@ -1,1 +1,6 @@
-Esteem	—v. 1 (usu. In passive) have a high regard for. 2 formal consider (esteemed it an honour). —n. High regard; favour. [latin: related to *estimate]
+Esteem	—v. 1 (usu. In passive) have a high regard for. 2 formal consider (esteemed it an honour). —n. High regard; favour. [latin: related to *estimate]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

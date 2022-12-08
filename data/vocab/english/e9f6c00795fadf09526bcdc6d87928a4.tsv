@@ -1,1 +1,6 @@
-Pepper	—n. 1 hot aromatic condiment from the dried berries of certain plants. 2 anything pungent. 3 a capsicum plant, grown as a vegetable. B its fruit. —v. 1 sprinkle or treat with or as if with pepper. 2 pelt with missiles. [sanskrit pippali]
+Pepper	—n. 1 hot aromatic condiment from the dried berries of certain plants. 2 anything pungent. 3 a capsicum plant, grown as a vegetable. B its fruit. —v. 1 sprinkle or treat with or as if with pepper. 2 pelt with missiles. [sanskrit pippali]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Homburg	n. Man's felt hat with a narrow curled brim and a lengthwise dent in the crown. [homburg in germany]
+Homburg	n. Man's felt hat with a narrow curled brim and a lengthwise dent in the crown. [homburg in germany]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

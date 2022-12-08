@@ -1,1 +1,6 @@
-Apron	n. 1 garment for covering and protecting the front of the clothes. 2 theatr. Part of a stage in front of the curtain. 3 area on an airfield for manoeuvring or loading.  tied to a person's apron-strings dominated by or dependent on that person (usu. A woman). [originally napron, from french nape table-cloth]
+Apron	n. 1 garment for covering and protecting the front of the clothes. 2 theatr. Part of a stage in front of the curtain. 3 area on an airfield for manoeuvring or loading.  tied to a person's apron-strings dominated by or dependent on that person (usu. A woman). [originally napron, from french nape table-cloth]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

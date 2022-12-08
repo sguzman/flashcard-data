@@ -1,1 +1,6 @@
-Terminus	n. (pl. -ni or -nuses) 1 station at the end of a railway or bus route. 2 point at the end of a pipeline etc. [latin, = end, limit, boundary]
+Terminus	n. (pl. -ni or -nuses) 1 station at the end of a railway or bus route. 2 point at the end of a pipeline etc. [latin, = end, limit, boundary]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Forensic	adj. 1 of or used in courts of law (forensic science; forensic medicine). 2 of or involving forensic science (sent for forensic examination). forensically adv. [latin forensis: related to *forum]
+Forensic	adj. 1 of or used in courts of law (forensic science; forensic medicine). 2 of or involving forensic science (sent for forensic examination). forensically adv. [latin forensis: related to *forum]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

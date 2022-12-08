@@ -1,1 +1,6 @@
-Random	adj. Made, done, etc., without method or conscious choice.  at random without a particular aim.  randomize v. (also -ise) (-zing or -sing). Randomization n. Randomly adv. Randomness n. [french randon from randir gallop]
+Random	adj. Made, done, etc., without method or conscious choice.  at random without a particular aim.  randomize v. (also -ise) (-zing or -sing). Randomization n. Randomly adv. Randomness n. [french randon from randir gallop]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

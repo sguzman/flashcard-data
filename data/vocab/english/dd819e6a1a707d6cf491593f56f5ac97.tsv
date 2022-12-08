@@ -1,1 +1,6 @@
-Gorgon	n. 1 (in greek mythology) each of three snake-haired sisters (esp. Medusa) with the power to turn anyone who looked at them to stone. 2 frightening or repulsive woman. [greek gorgos terrible]
+Gorgon	n. 1 (in greek mythology) each of three snake-haired sisters (esp. Medusa) with the power to turn anyone who looked at them to stone. 2 frightening or repulsive woman. [greek gorgos terrible]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

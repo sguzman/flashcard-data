@@ -1,1 +1,6 @@
-Timetable	—n. List of times at which events are scheduled to take place, esp. The arrival and departure of transport or a sequence of lessons. —v. (-ling) include in or arrange to a timetable; schedule.
+Timetable	—n. List of times at which events are scheduled to take place, esp. The arrival and departure of transport or a sequence of lessons. —v. (-ling) include in or arrange to a timetable; schedule.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

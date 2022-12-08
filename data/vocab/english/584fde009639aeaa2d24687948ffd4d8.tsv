@@ -1,1 +1,6 @@
-Dictionary	n. (pl. -ies) 1 book listing (usu. Alphabetically) and explaining the words of a language or giving corresponding words in another language. 2 reference book explaining the terms of a particular subject. [medieval latin: related to *diction]
+Dictionary	n. (pl. -ies) 1 book listing (usu. Alphabetically) and explaining the words of a language or giving corresponding words in another language. 2 reference book explaining the terms of a particular subject. [medieval latin: related to *diction]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

@@ -1,1 +1,6 @@
-Institution	n. 1 organization or society founded for a particular purpose. 2 established law, practice, or custom. 3 colloq. (of a person etc.) Familiar object. 4 instituting or being instituted.
+Institution	n. 1 organization or society founded for a particular purpose. 2 established law, practice, or custom. 3 colloq. (of a person etc.) Familiar object. 4 instituting or being instituted.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

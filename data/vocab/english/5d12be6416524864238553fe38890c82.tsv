@@ -1,1 +1,6 @@
-Cross-country	—adj. & adv. 1 across open country. 2 not keeping to main roads. —n. (pl. -ies) cross-country race.
+Cross-country	—adj. & adv. 1 across open country. 2 not keeping to main roads. —n. (pl. -ies) cross-country race.		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

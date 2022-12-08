@@ -1,1 +1,6 @@
-Bloom	—n. 1 a flower, esp. Cultivated. B state of flowering (in bloom). 2 one's prime (in full bloom). 3 a healthy glow of the complexion. B fine powder on fresh fruit and leaves. —v. 1 bear flowers; be in flower. 2 be in one's prime; flourish. [old norse]
+Bloom	—n. 1 a flower, esp. Cultivated. B state of flowering (in bloom). 2 one's prime (in full bloom). 3 a healthy glow of the complexion. B fine powder on fresh fruit and leaves. —v. 1 bear flowers; be in flower. 2 be in one's prime; flourish. [old norse]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

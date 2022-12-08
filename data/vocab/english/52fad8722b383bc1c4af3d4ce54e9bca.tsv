@@ -1,1 +1,6 @@
-Rollmop	n. Rolled uncooked pickled herring fillet. [german rollmops]
+Rollmop	n. Rolled uncooked pickled herring fillet. [german rollmops]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

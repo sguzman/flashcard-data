@@ -1,1 +1,6 @@
-Impediment	n. 1 hindrance or obstruction. 2 speech defect, e.g. A stammer. [latin: related to *impede]
+Impediment	n. 1 hindrance or obstruction. 2 speech defect, e.g. A stammer. [latin: related to *impede]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

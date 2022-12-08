@@ -1,1 +1,6 @@
-Litigate	v. (-ting) 1 go to law. 2 contest (a point) at law.  litigation n. Litigator n. [latin lis lit- lawsuit]
+Litigate	v. (-ting) 1 go to law. 2 contest (a point) at law.  litigation n. Litigator n. [latin lis lit- lawsuit]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2

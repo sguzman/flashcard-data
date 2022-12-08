@@ -1,1 +1,6 @@
-Stag	n. 1 adult male deer. 2 stock exch. Slang person who applies for new shares, intending to sell at once for a profit. [old english]
+Stag	n. 1 adult male deer. 2 stock exch. Slang person who applies for new shares, intending to sell at once for a profit. [old english]		
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--columns column#1,column#2
+#--showcolumns column#1
+#--showcolumns column#2
