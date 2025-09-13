@@ -4,7 +4,7 @@ Kopfschmerzen (pl)	headache			due@2022-05-18 19:33:51
 Galerie (f)	gallery		deck#2	due@2022-05-18 18:13:40
 einfach	single		deck#2	due@2022-05-18 18:13:44
 Realschule (f)	equivalent to secondary school			
-dran	turn		deck#2	due@2022-12-08 21:42:27
+dran	turn		deck#4	due@2025-10-13 06:36:32
 Mahlzeit (f)	meal		deck#4	due@2022-08-13 17:16:11
 Krankenpfleger (m)	(male) nurse			due@2022-12-08 21:19:15
 E-mail (f or n)	email			
@@ -62,7 +62,7 @@ Etage (f)	floor, storey
 spazieren gehen	to go for a walk			
 verlassen	to leave (a place)			
 geboren	born		deck#2	due@2022-12-12 01:25:12
-Strumpfhose (f)	tights			
+Strumpfhose (f)	tights		deck#4	due@2025-10-13 06:36:14
 Gürtel (m)	belt			due@2022-05-23 18:15:41
 Jeans (pl)	jeans		deck#3	due@2022-10-09 00:24:45
 Halbschwester (f)	half-sister			
@@ -194,7 +194,7 @@ Sakko (n or m)	jacket		deck#3	due@2022-06-09 16:26:19
 SMS (f)	text message			
 ruhig	quiet, peaceful		deck#2	due@2022-05-24 18:21:55
 ja	yes			
-tief	deep			
+tief	deep		deck#5	due@2025-12-12 06:35:41
 erbrechen	to vomit			due@2022-06-02 16:26:53
 Sport treiben	to do/play sport			due@2022-06-02 16:14:20
 weil	because			
@@ -982,7 +982,7 @@ werden	will		deck#2	due@2022-11-24 22:50:52
 salzig	salty		deck#3	due@2022-10-08 21:40:01
 manchmal	sometimes			
 sportlich	sporty		deck#2	due@2022-05-18 18:29:53
-Staatsangehörigkeit (f)	nationality			
+Staatsangehörigkeit (f)	nationality		deck#3	due@2025-09-20 06:36:24
 verliebt sein	to be in love		deck#3	due@2022-05-25 19:28:28
 schwer	heavy, hard (difficult)		deck#2	due@2022-07-15 17:16:02
 völlig	entirely			due@2022-05-18 19:37:21
@@ -1288,7 +1288,7 @@ reparieren	to repair		deck#2	due@2022-10-03 00:25:11
 Briefmarke (f)	postage stamp			due@2022-05-23 21:45:07
 Spanisch (n)	Spanish		deck#2	due@2022-05-20 20:28:50
 Opa (m)	granddad		deck#4	due@2022-11-01 22:02:07
-verfügbar	available			
+verfügbar	available		deck#3	due@2025-09-20 06:35:49
 Luftkissenboot (n)	hovercraft			due@2022-05-23 21:51:03
 (Bürger)krieg (m)	(civil) war		deck#2	due@2022-05-18 18:27:40
 Hilfe (f)	help		deck#4	due@2023-01-06 21:38:45
@@ -1479,7 +1479,7 @@ beginnt	begins		deck#4	due@2023-01-10 01:25:47
 Erde	earth, ground		deck#5	due@2025-12-12 06:34:10
 Deutsch (n)	German		deck#2	due@2022-12-12 01:25:32
 alt, älter, ältest	old, older, oldest		deck#2	due@2022-10-03 22:01:52
-gehen	to go, to walk			
+gehen	to go, to walk		deck#6	due@2026-09-08 06:35:43
 kühl	cool		deck#2	due@2022-05-24 18:20:21
 Kasse (f)	till, cash desk, checkout			due@2022-12-08 21:12:39
 Mann (m)	man, husband		deck#3	due@2022-10-09 16:29:33
@@ -1571,7 +1571,7 @@ Gesundheit (f)	health
 kennen lernen	to meet, make the acquaintance of		deck#3	due@2022-06-09 16:21:56
 einschließlich	including, inclusive			
 Esszimmer (n)	dining room		deck#2	due@2022-05-24 21:45:12
-sah	saw, see, view, look			
+sah	saw, see, view, look		deck#2	due@2025-09-14 06:36:37
 durchfahren	to travel straight through			due@2022-05-18 19:30:21
 Regen (m)	rain			
 Bauernhof (m)	farm			due@2022-06-02 16:26:57
